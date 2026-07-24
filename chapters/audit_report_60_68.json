@@ -1,0 +1,834 @@
+[
+  {
+    "chapter": "chapter_60.html",
+    "text": "1. Aziz, N., Kim, M. Y., & Cho, J. Y. (2018). Anti-inflammatory effects of luteolin: A review of in vitro, in vivo, and in silico studies.\n  \n   Journal of Ethnopharmacology, 225\n  \n  , 342–358.\n  \n   https://doi.org/10.1016/j.jep.2018.05.019",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "2. Bhatnagar, N., & Kaur, R. (2023). Harnessing unexplored medicinal values of\n  \n   Erigeron bonariensis\n  \n  .\n  \n   South African Journal of Botany, 157\n  \n  , 445–456.\n  \n   https://doi.org/10.1016/j.sajb.2023.02.019",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "3. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). [Traditional knowledge and practices].",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "4. Kula, M., Majda, T., & Góra, J. (2018). Chemical composition of the essential oils from the roots of\n  \n   Erigeron acris\n  \n  and\n  \n   Erigeron annuus\n  \n  .\n  \n   Molecules, 23\n  \n  (11), 2948.\n  \n   https://doi.org/10.3390/molecules23112948",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "5. Lady Bird Johnson Wildflower Center. (2025).\n  \n   Erigeron speciosus (Aspen fleabane)\n  \n  .\n  \n   https://www.wildflower.org/plants/result.php?id_plant=ersp4",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "6. Li, Y., Yao, J., Han, C., Yang, J., Chaudhry, M. T., Wang, S., Liu, H., & Yin, Y. (2016). Quercetin, inflammation and immunity.\n  \n   Nutrients, 8\n  \n  (3), 167.\n  \n   https://doi.org/10.3390/nu8030167",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "7. NC State Extension. (2025).\n  \n   Erigeron speciosus (Aspen fleabane, showy daisy)\n  \n  .\n  \n   https://plants.ces.ncsu.edu/plants/erigeron-speciosus/",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "8. PlantIDs. (2025).\n  \n   Erigeron canadensis: Medicinal uses\n  \n  .\n  \n   https://plantids.com/1353-erigeron-canadensis.html",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "9. ScienceDirect. (2025).\n  \n   Erigeron – An overview\n  \n  . ScienceDirect Topics.\n  \n   https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/erigeron",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "10. Wikipedia. (2025).\n  \n   Erigeron speciosus\n  \n  .\n  \n   https://en.wikipedia.org/wiki/Erigeron_speciosus",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "11. Wildflower Center of Southwest USA. (2025).\n  \n   Showy daisy (Erigeron speciosus)\n  \n  .\n  \n   https://www.americansouthwest.net/plants/wildflowers/erigeron-speciosus.html",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "12. Yao, X., Xu, J., Li, M., Zhang, H., & Wang, W. (2023). Phytochemistry and biological activity of\n  \n   Erigeron annuus\n  \n  (L.) Pers.\n  \n   Phytochemistry Reviews, 22\n  \n  (4), 1001–1021.\n  \n   https://doi.org/10.1007/s11101-023-09821-2",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1007/s11101-023-09821-2) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1007/s00210-023-02518-1",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_60.html",
+    "text": "13. Zhao, L., Peng, Y., & Song, X. (2025). Compositional variability of essential oils and their bioactivity in native and invasive\n  \n   Erigeron\n  \n  .\n  \n   Industrial Crops and Products, 213\n  \n  , 117425.\n  \n   https://doi.org/10.1016/j.indcrop.2025.117425",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1016/j.indcrop.2025.117425) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.3390/molecules30142989",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "1. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "2. Gering, B., Junior, P., & Wichtl, M. (1987). Iridoid glycosides from\n  \n   Penstemon confertus\n  \n  .\n  \n   Phytochemistry, 26\n  \n  (11), 3011–3013.\n  \n   https://doi.org/10.1016/S0031-9422(00)82276-8",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1016/S0031-9422(00)82276-8) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1016/s0031-9422(00)84582-3",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "3. Hernández, T., Canales, M., & Avila, J. G. (2012). Chemical analysis and antimicrobial activity of\n  \n   Penstemon campanulatus\n  \n  .\n  \n   Natural Product Research, 26\n  \n  (15), 1424–1431.\n  \n   https://doi.org/10.1080/14786419.2011.567434",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1080/14786419.2011.567434) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1016/j.fitote.2011.11.021",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "4. Isacchi, B., Faniello, M. C., & Bilia, A. R. (2011). Antihyperalgesic activity of verbascoside in two models of neuropathic pain.\n  \n   Journal of Pharmacy and Pharmacology, 63\n  \n  (4), 594–601.\n  \n   https://doi.org/10.1111/j.2042-7158.2011.01257.x",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "5. Jensen, S. R., & Nielsen, B. J. (1981). Iridoid and other glycosides from\n  \n   Penstemon\n  \n  .\n  \n   Phytochemistry, 20\n  \n  (12), 2753–2756.\n  \n   https://doi.org/10.1016/0031-9422(81)80031-U",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1016/0031-9422(81)80031-U) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1016/0031-9422(81)85221-1",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "6. Jensen, S. R., & Nielsen, B. J. (1992). Iridoid glycosides from\n  \n   Penstemon\n  \n  species: A C-5, C-9 trans iridoid.\n  \n   Phytochemistry, 31\n  \n  (11), 3921–3924.\n  \n   https://doi.org/10.1016/0031-9422(92)80441-G",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "7. Jensen, S. R., & Olsen, C. E. (1995). Verbascoside derivatives and iridoid glycosides from\n  \n   Penstemon crandallii\n  \n  .\n  \n   Phytochemistry, 40\n  \n  (5), 1459–1463.\n  \n   https://doi.org/10.1016/0031-9422(95)00077-J",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1016/0031-9422(95)00077-J) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1016/0031-9422(95)00172-4",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "8. Jensen, S. R., & Olsen, C. E. (1999). Trans-fused iridoid glycosides from\n  \n   Penstemon mucronatus\n  \n  .\n  \n   Phytochemistry, 51\n  \n  (3), 387–390.\n  \n   https://doi.org/10.1016/S0031-9422(99)00003-6",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1016/S0031-9422(99)00003-6) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1016/s0031-9422(98)00349-5",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "9. Jiang, B., Shen, J., Chen, Q., Ding, J., Cheng, Q., Lu, J., & Wang, Q. (2015). Catalpol promotes neurogenesis and inhibits apoptosis of newborn neurons.\n  \n   Frontiers in Pharmacology, 6\n  \n  , 230.\n  \n   https://doi.org/10.3389/fphar.2015.00230",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "10. Viljoen, A. M., Mncwangi, N., & Vermaak, I. (2014). Anti-inflammatory iridoids of botanical origin.\n  \n   Phytochemistry Letters, 10\n  \n  , xxi–xxix.\n  \n   https://doi.org/10.1016/j.phytol.2014.06.004",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "11. Washington Native Plant Society. (2025).\n  \n   Penstemon fruticosus\n  \n  .\n  \n   https://www.wnps.org/native-plant-directory/331:penstemon-fruticosus",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_61.html",
+    "text": "12. Wikipedia contributors. (2024, December 7).\n  \n   Penstemon fruticosus\n  \n  . In\n  \n   Wikipedia, The Free Encyclopedia\n  \n  .\n  \n   https://en.wikipedia.org/wiki/Penstemon_fruticosus",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "1. Constantine, G. H., Jr., Catalfomo, P., & Chou, C. (1966). Chromatographic study of the alkaloids of\n  \n   Aquilegia formosa\n  \n  .\n  \n   Journal of Pharmaceutical Sciences, 55\n  \n  (12), 1378–1381.\n  \n   https://doi.org/10.1002/jps.2600551214",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "2. Cushnie, T. P. T., & Lamb, A. J. (2005). Antimicrobial activity of flavonoids.\n  \n   International Journal of Antimicrobial Agents, 26\n  \n  (5), 343–356.\n  \n   https://doi.org/10.1016/j.ijantimicag.2005.09.002",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "3. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "4. Foster, S., & Duke, J. A. (2000).\n  \n   A field guide to medicinal plants and herbs of Eastern and Central North America\n  \n  (2nd ed.). Houghton Mifflin Company.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "5. Gleitz, J., Beile, A., & Peters, T. (1995). (+)-Magnoflorine and (−)-corydalmine, two quaternary alkaloids from\n  \n   Corydalis cava\n  \n  (Fumariaceae), block NMDA receptor channels.\n  \n   Planta Medica, 61\n  \n  (5), 451–455.\n  \n   https://doi.org/10.1055/s-2006-958109",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "6. Gunther, E. (1973).\n  \n   Ethnobotany of Western Washington: The knowledge and use of indigenous plants by Native Americans\n  \n  (Rev. ed.). University of Washington Press.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "7. Hodges, S. A., & Arnold, M. L. (1994). Floral and ecological isolation between\n  \n   Aquilegia formosa\n  \n  and\n  \n   Aquilegia pubescens\n  \n  .\n  \n   Proceedings of the National Academy of Sciences, 91\n  \n  (6), 2493–2496.\n  \n   https://doi.org/10.1073/pnas.91.6.2493",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1073/pnas.91.6.2493) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1073/pnas.91.7.2493",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "8. Imanshahidi, M., & Hosseinzadeh, H. (2008). Pharmacological and therapeutic effects of\n  \n   Berberis vulgaris\n  \n  and its active constituent, berberine.\n  \n   Phytotherapy Research, 22\n  \n  (8), 999–1012.\n  \n   https://doi.org/10.1002/ptr.2399",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "9. Khadem, S., & Marles, R. J. (2012). Chromone and flavonoid alkaloids: Occurrence and bioactivity.\n  \n   Molecules, 17\n  \n  (1), 191–206.\n  \n   https://doi.org/10.3390/molecules17010191",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "10. Kong, W., Wei, J., Abidi, P., Lin, M., Inaba, S., Li, C., … & Jiang, J. (2004). Berberine is a novel cholesterol-lowering drug working through a unique mechanism distinct from statins.\n  \n   Nature Medicine, 10\n  \n  (12), 1344–1351.\n  \n   https://doi.org/10.1038/nm1135",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "11. Kulkarni, S. K., & Dhir, A. (2008). On the mechanism of antidepressant-like action of berberine chloride.\n  \n   European Journal of Pharmacology, 589\n  \n  (1–3), 163–172.\n  \n   https://doi.org/10.1016/j.ejphar.2008.05.043",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "12. Kumar, A., Ekavali, Chopra, K., Mukherjee, M., Pottabathini, R., & Dhull, D. K. (2015). Current knowledge and pharmacological profile of berberine: An update.\n  \n   European Journal of Pharmacology, 761,\n  \n  288–297.\n  \n   https://doi.org/10.1016/j.ejphar.2015.05.068",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "13. Middleton, E., Kandaswami, C., & Theoharides, T. C. (2000). The effects of plant flavonoids on mammalian cells: Implications for inflammation, heart disease, and cancer.\n  \n   Pharmacological Reviews, 52\n  \n  (4), 673–751.\n  \n   https://doi.org/10.1124/pr.52.4.673",
+    "errors": [
+      "Broken DOI (https://doi.org/10.1124/pr.52.4.673) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.1016/s0031-6997(24)01472-8",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "14. Moerman, D. E. (1998).\n  \n   Native American ethnobotany.\n  \n  Timber Press.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "15. Moerman, D. E. (2010).\n  \n   Native American food plants: An ethnobotanical dictionary.\n  \n  Timber Press.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "16. Neilson, E. H., Goodger, J. Q., Woodrow, I. E., & Møller, B. L. (2013). Plant chemical defense: At what cost?\n  \n   Trends in Plant Science, 18\n  \n  (5), 250–258.\n  \n   https://doi.org/10.1016/j.tplants.2013.01.001",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "17. Singh, A., Duggal, S., Kaur, N., & Singh, J. (2010). Berberine: Alkaloid with wide spectrum of pharmacological activities.\n  \n   Journal of Natural Pharmaceuticals, 1\n  \n  (1), 64–75.\n  \n   https://doi.org/10.4103/2229-5119.73585",
+    "errors": [
+      "Broken DOI (https://doi.org/10.4103/2229-5119.73585) - [Errno 11002] getaddrinfo failed",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Check and replace DOI",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "18. Syed, D. N., Chamcheu, J. C., Adhami, V. M., & Mukhtar, H. (2013). Pomegranate extracts and cancer prevention: Molecular and cellular activities.\n  \n   Anti-Cancer Agents in Medicinal Chemistry, 13\n  \n  (8), 1149–1161.\n  \n   https://doi.org/10.2174/1871520611313080008",
+    "errors": [
+      "Broken DOI (https://doi.org/10.2174/1871520611313080008) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.2174/1871520611313080003",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "19. Turner, N. J. (1997).\n  \n   Food plants of interior First Peoples.\n  \n  Royal British Columbia Museum; UBC Press.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "20. Vetter, J. (2000). Plant cyanogenic glycosides.\n  \n   Toxicon, 38\n  \n  (1), 11–36.\n  \n   https://doi.org/10.1016/S0041-0101(99)00128-2",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_62.html",
+    "text": "21. Xu, H. Y., Liu, C. S., Huang, C. L., Chen, L., Zheng, Y. R., Huang, S. H., & Long, X. Y. (2019). Nanoemulsion improves hypoglycemic efficacy of berberine by overcoming its gastrointestinal challenge.\n  \n   Colloids and Surfaces B: Biointerfaces, 181,\n  \n  927–934.\n  \n   https://doi.org/10.1016/j.colsurfb.2019.06.005",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "1. Elders and Community members of the Cayoose Creek Band of Sekw'el'was. (n.d.).\n  \n   Traditional knowledge of Indigenous medicines\n  \n  .",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "2. Greg App. (2024, March 20).\n  \n   Symbolism and benefits of the common snowberry\n  \n  .\n  \n   https://greg.app/common-snowberry-benefits/",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "3. Health Benefits Times. (2020, December 4).\n  \n   Uses and benefits of snowberry\n  \n  .\n  \n   https://www.healthbenefitstimes.com/snowberry/",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "4. iNaturalist. (2025).\n  \n   Snowberry (plants of the Middle Rio Grande Bosque)\n  \n  .\n  \n   https://www.inaturalist.org/guide_taxa/355794",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "5. Kang, N. J., Lee, K. W., Shin, B. I., Chen, T. R., Surh, Y. J., Dong, Z., & Lee, H. J. (2009). Caffeic acid, a phenolic phytochemical in coffee, directly inhibits Fyn kinase activity and UVB-induced COX-2 expression.\n  \n   Carcinogenesis\n  \n  ,\n  \n   30\n  \n  (2), 321–330. https://doi.org/10.1093/carcin/bgn282",
+    "errors": [
+      "Unclickable plain text link (10.1093/carcin/bgn282)",
+      "Unclickable plain text link (https://doi.org/10.1093/carcin/bgn282)",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap in <a href=\"https://doi.org/10.1093/carcin/bgn282\">https://doi.org/10.1093/carcin/bgn282</a>",
+      "Wrap in <a href=\"https://doi.org/10.1093/carcin/bgn282\">https://doi.org/10.1093/carcin/bgn282</a>",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "6. Kaushik, N., & Gupta, G. (2023). Saponins of selected triterpenoids as potential therapeutic agents.\n  \n   Molecules\n  \n  ,\n  \n   28\n  \n  (6), 2590. https://doi.org/10.3390/molecules28062590",
+    "errors": [
+      "Unclickable plain text link (10.3390/molecules28062590)",
+      "Unclickable plain text link (https://doi.org/10.3390/molecules28062590)",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap in <a href=\"https://doi.org/10.3390/molecules28062590\">https://doi.org/10.3390/molecules28062590</a>",
+      "Wrap in <a href=\"https://doi.org/10.3390/molecules28062590\">https://doi.org/10.3390/molecules28062590</a>",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "7. National Park Service. (2025).\n  \n   Common snowberry\n  \n  .\n  \n   https://www.nps.gov/articles/000/common-snowberry.htm",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "8. Native Plants PNW. (2025).\n  \n   Common snowberry (Symphoricarpos albus)\n  \n  .\n  \n   http://nativeplantspnw.com/common-snowberry-symphoricarpos-albus/",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "9. Natural Medicinal Herbs. (2025).\n  \n   Snowberry (Symphoricarpos albus laevigatus)\n  \n  .\n  \n   https://www.naturalmedicinalherbs.net/herbs/s/symphoricarpos-albus-laevigatus=snowberry.php",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "10. University of Washington Bothell. (2023, July 12).\n  \n   Snowberry – North Creek Wetland\n  \n  .\n  \n   https://www.uwb.edu/wetland/plants/symphoricarpos-albus",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "11. White Rabbit Institute of Healing. (2025, March 26).\n  \n   Snowberry\n  \n  .\n  \n   https://www.whiterabbitinstituteofhealing.com/herbs/snowberry/",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_64.html",
+    "text": "12. Wikipedia. (2025).\n  \n   Symphoricarpos\n  \n  .\n  \n   https://en.wikipedia.org/wiki/Symphoricarpos",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "1. Eisenman, S. W., Juliani, H. R., Struwe, L., & Simon, J. E. (2013). Essential oil diversity in North American wild tarragon (\n  \n   Artemisia dracunculus\n  \n  ) with comparisons to French and Kyrgyz tarragon.\n  \n   Industrial Crops and Products, 49\n  \n  , 220–232.\n  \n   https://doi.org/10.1016/j.indcrop.2013.04.037",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "2. Ekiert, H., Świątkowska, J., Knut, E., Klin, P., Rzepiela, A., Tomczyk, M., & Szopa, A. (2021). Artemisia dracunculus (tarragon): A review of its traditional uses, phytochemistry and pharmacology.\n  \n   Frontiers in Pharmacology, 12\n  \n  , 653993.\n  \n   https://doi.org/10.3389/fphar.2021.653993",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "3. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "4. European Medicines Agency, Committee on Herbal Medicinal Products. (2023, May 12).\n  \n   Public statement on the use of herbal medicinal products containing estragole\n  \n  (Rev. 1, Corr. 1).\n  \n   https://www.ema.europa.eu/en/documents/other/public-statement-use-herbal-medicinal-products-containing-estragole-revision-1_en.pdf",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "5. Kordali, S., Kotan, R., Mavi, A., Cakir, A., Ala, A., & Yildirim, A. (2005). Determination of the chemical composition and antioxidant activity of the essential oil of\n  \n   Artemisia dracunculus\n  \n  and of the antifungal and antibacterial activities of Turkish\n  \n   Artemisia absinthium\n  \n  ,\n  \n   dracunculus\n  \n  ,\n  \n   Artemisia santonicum\n  \n  , and\n  \n   Artemisia spicigera\n  \n  essential oils.\n  \n   Journal of Agricultural and Food Chemistry, 53\n  \n  (24), 9452–9458.\n  \n   https://doi.org/10.1021/jf0516538",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "6. Raeisi, M., Tajik, H., Razavi, R. S., Maham, M., Moradi, M., Hajimohammadi, B., Naghili, H., Hashemi, M., & Mehdizadeh, T. (2012). Essential oil of tarragon (\n  \n   Artemisia dracunculus\n  \n  ) antibacterial activity on\n  \n   Staphylococcus aureus\n  \n  and\n  \n   Escherichia coli\n  \n  in culture media and Iranian white cheese.\n  \n   Iranian Journal of Microbiology, 4\n  \n  (1), 30–34.\n  \n   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3391558/",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_66.html",
+    "text": "7. Sahakyan, N., Andreoletti, P., Cherkaoui-Malki, M., Petrosyan, M., & Trchounian, A. (2021). Artemisia dracunculus L. essential oil phytochemical components trigger the activity of cellular antioxidant enzymes.\n  \n   Journal of Food Biochemistry, 45\n  \n  (4), e13691.\n  \n   https://doi.org/10.1111/jfbc.13691",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "1. American Indian Health Service. (n.d.).\n  \n   Prickly pear cactus traditional uses\n  \n  . American Indian Health and Diet Project, University of Kansas.\n  \n   https://aihd.ku.edu/foods/prickly_pear.html",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "2. Drugs.com. (2025).\n  \n   Prickly pear uses, benefits & dosage\n  \n  .\n  \n   https://www.drugs.com/npp/prickly-pear.html",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "3. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "4. El-Mir, M. Y., Benslama, O., & El-Bachá, R. S. (2021). Bioactive compounds of\n  \n   Opuntia\n  \n  spp. acid fruits.\n  \n   Antioxidants\n  \n  ,\n  \n   10\n  \n  (12), 1983.\n  \n   https://doi.org/10.3390/antiox10121983",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "5. Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "6. Nature Research Intelligence. (2024). Health benefits and nutritional properties of\n  \n   Opuntia\n  \n  species. Springer Nature.\n  \n   https://www.nature.com/articles/d43747-024-00123-7",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "7. Ochoa, M. J., & Hernández, L. (2022).\n  \n   Opuntia\n  \n  spp. in human health: A comprehensive summary on its pharmacological, therapeutic and preventive properties. Part 2.\n  \n   Frontiers in Pharmacology\n  \n  ,\n  \n   13\n  \n  , 9505094.\n  \n   https://doi.org/10.3389/fphar.2022.9505094",
+    "errors": [
+      "Broken DOI (https://doi.org/10.3389/fphar.2022.9505094) - 404 Not Found",
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Replace DOI with https://doi.org/10.3390/plants11182333",
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "8. Sáenz, C., Sepúlveda, E., & Matsuhiro, B. (2024).\n  \n   Opuntia\n  \n  species: A comprehensive review of chemical composition and bio-pharmacological potential.\n  \n   Journal of Functional Foods\n  \n  ,\n  \n   114\n  \n  , 106233.\n  \n   https://doi.org/10.1016/j.jff.2024.106233",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_67.html",
+    "text": "9. Scully, V. (1970).\n  \n   A treasury of American Indian herbs\n  \n  . Crown Publishers.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_68.html",
+    "text": "1. Elders and Community members of the Cayoose Creek Band of Sekw’el’was.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_68.html",
+    "text": "2. Gucker, C. (2012).\n  \n   Rubus parviflorus\n  \n  . In\n  \n   Fire Effects Information System (FEIS)\n  \n  . U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station.",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_68.html",
+    "text": "3. Lee, J., Dossett, M., & Finn, C. E. (2012). Rubus fruit phenolic research: The good, the bad, and the confusing.\n  \n   Food Chemistry, 130\n  \n  (4), 785–796.\n  \n   https://doi.org/10.1016/j.foodchem.2011.08.022",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_68.html",
+    "text": "4. Mullen, W., McGinn, J., Lean, M. E. J., MacLean, M. R., Gardner, P., Duthie, G. G., Yokota, T., & Crozier, A. (2002). Ellagitannins, flavonoids, and other phenolics in red raspberries and their contribution to antioxidant capacity and vasorelaxation properties.\n  \n   Journal of Agricultural and Food Chemistry, 50\n  \n  (18), 5191–5196.\n  \n   https://doi.org/10.1021/jf020140n",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_68.html",
+    "text": "5. Pullar, J. M., Carr, A. C., & Vissers, M. C. M. (2017). The roles of vitamin C in skin health.\n  \n   Nutrients, 9\n  \n  (8), 866.\n  \n   https://doi.org/10.3390/nu9080866",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  },
+  {
+    "chapter": "chapter_68.html",
+    "text": "6. Yu, M., Bi, Z., Guan, C., Qiu, J., Wang, M., & Yang, B. (2019).\n  \n   Rubus chingii\n  \n  Hu: A review of the phytochemistry and pharmacology.\n  \n   Frontiers in Pharmacology, 10\n  \n  , 799.\n  \n   https://doi.org/10.3389/fphar.2019.00799",
+    "errors": [
+      "Reference is in a <p> tag instead of an <ol> <li> item."
+    ],
+    "corrections": [
+      "Wrap reference in <li> and place within an <ol> list."
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+Chapter chapter_42.html: References are in <p> tags instead of <ol>. Found 14 references.
+Chapter chapter_43.html: References are in <p> tags instead of <ol>. Found 15 references.
+Chapter chapter_44.html: References are in <p> tags instead of <ol>. Found 12 references.
+Chapter chapter_46.html: References are in <p> tags instead of <ol>. Found 12 references.
+Chapter chapter_48.html: References are in <p> tags instead of <ol>. Found 9 references.
+Chapter chapter_49.html: References are in <p> tags instead of <ol>. Found 12 references.
+Chapter chapter_50.html: No references found after heading.
+Chapter chapter_42.html: Broken link (HTTP_ERROR_404): https://doi.org/10.1016/0378-8741(95)01166-8
+Chapter chapter_42.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://splitrockenvironmental.ca/products/large-fruited-desert-parsley
+Chapter chapter_42.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://www.whiterabbitinstituteofhealing.com/herbs/lomatium/
+Chapter chapter_43.html: Broken link (ERROR_The read operation timed out): https://agric4profits.com/5-medicinal-health-benefits-of-lithospermum-ruderale-western-stoneseed/
+Chapter chapter_43.html: Broken link (ERROR_Remote end closed connection without response): https://www.inaturalist.org/guide_taxa/618506
+Chapter chapter_43.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://www.naturalmedicinalherbs.net/herbs/l/lithospermum-ruderale=western-gromwell.php
+Chapter chapter_43.html: Broken link (HTTP_ERROR_404): https://doi.org/10.1007/s00299-006-0128-2
+Chapter chapter_43.html: Broken link (ERROR_Remote end closed connection without response): https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/lithospermum
+Chapter chapter_43.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://splitrockenvironmental.ca/products/lemonweed
+Chapter chapter_43.html: Broken link (HTTP_ERROR_404): https://vitalibrary.com/lithospermum-herbal-benefits-guide/
+Chapter chapter_44.html: Broken link (HTTP_ERROR_404): https://doi.org/10.1016/0305-1978(86)90085-7
+Chapter chapter_44.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://green2.kingcounty.gov/gonative/Plant.aspx?Act=view&PlantID=23
+Chapter chapter_44.html: Broken link (ERROR_Remote end closed connection without response): https://www.wildflower.org/plants/result.php?id_plant=phle4
+Chapter chapter_44.html: Broken link (HTTP_ERROR_404): https://doi.org/10.3389/fnut.2022.9862941
+Chapter chapter_44.html: Broken link (ERROR_Remote end closed connection without response): https://pfaf.org/user/plant.aspx?LatinName=Philadelphus+lewisii
+Chapter chapter_44.html: Broken link (ERROR_<urlopen error [Errno 11001] getaddrinfo failed>): https://www.fs.fed.us/database/feis/plants/shrub/philew/all.html
+Chapter chapter_44.html: Broken link (HTTP_ERROR_404): https://vancouverwaldorfschool.ca/product/philadelphus-lewisii/
+Chapter chapter_45.html: Broken link (ERROR_<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>): https://www.songofthewoods.com/alder-alnus-spp/
+Chapter chapter_46.html: Broken link (ERROR_<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>): https://mtnativeplants.org/wp-content/uploads/2018/07/LC-Hesporostipa-comata-needle-and-thread-grass.pdf
+Chapter chapter_47.html: Broken link (ERROR_Remote end closed connection without response): https://doi.org/10.3390/microorganisms9081623
+Chapter chapter_47.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://brightlanegardens.com/native-plants/plant-glossary/native-perennials/nodding-wild-onion-allium-cernuum/
+Chapter chapter_47.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://doi.org/10.3389/fnut.2024.1497953
+Chapter chapter_47.html: Broken link (ERROR_Remote end closed connection without response): https://ionxchange.com/allium-cernuum-nodding-onion/
+Chapter chapter_47.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://pubmed.ncbi.nlm.nih.gov/27585263/
+Chapter chapter_47.html: Broken link (ERROR_<urlopen error _ssl.c:989: The handshake operation timed out>): https://splitrockenvironmental.ca/collections/plants/products/nodding-onion-kwela-wa-ul?variant=40368052076710
+Chapter chapter_48.html: Broken link (ERROR_<urlopen error [Errno 11001] getaddrinfo failed>): https://bcmnh.ca/ethnobotany/
+Chapter chapter_48.html: Broken link (ERROR_<urlopen error timed out>): https://naeb.brit.org/
+Chapter chapter_49.html: Broken link (HTTP_ERROR_404): https://www.fellabees.com/shop/p/kyuzdmx58mtwmf90xyf36c6b2do7d2
+Chapter chapter_49.html: Broken link (ERROR_Remote end closed connection without response): https://doi.org/10.1186/s12906-017-2025-0
+Chapter chapter_49.html: Broken link (ERROR_<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>): https://www.fs.usda.gov/database/feis/plants/forb/geutri/all.html
+Chapter chapter_49.html: Broken link (ERROR_<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>): https://www.fs.usda.gov/wildflowers/plant-of-the-week/geum_triflorum.shtml

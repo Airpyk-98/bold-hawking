@@ -1,0 +1,68 @@
+
+
+--- Chapter 69 ---
+P: <p>  1. Hartman, R. L., &amp; Rabeler, R. K. (2005).  <em>   Eremogone capillaris  </em>  . In Flora of North America Editorial Committee (Eds.),  <em>   Flora of North America North of Mexico  </em>  (Vol. 5). Oxford University Press. http://www.efloras.org/florataxon.aspx?flora_id=1&amp;taxon_id=250060086 </p>
+P: <p>  2. Moerman, D. E. (1998).  <em>   Native American ethnobotany  </em>  . Timber Press. </p>
+
+
+--- Chapter 70 ---
+
+
+--- Chapter 71 ---
+
+
+--- Chapter 72 ---
+LI: <li>   Lactone Ring (Sesquiterpene Lactones): Electrophilic sites enable protein alkylation; anti-inflammatory and antimicrobial  </li>
+LI: <li>   Multiple Hydroxyl Groups (Flavonoids, Tannins): Hydrogen bonding with proteins; antioxidant electron donation; astringent effects  </li>
+LI: <li>   Polyphenolic Structure: Protein precipitation capability; antimicrobial activity through membrane disruption  </li>
+LI: <li>   Catechol Groups: Strong metal chelation; enhanced antioxidant activity; enzyme inhibition  </li>
+LI: <li>   Mucilage Polysaccharides: Extensive hydroxyl groups create viscous hydrogels; physical protection of tissues  </li>
+LI: <li>   Lipophilic Terpenoids: Membrane penetration; antimicrobial membrane disruption  </li>
+P: <p><strong>   Traditional Preparation:  </strong></p>
+LI: <li>   Tea: 1-2 teaspoons dried aerial parts per cup; steep 10-15 minutes  </li>
+LI: <li>   Poultice: Crush fresh leaves or moisten dried leaves; apply directly to affected area  </li>
+LI: <li>   Chest Compress: Strong decoction applied as warm compress  </li>
+LI: <li>   Smoking Mixture: Dried leaves (some species); ceremonial or medicinal use  </li>
+P: <p><strong>   Safety Notes:  </strong></p>
+LI: <li>   Generally considered safe based on traditional use  </li>
+LI: <li>   Sesquiterpene lactones (if present) may cause allergic reactions in sensitive individuals (Asteraceae family allergy)  </li>
+LI: <li>   Avoid if allergic to ragweed, chrysanthemums, marigolds, or other Asteraceae  </li>
+LI: <li>   Pregnancy/breastfeeding: Insufficient safety data; use with caution  </li>
+LI: <li>   No significant drug interactions documented  </li>
+LI: <li>   External use generally safer than internal  </li>
+P: <p><span style="color: #339966"><strong>    References   </strong></span></p>
+LI: <li>   Bakkali, F., Averbeck, S., Averbeck, D., &amp; Idaomar, M. (2008). Biological effects of essential oils–a review.   <em>    Food and Chemical Toxicology, 46   </em>   (2), 446–475.   <a href="https://doi.org/10.1016/j.fct.2007.09.106">    https://doi.org/10.1016/j.fct.2007.09.106   </a></li>
+LI: <li>   Chadwick, M., Trewin, H., Gawthrop, F., &amp; Wagstaff, C. (2013). Sesquiterpenoid lactones: Benefits to plants and people.   <em>    International Journal of Molecular Sciences, 14   </em>   (6), 12780–12805.   <a href="https://doi.org/10.3390/ijms140612780">    https://doi.org/10.3390/ijms140612780   </a></li>
+LI: <li>   Cushnie, T. P., &amp; Lamb, A. J. (2005). Antimicrobial activity of flavonoids.   <em>    International Journal of Antimicrobial Agents, 26   </em>   (5), 343–356.   <a href="https://doi.org/10.1016/j.ijantimicag.2005.09.002">    https://doi.org/10.1016/j.ijantimicag.2005.09.002   </a></li>
+LI: <li>   Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).   <em>    Personal communication   </em>   .  </li>
+LI: <li>   Flora of North America Editorial Committee. (2006).   <em>    Flora of North America north of Mexico, Vols. 19–21: Magnoliophyta: Asteridae   </em>   . Oxford University Press.  </li>
+LI: <li>   Kane, C. W. (2011).   <em>    Medicinal plants of the western mountain states   </em>   . Feral House.  </li>
+LI: <li>   Middleton, E., Kandaswami, C., &amp; Theoharides, T. C. (2000). The effects of plant flavonoids on mammalian cells: Implications for inflammation, heart disease, and cancer.   <em>    Pharmacological Reviews, 52   </em>   (4), 673–751.   <a href="https://pharmrev.aspetjournals.org/content/52/4/673">    https://pharmrev.aspetjournals.org/content/52/4/673   </a></li>
+LI: <li>   Moerman, D. E. (1998).   <em>    Native American ethnobotany   </em>   . Timber Press.  </li>
+LI: <li>   Moore, M. (2003).   <em>    Medicinal plants of the mountain West   </em>   (Revised and expanded ed.). Museum of New Mexico Press.  </li>
+LI: <li>   Moreau, R. A., Whitaker, B. D., &amp; Hicks, K. B. (2002). Phytosterols, phytostanols, and their conjugates in foods: Structural diversity, quantitative analysis, and health-promoting uses.   <em>    Progress in Lipid Research, 41   </em>   (6), 457–500.   <a href="https://doi.org/10.1016/S0163-7827(02)00006-1">    https://doi.org/10.1016/S0163-7827(02)00006-1   </a></li>
+LI: <li>   Robbins, R. J. (2003). Phenolic acids in foods: An overview of analytical methodology.   <em>    Journal of Agricultural and Food Chemistry, 51   </em>   (10), 2866–2887.   <a href="https://doi.org/10.1021/jf026182t">    https://doi.org/10.1021/jf026182t   </a></li>
+LI: <li>   Scalbert, A. (1991). Antimicrobial properties of tannins.   <em>    Phytochemistry, 30   </em>   (12), 3875–3883.   <a href="https://doi.org/10.1016/0031-9422(91)83426-L">    https://doi.org/10.1016/0031-9422(91)83426-L   </a></li>
+LI: <li>   Seaman, F. C. (1982). Sesquiterpene lactones as taxonomic characters in the Asteraceae.   <em>    The Botanical Review, 48   </em>   (2), 121–594.   <a href="https://doi.org/10.1007/BF02860531">    https://doi.org/10.1007/BF02860531   </a></li>
+LI: <li>   Sparg, S. G., Light, M. E., &amp; van Staden, J. (2004). Biological activities and distribution of plant saponins.   <em>    Journal of Ethnopharmacology, 94   </em>   (2–3), 219–243.   <a href="https://doi.org/10.1016/j.jep.2004.04.002">    https://doi.org/10.1016/j.jep.2004.04.002   </a></li>
+LI: <li>   Tilford, G. L. (1997).   <em>    Edible and medicinal plants of the West   </em>   . Mountain Press Publishing Company.  </li>
+LI: <li>   Turner, N. J. (1997).   <em>    Food plants of interior First Peoples   </em>   . Royal British Columbia Museum; UBC Press.  </li>
+LI: <li>   United States Department of Agriculture (USDA). (n.d.).   <em>    Antennaria umbrinella   </em>   . USDA Plants Database.   <a href="https://plants.usda.gov/home/plantProfile?symbol=ANUM">    https://plants.usda.gov/home/plantProfile?symbol=ANUM   </a></li>
+
+
+--- Chapter 73 ---
+
+
+--- Chapter 74 ---
+
+
+--- Chapter 75 ---
+
+
+--- Chapter 76 ---
+
+
+--- Chapter 77 ---
+
+
+--- Chapter 78 ---

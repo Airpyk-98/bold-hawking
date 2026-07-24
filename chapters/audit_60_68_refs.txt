@@ -1,0 +1,204 @@
+
+--- chapter_60.html ---
+[1] <li>
+   Hot water extraction: Optimizes flavonoid and phenolic acid extraction
+  </li>
+[2] <li>
+   Whole plant use: Utilizes complete phytochemical profile
+  </li>
+[3] <li>
+   Fresh material: Maximum vitamin and volatile compound content
+  </li>
+[4] <li>
+   Covered steeping: Prevents loss of volatile essential oils
+  </li>
+
+--- chapter_61.html ---
+[1] <li>
+   Hot water extraction: Optimizes iridoid and phenylpropanoid extraction
+  </li>
+[2] <li>
+   Fresh plant material: Maximum bioactive compound content
+  </li>
+[3] <li>
+   Covered steeping: Prevents loss of volatile components
+  </li>
+[4] <li>
+   Multiple applications: Daily use for chronic conditions
+  </li>
+
+--- chapter_62.html ---
+[1] <li>
+   Quaternary Nitrogen in Alkaloids (Magnoflorine, Berberine):
+   <sup>
+    [5][12]
+   </sup>
+<ul>
+<li>
+     Permanent positive charge enhances membrane interactions
+    </li>
+<li>
+     Increases affinity for anionic binding sites
+    </li>
+<li>
+     Facilitates DNA intercalation (planar structure + positive charge)
+    </li>
+</ul>
+</li>
+[2] <li>
+   Multiple Hydroxyl Groups (Flavonoids):
+   <sup>
+    [2][13]
+   </sup>
+<ul>
+<li>
+     Hydrogen bond donors for protein interactions
+    </li>
+<li>
+     Electron donors for free radical scavenging
+    </li>
+<li>
+     Sites for Phase II metabolism (glucuronidation, sulfation)
+    </li>
+</ul>
+</li>
+[3] <li>
+   Planar Aromatic Systems:
+   <sup>
+    [12]
+   </sup>
+<ul>
+<li>
+     π-π stacking with biological targets
+    </li>
+<li>
+     DNA intercalation capability
+    </li>
+<li>
+     Resonance stabilization of radical intermediates
+    </li>
+</ul>
+</li>
+[4] <li>
+   Catechol Groups (ortho-dihydroxy structure):
+   <sup>
+    [13]
+   </sup>
+<ul>
+<li>
+     Strong metal chelation (Fe³⁺, Cu²⁺)
+    </li>
+<li>
+     Enhanced antioxidant activity
+    </li>
+<li>
+     COX/LOX enzyme inhibition
+    </li>
+</ul>
+</li>
+[5] <li>
+   Lipophilicity:
+   <sup>
+    [21]
+   </sup>
+<ul>
+<li>
+     Cell membrane permeability
+    </li>
+<li>
+     Ability to reach intracellular targets
+    </li>
+<li>
+     Accumulation in lipid-rich tissues
+    </li>
+</ul>
+</li>
+[6] <li>
+   Amphipathic Character (Saponins):
+   <sup>
+    [4]
+   </sup>
+<ul>
+<li>
+     Interaction with both aqueous and lipid environments
+    </li>
+<li>
+     Membrane disruption capabilities
+    </li>
+<li>
+     Surfactant properties
+    </li>
+</ul>
+</li>
+
+--- chapter_63.html ---
+[1] <li>
+<strong>
+    Proper Identification:
+   </strong>
+   Ensure correct species; some toxic look-alikes exist
+  </li>
+
+--- chapter_64.html ---
+[1] <li>
+   Fresh berry crushing: Releases saponins for immediate use
+   <sup>
+    [1]
+   </sup>
+</li>
+[2] <li>
+   Direct skin application: Maximum bioactive compound contact
+   <sup>
+    [1]
+   </sup>
+</li>
+[3] <li>
+   Gentle rubbing: Activates foaming properties
+   <sup>
+    [1]
+   </sup>
+</li>
+[4] <li>
+   Multiple applications: Daily use for cleansing
+   <sup>
+    [1]
+   </sup>
+</li>
+
+--- chapter_65.html ---
+[1] <li>
+   Multiple Hydroxyl Groups: The phenolic -OH groups act as hydrogen donors for antioxidant activity and form hydrogen bonds with biological targets.
+  </li>
+[2] <li>
+   Planar Aromatic Systems: Allow π-π stacking interactions with proteins and DNA, and provide resonance stabilization of radical intermediates.
+  </li>
+[3] <li>
+   Amphipathic Nature (Saponins): Enables interaction with both lipid membranes and aqueous environments, crucial for antimicrobial activity.
+  </li>
+[4] <li>
+   Chelation Sites: Catechol groups and keto-enol systems chelate metal ions, preventing oxidative damage.
+  </li>
+[5] <li>
+   Lipophilicity: Allows compounds to cross cell membranes and reach intracellular targets.
+  </li>
+
+--- chapter_66.html ---
+[1] <li>
+<span style="text-decoration: underline">
+    Sedative/Calming Effects (Sleep Problems):
+   </span>
+</li>
+
+--- chapter_67.html ---
+No <ol> found!
+
+--- chapter_68.html ---
+[1] <li>
+   Studies on related Rubus species (R. ellipticus, R. niveus, R. fairholmianus)
+  </li>
+[2] <li>
+   General phenolic compound research in berry fruits
+  </li>
+[3] <li>
+   Traditional ethnobotanical documentation
+  </li>
