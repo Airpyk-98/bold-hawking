@@ -1,0 +1,370 @@
+
+=== chapter_01.html (4 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ℹ️ Ref 2: No DOI in reference
+  ℹ️ Ref 3: No DOI in reference
+  ❌ [BAD DOI / HTTP_404] Ref 4 DOI 10.1890/1051-0761(2000)010: HTTP Error 404: Not Found
+
+=== chapter_02.html (18 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.1016/j.foodchem.2019.03.077 -> Phenolic composition and antioxidant activities of saskatoon berry fru
+  ℹ️ Ref 3: No DOI in reference
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1139/cjb-2019-0191 -> Nutritional composition of saskatoon berries: a review
+  ℹ️ Ref 6: No DOI in reference
+  ❌ [MISMATCH!] Ref 7 DOI 10.1111/1541-4337.12500
+     Cited text: Johnson, M. H., Lucius, A., Meyer, K. A., & Prior, R. L. (2020). Bioactive components and health benefits of Saskatoon b...
+     CrossRef Title: Recent Advances in Microalgal Bioactives for Food, Feed, and Healthcare Products: Commercial Potential, Market Space, and Sustainability
+     Similarity Score: 0.08
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.3390/molecules181012571 -> Flavonoid Profile of Saskatoon Berries (Amelanchier alnifolia Nutt.) a
+  ❌ [MISMATCH!] Ref 9 DOI 10.3390/nu10111753
+     Cited text: Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J. (2018). Amelanchier alnifolia: A rich source of biolog...
+     CrossRef Title: Comment on: The Vitamin D–Folate Hypothesis as an Evolutionary Model for Skin Pigmentation: An Update and Integration of Current Ideas, Nutrients 2018, 10, 554
+     Similarity Score: 0.18
+  ✅ [MATCH (1.00)] Ref 10 DOI 10.1080/10942910903013407 -> Effect of Processing and Storage on The Antioxidant Activity of Frozen
+  ❌ [MISMATCH!] Ref 11 DOI 10.1021/acs.jafc.8b01183
+     Cited text: Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M. (2018). Flavonoid profile and antioxidant activity of Saskatoon...
+     CrossRef Title: An Extensive Description of the Peptidomic Repertoire of the Hen Egg Yolk Plasma
+     Similarity Score: 0.03
+  ℹ️ Ref 12: No DOI in reference
+  ℹ️ Ref 13: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 14 DOI 10.1186/s12986-015-0057-7 -> Antidiabetic properties of dietary flavonoids: a cellular mechanism re
+  ℹ️ Ref 15: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 16 DOI 10.4141/P04-065 -> Physicochemical properties of fruit of 16 saskatoon (<i>Amelanchier al
+  ❌ [MISMATCH!] Ref 17 DOI 10.1016/j.foodchem.2017.05.041
+     Cited text: Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2018). Phytochemical composition and antioxidant capacity of Saskatoon...
+     CrossRef Title: Polysaccharides from by-products of the Wonderful and Laffan pomegranate varieties: New insight into extraction and characterization
+     Similarity Score: 0.02
+  ✅ [MATCH (1.00)] Ref 18 DOI 10.1155/2020/3901636 -> Bioactive Components and Health Benefits of Saskatoon Berry
+
+=== chapter_03.html (19 references) ===
+  ❌ [MISMATCH!] Ref 1 DOI 10.1016/j.bmc.2013.09.011
+     Cited text: Böttger, S., & Melzig, M. F. (2013). The influence of saponins on cell membrane cholesterol.
+   
+    Bioorganic & Medici...
+     CrossRef Title: In vitro structure–activity relationships of aplysinopsin analogs and their in vivo evaluation in the chick anxiety–depression model
+     Similarity Score: 0.16
+  ❌ [BAD DOI / HTTP_404] Ref 2 DOI 10.1155/2020/8817078: HTTP Error 404: Not Found
+  ℹ️ Ref 3: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 4 DOI 10.1079/BJN2002725 -> The biological action of saponins in animal systems: a review
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.4141/cjps2013-087 -> Physicochemical composition of buffaloberry (<i>Shepherdia argentea</i
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1016/j.jff.2017.11.032 -> The gastrointestinal behavior of saponins and its significance for the
+  ℹ️ Ref 7: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.1021/jf0301910 -> Molluscicidal Saponins from<i> Sapindus mukorossi</i>, Inhibitory Agen
+  ℹ️ Ref 9: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 10 DOI 10.1016/s0944-7113(96)80081-x -> A review of the biological and pharmacological activities of saponins
+  ℹ️ Ref 11: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 12 DOI 10.1016/0308-8146(81)90019-4 -> Saponins in food—A review
+  ✅ [MATCH (1.00)] Ref 13 DOI 10.1111/1750-3841.12265 -> Variation in Lycopene and Lycopenoates, Antioxidant Capacity, and Frui
+  ❌ [MISMATCH!] Ref 14 DOI 10.3390/plants9020267
+     Cited text: Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., & Husen, A. (2020). Phytochemistry, pharmacological activities, n...
+     CrossRef Title: In Vitro Anti-HSV-1 Activity of Polyphenol-Rich Extracts and Pure Polyphenol Compounds Derived from Pistachios Kernels (Pistacia vera L.)
+     Similarity Score: 0.03
+  ✅ [MATCH (1.00)] Ref 15 DOI 10.1016/j.jep.2004.05.016 -> Biological activities and distribution of plant saponins
+  ✅ [MATCH (0.89)] Ref 16 DOI 10.1007/978-1-4613-0413-5_9 -> Saponins from Medicago SPP.: Chemical Characterization and Biological 
+  ❌ [MISMATCH!] Ref 17 DOI 10.1590/S0036-46652011000500004
+     Cited text: Upadhyay, A., & Singh, D. K. (2011). Pharmacological effects of
+   
+    Sapindus mukorossi
+   
+   .
+   
+    Revista do I...
+     CrossRef Title: Effect of bioactive compounds extracted from euphorbious plants on hematological and biochemical parameters of Channa punctatus
+     Similarity Score: 0.22
+  ℹ️ Ref 18: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 19 DOI 10.1016/j.phytochem.2006.10.008 -> Saponins, classification and occurrence in the plant kingdom
+
+=== chapter_04.html (0 references) ===
+
+=== chapter_05.html (20 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ℹ️ Ref 2: No DOI in reference
+  ℹ️ Ref 3: No DOI in reference
+  ❌ [MISMATCH!] Ref 4 DOI 10.1016/j.aca.2008.03.009
+     Cited text: 4. Ganzera, M., Egger, C., Zidorn, C., & Stuppner, H. (2008). Quantitative analysis of flavonoids and phenolic acids in
+...
+     CrossRef Title: Studies on the mechanism of the peroxyoxalate chemiluminescence reaction
+     Similarity Score: 0.04
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1002/jps.2600680505 -> Anti-Inflammatory Activity of Sesquiterpene Lactones and Related Compo
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1097/mjt.0000000000000036 -> Effectiveness and Safety of Arnica montana in Post-Surgical Setting, P
+  ❌ [MISMATCH!] Ref 7 DOI 10.1055/s-2002-26747
+     Cited text: 7. Klaas, C. A., Wagner, G., Laufer, S., Sosa, S., Della Loggia, R., Bomme, U., & Merfort, I. (2002). Studies on the ant...
+     CrossRef Title: Diphyllin Acetylapioside, A 5-Lipoxygenase Inhibitor from Haplophyllum hispanicum
+     Similarity Score: 0.03
+  ❌ [MISMATCH!] Ref 8 DOI 10.1111/jphp.12735
+     Cited text: 8. Kriplani, P., Guarve, K., & Baghael, U. S. (2017).
+   
+    Arnica montana
+   
+   L.—A plant of healing: Review.
+   
+ ...
+     CrossRef Title: Phytochemical and biological studies of <i>Atriplex inflata</i> f. Muell.: isolation of secondary bioactive metabolites
+     Similarity Score: 0.20
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1515/bchm.1997.378.9.951 -> Helenalin, an Anti-Inflammatory Sesquiterpene Lactone from Arnica, Sel
+  ❌ [MISMATCH!] Ref 10 DOI 10.1159/000071692
+     Cited text: 10. Merfort, I. (2003). Arnica: New insights on the molecular mode of action of a traditional medicinal plant.
+   
+    F...
+     CrossRef Title: Arnika: Neue Erkenntnisse zum Wirkungsmechanismus einer traditionellen Heilpflanze
+     Similarity Score: 0.04
+  ℹ️ Ref 11: No DOI in reference
+  ℹ️ Ref 12: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 13 DOI 10.1080/17461391.2013.829126 -> The effects of topical Arnica on performance, pain and muscle damage a
+  ✅ [MATCH (1.00)] Ref 14 DOI 10.1016/s0968-0896(99)00234-5 -> Helenanolide type sesquiterpene lactones. Part 5: The role of glutathi
+  ℹ️ Ref 15: No DOI in reference
+  ℹ️ Ref 16: No DOI in reference
+  ℹ️ Ref 17: No DOI in reference
+  ℹ️ Ref 18: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 19 DOI 10.1007/s00296-007-0304-y -> Choosing between NSAID and arnica for topical treatment of hand osteoa
+  ℹ️ Ref 20: No DOI in reference
+
+=== chapter_06.html (9 references) ===
+  ❌ [MISMATCH!] Ref 1 DOI 10.1055/s-2002-33794
+     Cited text: Akao, T., Yoshino, T., Kobashi, K., & Hattori, M. (2002). Evaluation of salicin as an antipyretic prodrug that does not ...
+     CrossRef Title: The Cardioprotection of Rutaecarpine is Mediated by Endogenous Calcitonin Related-Gene Peptide Through Activation of Vanilloid Receptors in Guinea-Pig Hearts
+     Similarity Score: 0.26
+  ❌ [MISMATCH!] Ref 2 DOI 10.1016/j.phytochem.2011.04.017
+     Cited text: Boeckler, G. A., Gershenzon, J., & Unsicker, S. B. (2011). Phenolic glycosides of the Salicaceae and their role as anti-...
+     CrossRef Title: Phenolic compounds from the cultured mycobionts of Graphis proserpens
+     Similarity Score: 0.17
+  ℹ️ Ref 3: No DOI in reference
+  ✅ [MATCH (0.89)] Ref 4 DOI 10.3390/molecules29020437 -> Phytochemical Profiles and Antimicrobial Activity of Selected Populus 
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1016/s0031-9422(00)84838-4 -> Studies on the barks of the family salicaceae-XVII. Trichoside, a new 
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1016/s0031-9422(00)97369-2 -> The structures of salicortin and tremulacin
+  ✅ [MATCH (1.00)] Ref 7 DOI 10.1177/1934578X1501001117 -> Poplar-type Propolis: Chemical Composition, Botanical Origin and Biolo
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.1016/0031-9422(91)83426-l -> Antimicrobial properties of tannins
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1016/s0049-3848(03)00379-7 -> The mechanism of action of aspirin
+
+=== chapter_07.html (14 references) ===
+  ✅ [MATCH (1.00)] Ref 1 DOI 10.1128/aem.40.2.301-304.1980 -> Some Effects of Douglas Fir Terpenes on Certain Microorganisms
+  ℹ️ Ref 2: No DOI in reference
+  ℹ️ Ref 3: No DOI in reference
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (0.92)] Ref 5 DOI 10.3390/antiox10111723 -> Characteristics of the Polyphenolic Profile and Antioxidant Activity o
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1002/cbdv.202100424 -> <i>Pseudotsuga menziesii</i> (Pinaceae): Volatile Profiles, Antimicrob
+  ℹ️ Ref 7: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.3390/pharmaceutics16010052 -> Comparative Antioxidant and Antimicrobial Activities of Several Conife
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.3390/biom9110738 -> Therapeutic Potential of α- and β-Pinene: A Miracle Gift of Nature
+  ℹ️ Ref 10: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 11 DOI 10.3390/molecules28062477 -> Gymnosperms of Idaho: Chemical Compositions and Enantiomeric Distribut
+  ✅ [MATCH (0.92)] Ref 12 DOI 10.2298/JSC0910035T -> Chemical composition and antifungal activity of the essential oil of D
+  ℹ️ Ref 13: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 14 DOI 10.3390/ph14111159 -> Original Contributions to the Chemical Composition, Microbicidal, Viru
+
+=== chapter_08.html (16 references) ===
+  ✅ [MATCH (1.00)] Ref 1 DOI 10.1007/BF02858839 -> Ethnobotany of Costanoan Indians, California, based on collections by 
+  ℹ️ Ref 2: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.1002/ptr.1110 -> Antibacterial and antifungal activity of juniper berry oil and its sel
+  ✅ [MATCH (1.00)] Ref 4 DOI 10.2298/JSC0704311G -> Antimicrobial activity of the essential oil and different fractions of
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.3390/ijms23063197 -> Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Comp
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.3390/antiox3010081 -> Chemical Composition and Antioxidant Properties of  Juniper Berry (Jun
+  ℹ️ Ref 7: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.1002/ptr.2650010107 -> Biological screening of Italian medicinal plants for anti‐inflammatory
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1021/jf040019b -> Inhibition of Acetylcholinesterase Activity by Bicyclic Monoterpenoids
+  ℹ️ Ref 10: No DOI in reference
+  ℹ️ Ref 11: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 12 DOI 10.1016/j.heliyon.2019.e02376 -> Potential of Juniperus communis L as a nutraceutical in human and vete
+  ✅ [MATCH (1.00)] Ref 13 DOI 10.1055/s-2006-959457 -> Hypoglycemic Activity of Juniper “Berries”
+  ℹ️ Ref 14: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 15 DOI 10.1007/BF00405106 -> Traditional plant treatments for diabetes. Studies in normal and strep
+  ℹ️ Ref 16: No DOI in reference
+
+=== chapter_09.html (18 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.1016/j.biotechadv.2014.07.001 -> Verbascoside — A review of its occurrence, (bio)synthesis and pharmaco
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.3923/pjbs.2004.1559.1562 -> Antimicrobial Activity of Some Turkish Medicinal Plants
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1016/s0378-8741(00)00180-x -> Traditional herbal drugs of southern Uganda, I
+  ℹ️ Ref 6: No DOI in reference
+  ❌ [MISMATCH!] Ref 7 DOI 10.1016/j.lfs.2003.09.053
+     Cited text: Kupeli, E., Kosar, M., Yesilada, E., Hüsnu Can Baser, K., & Başer, C. (2005). A comparative study on the anti-inflammato...
+     CrossRef Title: Photodynamic effect of novel chlorin e6 derivatives on a single nerve cell
+     Similarity Score: 0.03
+  ❌ [MISMATCH!] Ref 8 DOI 10.1016/0378-8741(95)01321-0
+     Cited text: McCutcheon, A. R., Roberts, T E., Gibbons, E., Ellis, S. M., Babiuk, L. A., Hancock, R. E., & Towers, G. H. N. (1995). A...
+     CrossRef Title: Effect of 7-day daily replacement of culture medium containing Eurycoma longifolia Jack constituents on the Malaysian Plasmodium falciparum isolates
+     Similarity Score: 0.02
+  ℹ️ Ref 9: No DOI in reference
+  ❌ [MISMATCH!] Ref 10 DOI 10.1590/S0102-695X2013000600004
+     Cited text: Riaz, M., Zia-Ul-Haq, M., & Jaafar, H. Z. E. (2013). Common mullein, pharmacological and chemical aspects. Revista Brasi...
+     CrossRef Title: Chemical composition, antischistosomal and cytotoxic effects of the essential oil of Lavandula angustifolia grown in Southeastern Brazil
+     Similarity Score: 0.16
+  ✅ [MATCH (1.00)] Ref 11 DOI 10.1016/j.jep.2010.05.061 -> Ethnobotanical study on medicinal use of wild and cultivated plants in
+  ✅ [MATCH (1.00)] Ref 12 DOI 10.1001/archpedi.155.7.796 -> Efficacy of Naturopathic Extracts in the Management of Ear Pain Associ
+  ℹ️ Ref 13: No DOI in reference
+  ❌ [MISMATCH!] Ref 14 DOI 10.1515/znc-2004-5-622
+     Cited text: Tatli, I. I., Akdemir, Z., Yesilada, E., & Küpeli, E. (2004). Anti-inflammatory and antinociceptive potential of major p...
+     CrossRef Title: Salt-stress Induced Alterations in Protein Profile and Protease Activity in the Mangrove Bruguiera parviflora
+     Similarity Score: 0.04
+  ✅ [MATCH (1.00)] Ref 15 DOI 10.1016/s0378-8741(02)00186-1 -> Biological activity of common mullein, a medicinal plant
+  ℹ️ Ref 16: No DOI in reference
+  ℹ️ Ref 17: No DOI in reference
+  ℹ️ Ref 18: No DOI in reference
+
+=== chapter_10.html (6 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ℹ️ Ref 2: No DOI in reference
+  ℹ️ Ref 3: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 4 DOI 10.3390/ijms18061137 -> Therapeutic Applications of Rose Hips from Different Rosa Species
+  ℹ️ Ref 5: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.2147/BTAT.S91385 -> Bioactive ingredients of rose hips (Rosa canina L) with special refere
+
+=== chapter_11.html (23 references) ===
+  ✅ [MATCH (1.00)] Ref 1 DOI 10.1093/ecam/neh072 -> The Advantages of Traditional Chumash Healing
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.3390/molecules29040802 -> Sesquiterpene Lactones and Flavonoid from the Leaves of Basin Big Sage
+  ℹ️ Ref 3: No DOI in reference
+  ℹ️ Ref 4: No DOI in reference
+  ℹ️ Ref 5: No DOI in reference
+  ℹ️ Ref 6: No DOI in reference
+  ℹ️ Ref 7: No DOI in reference
+  ℹ️ Ref 8: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1016/j.jtcme.2016.12.014 -> Pharmacological properties of Salvia officinalis and its components
+  ✅ [MATCH (1.00)] Ref 10 DOI 10.4103/2225-4110.130373 -> Chemistry, Pharmacology, and Medicinal Property of Sage (Salvia) to Pr
+  ℹ️ Ref 11: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 12 DOI 10.1007/s40268-016-0157-5 -> Salvia (Sage): A Review of its Potential Cognitive-Enhancing and Prote
+  ℹ️ Ref 13: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 14 DOI 10.1177/1934578X19850354 -> Bioactive Compounds and Health Benefits of
+                    <i>Arte
+  ✅ [MATCH (1.00)] Ref 15 DOI 10.1016/S0091-3057(03)00108-4 -> Salvia for dementia therapy: review of pharmacological activity and pi
+  ℹ️ Ref 16: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 17 DOI 10.1021/jf100082p -> Polyphenolic Compounds from Salvia Species Protect Cellular DNA from O
+  ✅ [MATCH (1.00)] Ref 18 DOI 10.3390/ijms10093937 -> Sage Tea Drinking Improves Lipid Profile and Antioxidant Defences in H
+  ℹ️ Ref 19: No DOI in reference
+  ℹ️ Ref 20: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 21 DOI 10.1016/S0091-3057(03)00122-9 -> Salvia lavandulaefolia (Spanish Sage) enhances memory in healthy young
+  ✅ [MATCH (1.00)] Ref 22 DOI 10.1007/BF02860489 -> Ethnobotany of chumash indians, California, Based on Collections by Jo
+  ✅ [MATCH (1.00)] Ref 23 DOI 10.3390/nu13010218 -> The Acute and Chronic Cognitive Effects of a Sage Extract: A Randomize
+
+=== chapter_12.html (11 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.1016/j.phymed.2007.03.014 -> A comprehensive review on the stinging nettle effect and efficacy prof
+  ✅ [MATCH (0.92)] Ref 3 DOI 10.3390/ijms25063430 -> Chemical Constituents of Stinging Nettle (Urtica dioica L.): A Compreh
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1016/j.jep.2003.09.028 -> Antioxidant, antimicrobial, antiulcer and analgesic activities of nett
+  ℹ️ Ref 6: No DOI in reference
+  ℹ️ Ref 7: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.1055/s-2000-11117 -> Antiproliferative Effect on Human Prostate Cancer Cells by a Stinging 
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.3390/molecules23071664 -> Urtica spp.: Ordinary Plants with Extraordinary Properties
+  ✅ [MATCH (1.00)] Ref 10 DOI 10.1055/s-2006-960881 -> Randomized, Double-Blind Study of Freeze-Dried<i>Urtica dioica</i>in t
+  ℹ️ Ref 11: No DOI in reference
+
+=== chapter_13.html (6 references) ===
+  ✅ [MATCH (1.00)] Ref 1 DOI 10.29228/jrp.607 -> PHENOLIC COMPOUNDS OF RHUS GLABRA
+  ℹ️ Ref 2: No DOI in reference
+  ℹ️ Ref 3: No DOI in reference
+  ℹ️ Ref 4: No DOI in reference
+  ℹ️ Ref 5: No DOI in reference
+  ℹ️ Ref 6: No DOI in reference
+
+=== chapter_14.html (9 references) ===
+  ✅ [MATCH (1.00)] Ref 1 DOI 10.1002/ptr.5840 -> Pharmacognosy, Phytochemistry and Pharmacological Properties of<i>Achi
+  ✅ [MATCH (0.90)] Ref 2 DOI 10.1007/s12231-011-9154-3 -> Yarrow (Achillea millefolium L.): A Neglected Panacea? A Review of Eth
+  ℹ️ Ref 3: No DOI in reference
+  ℹ️ Ref 4: No DOI in reference
+  ℹ️ Ref 5: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1016/j.hermed.2015.09.001 -> Chemical composition and antimicrobial, antioxidant activities and ant
+  ℹ️ Ref 7: No DOI in reference
+  ℹ️ Ref 8: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1002/ptr.1897 -> Studies on hepatoprotective, antispasmodic and calcium antagonist acti
+
+=== chapter_15.html (17 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.1002/ptr.1103 -> Biological activities of Lavender essential oil
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.1080/13693780400004810 -> Antifungal activity of<i>Lavandula angustifolia</i>essential oil again
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1007/bf00973103 -> Effects of linalool on glutamatergic system in the rat cerebral cortex
+  ❌ [MISMATCH!] Ref 6 DOI 10.5962/bhl.title.62043
+     Cited text: Felter, H. W., & Lloyd, J. U. (1898).
+  
+   King’s American dispensatory
+  
+  (18th ed., 3rd rev.). Ohio Valley Company....
+     CrossRef Title: How to keep bees a handbook for the use of beginners /
+     Similarity Score: 0.23
+  ℹ️ Ref 7: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.1155/2013/681304 -> Lavender and the Nervous System
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1016/j.phymed.2009.10.002 -> Effects of inhaled Linalool in anxiety, social interaction and aggress
+  ❌ [BAD DOI / HTTP_404] Ref 10 DOI 10.1002/(sici)1099-1573(199909)13:6: HTTP Error 404: Not Found
+  ℹ️ Ref 11: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 12 DOI 10.1186/s12906-016-1128-7 -> Wound healing potential of lavender oil by acceleration of granulation
+  ✅ [MATCH (1.00)] Ref 13 DOI 10.1078/094471102321621322 -> Anti-inflammatory activity of linalool and linalyl acetate constituent
+  ✅ [MATCH (1.00)] Ref 14 DOI 10.1016/j.ejphar.2003.11.066 -> Profile of spinal and supra-spinal antinociception of (−)-linalool
+  ✅ [MATCH (1.00)] Ref 15 DOI 10.1111/j.1365-2184.2004.00307.x -> Cytotoxicity of lavender oil and its major components to human skin ce
+  ✅ [MATCH (1.00)] Ref 16 DOI 10.1023/a:1010904214482 -> Effects of Linalool on Glutamate Release and Uptake in Mouse Cortical 
+  ℹ️ Ref 17: No DOI in reference
+
+=== chapter_16.html (9 references) ===
+  ✅ [MATCH (1.00)] Ref 1 DOI 10.1016/0031-9422(89)80041-X -> Flavonoids of Balsamorhiza and Wyethia
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.1016/j.ijfoodmicro.2004.03.022 -> Essential oils: their antibacterial properties and potential applicati
+  ℹ️ Ref 3: No DOI in reference
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1074/jbc.273.3.1288 -> Sesquiterpene Lactones Specifically Inhibit Activation of NF-κB by Pre
+  ℹ️ Ref 6: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 7 DOI 10.1248/cpb.54.152 -> Highly Oxygenated Guaianolides and Eudesman-12-oic Acids from Balsamor
+  ✅ [MATCH (1.00)] Ref 8 DOI 10.1017/jns.2016.41 -> Flavonoids: an overview
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1177/1934578X231225842 -> The Essential Oil of
+                    <i>Balsamorhiza sagittata</i>
+
+=== chapter_17.html (10 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (0.73)] Ref 2 DOI 10.1073/pnas.070042397 -> α-Thujone (the active component of absinthe): γ-Aminobutyric acid type
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.1055/s-0034-1372609 -> Anti-inflammatory Properties of the Monoterpene 1.8-cineole: Current E
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (0.50)] Ref 5 DOI 10.1128/am.15.4.819-821.1967 -> Antibacterial Action of Essential Oils of
+            <i>Artemisia</i>
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1007/s11101-020-09671-y -> Thujone, a widely debated volatile compound: What do we know about it?
+  ❌ [MISMATCH!] Ref 7 DOI 10.1074/jbc.M112.438515
+     Cited text: Selescu, T., Ciobanu, A. C., Dobre, C., Reid, G., & Babes, A. (2013). Camphor activates and sensitizes transient recepto...
+     CrossRef Title: Interferon-inducible Transmembrane Protein 3 (IFITM3) Restricts Reovirus Cell Entry
+     Similarity Score: 0.01
+  ℹ️ Ref 8: No DOI in reference
+  ✅ [MATCH (0.92)] Ref 9 DOI 10.1177/1934578X221117417 -> Chemical Composition and Terpenoid Enantiomeric Distribution of the Es
+  ✅ [MATCH (1.00)] Ref 10 DOI 10.3390/plants11091228 -> Essential Oil Yield, Composition, and Bioactivity of Sagebrush Species
+
+=== chapter_18.html (8 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.3390/ijms222011163 -> Phytoconstituents and Bioactivity of Plants of the Genus Spiraea L. (R
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.1134/S1068162017070081 -> The Antioxidant Activity of the Russian Far East Representatives of th
+  ✅ [MATCH (1.00)] Ref 4 DOI 10.3390/nu8030167 -> Quercetin, Inflammation and Immunity
+  ℹ️ Ref 5: No DOI in reference
+  ℹ️ Ref 6: No DOI in reference
+  ✅ [MATCH (0.93)] Ref 7 DOI 10.1007/s11240-020-01971-7 -> In vitro propagation of Spiraea betulifolia subsp. aemiliana (Rosaceae
+  ✅ [MATCH (0.93)] Ref 8 DOI 10.3390/ijms24032362 -> The Influence of Solid and Liquid Systems In Vitro on the Growth and B
+
+=== chapter_19.html (9 references) ===
+  ℹ️ Ref 1: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 2 DOI 10.1016/0889-1575(89)90059-8 -> Nutrient values in indigenous wild berries used by the nuxalk people o
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.3390/foods10081745 -> Evaluation of Anthocyanin Profiles in Various Blackcurrant Cultivars o
+  ✅ [MATCH (1.00)] Ref 4 DOI 10.3390/ijms20102588 -> The Anti-inflammatory Effects of Dietary Anthocyanins against Ulcerati
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1021/jf011062r -> Anthocyanins, Phenolics, and Antioxidant Capacity in Diverse Small Fru
+  ✅ [MATCH (1.00)] Ref 6 DOI 10.1207/s15327914nc5401_4 -> Berry Phenolics: Antimicrobial Properties and Mechanisms of Action Aga
+  ✅ [MATCH (1.00)] Ref 7 DOI 10.1155/2020/1258707 -> Antioxidant Action and<i>In Vivo</i>Anti-Inflammatory and Antinocicept
+  ✅ [MATCH (0.92)] Ref 8 DOI 10.1016/j.jep.2021.114166 -> Genus Ribes Linn. (Grossulariaceae): A comprehensive review of traditi
+  ℹ️ Ref 9: No DOI in reference
+
+=== chapter_20.html (12 references) ===
+  ✅ [MATCH (0.92)] Ref 1 DOI 10.1080/10942912.2018.1446146 -> Flavonoids profile and antioxidant activity in flowers and leaves of h
+  ℹ️ Ref 2: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 3 DOI 10.1016/j.phytochem.2012.04.006 -> A review of the chemistry of the genus Crataegus
+  ℹ️ Ref 4: No DOI in reference
+  ✅ [MATCH (1.00)] Ref 5 DOI 10.1016/j.ejheart.2008.10.004 -> The Efficacy and Safety of Crataegus Extract WS® 1442 in Patients with
+  ℹ️ Ref 6: No DOI in reference
+  ℹ️ Ref 7: No DOI in reference
+  ✅ [MATCH (0.88)] Ref 8 DOI 10.3390/nu7095361 -> Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry t
+  ✅ [MATCH (1.00)] Ref 9 DOI 10.1016/j.jfoodeng.2004.08.032 -> Hawthorn (Crataegus spp.) fruit: some physical and chemical properties
+  ✅ [MATCH (1.00)] Ref 10 DOI 10.1016/S0031-9422(02)00172-3 -> Isolation and identification of oligomeric procyanidins from Crataegus
+  ℹ️ Ref 11: No DOI in reference
+  ✅ [MATCH (0.90)] Ref 12 DOI 10.1002/jsfa.5671 -> Composition and health effects of phenolic compounds in hawthorn (<i>C
+
+================ EMPIRICAL VERIFICATION SUMMARY ================
+Chapters Analyzed: Chapters 01 - 20
+Total References: 238
+References Without DOI: 97
+Total DOIs Checked: 141
+Valid DOIs (200 OK): 138
+HTTP Errors / Dead DOIs: 3
+Verified Matches (Similarity >= 0.50): 119
+Mismatches / Hallucinated / Dead DOIs: 22
+=================================================================

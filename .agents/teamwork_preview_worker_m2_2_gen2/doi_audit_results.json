@@ -1,0 +1,728 @@
+{
+  "chapter_08": [
+    {
+      "num": 1,
+      "text": "Bocek, B. R. (1984). Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington.\n  \n   Economic Botany\n  \n  ,\n  \n   38\n  \n  (2), 240\u2013255.\n  \nhttps://doi.org/10.1007/BF02858839",
+      "existing_doi": "10.1007/BF02858839",
+      "final_doi": "10.1007/BF02858839",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington'"
+    },
+    {
+      "num": 2,
+      "text": "Cayoose Creek Band of Sekw\u2019el\u2019was Elders and Community members. (n.d.).\n  \n   Traditional knowledge\n  \n  .",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 3,
+      "text": "Filipowicz, N., Kami\u0144ski, M., Kurlenda, J., Asztemborska, M., & Ochocka, J. R. (2003). Antibacterial and antifungal activity of juniper berry oil and its selected components.\n  \n   Phytotherapy Research\n  \n  ,\n  \n   17\n  \n  (3), 227\u2013231.\n  \nhttps://doi.org/10.1002/ptr.1110",
+      "existing_doi": "10.1002/ptr.1110",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 4,
+      "text": "Gli\u0161i\u0107, S. B., Milojevi\u0107, S. \u017d., Dimitrijevi\u0107, S. I., Orlovi\u0107, A. M., & Skala, D. U. (2007). Antimicrobial activity of the essential oil and different fractions of\n  \n   Juniperus communis\n  \n  L. and a comparison with some commercial antibiotics.\n  \n   Journal of the Serbian Chemical Society\n  \n  ,\n  \n   72\n  \n  (4), 311\u2013320.\n  \nhttps://doi.org/10.2298/JSC0704311G",
+      "existing_doi": "10.2298/JSC0704311G",
+      "final_doi": "10.2298/JSC0704311G",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Antimicrobial activity of the essential oil and different fractions of Juniperus communis L. and a comparison with some commercial antibiotics'"
+    },
+    {
+      "num": 5,
+      "text": "Gon\u00e7alves, A. C., Flores-F\u00e9lix, J. D., Coutinho, P., Alves, G., & Silva, L. R. (2022). Zimbro (\n  \n   Juniperus communis\n  \n  L.) as a promising source of bioactive compounds and biomedical activities: A review on recent trends.\n  \n   International Journal of Molecular Sciences\n  \n  ,\n  \n   23\n  \n  (6), 3197.\n  \nhttps://doi.org/10.3390/ijms23063197",
+      "existing_doi": "10.3390/ijms23063197",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 6,
+      "text": "H\u00f6ferl, M., Stoilova, I., Schmidt, E., Wanner, J., Jirovetz, L., Trifonova, D., Krastev, L., & Krastanov, A. (2014). Chemical composition and antioxidant properties of juniper berry (\n  \n   Juniperus communis\n  \n  L.) essential oil: Action of the essential oil on the antioxidant protection of\n  \n   Saccharomyces cerevisiae\n  \n  model organism.\n  \n   Antioxidants\n  \n  ,\n  \n   3\n  \n  (1), 81\u201398.\n  \nhttps://doi.org/10.3390/antiox3010081",
+      "existing_doi": "10.3390/antiox3010081",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 7,
+      "text": "Jones, B. (2024).\n  \n   Medicinal herbs of Western Canada: A pictorial manual\n  \n  (1st ed.). Nimbus Publishing.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 8,
+      "text": "Mascolo, N., Autore, G., Capasso, F., Menghini, A., & Fasulo, M. P. (1987). Biological screening of Italian medicinal plants for anti-inflammatory activity.\n  \n   Phytotherapy Research\n  \n  ,\n  \n   1\n  \n  (1), 28\u201331.\n  \nhttps://doi.org/10.1002/ptr.2650010107",
+      "existing_doi": "10.1002/ptr.2650010107",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 9,
+      "text": "Miyazawa, M., & Yamafuji, C. (2005). Inhibition of acetylcholinesterase activity by bicyclic monoterpenoids.\n  \n   Journal of Agricultural and Food Chemistry\n  \n  ,\n  \n   53\n  \n  (5), 1765\u20131768.\n  \nhttps://doi.org/10.1021/jf040019b",
+      "existing_doi": "10.1021/jf040019b",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 10,
+      "text": "Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 11,
+      "text": "Pepeljnjak, S., Kosalec, I., Kalodera, Z., & Bla\u017eevi\u0107, N. (2005). Antimicrobial activity of juniper berry essential oil (\n  \n   Juniperus communis\n  \n  L., Cupressaceae).\n  \n   Acta Pharmaceutica\n  \n  ,\n  \n   55\n  \n  (4), 417\u2013422.",
+      "existing_doi": null,
+      "final_doi": "10.3403/30180606",
+      "status": "ADDED_MISSING",
+      "notes": "Found true DOI via strict title match (1.00): 'Oil of juniper berry (Juniperus communis L.)'"
+    },
+    {
+      "num": 12,
+      "text": "Raina, R., Verma, P. K., Peshin, R., & Kour, H. (2019). Potential of\n  \n   Juniperus communis\n  \n  L as a nutraceutical in human and veterinary medicine.\n  \n   Heliyon\n  \n  ,\n  \n   5\n  \n  (8), e02376.\n  \nhttps://doi.org/10.1016/j.heliyon.2019.e02376",
+      "existing_doi": "10.1016/j.heliyon.2019.e02376",
+      "final_doi": "10.1016/j.heliyon.2019.e02376",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Potential of Juniperus communis L as a nutraceutical in human and veterinary medicine'"
+    },
+    {
+      "num": 13,
+      "text": "S\u00e1nchez de Medina, F., G\u00e1mez, M. J., Jim\u00e9nez, I., Jim\u00e9nez, J., Osuna, J. I., & Zarzuelo, A. (1994). Hypoglycemic activity of juniper \u201cberries.\u201d\n  \n   Planta Medica\n  \n  ,\n  \n   60\n  \n  (3), 197\u2013200.\n  \nhttps://doi.org/10.1055/s-2006-959457",
+      "existing_doi": "10.1055/s-2006-959457",
+      "final_doi": "10.1055/s-2006-959457",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Hypoglycemic Activity of Juniper \u201cBerries\u201d'"
+    },
+    {
+      "num": 14,
+      "text": "Splitrock Environmental. (n.d.).\n  \n   Common Juniper (ts\u00edktsektaz\u2019)\n  \n  . Retrieved November 7, 2024, from\n  https://splitrockenvironmental.ca/products/common-juniper-tsiktsektaz?variant=40347042218150\">\n   https://splitrockenvironmental.ca/products/common-juniper-tsiktsektaz?variant=40347042218150",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 15,
+      "text": "Swanston-Flatt, S. K., Day, C., Bailey, C. J., & Flatt, P. R. (1990). Traditional plant treatments for diabetes: Studies in normal and streptozotocin diabetic mice.\n  \n   Diabetologia\n  \n  ,\n  \n   33\n  \n  (8), 462\u2013464.\n  \nhttps://doi.org/10.1007/BF00405106",
+      "existing_doi": "10.1007/BF00405106",
+      "final_doi": "10.1007/BF00405106",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Traditional plant treatments for diabetes. Studies in normal and streptozotocin diabetic mice'"
+    },
+    {
+      "num": 16,
+      "text": "Tilford, G. L. (1997).\n  \n   Edible and medicinal plants of the West\n  \n  . Mountain Press Publishing Company.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    }
+  ],
+  "chapter_09": [
+    {
+      "num": 1,
+      "text": "1. Akdemir, Z. S., Tatli, I. I., Saracoglu, I., & Ismailoglu, U. B. (2001). Polyphenolic compounds from Verbascum lasianthum and Verbascum urticaefolium . Turkish Journal of Chemistry, 25 (4), 415\u2013420.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 2,
+      "text": "2. Alipieva, K., Korkina, L., Orhan, I. E., & Georgiev, M. I. (2014). Verbascoside\u2014A review of its occurrence, (bio)synthesis and pharmacological significance. Biotechnology Advances, 32 (6), 1065\u20131076. https://doi.org/10.1016/j.biotechadv.2014.07.001",
+      "existing_doi": "10.1016/j.biotechadv.2014.07.001",
+      "final_doi": "10.1016/j.biotechadv.2014.07.001",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 0.83: 'Verbascoside \u2014 A review of its occurrence, (bio)synthesis and pharmacological significance'"
+    },
+    {
+      "num": 3,
+      "text": "3. Dulger, B., & Gonuz, A. (2004). Antimicrobial activity of some Turkish medicinal plants. Pakistan Journal of Biological Sciences, 7 (9), 1559\u20131562. https://doi.org/10.3923/pjbs.2004.1559.1562",
+      "existing_doi": "10.3923/pjbs.2004.1559.1562",
+      "final_doi": "10.3923/pjbs.2004.1559.1562",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Antimicrobial Activity of Some Turkish Medicinal Plants'"
+    },
+    {
+      "num": 4,
+      "text": "4. Elders and Community Members of the Cayoose Creek Band of Sekw\u2019el\u2019was. (n.d.). Personal communication.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 5,
+      "text": "5. Hamill, F. A., Apio, S., Mubiru, N. K., Mosango, M., Bukenya-Ziraba, R., Maganyi, O. W., & Soejarto, D. D. (2000). Traditional herbal drugs of southern Uganda, I. Journal of Ethnopharmacology, 70 (3), 281\u2013300. https://doi.org/10.1016/S0378-8741(99)00230-7",
+      "existing_doi": "10.1016/S0378-8741(99)00230-7",
+      "final_doi": null,
+      "status": "REMOVED_BROKEN",
+      "notes": "Existing DOI failed CrossRef metadata lookup | Removed broken DOI (no true DOI found)"
+    },
+    {
+      "num": 6,
+      "text": "6. Jones, A. (2024). Medicinal herbs of western Canada (1st ed.). Nimbus Publishing.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 7,
+      "text": "7. Kupeli, E., Kosar, M., Yesilada, E., H\u00fcsnu Can Baser, K., & Ba\u015fer, C. (2005). A comparative study on the anti-inflammatory, antinociceptive and antipyretic effects of isoquinoline alkaloids from the roots of Turkish Berberis species. Life Sciences, 72 (6), 645\u2013657. https://doi.org/10.1016/j.lfs.2003.09.053",
+      "existing_doi": "10.1016/j.lfs.2003.09.053",
+      "final_doi": "10.1016/s0024-3205(02)02200-2",
+      "status": "REPLACED_HALLUCINATED",
+      "notes": "Found true DOI via strict title match (1.00): 'A comparative study on the anti-inflammatory, antinociceptive and antipyretic effects of isoquinoline alkaloids from the roots of Turkish Berberis species'"
+    },
+    {
+      "num": 8,
+      "text": "8. McCutcheon, A. R., Roberts, T. E., Gibbons, E., Ellis, S. M., Babiuk, L. A., Hancock, R. E., & Towers, G. H. N. (1995). Antiviral screening of British Columbian medicinal plants. Journal of Ethnopharmacology, 49 (2), 101\u2013110. https://doi.org/10.1016/0378-8741(95)01321-0",
+      "existing_doi": "10.1016/0378-8741(95)01321-0",
+      "final_doi": "10.1016/0378-8741(95)90037-3",
+      "status": "REPLACED_HALLUCINATED",
+      "notes": "Found true DOI via strict title match (1.00): 'Antiviral screening of British Columbian medicinal plants'"
+    },
+    {
+      "num": 9,
+      "text": "9. Moerman, D. E. (1998). Native American ethnobotany . Timber Press.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 10,
+      "text": "10. Riaz, M., Zia-Ul-Haq, M., & Jaafar, H. Z. E. (2013). Common mullein, pharmacological and chemical aspects. Revista Brasileira de Farmacognosia, 23 (6), 948\u2013959. https://doi.org/10.1590/S0102-695X2013000600004",
+      "existing_doi": "10.1590/S0102-695X2013000600004",
+      "final_doi": "10.1590/s0102-695x2013000600012",
+      "status": "REPLACED_HALLUCINATED",
+      "notes": "Found true DOI via strict title match (1.00): 'Common mullein, pharmacological and chemical aspects'"
+    },
+    {
+      "num": 11,
+      "text": "11. Saric\u0301-Kundalic\u0301, B., Dobe\u0161, C., Klatte-Asselmeyer, V., & Saukel, J. (2010). Ethnobotanical study on medicinal use of wild and cultivated plants in middle, south and west Bosnia and Herzegovina. Journal of Ethnopharmacology, 131 (1), 33\u201355. https://doi.org/10.1016/j.jep.2010.05.061",
+      "existing_doi": "10.1016/j.jep.2010.05.061",
+      "final_doi": "10.1016/j.jep.2010.05.061",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Ethnobotanical study on medicinal use of wild and cultivated plants in middle, south and west Bosnia and Herzegovina'"
+    },
+    {
+      "num": 12,
+      "text": "12. Sarrell, E. M., Mandelberg, A., & Cohen, H. A. (2001). Efficacy of naturopathic extracts in the management of ear pain associated with acute otitis media. Archives of Pediatrics & Adolescent Medicine, 155 (7), 796\u2013799. https://doi.org/10.1001/archpedi.155.7.796",
+      "existing_doi": "10.1001/archpedi.155.7.796",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 13,
+      "text": "13. Tatli, I. I., & Akdemir, Z. S. (2004). Traditional uses and biological activities of Verbascum species. FABAD Journal of Pharmaceutical Sciences, 29 , 85\u201396.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 14,
+      "text": "14. Tatli, I. I., Akdemir, Z., Yesilada, E., & K\u00fcpeli, E. (2004). Anti-inflammatory and antinociceptive potential of major phenolics from Verbascum salviifolium . Zeitschrift f\u00fcr Naturforschung C, 59 (5\u20136), 609\u2013613. https://doi.org/10.1515/znc-2004-5-622",
+      "existing_doi": "10.1515/znc-2004-5-622",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 202, metadata valid=True | Candidate DOI HTTP 202"
+    },
+    {
+      "num": 15,
+      "text": "15. Turker, A. U., & Camper, N. D. (2002). Biological activity of common mullein, a medicinal plant. Journal of Ethnopharmacology, 82 (2\u20133), 117\u2013125. https://doi.org/10.1016/S0378-8741(02)00159-3",
+      "existing_doi": "10.1016/S0378-8741(02)00159-3",
+      "final_doi": "10.1016/s0378-8741(02)00186-1",
+      "status": "REPLACED_BROKEN",
+      "notes": "Found true DOI via strict title match (1.00): 'Biological activity of common mullein, a medicinal plant'"
+    },
+    {
+      "num": 16,
+      "text": "16. Zahradnik, H. P., & Goldmeier, S. (2020). Phytotherapy for dysmenorrhea, endometriosis, and premenstrual syndrome. In I. E. Orhan (Ed.), Herbal medicine (pp. 323\u2013342). CRC Press. https://doi.org/10.1201/9780429243730-18",
+      "existing_doi": "10.1201/9780429243730-18",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI failed CrossRef metadata lookup | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 17,
+      "text": "17. Zgorniak-Nowosielska, I., Grzybek, J., Manolova, N., Serkedjieva, J., & Zawilinska, B. (1991). Antiviral activity of Flos Verbasci infusion against Influenza and Herpes simplex viruses. Archivum Immunologiae et Therapiae Experimentalis, 39 , 103\u2013108.",
+      "existing_doi": null,
+      "final_doi": "10.1007/5.1661-4917",
+      "status": "ADDED_MISSING",
+      "notes": "Found true DOI via strict title match (1.00): 'Archivum Immunologiae et Therapiae Experimentalis'"
+    },
+    {
+      "num": 18,
+      "text": "18. Zheleva-Dimitrova, D., Obreshkova, D., & Nedialkov, P. (2013). Antioxidant activity of iridoid glucosides from Veronica chamaedrys . Pharmacognosy Magazine, 9 (35), 268\u2013273. https://doi.org/10.4103/0973-1296.113294",
+      "existing_doi": "10.4103/0973-1296.113294",
+      "final_doi": null,
+      "status": "REMOVED_BROKEN",
+      "notes": "Existing DOI failed CrossRef metadata lookup | Removed broken DOI (no true DOI found)"
+    }
+  ],
+  "chapter_10": [
+    {
+      "num": 1,
+      "text": "Deane, G. (n.d.).\n   \n    Rose hips\n   \n   . Eat The Weeds. https://www.eattheweeds.com/rose-hips/",
+      "existing_doi": null,
+      "final_doi": "10.1016/s0140-6736(45)91770-3",
+      "status": "ADDED_MISSING",
+      "notes": "Found true DOI via strict title match (1.00): 'ROSE HIPS'"
+    },
+    {
+      "num": 2,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw\u2019el\u2019was. (n.d.).\n   \n    Traditional knowledge and uses of plants\n   \n   .",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 3,
+      "text": "Joseph, L. (n.d.).\n   \n    Recipe: Rosehip, nettle and mint tea for boosting immunity\n   \n   . Skw\u00e1lwen. https://skwalwen.com/blogs/news/recipe-rosehip-nettle-and-mint-tea-for-boosting-immunity",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 4,
+      "text": "M\u00e1rmol, I., S\u00e1nchez-de-Diego, C., Jim\u00e9nez-Moreno, N., Anc\u00edn-Azpilicueta, C., & Rodr\u00edguez-Yoldi, M. J. (2017). Therapeutic applications of rose hips from different\n   \n    Rosa\n   \n   species.\n   \n    International Journal of Molecular Sciences\n   \n   ,\n   \n    18\n   \n   (6), 1137. https://doi.org/10.3390/ijms18061137",
+      "existing_doi": "10.3390/ijms18061137",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 5,
+      "text": "Splitrock Environmental. (n.d.).\n   \n    Prairie rose (qel\u2019q)\n   \n   . https://splitrockenvironmental.ca/products/prairie-rose-qel-q?variant=40368083304614",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 6,
+      "text": "Winther, K., Vinther Hansen, A. S., & Campbell-Tofte, J. (2015). Bioactive ingredients of rose hips (\n   \n    Rosa canina\n   \n   L) with special reference to antioxidative and anti-inflammatory properties: In vitro studies.\n   \n    Botanics: Targets and Therapy\n   \n   ,\n   \n    5\n   \n   , 11\u201323. https://doi.org/10.2147/BTAT.S91385",
+      "existing_doi": "10.2147/BTAT.S91385",
+      "final_doi": "10.2147/BTAT.S91385",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Bioactive ingredients of rose hips (Rosa canina L) with special reference to antioxidative and anti-inflammatory properties: in vitro studies'"
+    }
+  ],
+  "chapter_11": [
+    {
+      "num": 1,
+      "text": "1. Adams, J. D., & Garcia, C. (2005). The advantages of traditional Chumash healing.\n  \n   Evidence-Based Complementary and Alternative Medicine\n  \n  ,\n  \n   2\n  \n  (1), 19\u201323.\n  \n   https://doi.org/10.1093/ecam/neh050",
+      "existing_doi": "10.1093/ecam/neh050",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 2,
+      "text": "2. Anibogwu, R., De Jesus, K., Pradhan, S., Van Leuven, S., & Sharma, K. (2024). Sesquiterpene lactones and flavonoid from the leaves of basin big sagebrush (\n  \n   Artemisia tridentata\n  \n  subsp.\n  \n   tridentata\n  \n  ): Isolation, characterization and biological activities.\n  \n   Molecules\n  \n  ,\n  \n   29\n  \n  (4), 802.\n  \n   https://doi.org/10.3390/molecules29040802",
+      "existing_doi": "10.3390/molecules29040802",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 3,
+      "text": "3. Asikinak, B. (n.d.). Smudging. In\n  \n   Indigenous Saskatchewan Encyclopedia\n  \n  . Retrieved April 18, 2025, from\n  \n   https://teaching.usask.ca/indigenoussk/import/smudging.php",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 4,
+      "text": "4. Baricevic, D., & Bartol, T. (2000). The biological/pharmacological activity of the\n  \n   Salvia\n  \n  genus. In S. E. Kintzios (Ed.),\n  \n   Sage: The genus Salvia\n  \n  (pp. 143\u2013184). Harwood Academic Publishers.",
+      "existing_doi": null,
+      "final_doi": "10.1016/s0031-9422(01)00339-9",
+      "status": "ADDED_MISSING",
+      "notes": "Found true DOI via strict title match (1.00): 'Sage: The Genus Salvia'"
+    },
+    {
+      "num": 5,
+      "text": "5. Barrows, D. P. (1977).\n  \n   Ethno-botany of the Coahuilla Indians of Southern California\n  \n  (Reprint of 1900 ed.). Malki Museum Press.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 6,
+      "text": "6. Bean, L. J., & Saubel, K. S. (1972).\n  \n   Temalpakh: Cahuilla Indian knowledge and usage of plants\n  \n  . Malki Museum Press.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 7,
+      "text": "7. California Native Plant Society. (n.d.).\n  \n   Saging the world\n  \n  . Retrieved April 18, 2025, from\n  \n   https://www.cnps.org/conservation/white-sage",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 8,
+      "text": "8. Elders and community members of the Cayoose Creek Band of Sekw\u2019el\u2019was. (n.d.).",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 9,
+      "text": "9. Ghorbani, A., & Esmaeilizadeh, M. (2017). Pharmacological properties of\n  \n   Salvia officinalis\n  \n  and its components.\n  \n   Journal of Traditional and Complementary Medicine\n  \n  ,\n  \n   7\n  \n  (4), 433\u2013440.\n  \n   https://doi.org/10.1016/j.jtcme.2016.12.014",
+      "existing_doi": "10.1016/j.jtcme.2016.12.014",
+      "final_doi": "10.1016/j.jtcme.2016.12.014",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Pharmacological properties of Salvia officinalis and its components'"
+    },
+    {
+      "num": 10,
+      "text": "10. Hamidpour, M., Hamidpour, R., Hamidpour, S., & Shahlari, M. (2014). Chemistry, pharmacology, and medicinal property of sage (\n  \n   Salvia\n  \n  ) to prevent and cure illnesses such as obesity, diabetes, depression, dementia, lupus, autism, heart disease, and cancer.\n  \n   Journal of Traditional and Complementary Medicine\n  \n  ,\n  \n   4\n  \n  (2), 82\u201388.\n  \n   https://doi.org/10.4103/2225-4110.130373",
+      "existing_doi": "10.4103/2225-4110.130373",
+      "final_doi": "10.4103/2225-4110.130373",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Chemistry, Pharmacology, and Medicinal Property of Sage (Salvia) to Prevent and Cure Illnesses such as Obesity, Diabetes, Depression, Dementia, Lupus, Autism, Heart Disease, and Cancer'"
+    },
+    {
+      "num": 11,
+      "text": "11. Jones, R. (2024).\n  \n   Medicinal herbs of Western Canada\n  \n  (1st ed.). Nimbus Publishing.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 12,
+      "text": "12. Lopresti, A. L. (2017).\n  \n   Salvia\n  \n  (sage): A review of its potential cognitive-enhancing and protective effects.\n  \n   Drugs in R&D\n  \n  ,\n  \n   17\n  \n  (1), 53\u201364.\n  \n   https://doi.org/10.1007/s40268-016-0157-8",
+      "existing_doi": "10.1007/s40268-016-0157-8",
+      "final_doi": "10.1007/s40268-016-0157-5",
+      "status": "REPLACED_BROKEN",
+      "notes": "Found true DOI via strict title match (1.00): 'Salvia (Sage): A Review of its Potential Cognitive-Enhancing and Protective Effects'"
+    },
+    {
+      "num": 13,
+      "text": "13. Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 14,
+      "text": "14. Nigam, M., Atanassova, M., Mishra, A. P., Pezzani, R., Devkota, H. P., Plygun, S., Salehi, B., Setzer, W. N., & Sharifi-Rad, J. (2019). Bioactive compounds and health benefits of\n  \n   Artemisia\n  \n  species.\n  \n   Natural Product Communications\n  \n  ,\n  \n   14\n  \n  (7).\n  \n   https://doi.org/10.1177/1934578X19850354",
+      "existing_doi": "10.1177/1934578X19850354",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 15,
+      "text": "15. Perry, N. S., Bollen, C., Perry, E. K., & Ballard, C. (2003).\n  \n   Salvia\n  \n  for dementia therapy: Review of pharmacological activity and pilot tolerability clinical trial.\n  \n   Pharmacology Biochemistry and Behavior\n  \n  ,\n  \n   75\n  \n  (3), 651\u2013659.\n  \n   https://doi.org/10.1016/S0091-3057(03)00108-4",
+      "existing_doi": "10.1016/S0091-3057(03)00108-4",
+      "final_doi": "10.1016/S0091-3057(03)00108-4",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Salvia for dementia therapy: review of pharmacological activity and pilot tolerability clinical trial'"
+    },
+    {
+      "num": 16,
+      "text": "16. Raman, R. (2023).\n  \n   9 emerging benefits and uses of sage tea\n  \n  . Healthline.\n  \n   https://www.healthline.com/nutrition/sage-tea",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 17,
+      "text": "17. Ramos, A. A., Azqueta, A., Pereira-Wilson, C., & Collins, A. R. (2010). Polyphenolic compounds from\n  \n   Salvia\n  \n  species protect cellular DNA from oxidation and stimulate DNA repair in cultured human cells.\n  \n   Journal of Agricultural and Food Chemistry\n  \n  ,\n  \n   58\n  \n  (12), 7465\u20137471.\n  \n   https://doi.org/10.1021/jf100871b",
+      "existing_doi": "10.1021/jf100871b",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI failed CrossRef metadata lookup | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 18,
+      "text": "18. Sa, C. M., Ramos, A. A., Azevedo, M. F., Lima, C. F., Fernandes-Ferreira, M., & Pereira-Wilson, C. (2009). Sage tea drinking improves lipid profile and antioxidant defences in humans.\n  \n   International Journal of Molecular Sciences\n  \n  ,\n  \n   10\n  \n  (9), 3937\u20133950.\n  \n   https://doi.org/10.3390/ijms10093937",
+      "existing_doi": "10.3390/ijms10093937",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 19,
+      "text": "19. Schaffer, S., M\u00fcller, W. E., & Eckert, G. P. (2013). Tocopherols, tocotrienols, and brain health. In A. M. Schaffer, W. E. M\u00fcller, & G. P. Eckert (Eds.),\n  \n   Aging and health \u2013 A systems biology perspective\n  \n  (Vol. 40, pp. 121\u2013131). Karger Publishers.\n  \n   https://doi.org/10.1159/000346229",
+      "existing_doi": "10.1159/000346229",
+      "final_doi": null,
+      "status": "REMOVED_BROKEN",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Removed broken DOI (no true DOI found)"
+    },
+    {
+      "num": 20,
+      "text": "20. Splitrock Environmental. (n.d.).\n  \n   Sage (k\u00e1wkwu)\n  \n  . Retrieved November 19, 2024, from\n  https://splitrockenvironmental.ca/products/big-sagebrush-kawkwu?variant=40347062960294\">\n   https://splitrockenvironmental.ca/products/big-sagebrush-kawkwu?variant=40347062960294",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 21,
+      "text": "21. Tildesley, N. T., Kennedy, D. O., Perry, E. K., Ballard, C. G., Savelev, S., Wesnes, K. A., & Scholey, A. B. (2003).\n  \n   Salvia lavandulaefolia\n  \n  (Spanish sage) enhances memory in healthy young volunteers.\n  \n   Pharmacology Biochemistry and Behavior\n  \n  ,\n  \n   75\n  \n  (3), 669\u2013674.\n  \n   https://doi.org/10.1016/S0091-3057(03)00122-9",
+      "existing_doi": "10.1016/S0091-3057(03)00122-9",
+      "final_doi": "10.1016/S0091-3057(03)00122-9",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Salvia lavandulaefolia (Spanish Sage) enhances memory in healthy young volunteers'"
+    },
+    {
+      "num": 22,
+      "text": "22. Timbrook, J. (1990). Ethnobotany of Chumash Indians, California, based on collections by John P. Harrington.\n  \n   Economic Botany\n  \n  ,\n  \n   44\n  \n  (2), 236\u2013253.\n  \n   https://doi.org/10.1007/BF02860478",
+      "existing_doi": "10.1007/BF02860478",
+      "final_doi": "10.1007/bf02860489",
+      "status": "REPLACED_HALLUCINATED",
+      "notes": "Found true DOI via strict title match (1.00): 'Ethnobotany of chumash indians, California, Based on Collections by John P. Harrington'"
+    },
+    {
+      "num": 23,
+      "text": "23. Wightman, E. L., Jackson, P. A., Spittlehouse, B., Heffernan, T., Guillemet, D., & Kennedy, D. O. (2021). The acute and chronic cognitive effects of a sage extract: A randomized, placebo-controlled study in healthy humans.\n  \n   Nutrients\n  \n  ,\n  \n   13\n  \n  (1), 218.\n  \n   https://doi.org/10.3390/nu13010218",
+      "existing_doi": "10.3390/nu13010218",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    }
+  ],
+  "chapter_12": [
+    {
+      "num": 1,
+      "text": "Brunning, A. (2015).\n  \n   The chemistry of stinging nettles\n  \n  . Compound Interest.\n  \nhttps://www.compoundchem.com/2015/06/04/nettles/",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 2,
+      "text": "Chrubasik, J. E., Roufogalis, B. D., Wagner, H., & Chrubasik, S. (2007). A comprehensive review on the stinging nettle effect and efficacy profiles. Part II:\n  \n   Urticae radix\n  \n  .\n  \n   Phytomedicine, 14\n  \n  (7\u20138), 568\u2013579.\n  \nhttps://doi.org/10.1016/j.phymed.2007.03.014",
+      "existing_doi": "10.1016/j.phymed.2007.03.014",
+      "final_doi": "10.1016/j.phymed.2007.03.014",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'A comprehensive review on the stinging nettle effect and efficacy profiles. Part II: Urticae radix'"
+    },
+    {
+      "num": 3,
+      "text": "Durovic, S., Kojic, I., Radic, D., Smyatskaya, Y. A., Bazarnova, J. G., Filip, S., & Tosti, T. (2024). Chemical constituent of stinging nettle (\n  \n   Urtica dioica\n  \n  L.): A comprehensive review on phenolic and polyphenolic compounds and their bioactivity.\n  \n   International Journal of Molecular Sciences, 25\n  \n  (6), 3430.\n  \nhttps://doi.org/10.3390/ijms25063430",
+      "existing_doi": "10.3390/ijms25063430",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 4,
+      "text": "Elders and Community Members of the Cayoose Creek Band of Sekw\u2019el\u2019was. (n.d.).",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 5,
+      "text": "G\u00fcl\u00e7in, \u0130., K\u00fcfrevio\u011flu, \u00d6. \u0130., Oktay, M., & B\u00fcy\u00fckokuro\u011flu, M. E. (2004). Antioxidant, antimicrobial, antiulcer and analgesic activities of nettle (\n  \n   Urtica dioica\n  \n  ).\n  \n   Journal of Ethnopharmacology, 90\n  \n  (2\u20133), 205\u2013215.\n  \nhttps://doi.org/10.1016/j.jep.2003.09.028",
+      "existing_doi": "10.1016/j.jep.2003.09.028",
+      "final_doi": "10.1016/j.jep.2003.09.028",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 0.89: 'Antioxidant, antimicrobial, antiulcer and analgesic activities of nettle (Urtica dioica L.)'"
+    },
+    {
+      "num": 6,
+      "text": "Hamel, P. B., & Chiltoskey, M. U. (1975).\n  \n   Cherokee plants and their uses: A 400 year history\n  \n  . Herald Publishing Co.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 7,
+      "text": "Jones, B. (2024).\n  \n   Medicinal herbs of Western Canada\n  \n  (1st ed.). Nimbus Publishing.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 8,
+      "text": "Konrad, L., M\u00fcller, H. H., Lenz, C., Laubinger, H., Aum\u00fcller, G., & Lichius, J. J. (2000). Antiproliferative effect on human prostate cancer cells by a stinging nettle root (\n  \n   Urtica dioica\n  \n  ) extract.\n  \n   Planta Medica, 66\n  \n  (1), 44\u201347.\n  \nhttps://doi.org/10.1055/s-2000-11120",
+      "existing_doi": "10.1055/s-2000-11120",
+      "final_doi": "10.1055/s-2000-11117",
+      "status": "REPLACED_HALLUCINATED",
+      "notes": "Found true DOI via strict title match (1.00): 'Antiproliferative Effect on Human Prostate Cancer Cells by a Stinging Nettle Root (Urtica dioica) Extract'"
+    },
+    {
+      "num": 9,
+      "text": "Kregiel, D., Pawlikowska, E., & Antolak, H. (2018).\n  \n   Urtica\n  \n  spp.: Ordinary plants with extraordinary properties.\n  \n   Molecules, 23\n  \n  (7), 1664.\n  \nhttps://doi.org/10.3390/molecules23071664",
+      "existing_doi": "10.3390/molecules23071664",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 10,
+      "text": "Mittman, P. (1990). Randomized, double-blind study of freeze-dried\n  \n   Urtica dioica\n  \n  in the treatment of allergic rhinitis.\n  \n   Planta Medica, 56\n  \n  (1), 44\u201347.\n  \nhttps://doi.org/10.1055/s-2006-960881",
+      "existing_doi": "10.1055/s-2006-960881",
+      "final_doi": "10.1055/s-2006-960881",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 0.73: 'Randomized, Double-Blind Study of Freeze-Dried<i>Urtica dioica</i>in the Treatment of Allergic Rhinitis'"
+    },
+    {
+      "num": 11,
+      "text": "Splitrock Environmental. (n.d.).\n  \n   Stinging nettle salve\n  \n  .\n  https://splitrockenvironmental.ca/products/stinging-nettle-salve?variant=33785190744123\">\n   https://splitrockenvironmental.ca/products/stinging-nettle-salve?variant=33785190744123",
+      "existing_doi": null,
+      "final_doi": "10.31003/uspnf_m56480_02_01",
+      "status": "ADDED_MISSING",
+      "notes": "Found true DOI via strict title match (1.00): 'Stinging Nettle'"
+    }
+  ],
+  "chapter_13": [
+    {
+      "num": 1,
+      "text": "Abdulladjanova, N. G., Mavlonov, G. T., Mamadrahimov, A. A., Rakhimov, R. N., Ning, H., Wali, A., Yili, A., & Abdulla, R. (n.d.).\n   \n    Phenolic compounds of Rhus glabra\n   \n   .\n   \nhttps://www.jrespharm.com/uploads/pdf/pdf_MPJ_1485.pdf",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 2,
+      "text": "Lord, A. (2019, July 2).\n   \n    Beware poison sumac (Rhus vernix)\n   \n   . UNH Extension.\n   \nhttps://extension.unh.edu/blog/2019/07/beware-poison-sumac-rhus-vernix",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 3,
+      "text": "National Center for Biotechnology Information. (2025).\n   \n    PubChem compound summary for CID 1183, vanillin\n   \n   .\n   \nhttps://pubchem.ncbi.nlm.nih.gov/compound/Vanillin",
+      "existing_doi": null,
+      "final_doi": "10.32388/uq8dyz",
+      "status": "ADDED_MISSING",
+      "notes": "Found true DOI via strict title match (1.00): 'National Center for Biotechnology Information'"
+    },
+    {
+      "num": 4,
+      "text": "Opiyo, S. A., Njoroge, P. W., Ndirangu, E. G., & Kuria, K. M. (2021). A review of biological activities and phytochemistry of Rhus species.\n   \n    American Journal of Chemistry\n   \n   ,\n   \n    11\n   \n   (2).\n   \nhttps://doi.org/10.5923/j.chemistry.20211102.02",
+      "existing_doi": "10.5923/j.chemistry.20211102.02",
+      "final_doi": "10.1016/j.phytochem.2020.112540",
+      "status": "REPLACED_BROKEN",
+      "notes": "Found true DOI via strict title match (0.80): 'Phytochemistry and biological activities of Aglaia species'"
+    },
+    {
+      "num": 5,
+      "text": "Splitrock Environmental. (2025).\n   \n    Smooth sumac (nekw\u2019tsam\u00fam\u2019l)\n   \n   .\n   https://splitrockenvironmental.ca/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518\">\n    https://splitrockenvironmental.ca/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 6,
+      "text": "United States Department of Agriculture Natural Resources Conservation Service. (2004).\n   \n    Plant guide for smooth sumac (Rhus glabra L.)\n   \n   .\n   \nhttps://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_rhgl.pdf",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    }
+  ],
+  "chapter_14": [
+    {
+      "num": 1,
+      "text": "Ali, S. I., Gopalakrishnan, B., & Venkatesalu, V. (2017). Pharmacognosy, phytochemistry and pharmacological properties of\n  \n   Achillea millefolium\n  \n  : A review.\n  \n   Phytotherapy Research, 31\n  \n  (8), 1140\u20131161.\n  \nhttps://doi.org/10.1002/ptr.5840",
+      "existing_doi": "10.1002/ptr.5840",
+      "final_doi": null,
+      "status": "REMOVED_BROKEN",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Removed broken DOI (no true DOI found)"
+    },
+    {
+      "num": 2,
+      "text": "Applequist, W. L., & Moerman, D. E. (2011). Yarrow (\n  \n   Achillea millefolium\n  \n  ): A neglected panacea? A review of ethnobotany, bioactivity, and biomedical research.\n  \n   Economic Botany, 65\n  \n  (2), 209\u2013225.\n  \nhttps://doi.org/10.1007/s12231-011-9154-3",
+      "existing_doi": "10.1007/s12231-011-9154-3",
+      "final_doi": "10.1007/s12231-011-9154-3",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 0.90: 'Yarrow (Achillea millefolium L.): A Neglected Panacea? A Review of Ethnobotany, Bioactivity, and Biomedical Research1'"
+    },
+    {
+      "num": 3,
+      "text": "Elders and Community Members of the Cayoose Creek Band of Sekw\u2019el\u2019was. (n.d.). [Traditional knowledge and personal communications].",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 4,
+      "text": "European Medicines Agency. (2019).\n  \n   European Union herbal monograph on Achillea millefolium, herba\n  \n  (Revision 1) [Draft]. Committee on Herbal Medicinal Products.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 5,
+      "text": "Jones, R. (2024).\n  \n   Medicinal herbs of Western Canada\n  \n  (1st ed.). Nimbus Publishing.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 6,
+      "text": "Kazemi, M. (2015). Chemical composition and antimicrobial, antioxidant activities and anti-inflammatory potential of\n  \n   Achillea millefolium\n  \n  ,\n  \n   Anethum graveolens\n  \n  L., and\n  \n   Carum copticum\n  \n  L. essential oils.\n  \n   Journal of Herbal Medicine, 5\n  \n  (4), 217\u2013222.\n  \nhttps://doi.org/10.1016/j.hermed.2015.09.001",
+      "existing_doi": "10.1016/j.hermed.2015.09.001",
+      "final_doi": "10.1016/j.hermed.2015.09.001",
+      "status": "VALID_EXISTING",
+      "notes": "DOI HTTP 200 OK, title match 1.00: 'Chemical composition and antimicrobial, antioxidant activities and anti-inflammatory potential of Achillea millefolium L., Anethum graveolens L., and Carum copticum L. essential oils'"
+    },
+    {
+      "num": 7,
+      "text": "Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press.",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": " | Candidate DOI HTTP 403"
+    },
+    {
+      "num": 8,
+      "text": "Saeidnia, S., Gohari, A. R., Mokhber-Dezfuli, N., & Kiuchi, F. (2011). A review on phytochemistry and medicinal properties of the genus\n  \n   Achillea\n  \n  .\n  \n   DARU Journal of Pharmaceutical Sciences, 19\n  \n  (3), 173\u2013186.\n  \nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3232110/",
+      "existing_doi": null,
+      "final_doi": null,
+      "status": "NO_DOI",
+      "notes": "No valid DOI found (likely book, website, or unindexed item)"
+    },
+    {
+      "num": 9,
+      "text": "Yaeesh, S., Jamal, Q., Khan, A.-U., & Gilani, A. H. (2006). Studies on hepatoprotective, antispasmodic and calcium antagonist activities of the aqueous\u2013methanol extract of\n  \n   Achillea millefolium\n  \n  .\n  \n   Phytotherapy Research, 20\n  \n  (7), 546\u2013551.\n  \nhttps://doi.org/10.1002/ptr.1897",
+      "existing_doi": "10.1002/ptr.1897",
+      "final_doi": null,
+      "status": "BROKEN_HTTP",
+      "notes": "Existing DOI HTTP 403, metadata valid=True | Candidate DOI HTTP 403"
+    }
+  ]
+}

@@ -1,0 +1,1080 @@
+[
+  {
+    "chapter": 15,
+    "ref_num": 1,
+    "text": "Bean, L. J., & Saubel, K. S. (1972). Temalpakh: Cahuilla Indian knowledge and usage of plants. Malki Museum Press.",
+    "extracted_title": "Temalpakh: Cahuilla Indian knowledge and usage of plants",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.2307/25157458",
+    "search_title": "Review: <i>Temalpakh: Cahuilla Indian Knowledge and Usage of Plants</i>, by Lowell John Bean and Katherine Siva Saubel",
+    "search_sim": 0.3333333333333333
+  },
+  {
+    "chapter": 15,
+    "ref_num": 2,
+    "text": "Cavanagh, H. M. A., & Wilkinson, J. M. (2002). Biological activities of lavender essential oil. Phytotherapy Research, 16 (4), 301–308. https://doi.org/10.1002/ptr.1103",
+    "extracted_title": "Biological activities of lavender essential oil",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1002/ptr.1103"
+    ],
+    "existing_doi": "10.1002/ptr.1103",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Biological activities of Lavender essential oil",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1002/ptr.1103",
+    "search_title": "Biological activities of Lavender essential oil",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 3,
+    "text": "D’Auria, F. D., Tecca, M., Strippoli, V., Salvatore, G., Battinelli, L., & Mazzanti, G. (2005). Antifungal activity of Lavandula angustifolia essential oil against Candida albicans yeast and mycelial form. Medical Mycology, 43 (5), 391–396. https://doi.org/10.1080/13693780400029112",
+    "extracted_title": "Antifungal activity of Lavandula angustifolia essential oil against Candida albicans yeast and mycelial form",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1080/13693780400029112"
+    ],
+    "existing_doi": "10.1080/13693780400029112",
+    "existing_doi_status": 404,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1080/13693780400004810",
+    "search_title": "Antifungal activity of<i>Lavandula angustifolia</i>essential oil against<i>Candida albicans</i>yeast and mycelial form",
+    "search_sim": 0.3333333333333333
+  },
+  {
+    "chapter": 15,
+    "ref_num": 4,
+    "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Oral teachings and traditional knowledge .",
+    "extracted_title": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Oral teachings and tr",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1515/9781607322177-007",
+    "search_title": "5 Traditional Teachings and Thought",
+    "search_sim": 0.11764705882352941
+  },
+  {
+    "chapter": 15,
+    "ref_num": 5,
+    "text": "Elisabetsky, E., Marschner, J., & Souza, D. O. (1995). Effects of linalool on the glutamatergic system in the rat cerebral cortex. Neurochemical Research, 20 (4), 461–465. https://doi.org/10.1007/BF00973171",
+    "extracted_title": "Effects of linalool on the glutamatergic system in the rat cerebral cortex",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1007/BF00973171"
+    ],
+    "existing_doi": "10.1007/BF00973171",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Book reviews",
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1007/bf00973103",
+    "search_title": "Effects of linalool on glutamatergic system in the rat cerebral cortex",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 6,
+    "text": "Felter, H. W., & Lloyd, J. U. (1898). King’s American dispensatory (18th ed., 3rd rev.). Ohio Valley Company. https://doi.org/10.5962/bhl.title.62043",
+    "extracted_title": "King’s American dispensatory (18th ed",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.5962/bhl.title.62043"
+    ],
+    "existing_doi": "10.5962/bhl.title.62043",
+    "existing_doi_status": 200,
+    "existing_doi_title": "How to keep bees a handbook for the use of beginners /",
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1016/s0095-9561(16)31425-6",
+    "search_title": "The New Dispensatory",
+    "search_sim": 0.14285714285714285
+  },
+  {
+    "chapter": 15,
+    "ref_num": 7,
+    "text": "Kane, C. W. (2011). Medicinal plants of the American Southwest. Lincoln Town Press.",
+    "extracted_title": "Medicinal plants of the American Southwest",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1080/10496470802598917",
+    "search_title": "Ethnopharmacological Survey of Medicinal Plants along the Southwest Coast of India",
+    "search_sim": 0.45454545454545453
+  },
+  {
+    "chapter": 15,
+    "ref_num": 8,
+    "text": "Koulivand, P. H., Khaleghi Ghadiri, M., & Gorji, A. (2013). Lavender and the nervous system. Evidence-Based Complementary and Alternative Medicine, 2013, 681304. https://doi.org/10.1155/2013/681304",
+    "extracted_title": "Lavender and the nervous system",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1155/2013/681304"
+    ],
+    "existing_doi": "10.1155/2013/681304",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Lavender and the Nervous System",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/j.pop.2018.05.007",
+    "search_title": "Central Nervous System Infections",
+    "search_sim": 0.2857142857142857
+  },
+  {
+    "chapter": 15,
+    "ref_num": 9,
+    "text": "Linck, V. D. M., da Silva, A. L., Figueiró, M., Caramão, E. B., Moreno, P. R., & Elisabetsky, E. (2010). Effects of inhaled linalool in anxiety, social interaction, and aggressive behavior in mice. Phytomedicine, 17 (8–9), 679–683. https://doi.org/10.1016/j.phymed.2010.01.013",
+    "extracted_title": "Effects of inhaled linalool in anxiety, social interaction, and aggressive behavior in mice",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.phymed.2010.01.013"
+    ],
+    "existing_doi": "10.1016/j.phymed.2010.01.013",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Therapeutic effect of norisoboldine, an alkaloid isolated from Radix Linderae, on collagen-induced arthritis in mice",
+    "existing_doi_title_sim": 0.125,
+    "search_doi": "10.1016/j.phymed.2009.10.002",
+    "search_title": "Effects of inhaled Linalool in anxiety, social interaction and aggressive behavior in mice",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 10,
+    "text": "Lis-Balchin, M., & Hart, S. (1999). Studies on the mode of action of the essential oil of lavender ( Lavandula angustifolia Miller). Phytotherapy Research, 13 (6), 540–542. https://doi.org/10.1002/(SICI)1099-1573(199909)13:6<540::AID-PTR523>3.0.CO;2-J",
+    "extracted_title": "Studies on the mode of action of the essential oil of lavender ( Lavandula angustifolia Miller)",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1002/(sici)1099-1573(199909)13:6<540::aid-ptr523>3.0.co;2-i",
+      "https://doi.org/10.1002/(SICI)1099-1573(199909)13:6<540::AID-PTR523>3.0.CO;2-J"
+    ],
+    "existing_doi": "10.1002/(sici)1099-1573(199909)13:6",
+    "existing_doi_status": 404,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.59520/bapp.bapb/nqnh6768",
+    "search_title": "Adulteration of English Lavender (Lavandula angustifolia) Essential Oil",
+    "search_sim": 0.42857142857142855
+  },
+  {
+    "chapter": 15,
+    "ref_num": 11,
+    "text": "Moerman, D. E. (1998). Native American ethnobotany. Timber Press.",
+    "extracted_title": "Native American ethnobotany",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.2307/1224232",
+    "search_title": "Native American Ethnobotany",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 12,
+    "text": "Mori, H. M., Kawanami, H., Kawahata, H., & Aoki, M. (2016). Wound-healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model. BMC Complementary and Alternative Medicine, 16, 144. https://doi.org/10.1186/s12906-016-1131-8",
+    "extracted_title": "Wound-healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1186/s12906-016-1131-8"
+    ],
+    "existing_doi": "10.1186/s12906-016-1131-8",
+    "existing_doi_status": 404,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1186/s12906-016-1128-7",
+    "search_title": "Wound healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model",
+    "search_sim": 0.8947368421052632
+  },
+  {
+    "chapter": 15,
+    "ref_num": 13,
+    "text": "Peana, A. T., D’Aquila, P. S., Panin, F., Serra, G., Pippia, P., & Moretti, M. D. L. (2002). Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils. Phytomedicine, 9 (8), 721–726. https://doi.org/10.1078/0944-7113-00258",
+    "extracted_title": "Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1078/0944-7113-00258"
+    ],
+    "existing_doi": "10.1078/0944-7113-00258",
+    "existing_doi_status": 404,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1078/094471102321621322",
+    "search_title": "Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 14,
+    "text": "Peana, A. T., De Montis, M. G., Nieddu, E., Spano, M. T., D’Aquila, P. S., & Pippia, P. (2004). Profile of spinal and supra-spinal antinociception of (–)-linalool. European Journal of Pharmacology, 485 (1–3), 165–174. https://doi.org/10.1016/j.ejphar.2003.11.010",
+    "extracted_title": "Profile of spinal and supra-spinal antinociception of (–)-linalool",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.ejphar.2003.11.010"
+    ],
+    "existing_doi": "10.1016/j.ejphar.2003.11.010",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Lack of adenosine A1 and dopamine D2 receptor-mediated modulation of the cardiovascular effects of the adenosine A2A receptor agonist CGS 21680",
+    "existing_doi_title_sim": 0.09090909090909091,
+    "search_doi": "10.1016/j.ejphar.2003.11.066",
+    "search_title": "Profile of spinal and supra-spinal antinociception of (−)-linalool",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 15,
+    "text": "Prashar, A., Locke, I. C., & Evans, C. S. (2004). Cytotoxicity of lavender oil and its major components to human skin cells. Cell Proliferation, 37 (3), 221–229. https://doi.org/10.1111/j.1365-2184.2004.00307.x",
+    "extracted_title": "Cytotoxicity of lavender oil and its major components to human skin cells",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1111/j.1365-2184.2004.00307.x"
+    ],
+    "existing_doi": "10.1111/j.1365-2184.2004.00307.x",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Cytotoxicity of lavender oil and its major components to human skin cells",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1111/j.1365-2184.2004.00307.x",
+    "search_title": "Cytotoxicity of lavender oil and its major components to human skin cells",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 16,
+    "text": "Silva Brum, L. F., Emanuelli, T., Souza, D. O., & Elisabetsky, E. (2001). Effects of linalool on glutamate release and uptake in mouse cortical synaptosomes. Neurochemical Research, 26 (3), 191–194. https://doi.org/10.1023/a:1010904214482",
+    "extracted_title": "Effects of linalool on glutamate release and uptake in mouse cortical synaptosomes",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1023/a:1010904214482"
+    ],
+    "existing_doi": "10.1023/a:1010904214482",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Effects of Linalool on Glutamate Release and Uptake in Mouse Cortical Synaptosomes",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1023/a:1010904214482",
+    "search_title": "Effects of Linalool on Glutamate Release and Uptake in Mouse Cortical Synaptosomes",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 15,
+    "ref_num": 17,
+    "text": "Tisserand, R., & Young, R. (2014). Essential oil safety: A guide for health care professionals (2nd ed.). Churchill Livingstone Elsevier.",
+    "extracted_title": "Essential oil safety: A guide for health care professionals (2nd ed",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1016/s0031-9406(05)67007-1",
+    "search_title": "Essential Oil Safety — A guide for health care professionals",
+    "search_sim": 0.8181818181818182
+  },
+  {
+    "chapter": 16,
+    "ref_num": 1,
+    "text": "Böhm, B. A., Choy, J. B., & Lee, A. Y.-M. (1989). Flavonoids of Balsamorhiza and Wyethia . Phytochemistry, 28 (2), 501–503. https://doi.org/10.1016/0031-9422(89)80041-X",
+    "extracted_title": "Flavonoids of Balsamorhiza and Wyethia",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/0031-9422(89)80041-X"
+    ],
+    "existing_doi": "10.1016/0031-9422(89)80041-X",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Flavonoids of Balsamorhiza and Wyethia",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/0031-9422(89)80041-x",
+    "search_title": "Flavonoids of Balsamorhiza and Wyethia",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 16,
+    "ref_num": 2,
+    "text": "Burt, S. (2004). Essential oils: Their antibacterial properties and potential applications in foods—A review. International Journal of Food Microbiology, 94 (3), 223–253. https://doi.org/10.1016/j.ijfoodmicro.2004.03.022",
+    "extracted_title": "Essential oils: Their antibacterial properties and potential applications in foods—A review",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.ijfoodmicro.2004.03.022"
+    ],
+    "existing_doi": "10.1016/j.ijfoodmicro.2004.03.022",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Essential oils: their antibacterial properties and potential applications in foods—a review",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/j.ijfoodmicro.2004.03.022",
+    "search_title": "Essential oils: their antibacterial properties and potential applications in foods—a review",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 16,
+    "ref_num": 3,
+    "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "extracted_title": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.31390/gradschool_dissertations.340",
+    "search_title": "The role of music-making in the identity construction of members of an adult community concert band",
+    "search_sim": 0.2631578947368421
+  },
+  {
+    "chapter": 16,
+    "ref_num": 4,
+    "text": "Flora of North America Editorial Committee. (2020). Balsamorhiza sagittata . In Flora of North America North of Mexico (Vol. 21). Flora North America. https://floranorthamerica.org/Balsamorhiza_sagittata",
+    "extracted_title": "Balsamorhiza sagittata",
+    "nested": true,
+    "hrefs": [
+      "https://floranorthamerica.org/Balsamorhiza_sagittata"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1079/cabicompendium.8322",
+    "search_title": "Balsamorhiza sagittata",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 16,
+    "ref_num": 5,
+    "text": "Hehner, S. P., Heinrich, M., Bork, P. M., Vogt, M., Ratter, F., Lehmann, V., Schulze-Osthoff, K., & Schmitz, M. L. (1998). Sesquiterpene lactones specifically inhibit activation of NF-κB by preventing the degradation of IκB-α and IκB-β. Journal of Biological Chemistry, 273 (3), 1288–1297. https://doi.org/10.1074/jbc.273.3.1288",
+    "extracted_title": "Sesquiterpene lactones specifically inhibit activation of NF-κB by preventing the degradation of IκB-α and IκB-β",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1074/jbc.273.3.1288"
+    ],
+    "existing_doi": "10.1074/jbc.273.3.1288",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Sesquiterpene Lactones Specifically Inhibit Activation of NF-κB by Preventing the Degradation of IκB-α and IκB-β",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1074/jbc.273.3.1288",
+    "search_title": "Sesquiterpene Lactones Specifically Inhibit Activation of NF-κB by Preventing the Degradation of IκB-α and IκB-β",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 16,
+    "ref_num": 6,
+    "text": "McWilliams, J. (2002). Balsamorhiza sagittata . In Fire Effects Information System (FEIS) . U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. https://www.fs.usda.gov/database/feis/plants/forb/balsag/all.html",
+    "extracted_title": "Balsamorhiza sagittata",
+    "nested": true,
+    "hrefs": [
+      "https://www.fs.usda.gov/database/feis/plants/forb/balsag/all.html"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1079/cabicompendium.8322",
+    "search_title": "Balsamorhiza sagittata",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 16,
+    "ref_num": 7,
+    "text": "Mohamed, A. E.-H. H., Ahmed, A. A., Wollenweber, E., Bohm, B., & Asakawa, Y. (2006). Highly oxygenated guaianolides and eudesman-12-oic acids from Balsamorhiza sagittata and Balsamorhiza macrophylla . Chemical and Pharmaceutical Bulletin, 54 (2), 152–155. https://doi.org/10.1248/cpb.54.152",
+    "extracted_title": "Highly oxygenated guaianolides and eudesman-12-oic acids from Balsamorhiza sagittata and Balsamorhiza macrophylla",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1248/cpb.54.152"
+    ],
+    "existing_doi": "10.1248/cpb.54.152",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Highly Oxygenated Guaianolides and Eudesman-12-oic Acids from Balsamorhiza sagittata and Balsamorhiza macrophylla",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1002/chin.200629174",
+    "search_title": "Highly Oxygenated Guaianolides and Eudesman‐12‐oic Acids from Balsamorhiza sagittata and Balsamorhiza macrophylla.",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 16,
+    "ref_num": 8,
+    "text": "Panche, A. N., Diwan, A. D., & Chandra, S. R. (2016). Flavonoids: An overview. Journal of Nutritional Science, 5 , e47. https://doi.org/10.1017/jns.2016.41",
+    "extracted_title": "Flavonoids: An overview",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1017/jns.2016.41"
+    ],
+    "existing_doi": "10.1017/jns.2016.41",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Flavonoids: an overview",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1201/9781003399964-2",
+    "search_title": "Flavonoids As Potential Immunity Boosters: An Overview",
+    "search_sim": 0.42857142857142855
+  },
+  {
+    "chapter": 16,
+    "ref_num": 9,
+    "text": "Swor, K., Satyal, P., Poudel, A., & Setzer, W. N. (2024). The essential oil of Balsamorhiza sagittata from southwestern Idaho: Chemical composition and enantiomeric distribution. Natural Product Communications, 19 (1), 1–7. https://doi.org/10.1177/1934578X231225842",
+    "extracted_title": "The essential oil of Balsamorhiza sagittata from southwestern Idaho: Chemical composition and enantiomeric distribution",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1177/1934578X231225842"
+    ],
+    "existing_doi": "10.1177/1934578X231225842",
+    "existing_doi_status": 200,
+    "existing_doi_title": "The Essential Oil of\n                    <i>Balsamorhiza sagittata</i>\n                    from Southwestern Idaho: Chemical Composition and Enantiomeric Distribution",
+    "existing_doi_title_sim": 0.75,
+    "search_doi": "10.1177/1934578x231225842",
+    "search_title": "The Essential Oil of\n                    <i>Balsamorhiza sagittata</i>\n                    from Southwestern Idaho: Chemical Composition and Enantiomeric Distribution",
+    "search_sim": 0.75
+  },
+  {
+    "chapter": 17,
+    "ref_num": 1,
+    "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "extracted_title": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.31390/gradschool_dissertations.340",
+    "search_title": "The role of music-making in the identity construction of members of an adult community concert band",
+    "search_sim": 0.2631578947368421
+  },
+  {
+    "chapter": 17,
+    "ref_num": 2,
+    "text": "Höld, K. M., Sirisoma, N. S., Ikeda, T., Narahashi, T., & Casida, J. E. (2000). α-Thujone (the active component of absinthe): GABAA receptor modulation and metabolic detoxification. Proceedings of the National Academy of Sciences of the United States of America, 97 (8), 3826–3831. https://doi.org/10.1073/pnas.070042397",
+    "extracted_title": "α-Thujone (the active component of absinthe): GABAA receptor modulation and metabolic detoxification",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1073/pnas.070042397"
+    ],
+    "existing_doi": "10.1073/pnas.070042397",
+    "existing_doi_status": 200,
+    "existing_doi_title": "α-Thujone (the active component of absinthe): γ-Aminobutyric acid type A receptor modulation and metabolic detoxification",
+    "existing_doi_title_sim": 0.6875,
+    "search_doi": "10.1073/pnas.070042397",
+    "search_title": "α-Thujone (the active component of absinthe): γ-Aminobutyric acid type A receptor modulation and metabolic detoxification",
+    "search_sim": 0.6875
+  },
+  {
+    "chapter": 17,
+    "ref_num": 3,
+    "text": "Juergens, U. R. (2014). Anti-inflammatory properties of the monoterpene 1,8-cineole: Current evidence for co-medication in inflammatory airway diseases. Drug Research, 64 (12), 638–646. https://doi.org/10.1055/s-0034-1372609",
+    "extracted_title": "Anti-inflammatory properties of the monoterpene 1,8-cineole: Current evidence for co-medication in inflammatory airway diseases",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1055/s-0034-1372609"
+    ],
+    "existing_doi": "10.1055/s-0034-1372609",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Anti-inflammatory Properties of the Monoterpene 1.8-cineole: Current Evidence for Co-medication in Inflammatory Airway Diseases",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1055/s-0034-1372609",
+    "search_title": "Anti-inflammatory Properties of the Monoterpene 1.8-cineole: Current Evidence for Co-medication in Inflammatory Airway Diseases",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 17,
+    "ref_num": 4,
+    "text": "Moerman, D. E. (n.d.). Native American Ethnobotany database: Artemisia tridentata (big sagebrush). Botanical Research Institute of Texas. https://naeb.brit.org/uses/5699/",
+    "extracted_title": "Moerman, D. E. (n.d.). Native American Ethnobotany database: Artemisia tridentata (big sagebrush). B",
+    "nested": true,
+    "hrefs": [
+      "https://naeb.brit.org/uses/5699/"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1079/cabicompendium.7107",
+    "search_title": "Artemisia tridentata (big sagebrush)",
+    "search_sim": 0.3076923076923077
+  },
+  {
+    "chapter": 17,
+    "ref_num": 5,
+    "text": "Nagy, J. G., & Tengerdy, R. P. (1967). Antibacterial action of the volatile oils of Artemisia tridentata and Artemisia nova on aerobic bacteria. Applied Microbiology, 15 (4), 819–821. https://doi.org/10.1128/am.15.4.819-821.1967",
+    "extracted_title": "Antibacterial action of the volatile oils of Artemisia tridentata and Artemisia nova on aerobic bacteria",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1128/am.15.4.819-821.1967"
+    ],
+    "existing_doi": "10.1128/am.15.4.819-821.1967",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Antibacterial Action of Essential Oils of\n            <i>Artemisia</i>\n            as an Ecological Factor",
+    "existing_doi_title_sim": 0.21052631578947367,
+    "search_doi": "10.1128/am.15.4.819-821.1967",
+    "search_title": "Antibacterial Action of Essential Oils of\n            <i>Artemisia</i>\n            as an Ecological Factor",
+    "search_sim": 0.21052631578947367
+  },
+  {
+    "chapter": 17,
+    "ref_num": 6,
+    "text": "Patočka, J., & Navrátilová, Z. (2020). Thujone, a widely debated volatile compound: What do we know about it? Phytochemistry Reviews, 19 (5), 1083–1107. https://doi.org/10.1007/s11101-020-09701-z",
+    "extracted_title": "Thujone, a widely debated volatile compound: What do we know about it? Phytochemistry Reviews, 19 (5), 1083–1107",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1007/s11101-020-09701-z"
+    ],
+    "existing_doi": "10.1007/s11101-020-09701-z",
+    "existing_doi_status": 404,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1007/s11101-020-09671-y",
+    "search_title": "Thujone, a widely debated volatile compound: What do we know about it?",
+    "search_sim": 0.7058823529411765
+  },
+  {
+    "chapter": 17,
+    "ref_num": 7,
+    "text": "Selescu, T., Ciobanu, A. C., Dobre, C., Reid, G., & Babes, A. (2013). Camphor activates and sensitizes transient receptor potential melastatin 8 (TRPM8) to cooling and icilin. Journal of Biological Chemistry, 288 (11), 7505–7517. https://doi.org/10.1074/jbc.M112.438515",
+    "extracted_title": "Camphor activates and sensitizes transient receptor potential melastatin 8 (TRPM8) to cooling and icilin",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1074/jbc.M112.438515"
+    ],
+    "existing_doi": "10.1074/jbc.M112.438515",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Interferon-inducible Transmembrane Protein 3 (IFITM3) Restricts Reovirus Cell Entry",
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1093/chemse/bjt027",
+    "search_title": "Camphor Activates and Sensitizes Transient Receptor Potential Melastatin 8 (TRPM8) to Cooling and Icilin",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 17,
+    "ref_num": 8,
+    "text": "Shultz, L. M. (2006). Artemisia tridentata . In Flora of North America North of Mexico (Vol. 19). Flora of North America Association. https://floranorthamerica.org/Artemisia_tridentata",
+    "extracted_title": "Artemisia tridentata",
+    "nested": true,
+    "hrefs": [
+      "https://floranorthamerica.org/Artemisia_tridentata"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.21694/2379-7959.16004",
+    "search_title": "A General Comparison Between Artemisia Herba Alba and Artemisia Tridentata",
+    "search_sim": 0.2222222222222222
+  },
+  {
+    "chapter": 17,
+    "ref_num": 9,
+    "text": "Swor, K., Satyal, P., Timsina, S., & Setzer, W. N. (2022). Chemical composition and terpenoid enantiomeric distribution of the essential oil of Artemisia tridentata tridentata from southwestern Idaho. Natural Product Communications, 17 , Article 1934578X221117417. https://doi.org/10.1177/1934578X221117417",
+    "extracted_title": "Chemical composition and terpenoid enantiomeric distribution of the essential oil of Artemisia tridentata tridentata from southwestern Idaho",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1177/1934578X221117417"
+    ],
+    "existing_doi": "10.1177/1934578X221117417",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Chemical Composition and Terpenoid Enantiomeric Distribution of the Essential oil  of\n                    <i>Artemisia tridentata</i>\n                    Subsp.\n                    <i>tridentata</i>\n                    From Southwestern Idaho",
+    "existing_doi_title_sim": 0.6842105263157895,
+    "search_doi": "10.1177/1934578x221117417",
+    "search_title": "Chemical Composition and Terpenoid Enantiomeric Distribution of the Essential oil  of\n                    <i>Artemisia tridentata</i>\n                    Subsp.\n                    <i>tridentata</i>\n                    From Southwestern Idaho",
+    "search_sim": 0.6842105263157895
+  },
+  {
+    "chapter": 17,
+    "ref_num": 10,
+    "text": "Zheljazkov, V. D., Zhao, S., Li, Y., Cantrell, C. L., Khan, S., Astatkie, T., & Pokharel, R. (2022). Essential oil yield, composition, and bioactivity of sagebrush species in the Bighorn Mountains, USA. Plants, 11 (9), 1228. https://doi.org/10.3390/plants11091228",
+    "extracted_title": "Essential oil yield, composition, and bioactivity of sagebrush species in the Bighorn Mountains, USA",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/plants11091228"
+    ],
+    "existing_doi": "10.3390/plants11091228",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Essential Oil Yield, Composition, and Bioactivity of Sagebrush Species in the Bighorn Mountains",
+    "existing_doi_title_sim": 0.9285714285714286,
+    "search_doi": "10.3390/plants11091228",
+    "search_title": "Essential Oil Yield, Composition, and Bioactivity of Sagebrush Species in the Bighorn Mountains",
+    "search_sim": 0.9285714285714286
+  },
+  {
+    "chapter": 18,
+    "ref_num": 1,
+    "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "extracted_title": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.31390/gradschool_dissertations.340",
+    "search_title": "The role of music-making in the identity construction of members of an adult community concert band",
+    "search_sim": 0.2631578947368421
+  },
+  {
+    "chapter": 18,
+    "ref_num": 2,
+    "text": "Kostikova, V. A., & Petrova, N. V. (2021). Phytoconstituents and bioactivity of plants of the genus Spiraea (Rosaceae): A review. International Journal of Molecular Sciences, 22 (20), 11163. https://doi.org/10.3390/ijms222011163",
+    "extracted_title": "Phytoconstituents and bioactivity of plants of the genus Spiraea (Rosaceae): A review",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/ijms222011163"
+    ],
+    "existing_doi": "10.3390/ijms222011163",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Phytoconstituents and Bioactivity of Plants of the Genus Spiraea L. (Rosaceae): A Review",
+    "existing_doi_title_sim": 0.9166666666666666,
+    "search_doi": "10.3390/ijms222011163",
+    "search_title": "Phytoconstituents and Bioactivity of Plants of the Genus Spiraea L. (Rosaceae): A Review",
+    "search_sim": 0.9166666666666666
+  },
+  {
+    "chapter": 18,
+    "ref_num": 3,
+    "text": "Kostikova, V. A., & Shaldaeva, T. M. (2017). The antioxidant activity of the Russian Far East representatives of the genus Spiraea (Rosaceae Juss.). Russian Journal of Bioorganic Chemistry, 43 , 790–794. https://doi.org/10.1134/S1068162017070081",
+    "extracted_title": "The antioxidant activity of the Russian Far East representatives of the genus Spiraea (Rosaceae Juss",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1134/S1068162017070081"
+    ],
+    "existing_doi": "10.1134/S1068162017070081",
+    "existing_doi_status": 200,
+    "existing_doi_title": "The Antioxidant Activity of the Russian Far East Representatives of the Spiraea L. (Rosaceae Juss.) Genus",
+    "existing_doi_title_sim": 0.9230769230769231,
+    "search_doi": "10.1134/s1068162017070081",
+    "search_title": "The Antioxidant Activity of the Russian Far East Representatives of the Spiraea L. (Rosaceae Juss.) Genus",
+    "search_sim": 0.9230769230769231
+  },
+  {
+    "chapter": 18,
+    "ref_num": 4,
+    "text": "Li, Y., Yao, J., Han, C., Yang, J., Chaudhry, M. T., Wang, S., Liu, H., & Yin, Y. (2016). Quercetin, inflammation and immunity. Nutrients, 8 (3), 167. https://doi.org/10.3390/nu8030167",
+    "extracted_title": "Quercetin, inflammation and immunity",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/nu8030167"
+    ],
+    "existing_doi": "10.3390/nu8030167",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Quercetin, Inflammation and Immunity",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1002/iid3.1185",
+    "search_title": "Quercetin attenuates inflammation in LPS‐induced lung epithelial cells via the Nrf2 signaling pathway",
+    "search_sim": 0.13333333333333333
+  },
+  {
+    "chapter": 18,
+    "ref_num": 5,
+    "text": "Lis, R. (2020). Spiraea lucida (syn. Spiraea betulifolia var. lucida )—Flora of North America, Vol. 9. Flora of North America Association. https://floranorthamerica.org/Spiraea_lucida",
+    "extracted_title": "Spiraea lucida (syn",
+    "nested": true,
+    "hrefs": [
+      "https://floranorthamerica.org/Spiraea_lucida"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1079/cabicompendium.51172",
+    "search_title": "Spiraea thunbergii (Thunberg's spiraea)",
+    "search_sim": 0.2
+  },
+  {
+    "chapter": 18,
+    "ref_num": 6,
+    "text": "Moerman, D. E. (n.d.). Spiraea betulifolia Pallas—Native American Ethnobotany (BRIT). Retrieved September 16, 2025, from https://naeb.brit.org",
+    "extracted_title": "Moerman, D. E. (n.d.). Spiraea betulifolia Pallas—Native American Ethnobotany (BRIT). Retrieved Sept",
+    "nested": true,
+    "hrefs": [
+      "https://naeb.brit.org"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1079/cabicompendium.51156",
+    "search_title": "Spiraea betulifolia",
+    "search_sim": 0.16666666666666666
+  },
+  {
+    "chapter": 18,
+    "ref_num": 7,
+    "text": "Muraseva, D. S., & Kostikova, V. A. (2021). In vitro propagation of Spiraea betulifolia var. aemiliana (Rosaceae) and comparative analysis of phenolic compounds of microclones and intact plants. Plant Cell, Tissue and Organ Culture, 144 , 493–504. https://doi.org/10.1007/s11240-020-01971-7",
+    "extracted_title": "In vitro propagation of Spiraea betulifolia var",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1007/s11240-020-01971-7"
+    ],
+    "existing_doi": "10.1007/s11240-020-01971-7",
+    "existing_doi_status": 200,
+    "existing_doi_title": "In vitro propagation of Spiraea betulifolia subsp. aemiliana (Rosaceae) and comparative analysis of phenolic compounds of microclones and intact plants",
+    "existing_doi_title_sim": 0.3333333333333333,
+    "search_doi": "10.1079/cabicompendium.51156",
+    "search_title": "Spiraea betulifolia",
+    "search_sim": 0.2857142857142857
+  },
+  {
+    "chapter": 18,
+    "ref_num": 8,
+    "text": "Zheleznichenko, T. V., Muraseva, D. S., Erst, A. S., Kuznetsov, A. A., Kulikovskiy, M. S., & Kostikova, V. A. (2023). The influence of solid and liquid systems in vitro on the growth and biosynthetic characteristics of microshoot culture of Spiraea betulifolia var. aemiliana . International Journal of Molecular Sciences, 24 (3), 2362. https://doi.org/10.3390/ijms24032362",
+    "extracted_title": "The influence of solid and liquid systems in vitro on the growth and biosynthetic characteristics of microshoot culture of Spiraea betulifolia var",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/ijms24032362"
+    ],
+    "existing_doi": "10.3390/ijms24032362",
+    "existing_doi_status": 200,
+    "existing_doi_title": "The Influence of Solid and Liquid Systems In Vitro on the Growth and Biosynthetic Characteristics of Microshoot Culture of Spiraea betulifolia ssp. aemiliana",
+    "existing_doi_title_sim": 0.85,
+    "search_doi": "10.3390/ijms24032362",
+    "search_title": "The Influence of Solid and Liquid Systems In Vitro on the Growth and Biosynthetic Characteristics of Microshoot Culture of Spiraea betulifolia ssp. aemiliana",
+    "search_sim": 0.85
+  },
+  {
+    "chapter": 19,
+    "ref_num": 1,
+    "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "extracted_title": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.31390/gradschool_dissertations.340",
+    "search_title": "The role of music-making in the identity construction of members of an adult community concert band",
+    "search_sim": 0.2631578947368421
+  },
+  {
+    "chapter": 19,
+    "ref_num": 2,
+    "text": "Kuhnlein, H. V. (1989). Nutrient values in indigenous wild berries used by the Nuxalk people of Bella Coola, British Columbia. Journal of Food Composition and Analysis, 2 (1), 28–36. https://doi.org/10.1016/0889-1575(89)90059-8",
+    "extracted_title": "Nutrient values in indigenous wild berries used by the Nuxalk people of Bella Coola, British Columbia",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/0889-1575(89)90059-8"
+    ],
+    "existing_doi": "10.1016/0889-1575(89)90059-8",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Nutrient values in indigenous wild berries used by the nuxalk people of bella coola, British Columbia",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/0889-1575(89)90059-8",
+    "search_title": "Nutrient values in indigenous wild berries used by the nuxalk people of bella coola, British Columbia",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 19,
+    "ref_num": 3,
+    "text": "Lhotská, I., Kaplan, J., Křenová, A., & Šatínský, D. (2021). Evaluation of anthocyanin profiles in various blackcurrant cultivars over a three-year period using a fast HPLC-DAD method. Foods, 10 (8), 1745. https://doi.org/10.3390/foods10081745",
+    "extracted_title": "Evaluation of anthocyanin profiles in various blackcurrant cultivars over a three-year period using a fast HPLC-DAD method",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/foods10081745"
+    ],
+    "existing_doi": "10.3390/foods10081745",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Evaluation of Anthocyanin Profiles in Various Blackcurrant Cultivars over a Three-Year Period Using a Fast HPLC-DAD Method",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.3390/foods10081745",
+    "search_title": "Evaluation of Anthocyanin Profiles in Various Blackcurrant Cultivars over a Three-Year Period Using a Fast HPLC-DAD Method",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 19,
+    "ref_num": 4,
+    "text": "Li, S., Wu, B., Fu, W., & Reddivari, L. (2019). The anti-inflammatory effects of dietary anthocyanins against ulcerative colitis. International Journal of Molecular Sciences, 20 (10), 2588. https://doi.org/10.3390/ijms20102588",
+    "extracted_title": "The anti-inflammatory effects of dietary anthocyanins against ulcerative colitis",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/ijms20102588"
+    ],
+    "existing_doi": "10.3390/ijms20102588",
+    "existing_doi_status": 200,
+    "existing_doi_title": "The Anti-inflammatory Effects of Dietary Anthocyanins against Ulcerative Colitis",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.3390/ijms20102588",
+    "search_title": "The Anti-inflammatory Effects of Dietary Anthocyanins against Ulcerative Colitis",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 19,
+    "ref_num": 5,
+    "text": "Moyer, R. A., Hummer, K. E., Finn, C. E., Frei, B., & Wrolstad, R. E. (2002). Anthocyanins, phenolics, and antioxidant capacity in diverse small fruits: Vaccinium, Rubus , and Ribes . Journal of Agricultural and Food Chemistry, 50 (3), 519–525. https://doi.org/10.1021/jf011062r",
+    "extracted_title": "Anthocyanins, phenolics, and antioxidant capacity in diverse small fruits: Vaccinium, Rubus , and Ribes",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1021/jf011062r"
+    ],
+    "existing_doi": "10.1021/jf011062r",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Anthocyanins, Phenolics, and Antioxidant Capacity in Diverse Small Fruits: <i>Vaccinium</i>,<i>Rubus</i>, and<i>Ribes</i>",
+    "existing_doi_title_sim": 0.6428571428571429,
+    "search_doi": "10.1021/jf011062r",
+    "search_title": "Anthocyanins, Phenolics, and Antioxidant Capacity in Diverse Small Fruits: <i>Vaccinium</i>,<i>Rubus</i>, and<i>Ribes</i>",
+    "search_sim": 0.6428571428571429
+  },
+  {
+    "chapter": 19,
+    "ref_num": 6,
+    "text": "Nohynek, L. J., Alakomi, H.-L., Kähkönen, M. P., Heinonen, M., Helander, I. M., Oksman-Caldentey, K.-M., & Puupponen-Pimiä, R. H. (2006). Berry phenolics: Antimicrobial properties and mechanisms of action against severe human pathogens. Nutrition and Cancer, 54 (1), 18–32. https://doi.org/10.1207/s15327914nc5401_4",
+    "extracted_title": "Berry phenolics: Antimicrobial properties and mechanisms of action against severe human pathogens",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1207/s15327914nc5401_4"
+    ],
+    "existing_doi": "10.1207/s15327914nc5401_4",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Berry Phenolics: Antimicrobial Properties and Mechanisms of Action Against Severe Human Pathogens",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1207/s15327914nc5401_4",
+    "search_title": "Berry Phenolics: Antimicrobial Properties and Mechanisms of Action Against Severe Human Pathogens",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 19,
+    "ref_num": 7,
+    "text": "Santos, I. B. D. S., Santos Dos Santos, B., de Oliveira, J. R. S., Costa, W. K., Zagmignan, A., da Silva, L. C. N., Ferreira, M. R. A., Lermen, V. L., Lermen, M. S. B. S., da Silva, A. G., Ximenes, R. M., Soares, L. A. L., Paiva, P. M. G., Lima, V. L. M., Correia, M. T. D. S., & da Silva, M. V. (2020). Antioxidant action and in vivo anti-inflammatory and antinociceptive activities of Myrciaria floribunda fruit peels: Possible involvement of opioidergic system. Advances in Pharmacological and Pharmaceutical Sciences, 2020 , 1258707. https://doi.org/10.1155/2020/1258707",
+    "extracted_title": "Antioxidant action and in vivo anti-inflammatory and antinociceptive activities of Myrciaria floribunda fruit peels: Possible involvement of opioidergic system",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1155/2020/1258707"
+    ],
+    "existing_doi": "10.1155/2020/1258707",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Antioxidant Action and<i>In Vivo</i>Anti-Inflammatory and Antinociceptive Activities of<i>Myrciaria floribunda</i>Fruit Peels: Possible Involvement of Opioidergic System",
+    "existing_doi_title_sim": 0.5238095238095238,
+    "search_doi": "10.1155/2020/1258707",
+    "search_title": "Antioxidant Action and<i>In Vivo</i>Anti-Inflammatory and Antinociceptive Activities of<i>Myrciaria floribunda</i>Fruit Peels: Possible Involvement of Opioidergic System",
+    "search_sim": 0.5238095238095238
+  },
+  {
+    "chapter": 19,
+    "ref_num": 8,
+    "text": "Sun, Q., Wang, N., Xu, W., & Zhou, H. (2021). Genus Ribes (Grossulariaceae): A comprehensive review of traditional uses, phytochemistry, pharmacology and clinical applications. Journal of Ethnopharmacology, 276 , 114166. https://doi.org/10.1016/j.jep.2021.114166",
+    "extracted_title": "Genus Ribes (Grossulariaceae): A comprehensive review of traditional uses, phytochemistry, pharmacology and clinical applications",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.jep.2021.114166"
+    ],
+    "existing_doi": "10.1016/j.jep.2021.114166",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Genus Ribes Linn. (Grossulariaceae): A comprehensive review of traditional uses, phytochemistry, pharmacology and clinical applications",
+    "existing_doi_title_sim": 0.9333333333333333,
+    "search_doi": "10.1016/j.jep.2021.114166",
+    "search_title": "Genus Ribes Linn. (Grossulariaceae): A comprehensive review of traditional uses, phytochemistry, pharmacology and clinical applications",
+    "search_sim": 0.9333333333333333
+  },
+  {
+    "chapter": 19,
+    "ref_num": 9,
+    "text": "Washington Native Plant Society. (n.d.). Ribes lacustre (Black Gooseberry) – ethnobotany (Skagit & Lummi uses). https://www.wnps.org/native-plant-directory/339%3Aribes-lacustre",
+    "extracted_title": "Washington Native Plant Society. (n.d.). Ribes lacustre (Black Gooseberry) – ethnobotany (Skagit & L",
+    "nested": true,
+    "hrefs": [
+      "https://www.wnps.org/native-plant-directory/339%3Aribes-lacustre"
+    ],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.1079/cabicompendium.47545",
+    "search_title": "Ribes lacustre (Swamp black currant)",
+    "search_sim": 0.21428571428571427
+  },
+  {
+    "chapter": 20,
+    "ref_num": 1,
+    "text": "1. Alirezalu, A., Salehi, P., Ahmadi, N., Sonboli, A., Aceto, S., Hatami Maleki, H., & Ayyari, M. (2018). Flavonoids profile and antioxidant activity in flowers and leaves of hawthorn species ( Crataegus ) from different regions of Iran. International Journal of Food Properties, 21 (1), 452–470. https://doi.org/10.1080/10942912.2018.1446146",
+    "extracted_title": "Flavonoids profile and antioxidant activity in flowers and leaves of hawthorn species ( Crataegus ) from different regions of Iran",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1080/10942912.2018.1446146"
+    ],
+    "existing_doi": "10.1080/10942912.2018.1446146",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Flavonoids profile and antioxidant activity in flowers and leaves of hawthorn species (\n                    <i>Crataegus</i>\n                    spp.) from different regions of Iran",
+    "existing_doi_title_sim": 0.8333333333333334,
+    "search_doi": "10.1080/10942912.2018.1446146",
+    "search_title": "Flavonoids profile and antioxidant activity in flowers and leaves of hawthorn species (\n                    <i>Crataegus</i>\n                    spp.) from different regions of Iran",
+    "search_sim": 0.8333333333333334
+  },
+  {
+    "chapter": 20,
+    "ref_num": 2,
+    "text": "2. Dahmer, S., & Scott, E. (2010). Health effects of hawthorn. American Family Physician, 81 (4), 465–468.",
+    "extracted_title": "Health effects of hawthorn",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.5353/th_b3197230",
+    "search_title": "Effects of Hawthorn extract on blood pressure in anesthetized rats",
+    "search_sim": 0.2727272727272727
+  },
+  {
+    "chapter": 20,
+    "ref_num": 3,
+    "text": "3. Edwards, J. E., Brown, P. N., Talent, N., Dickinson, T. A., & Shipley, P. R. (2012). A review of the chemistry of the genus Crataegus . Phytochemistry, 79 , 5–26. https://doi.org/10.1016/j.phytochem.2012.04.006",
+    "extracted_title": "A review of the chemistry of the genus Crataegus",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.phytochem.2012.04.006"
+    ],
+    "existing_doi": "10.1016/j.phytochem.2012.04.006",
+    "existing_doi_status": 200,
+    "existing_doi_title": "A review of the chemistry of the genus Crataegus",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/j.phytochem.2012.04.006",
+    "search_title": "A review of the chemistry of the genus Crataegus",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 20,
+    "ref_num": 4,
+    "text": "4. Elders and Community members of the Cayoose Creek Band of Sekw’el’was.",
+    "extracted_title": "4. Elders and Community members of the Cayoose Creek Band of Sekw’el’was.",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.31390/gradschool_dissertations.340",
+    "search_title": "The role of music-making in the identity construction of members of an adult community concert band",
+    "search_sim": 0.2631578947368421
+  },
+  {
+    "chapter": 20,
+    "ref_num": 5,
+    "text": "5. Holubarsch, C. J. F., Colucci, W. S., Meinertz, T., Gaus, W., & Tendera, M. (2008). The efficacy and safety of Crataegus extract WS 1442 in patients with heart failure: The SPICE trial. European Journal of Heart Failure, 10 (12), 1255–1263. https://doi.org/10.1016/j.ejheart.2008.10.004",
+    "extracted_title": "The efficacy and safety of Crataegus extract WS 1442 in patients with heart failure: The SPICE trial",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.ejheart.2008.10.004"
+    ],
+    "existing_doi": "10.1016/j.ejheart.2008.10.004",
+    "existing_doi_status": 200,
+    "existing_doi_title": "The Efficacy and Safety of Crataegus Extract WS® 1442 in Patients with Heart Failure: The SPICE Trial",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/j.ejheart.2008.10.004",
+    "search_title": "The Efficacy and Safety of Crataegus Extract WS® 1442 in Patients with Heart Failure: The SPICE Trial",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 20,
+    "ref_num": 6,
+    "text": "6. Kuhnlein, H. V., & Turner, N. J. (1991). Traditional plant foods of Canadian Indigenous peoples: Nutrition, botany and use . Gordon and Breach Science Publishers.",
+    "extracted_title": "Traditional plant foods of Canadian Indigenous peoples: Nutrition, botany and use",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.4324/9781003054689-4",
+    "search_title": "Descriptions and Uses of Plant Foods by Indigenous Peoples",
+    "search_sim": 0.42857142857142855
+  },
+  {
+    "chapter": 20,
+    "ref_num": 7,
+    "text": "7. Moerman, D. E. (2009). Native American medicinal plants: An ethnobotanical dictionary . Timber Press.",
+    "extracted_title": "Native American medicinal plants: An ethnobotanical dictionary",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.5860/choice.47-4170",
+    "search_title": "Native American medicinal plants: an ethnobotanical dictionary",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 20,
+    "ref_num": 8,
+    "text": "8. Nabavi, S. F., Habtemariam, S., Ahmed, T., Sureda, A., Daglia, M., Sobarzo-Sánchez, E., & Nabavi, S. M. (2015). Polyphenolic composition of Crataegus monogyna : From chemistry to medical applications. Nutrients, 7 (9), 7708–7728. https://doi.org/10.3390/nu7095361",
+    "extracted_title": "Polyphenolic composition of Crataegus monogyna : From chemistry to medical applications",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.3390/nu7095361"
+    ],
+    "existing_doi": "10.3390/nu7095361",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications",
+    "existing_doi_title_sim": 0.9090909090909091,
+    "search_doi": "10.3390/nu7095361",
+    "search_title": "Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications",
+    "search_sim": 0.9090909090909091
+  },
+  {
+    "chapter": 20,
+    "ref_num": 9,
+    "text": "9. Özcan, M., Hacıseferoğulları, H., Marakoğlu, T., & Arslan, D. (2005). Hawthorn ( Crataegus spp.) fruit: Some physical and chemical properties. Journal of Food Engineering, 69 (4), 409–413. https://doi.org/10.1016/j.jfoodeng.2004.08.024",
+    "extracted_title": "Hawthorn ( Crataegus spp",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/j.jfoodeng.2004.08.024"
+    ],
+    "existing_doi": "10.1016/j.jfoodeng.2004.08.024",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Antimicrobial and antioxidative activity of the essential oil and various extracts of Cyclotrichium origanifolium (Labill.) Manden. &amp; Scheng.",
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.7550/rmb.35675",
+    "search_title": "Antioxidant compounds in hawthorn fruits (Crataegus spp.) of Mexico",
+    "search_sim": 0.3333333333333333
+  },
+  {
+    "chapter": 20,
+    "ref_num": 10,
+    "text": "10. Svedström, U., Vuorela, H., Kostiainen, R., Tuominen, J., Kokkonen, J., Rauha, J.-P., Laakso, I., & Hiltunen, R. (2002). Isolation and identification of oligomeric procyanidins from Crataegus leaves and flowers. Phytochemistry, 60 (8), 821–825. https://doi.org/10.1016/S0031-9422(02)00172-3",
+    "extracted_title": "Isolation and identification of oligomeric procyanidins from Crataegus leaves and flowers",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1016/S0031-9422(02)00172-3"
+    ],
+    "existing_doi": "10.1016/S0031-9422(02)00172-3",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Isolation and identification of oligomeric procyanidins from Crataegus leaves and flowers",
+    "existing_doi_title_sim": 1.0,
+    "search_doi": "10.1016/s0031-9422(02)00172-3",
+    "search_title": "Isolation and identification of oligomeric procyanidins from Crataegus leaves and flowers",
+    "search_sim": 1.0
+  },
+  {
+    "chapter": 20,
+    "ref_num": 11,
+    "text": "11. Turner, N. J. (1995). Food plants of coastal First Peoples (Royal BC Museum Handbook). UBC Press; Royal British Columbia Museum.",
+    "extracted_title": "Food plants of coastal First Peoples (Royal BC Museum Handbook)",
+    "nested": false,
+    "hrefs": [],
+    "existing_doi": null,
+    "existing_doi_status": null,
+    "existing_doi_title": null,
+    "existing_doi_title_sim": 0.0,
+    "search_doi": "10.3138/9781442616769-006",
+    "search_title": "First Peoples of Canada",
+    "search_sim": 0.2727272727272727
+  },
+  {
+    "chapter": 20,
+    "ref_num": 12,
+    "text": "12. Yang, B., & Liu, P. (2012). Composition and health effects of phenolic compounds in hawthorn ( Crataegus ) of different origins. Journal of the Science of Food and Agriculture, 92 (8), 1578–1590. https://doi.org/10.1002/jsfa.5671",
+    "extracted_title": "Composition and health effects of phenolic compounds in hawthorn ( Crataegus ) of different origins",
+    "nested": true,
+    "hrefs": [
+      "https://doi.org/10.1002/jsfa.5671"
+    ],
+    "existing_doi": "10.1002/jsfa.5671",
+    "existing_doi_status": 200,
+    "existing_doi_title": "Composition and health effects of phenolic compounds in hawthorn (<i>Crataegus</i> spp.) of different origins",
+    "existing_doi_title_sim": 0.7857142857142857,
+    "search_doi": "10.1002/jsfa.5671",
+    "search_title": "Composition and health effects of phenolic compounds in hawthorn (<i>Crataegus</i> spp.) of different origins",
+    "search_sim": 0.7857142857142857
+  }
+]

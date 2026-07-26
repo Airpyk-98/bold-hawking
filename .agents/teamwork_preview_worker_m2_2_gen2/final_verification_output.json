@@ -1,0 +1,316 @@
+{
+  "structure_report": [
+    {
+      "file": "chapters/chapter_08.html",
+      "ref_headings_found": true,
+      "ol_count": 11,
+      "ref_items_count": 16,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 0,
+      "dois_count": 10,
+      "dois": [
+        "https://doi.org/10.1007/BF02858839",
+        "https://doi.org/10.1055/s-2006-959457",
+        "https://doi.org/10.3390/antiox3010081",
+        "https://doi.org/10.3390/ijms23063197",
+        "https://doi.org/10.2298/JSC0704311G",
+        "https://doi.org/10.1016/j.heliyon.2019.e02376",
+        "https://doi.org/10.1002/ptr.1110",
+        "https://doi.org/10.1002/ptr.2650010107",
+        "https://doi.org/10.1021/jf040019b",
+        "https://doi.org/10.1007/BF00405106"
+      ]
+    },
+    {
+      "file": "chapters/chapter_09.html",
+      "ref_headings_found": true,
+      "ol_count": 7,
+      "ref_items_count": 18,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 0,
+      "dois_count": 10,
+      "dois": [
+        "https://doi.org/10.3923/pjbs.2004.1559.1562",
+        "https://doi.org/10.1016/j.biotechadv.2014.07.001",
+        "https://doi.org/10.1016/s0378-8741(00)00180-x",
+        "https://doi.org/10.1515/znc-2004-5-622",
+        "https://doi.org/10.1016/0378-8741(95)01321-0",
+        "https://doi.org/10.1016/j.lfs.2003.09.053",
+        "https://doi.org/10.1016/s0378-8741(02)00186-1",
+        "https://doi.org/10.1001/archpedi.155.7.796",
+        "https://doi.org/10.1590/S0102-695X2013000600004",
+        "https://doi.org/10.1016/j.jep.2010.05.061"
+      ]
+    },
+    {
+      "file": "chapters/chapter_10.html",
+      "ref_headings_found": true,
+      "ol_count": 1,
+      "ref_items_count": 6,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 0,
+      "dois_count": 2,
+      "dois": [
+        "https://doi.org/10.2147/BTAT.S91385",
+        "https://doi.org/10.3390/ijms18061137"
+      ]
+    },
+    {
+      "file": "chapters/chapter_11.html",
+      "ref_headings_found": true,
+      "ol_count": 2,
+      "ref_items_count": 23,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 2,
+      "dois_count": 12,
+      "dois": [
+        "https://doi.org/10.3390/ijms10093937",
+        "https://doi.org/10.4103/2225-4110.130373",
+        "https://doi.org/10.1177/1934578X19850354",
+        "https://doi.org/10.1016/S0091-3057(03)00108-4",
+        "https://doi.org/10.1016/S0091-3057(03)00122-9",
+        "https://doi.org/10.1007/s40268-016-0157-5",
+        "https://doi.org/10.1021/jf100082p",
+        "https://doi.org/10.1007/BF02860489",
+        "https://doi.org/10.1093/ecam/neh072",
+        "https://doi.org/10.3390/nu13010218",
+        "https://doi.org/10.1016/j.jtcme.2016.12.014",
+        "https://doi.org/10.3390/molecules29040802"
+      ]
+    },
+    {
+      "file": "chapters/chapter_12.html",
+      "ref_headings_found": true,
+      "ol_count": 1,
+      "ref_items_count": 11,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 0,
+      "dois_count": 6,
+      "dois": [
+        "https://doi.org/10.3390/ijms25063430",
+        "https://doi.org/10.3390/molecules23071664",
+        "https://doi.org/10.1016/j.jep.2003.09.028",
+        "https://doi.org/10.1016/j.phymed.2007.03.014",
+        "https://doi.org/10.1055/s-2006-960881",
+        "https://doi.org/10.1055/s-2000-11117"
+      ]
+    },
+    {
+      "file": "chapters/chapter_13.html",
+      "ref_headings_found": true,
+      "ol_count": 1,
+      "ref_items_count": 6,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 0,
+      "dois_count": 1,
+      "dois": [
+        "https://doi.org/10.29228/jrp.607"
+      ]
+    },
+    {
+      "file": "chapters/chapter_14.html",
+      "ref_headings_found": true,
+      "ol_count": 1,
+      "ref_items_count": 9,
+      "remaining_numbered_p": 0,
+      "nested_a_count": 0,
+      "malformed_href_count": 0,
+      "dois_count": 4,
+      "dois": [
+        "https://doi.org/10.1016/j.hermed.2015.09.001",
+        "https://doi.org/10.1002/ptr.5840",
+        "https://doi.org/10.1002/ptr.1897",
+        "https://doi.org/10.1007/s12231-011-9154-3"
+      ]
+    }
+  ],
+  "doi_tests": {
+    "https://doi.org/10.1007/BF02858839": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1055/s-2006-959457": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/antiox3010081": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/ijms23063197": [
+      true,
+      302
+    ],
+    "https://doi.org/10.2298/JSC0704311G": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.heliyon.2019.e02376": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1002/ptr.1110": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1002/ptr.2650010107": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1021/jf040019b": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1007/BF00405106": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3923/pjbs.2004.1559.1562": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.biotechadv.2014.07.001": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/s0378-8741(00)00180-x": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1515/znc-2004-5-622": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/0378-8741(95)01321-0": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.lfs.2003.09.053": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/s0378-8741(02)00186-1": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1001/archpedi.155.7.796": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1590/S0102-695X2013000600004": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.jep.2010.05.061": [
+      true,
+      302
+    ],
+    "https://doi.org/10.2147/BTAT.S91385": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/ijms18061137": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/ijms10093937": [
+      true,
+      302
+    ],
+    "https://doi.org/10.4103/2225-4110.130373": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1177/1934578X19850354": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/S0091-3057(03)00108-4": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/S0091-3057(03)00122-9": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1007/s40268-016-0157-5": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1021/jf100082p": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1007/BF02860489": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1093/ecam/neh072": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/nu13010218": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.jtcme.2016.12.014": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/molecules29040802": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/ijms25063430": [
+      true,
+      302
+    ],
+    "https://doi.org/10.3390/molecules23071664": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.jep.2003.09.028": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.phymed.2007.03.014": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1055/s-2006-960881": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1055/s-2000-11117": [
+      true,
+      302
+    ],
+    "https://doi.org/10.29228/jrp.607": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1016/j.hermed.2015.09.001": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1002/ptr.5840": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1002/ptr.1897": [
+      true,
+      302
+    ],
+    "https://doi.org/10.1007/s12231-011-9154-3": [
+      true,
+      302
+    ]
+  },
+  "all_pass": true
+}

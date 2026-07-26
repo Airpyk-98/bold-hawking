@@ -1,0 +1,241 @@
+[
+  {
+    "chapter": 15,
+    "ref_num": 3,
+    "cited_title": "Antifungal activity of Lavandula angustifolia essential oil against Candida albicans yeast and mycelial form",
+    "existing_doi": "10.1080/13693780400029112",
+    "hrefs": [
+      "https://doi.org/10.1080/13693780400029112"
+    ],
+    "crossref_status": 404,
+    "doi_org_status": 404,
+    "crossref_title": null,
+    "sim_score": 0.0,
+    "search_doi": null,
+    "search_title": null,
+    "search_sim": 0.0,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 5,
+    "cited_title": "Effects of linalool on the glutamatergic system in the rat cerebral cortex",
+    "existing_doi": "10.1007/BF00973171",
+    "hrefs": [
+      "https://doi.org/10.1007/BF00973171"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "Book reviews",
+    "sim_score": 0.0,
+    "search_doi": "10.1007/bf00973103",
+    "search_title": "Effects of linalool on glutamatergic system in the rat cerebral cortex",
+    "search_sim": 1.0,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 6,
+    "cited_title": "King’s American dispensatory (18th ed",
+    "existing_doi": "10.5962/bhl.title.62043",
+    "hrefs": [
+      "https://doi.org/10.5962/bhl.title.62043"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "How to keep bees a handbook for the use of beginners /",
+    "sim_score": 0.0,
+    "search_doi": "10.1016/s0095-9561(16)31425-6",
+    "search_title": "The New Dispensatory",
+    "search_sim": 0.14285714285714285,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 9,
+    "cited_title": "Effects of inhaled linalool in anxiety, social interaction, and aggressive behavior in mice",
+    "existing_doi": "10.1016/j.phymed.2010.01.013",
+    "hrefs": [
+      "https://doi.org/10.1016/j.phymed.2010.01.013"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "Therapeutic effect of norisoboldine, an alkaloid isolated from Radix Linderae, on collagen-induced arthritis in mice",
+    "sim_score": 0.125,
+    "search_doi": null,
+    "search_title": null,
+    "search_sim": 0.0,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 10,
+    "cited_title": "Studies on the mode of action of the essential oil of lavender ( Lavandula angustifolia Miller)",
+    "existing_doi": "10.1002/(sici)1099-1573(199909)13:6",
+    "hrefs": [
+      "https://doi.org/10.1002/(sici)1099-1573(199909)13:6<540::aid-ptr523>3.0.co;2-i",
+      "https://doi.org/10.1002/(SICI)1099-1573(199909)13:6<540::AID-PTR523>3.0.CO;2-J"
+    ],
+    "crossref_status": 404,
+    "doi_org_status": 404,
+    "crossref_title": null,
+    "sim_score": 0.0,
+    "search_doi": "10.59520/bapp.bapb/nqnh6768",
+    "search_title": "Adulteration of English Lavender (Lavandula angustifolia) Essential Oil",
+    "search_sim": 0.42857142857142855,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 12,
+    "cited_title": "Wound-healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model",
+    "existing_doi": "10.1186/s12906-016-1131-8",
+    "hrefs": [
+      "https://doi.org/10.1186/s12906-016-1131-8"
+    ],
+    "crossref_status": 404,
+    "doi_org_status": 404,
+    "crossref_title": null,
+    "sim_score": 0.0,
+    "search_doi": "10.1186/s12906-016-1128-7",
+    "search_title": "Wound healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model",
+    "search_sim": 0.8947368421052632,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 13,
+    "cited_title": "Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils",
+    "existing_doi": "10.1078/0944-7113-00258",
+    "hrefs": [
+      "https://doi.org/10.1078/0944-7113-00258"
+    ],
+    "crossref_status": 404,
+    "doi_org_status": 404,
+    "crossref_title": null,
+    "sim_score": 0.0,
+    "search_doi": "10.1078/094471102321621322",
+    "search_title": "Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils",
+    "search_sim": 1.0,
+    "notes": []
+  },
+  {
+    "chapter": 15,
+    "ref_num": 14,
+    "cited_title": "Profile of spinal and supra-spinal antinociception of (–)-linalool",
+    "existing_doi": "10.1016/j.ejphar.2003.11.010",
+    "hrefs": [
+      "https://doi.org/10.1016/j.ejphar.2003.11.010"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "Lack of adenosine A1 and dopamine D2 receptor-mediated modulation of the cardiovascular effects of the adenosine A2A receptor agonist CGS 21680",
+    "sim_score": 0.09090909090909091,
+    "search_doi": "10.1016/j.ejphar.2003.11.066",
+    "search_title": "Profile of spinal and supra-spinal antinociception of (−)-linalool",
+    "search_sim": 1.0,
+    "notes": []
+  },
+  {
+    "chapter": 17,
+    "ref_num": 5,
+    "cited_title": "Antibacterial action of the volatile oils of Artemisia tridentata and Artemisia nova on aerobic bacteria",
+    "existing_doi": "10.1128/am.15.4.819-821.1967",
+    "hrefs": [
+      "https://doi.org/10.1128/am.15.4.819-821.1967"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "Antibacterial Action of Essential Oils of\n            <i>Artemisia</i>\n            as an Ecological Factor",
+    "sim_score": 0.21052631578947367,
+    "search_doi": "10.1128/am.15.4.819-821.1967",
+    "search_title": "Antibacterial Action of Essential Oils of\n            <i>Artemisia</i>\n            as an Ecological Factor",
+    "search_sim": 0.21052631578947367,
+    "notes": []
+  },
+  {
+    "chapter": 17,
+    "ref_num": 6,
+    "cited_title": "Thujone, a widely debated volatile compound: What do we know about it? Phytochemistry Reviews, 19 (5), 1083–1107",
+    "existing_doi": "10.1007/s11101-020-09701-z",
+    "hrefs": [
+      "https://doi.org/10.1007/s11101-020-09701-z"
+    ],
+    "crossref_status": 404,
+    "doi_org_status": 404,
+    "crossref_title": null,
+    "sim_score": 0.0,
+    "search_doi": "10.1007/s11101-020-09671-y",
+    "search_title": "Thujone, a widely debated volatile compound: What do we know about it?",
+    "search_sim": 0.7058823529411765,
+    "notes": []
+  },
+  {
+    "chapter": 17,
+    "ref_num": 7,
+    "cited_title": "Camphor activates and sensitizes transient receptor potential melastatin 8 (TRPM8) to cooling and icilin",
+    "existing_doi": "10.1074/jbc.M112.438515",
+    "hrefs": [
+      "https://doi.org/10.1074/jbc.M112.438515"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "Interferon-inducible Transmembrane Protein 3 (IFITM3) Restricts Reovirus Cell Entry",
+    "sim_score": 0.0,
+    "search_doi": null,
+    "search_title": null,
+    "search_sim": 0.0,
+    "notes": []
+  },
+  {
+    "chapter": 18,
+    "ref_num": 7,
+    "cited_title": "In vitro propagation of Spiraea betulifolia var",
+    "existing_doi": "10.1007/s11240-020-01971-7",
+    "hrefs": [
+      "https://doi.org/10.1007/s11240-020-01971-7"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "In vitro propagation of Spiraea betulifolia subsp. aemiliana (Rosaceae) and comparative analysis of phenolic compounds of microclones and intact plants",
+    "sim_score": 0.3333333333333333,
+    "search_doi": "10.1079/cabicompendium.51156",
+    "search_title": "Spiraea betulifolia",
+    "search_sim": 0.2857142857142857,
+    "notes": []
+  },
+  {
+    "chapter": 19,
+    "ref_num": 7,
+    "cited_title": "Antioxidant action and in vivo anti-inflammatory and antinociceptive activities of Myrciaria floribunda fruit peels: Possible involvement of opioidergic system",
+    "existing_doi": "10.1155/2020/1258707",
+    "hrefs": [
+      "https://doi.org/10.1155/2020/1258707"
+    ],
+    "crossref_status": 429,
+    "doi_org_status": 302,
+    "crossref_title": null,
+    "sim_score": 0.0,
+    "search_doi": null,
+    "search_title": null,
+    "search_sim": 0.0,
+    "notes": []
+  },
+  {
+    "chapter": 20,
+    "ref_num": 9,
+    "cited_title": "Hawthorn ( Crataegus spp",
+    "existing_doi": "10.1016/j.jfoodeng.2004.08.024",
+    "hrefs": [
+      "https://doi.org/10.1016/j.jfoodeng.2004.08.024"
+    ],
+    "crossref_status": 200,
+    "doi_org_status": 302,
+    "crossref_title": "Antimicrobial and antioxidative activity of the essential oil and various extracts of Cyclotrichium origanifolium (Labill.) Manden. &amp; Scheng.",
+    "sim_score": 0.0,
+    "search_doi": "10.7550/rmb.35675",
+    "search_title": "Antioxidant compounds in hawthorn fruits (Crataegus spp.) of Mexico",
+    "search_sim": 0.3333333333333333,
+    "notes": []
+  }
+]

@@ -1,0 +1,499 @@
+import re
+
+html_content = """<section class="standard post-254 chapter type-chapter status-publish hentry" data-type="chapter">
+ <header>
+  <h1 class="entry-title">
+   <span>
+    74
+   </span>
+   Western Red Cedar
+  </h1>
+ </header>
+ <p>
+  <span style="color: #339966">
+   <strong>
+    Names
+   </strong>
+  </span>
+ </p>
+ <p>
+  <strong>
+   Common name
+  </strong>
+  – Western Red Cedar
+ </p>
+ <p>
+  <strong>
+   Scientific name
+  </strong>
+  –
+  <em>
+   Thuja plicata
+  </em>
+ </p>
+ <p>
+  <strong>
+   Other names
+  </strong>
+  – tsátawaz’
+ </p>
+ <p style="text-align: center">
+  <img alt="" class="alignnone size-medium wp-image-334" decoding="async" fetchpriority="high" height="201" sizes="(max-width: 300px) 100vw, 300px" src="http://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture1-5-300x201.png" srcset="https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture1-5-300x201.png 300w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture1-5-65x43.png 65w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture1-5-225x150.png 225w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture1-5-350x234.png 350w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture1-5.png 468w" width="300"/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   Fig 74.1: Branch and foliage of the Western Red Cedar (Thuja plicata).
+  </strong>
+ </p>
+ <p style="text-align: center">
+  <img alt="" class="alignnone size-medium wp-image-335" decoding="async" height="186" sizes="(max-width: 300px) 100vw, 300px" src="http://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture2-6-300x186.png" srcset="https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture2-6-300x186.png 300w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture2-6-65x40.png 65w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture2-6-225x139.png 225w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture2-6-350x217.png 350w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture2-6.png 468w" width="300"/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   Fig 74.2: Close-up of the scale-like leaves of the Western Red Cedar.
+  </strong>
+ </p>
+ <p>
+  <img alt="" class="alignnone size-medium wp-image-336 aligncenter" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="http://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture3-3-225x300.png" srcset="https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture3-3-225x299.png 225w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture3-3-65x87.png 65w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Picture3-3.png 287w" width="225"/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   Fig 74.3: Fibrous bark of the Western Red Cedar trunk.
+  </strong>
+ </p>
+ <p>
+ </p>
+ <p>
+  <strong>
+   General Information
+  </strong>
+ </p>
+ <p style="text-align: justify">
+  Western Red Cedar (
+  <em>
+   Thuja plicata
+  </em>
+  ) is one of the most culturally and medicinally significant trees for Indigenous peoples of the Pacific Northwest Coast. Known as the “Tree of Life,” this majestic conifer has been central to the lives of coastal First Nations for millennia, providing not only material resources but also serving as a cornerstone of traditional medicine. The tree’s bark, leaves, and essential oils contain potent bioactive compounds that have been carefully utilized by Indigenous healers to treat a wide range of ailments, from respiratory conditions to skin infections. This sacred relationship between Indigenous peoples and Western Red Cedar represents thousands of years of accumulated knowledge about the tree’s medicinal properties and safe preparation methods.
+ </p>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Traditional Indigenous Uses
+   </strong>
+  </span>
+ </h3>
+ <p style="text-align: justify">
+  The leaves and bark were boiled into a tea to treat coughs, colds, and bronchitis, helping to clear the chest and ease breathing. The same tea was sometimes taken for stomach troubles or fevers, as the cedar worked to bring balance back to the body. When the leaves were steeped gently and inhaled as steam to open the lungs.<sup>[1]</sup>
+ </p>
+ <p style="text-align: justify">
+  Poultices made from the bark and leaves were laid upon cuts, wounds, or infected skin to cleanse and draw out impurities. The inner bark, when softened and applied to sore muscles or swollen joints, was said to ease pain and reduce inflammation. Its essential oils, when diluted, were used carefully to fight off skin parasites and infections. Women also turned to the cedar for gentle teas that supported menstrual and uterine health, trusting its ability to restore internal harmony.<sup>[1]</sup>
+ </p>
+ <p style="text-align: justify">
+  Whole branches were burned or used in smudging ceremonies to purify homes, bodies, and hearts. The smoke was believed to carry prayers upward and cleanse away sickness or sorrow, connecting the people to the Creator and to the land itself.<sup>[1]</sup>
+ </p>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Biochemical Basis for Medicinal Properties
+   </strong>
+  </span>
+ </h3>
+ <p>
+  <strong>
+   Primary Bioactive Compounds
+  </strong>
+ </p>
+ <ol>
+  <li>
+   <strong>
+    Monoterpenes (Essential Oil Components)
+   </strong>
+  </li>
+ </ol>
+ <p>
+  α-Thujone (Primary Active Compound)
+ </p>
+ <ul>
+  <li>
+   Concentration: 52.1%-59.2% of essential oil<sup>[5]</sup>
+  </li>
+  <li>
+   Chemical Formula: C₁₀H₁₆O
+  </li>
+  <li>
+   Structure: Bicyclic monoterpene ketone
+  </li>
+  <li>
+   Properties: Antimicrobial, antifungal, neurotoxic in high doses<sup>[3, 4]</sup>
+  </li>
+ </ul>
+ <p>
+  β-Thujone
+ </p>
+ <ul>
+  <li>
+   Concentration: 2-5% of essential oil<sup>[5]</sup>
+  </li>
+  <li>
+   Similar structure to α-thujone but different stereochemistry
+  </li>
+  <li>
+   Properties: Similar antimicrobial activity<sup>[4]</sup>
+  </li>
+ </ul>
+ <p>
+  Fenchone
+ </p>
+ <ul>
+  <li>
+   Concentration: 10.0%-11.3% of essential oil<sup>[5]</sup>
+  </li>
+  <li>
+   Chemical Formula: C₁₀H₁₆O
+  </li>
+  <li>
+   Properties: Antimicrobial, expectorant<sup>[4]</sup>
+  </li>
+ </ul>
+ <p>
+  Sabinene
+ </p>
+ <ul>
+  <li>
+   Concentration: 2-5% of essential oil<sup>[5]</sup>
+  </li>
+  <li>
+   Chemical Formula: C₁₀H₁₆
+  </li>
+  <li>
+   Properties: Anti-inflammatory, antimicrobial<sup>[4]</sup>
+  </li>
+ </ul>
+ <ol start="2">
+  <li>
+   <strong>
+    Thujaplicins (Unique to Thuja plicata)
+   </strong>
+  </li>
+ </ol>
+ <p>
+  α-Thujaplicin, β-Thujaplicin, γ-Thujaplicin
+ </p>
+ <ul>
+  <li>
+   Source: Heartwood<sup>[7]</sup>
+  </li>
+  <li>
+   Properties: Strong antibiotic activity, antifungal<sup>[7]</sup>
+  </li>
+  <li>
+   Structure: Tropolone derivatives (7-membered aromatic rings)
+  </li>
+  <li>
+   Unique Feature: Rare natural tropolones with potent antimicrobial activity<sup>[7]</sup>
+  </li>
+ </ul>
+ <ol start="3">
+  <li>
+   <strong>
+    Diterpenes
+   </strong>
+  </li>
+ </ol>
+ <p>
+  Beyerene
+ </p>
+ <ul>
+  <li>
+   Concentration: 3.7-9.5% of essential oil<sup>[5]</sup>
+  </li>
+  <li>
+   Chemical Formula: C₂₀H₃₂
+  </li>
+  <li>
+   Properties: Antimicrobial, anti-inflammatory<sup>[2, 4]</sup>
+  </li>
+ </ul>
+ <p>
+  Rimuene
+ </p>
+ <ul>
+  <li>
+   Properties: Contributing to antimicrobial activity<sup>[4, 6]</sup>
+  </li>
+ </ul>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Mechanism of Action
+   </strong>
+  </span>
+ </h3>
+ <p>
+  <strong>
+   Antimicrobial Activity
+  </strong>
+ </p>
+ <p>
+  The antimicrobial effects are primarily due to:
+ </p>
+ <ul>
+  <li>
+   Cell membrane disruption by monoterpenes<sup>[4]</sup>
+  </li>
+  <li>
+   Enzyme inhibition by thujaplicins<sup>[7]</sup>
+  </li>
+  <li>
+   Oxidative stress in microbial cells<sup>[4]</sup>
+  </li>
+ </ul>
+ <p>
+  <strong>
+   Anti-inflammatory Properties
+  </strong>
+ </p>
+ <ul>
+  <li>
+   Cyclooxygenase (COX) inhibition by monoterpenes<sup>[2]</sup>
+  </li>
+  <li>
+   Reduction of inflammatory mediators<sup>[2]</sup>
+  </li>
+  <li>
+   Modulation of immune response<sup>[2]</sup>
+  </li>
+ </ul>
+ <p>
+  <strong>
+   Respiratory Benefits
+  </strong>
+ </p>
+ <ul>
+  <li>
+   Bronchodilation through smooth muscle relaxation<sup>[8]</sup>
+  </li>
+  <li>
+   Expectorant action facilitated by volatile compounds<sup>[8]</sup>
+  </li>
+  <li>
+   Antimicrobial activity against respiratory pathogens<sup>[8]</sup>
+  </li>
+ </ul>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Chemical Structures of some Key Compounds
+   </strong>
+  </span>
+ </h3>
+ <p style="text-align: center">
+  Thujone
+ </p>
+ <p style="text-align: center">
+  <img alt="" class="alignnone size-full wp-image-337" decoding="async" height="192" loading="lazy" sizes="(max-width: 176px) 100vw, 176px" src="http://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/thujone.png" srcset="https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/thujone.png 176w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/thujone-65x71.png 65w" width="176"/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   Fig 74.4: Chemical structure of thujone.
+  </strong>
+ </p>
+ <p style="text-align: center">
+  Fenchone
+ </p>
+ <p style="text-align: center">
+  <img alt="" class="alignnone size-full wp-image-338" decoding="async" height="206" loading="lazy" sizes="(max-width: 245px) 100vw, 245px" src="http://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Fenchone.png" srcset="https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Fenchone.png 245w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Fenchone-65x55.png 65w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/Fenchone-225x189.png 225w" width="245"/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   Fig 74.5: Chemical structure of fenchone.
+  </strong>
+ </p>
+ <p style="text-align: center">
+  Sabinene
+ </p>
+ <p>
+  <img alt="" class="alignnone size-full wp-image-339 aligncenter" decoding="async" height="200" loading="lazy" sizes="(max-width: 200px) 100vw, 200px" src="http://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/sab.png" srcset="https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/sab.png 200w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/sab-150x150.png 150w, https://indigenousmedicinescayoosecreek.pressbooks.tru.ca/wp-content/uploads/sites/188/2025/09/sab-65x65.png 65w" width="200"/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   Fig 74.6: Chemical structure of sabinene.
+  </strong>
+ </p>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Pharmacological Activities
+   </strong>
+  </span>
+ </h3>
+ <table>
+  <tbody>
+   <tr>
+    <td>
+     <strong>
+      Activity
+     </strong>
+    </td>
+    <td>
+     <strong>
+      Responsible Compounds
+     </strong>
+    </td>
+    <td>
+     <strong>
+      Mechanism
+     </strong>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Antimicrobial
+    </td>
+    <td>
+     α-thujone, β-thujone, thujaplicins
+    </td>
+    <td>
+     Cell membrane disruption, enzyme inhibition<sup>[3, 4, 7]</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Anti-inflammatory
+    </td>
+    <td>
+     Monoterpenes, diterpenes
+    </td>
+    <td>
+     COX inhibition, mediator reduction<sup>[2]</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Expectorant
+    </td>
+    <td>
+     Fenchone, monoterpenes
+    </td>
+    <td>
+     Bronchial secretion stimulation<sup>[4, 8]</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Antifungal
+    </td>
+    <td>
+     Thujaplicins, thujones
+    </td>
+    <td>
+     Cell wall disruption, metabolic interference<sup>[3, 7]</sup>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Immunomodulatory
+    </td>
+    <td>
+     Essential oil complex
+    </td>
+    <td>
+     Cytokine regulation<sup>[2]</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Safety Considerations
+   </strong>
+  </span>
+ </h3>
+ <p>
+  <strong>
+   Thujone Toxicity
+  </strong>
+ </p>
+ <ul>
+  <li>
+   High concentrations can cause neurotoxic effects<sup>[3]</sup>
+  </li>
+  <li>
+   Safe traditional preparations use diluted forms<sup>[1]</sup>
+  </li>
+  <li>
+   External use generally safer than internal consumption<sup>[1]</sup>
+  </li>
+  <li>
+   Pregnancy and nursing: Traditional contraindications exist<sup>[1]</sup>
+  </li>
+ </ul>
+ <h3>
+  <span style="color: #339966">
+   <strong>
+    Modern Research Validation
+   </strong>
+  </span>
+ </h3>
+ <p>
+  Recent studies have confirmed many traditional uses:
+ </p>
+ <ul>
+  <li>
+   Antimicrobial activity validated against various pathogens<sup>[4, 7]</sup>
+  </li>
+  <li>
+   Anti-inflammatory properties demonstrated in laboratory studies<sup>[2]</sup>
+  </li>
+  <li>
+   Respiratory benefits supported by pharmacological research<sup>[8]</sup>
+  </li>
+  <li>
+   Skin health applications confirmed through topical studies<sup>[2]</sup>
+  </li>
+ </ul>
+ <p>
+  <span style="color: #ff0000">
+   <strong>
+    Important
+   </strong>
+   :
+  </span>
+  This information is provided for educational purposes. Traditional Indigenous knowledge should be respected and accessed appropriately with permission from knowledge holders. Always consult healthcare providers before using any medicinal plants.
+ </p>
+ <p>
+  <strong>
+   <span style="color: #339966">
+    References
+   </span>
+  </strong>
+ </p>
+ <p>
+  1. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). <em>Traditional knowledge</em>. [Personal communication].
+ </p>
+ <p>
+  2. Han, X., &amp; Parker, T. L. (2017). <em>Arborvitae (Thuja plicata)</em> essential oil significantly inhibited critical inflammation- and tissue-remodeling-related proteins and genes in human dermal fibroblasts. <em>Biochim Open, 4</em>, 56–60. <a href="https://doi.org/10.1016/j.biopen.2017.02.003">https://doi.org/10.1016/j.biopen.2017.02.003</a>
+ </p>
+ <p>
+  3. Höld, K. M., Sirisoma, N. S., Ikeda, T., Narahashi, T., &amp; Casida, J. E. (2000). α-Thujone (the active component of absinthe): γ-Aminobutyric acid type A receptor modulation and metabolic detoxification. <em>Proceedings of the National Academy of Sciences of the United States of America, 97</em>(8), 3826–3831. <a href="https://doi.org/10.1073/pnas.070042397">https://doi.org/10.1073/pnas.070042397</a>
+ </p>
+ <p>
+  4. Hudson, J., Kuo, M., &amp; Vimalanathan, S. (2011). The antimicrobial properties of cedar leaf (<em>Thuja plicata</em>) oil; a safe and efficient decontamination agent for buildings. <em>International Journal of Environmental Research and Public Health, 8</em>(12), 4477–4487. <a href="https://doi.org/10.3390/ijerph8124477">https://doi.org/10.3390/ijerph8124477</a>
+ </p>
+ <p>
+  5. Lis, A., Swaczyna, A., Krajewska, A., &amp; Mellor, K. (2019). Chemical composition of the essential oils from twigs, leaves, and cones of <em>Thuja plicata</em> and its cultivar varieties “Fastigiata”, “Kornik”, and “Zebrina”. <em>Natural Product Communications, 14</em>, 1934578X19862904. <a href="https://doi.org/10.1177/1934578X19862904">https://doi.org/10.1177/1934578X19862904</a>
+ </p>
+ <p>
+  6. Malhocká, A., &amp; Švábová, M. (2023). Diversity of the terpene synthesis in the <em>Thuja</em> species—A comparative chemotaxonomic study. <em>Biochemical Systematics and Ecology, 110</em>, 104703. <a href="https://doi.org/10.1016/j.bse.2023.104703">https://doi.org/10.1016/j.bse.2023.104703</a>
+ </p>
+ <p>
+  7. Stirling, R., Kus, S., &amp; Uzunovic, A. (2016). Inhibition of basidiospore germination by western redcedar heartwood extractives. <em>International Biodeterioration &amp; Biodegradation, 114</em>, 145–149. <a href="https://doi.org/10.1016/j.ibiod.2016.06.008">https://doi.org/10.1016/j.ibiod.2016.06.008</a>
+ </p>
+ <p>
+  8. Vimalanathan, S., &amp; Hudson, J. (2013). The activity of cedar leaf oil vapor against respiratory viruses: Practical applications. <em>Journal of Applied Pharmaceutical Science, 3</em>(11), 11–15. <a href="https://doi.org/10.7324/JAPS.2013.31103">https://doi.org/10.7324/JAPS.2013.31103</a>
+ </p>
+</section>"""
+
+with open(r"C:\Users\DELL\Documents\antigravity\bold-hawking\chapters\chapter_74.html", "w", encoding="utf-8") as f:
+    f.write(html_content)

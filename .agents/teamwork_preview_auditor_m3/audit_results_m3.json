@@ -1,0 +1,3650 @@
+{
+  "total_chapters": 20,
+  "total_references": 238,
+  "total_dois": 141,
+  "total_html_issues": 1,
+  "clean_dois_count": 14,
+  "violations": [
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 1,
+      "ref_num": 4,
+      "doi": "10.1890/1051-0761(2000)010",
+      "http_status": 404,
+      "crossref_status": 404,
+      "details": "DOI 10.1890/1051-0761(2000)010 failed resolution (HTTP status: 404, CrossRef: 404, error: HTTP 404: Not Found)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 2,
+      "ref_num": 9,
+      "doi": "10.3390/nu10111753",
+      "title_similarity": 0.23529411764705882,
+      "ref_text": "Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J. (2018). Amelanchier alnifolia: A r",
+      "crossref_title": "Comment on: The Vitamin D–Folate Hypothesis as an Evolutionary Model for Skin Pigmentation: An Update and Integration of Current Ideas, Nutrients 2018, 10, 554",
+      "details": "DOI 10.3390/nu10111753 resolves to paper 'Comment on: The Vitamin D–Folate Hypothesis as an Evolutionary Model for Skin Pigmentation: An Update and Integration of Current Ideas, Nutrients 2018, 10, 554' which does NOT match reference text 'Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J. (2018). Amelan...' (similarity: 0.24)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 2,
+      "ref_num": 11,
+      "doi": "10.1021/acs.jafc.8b01183",
+      "title_similarity": 0.1935483870967742,
+      "ref_text": "Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M. (2018). Flavonoid profile and antioxidant a",
+      "crossref_title": "An Extensive Description of the Peptidomic Repertoire of the Hen Egg Yolk Plasma",
+      "details": "DOI 10.1021/acs.jafc.8b01183 resolves to paper 'An Extensive Description of the Peptidomic Repertoire of the Hen Egg Yolk Plasma' which does NOT match reference text 'Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M. (2018). Flavonoid profi...' (similarity: 0.19)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 2,
+      "ref_num": 16,
+      "doi": "10.4141/P04-065",
+      "http_status": 403,
+      "crossref_status": 429,
+      "details": "DOI 10.4141/P04-065 failed resolution (HTTP status: 403, CrossRef: 429, error: HTTP 429: Too Many Requests)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 3,
+      "ref_num": 2,
+      "doi": "10.1155/2020/8817078",
+      "http_status": 404,
+      "crossref_status": 404,
+      "details": "DOI 10.1155/2020/8817078 failed resolution (HTTP status: 404, CrossRef: 404, error: HTTP 404: Not Found)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 2,
+      "ref_num": 17,
+      "doi": "10.1016/j.foodchem.2017.05.041",
+      "title_similarity": 0.15176151761517614,
+      "ref_text": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2018). Phytochemical composition and antioxidant c",
+      "crossref_title": "Polysaccharides from by-products of the Wonderful and Laffan pomegranate varieties: New insight into extraction and characterization",
+      "details": "DOI 10.1016/j.foodchem.2017.05.041 resolves to paper 'Polysaccharides from by-products of the Wonderful and Laffan pomegranate varieties: New insight into extraction and characterization' which does NOT match reference text 'Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2018). Phytochemical compositi...' (similarity: 0.15)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 3,
+      "ref_num": 1,
+      "doi": "10.1016/j.bmc.2013.09.011",
+      "title_similarity": 0.18241042345276873,
+      "ref_text": "Böttger, S., & Melzig, M. F. (2013). The influence of saponins on cell membrane cholesterol.\n   \n   ",
+      "crossref_title": "In vitro structure–activity relationships of aplysinopsin analogs and their in vivo evaluation in the chick anxiety–depression model",
+      "details": "DOI 10.1016/j.bmc.2013.09.011 resolves to paper 'In vitro structure–activity relationships of aplysinopsin analogs and their in vivo evaluation in the chick anxiety–depression model' which does NOT match reference text 'Böttger, S., & Melzig, M. F. (2013). The influence of saponins on cell membrane ...' (similarity: 0.18)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 5,
+      "ref_num": 4,
+      "doi": "10.1016/j.aca.2008.03.009",
+      "title_similarity": 0.18888888888888888,
+      "ref_text": "4. Ganzera, M., Egger, C., Zidorn, C., & Stuppner, H. (2008). Quantitative analysis of flavonoids an",
+      "crossref_title": "Studies on the mechanism of the peroxyoxalate chemiluminescence reaction",
+      "details": "DOI 10.1016/j.aca.2008.03.009 resolves to paper 'Studies on the mechanism of the peroxyoxalate chemiluminescence reaction' which does NOT match reference text '4. Ganzera, M., Egger, C., Zidorn, C., & Stuppner, H. (2008). Quantitative analy...' (similarity: 0.19)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 3,
+      "ref_num": 17,
+      "doi": "10.1590/S0036-46652011000500004",
+      "title_similarity": 0.21176470588235294,
+      "ref_text": "Upadhyay, A., & Singh, D. K. (2011). Pharmacological effects of\n   \n    Sapindus mukorossi\n   \n   .\n",
+      "crossref_title": "Effect of bioactive compounds extracted from euphorbious plants on hematological and biochemical parameters of Channa punctatus",
+      "details": "DOI 10.1590/S0036-46652011000500004 resolves to paper 'Effect of bioactive compounds extracted from euphorbious plants on hematological and biochemical parameters of Channa punctatus' which does NOT match reference text 'Upadhyay, A., & Singh, D. K. (2011). Pharmacological effects of\n   \n    Sapindus...' (similarity: 0.21)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 5,
+      "ref_num": 8,
+      "doi": "10.1111/jphp.12735",
+      "title_similarity": 0.1640378548895899,
+      "ref_text": "8. Kriplani, P., Guarve, K., & Baghael, U. S. (2017).\n   \n    Arnica montana\n   \n   L.—A plant of he",
+      "crossref_title": "Phytochemical and biological studies of <i>Atriplex inflata</i> f. Muell.: isolation of secondary bioactive metabolites",
+      "details": "DOI 10.1111/jphp.12735 resolves to paper 'Phytochemical and biological studies of <i>Atriplex inflata</i> f. Muell.: isolation of secondary bioactive metabolites' which does NOT match reference text '8. Kriplani, P., Guarve, K., & Baghael, U. S. (2017).\n   \n    Arnica montana\n   ...' (similarity: 0.16)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 5,
+      "ref_num": 7,
+      "doi": "10.1055/s-2002-26747",
+      "title_similarity": 0.16071428571428573,
+      "ref_text": "7. Klaas, C. A., Wagner, G., Laufer, S., Sosa, S., Della Loggia, R., Bomme, U., & Merfort, I. (2002)",
+      "crossref_title": "Diphyllin Acetylapioside, A 5-Lipoxygenase Inhibitor from Haplophyllum hispanicum",
+      "details": "DOI 10.1055/s-2002-26747 resolves to paper 'Diphyllin Acetylapioside, A 5-Lipoxygenase Inhibitor from Haplophyllum hispanicum' which does NOT match reference text '7. Klaas, C. A., Wagner, G., Laufer, S., Sosa, S., Della Loggia, R., Bomme, U., ...' (similarity: 0.16)"
+    },
+    {
+      "type": "HALLUCINATED_DOI_MISMATCH",
+      "chapter": 5,
+      "ref_num": 10,
+      "doi": "10.1159/000071692",
+      "title_similarity": 0.21806853582554517,
+      "ref_text": "10. Merfort, I. (2003). Arnica: New insights on the molecular mode of action of a traditional medici",
+      "crossref_title": "Arnika: Neue Erkenntnisse zum Wirkungsmechanismus einer traditionellen Heilpflanze",
+      "details": "DOI 10.1159/000071692 resolves to paper 'Arnika: Neue Erkenntnisse zum Wirkungsmechanismus einer traditionellen Heilpflanze' which does NOT match reference text '10. Merfort, I. (2003). Arnica: New insights on the molecular mode of action of ...' (similarity: 0.22)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 5,
+      "doi": "10.1016/s0031-9422(00)84838-4",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/s0031-9422(00)84838-4 failed resolution (HTTP status: 500, CrossRef: 500, error: The read operation timed out)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 2,
+      "doi": "10.1016/j.phytochem.2011.04.017",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.phytochem.2011.04.017 failed resolution (HTTP status: 500, CrossRef: 500, error: The read operation timed out)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 1,
+      "doi": "10.1055/s-2002-33794",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1055/s-2002-33794 failed resolution (HTTP status: 500, CrossRef: 500, error: The read operation timed out)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 4,
+      "doi": "10.3390/molecules29020437",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/molecules29020437 failed resolution (HTTP status: 500, CrossRef: 500, error: The read operation timed out)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 6,
+      "doi": "10.1016/s0031-9422(00)97369-2",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/s0031-9422(00)97369-2 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error _ssl.c:989: The handshake operation timed out>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 1,
+      "doi": "10.1128/aem.40.2.301-304.1980",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1128/aem.40.2.301-304.1980 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 5,
+      "doi": "10.3390/antiox10111723",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/antiox10111723 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 6,
+      "doi": "10.1002/cbdv.202100424",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/cbdv.202100424 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 8,
+      "doi": "10.1016/0031-9422(91)83426-l",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/0031-9422(91)83426-l failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 9,
+      "doi": "10.1016/s0049-3848(03)00379-7",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/s0049-3848(03)00379-7 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 8,
+      "doi": "10.3390/pharmaceutics16010052",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/pharmaceutics16010052 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 12,
+      "doi": "10.2298/JSC0910035T",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.2298/JSC0910035T failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 6,
+      "ref_num": 7,
+      "doi": "10.1177/1934578X1501001117",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1177/1934578X1501001117 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 9,
+      "doi": "10.3390/biom9110738",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/biom9110738 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 14,
+      "doi": "10.3390/ph14111159",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ph14111159 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 1,
+      "doi": "10.1007/BF02858839",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/BF02858839 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 3,
+      "doi": "10.1002/ptr.1110",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/ptr.1110 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 5,
+      "doi": "10.3390/ijms23063197",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms23063197 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 7,
+      "ref_num": 11,
+      "doi": "10.3390/molecules28062477",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/molecules28062477 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 8,
+      "doi": "10.1002/ptr.2650010107",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/ptr.2650010107 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 6,
+      "doi": "10.3390/antiox3010081",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/antiox3010081 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 4,
+      "doi": "10.2298/JSC0704311G",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.2298/JSC0704311G failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 13,
+      "doi": "10.1055/s-2006-959457",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1055/s-2006-959457 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 15,
+      "doi": "10.1007/BF00405106",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/BF00405106 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 9,
+      "doi": "10.1021/jf040019b",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1021/jf040019b failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 8,
+      "ref_num": 12,
+      "doi": "10.1016/j.heliyon.2019.e02376",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.heliyon.2019.e02376 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 5,
+      "doi": "10.1016/s0378-8741(00)00180-x",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/s0378-8741(00)00180-x failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 3,
+      "doi": "10.3923/pjbs.2004.1559.1562",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3923/pjbs.2004.1559.1562 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 2,
+      "doi": "10.1016/j.biotechadv.2014.07.001",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.biotechadv.2014.07.001 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 7,
+      "doi": "10.1016/j.lfs.2003.09.053",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.lfs.2003.09.053 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 11,
+      "doi": "10.1016/j.jep.2010.05.061",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.jep.2010.05.061 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 10,
+      "doi": "10.1590/S0102-695X2013000600004",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1590/S0102-695X2013000600004 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 15,
+      "doi": "10.1016/s0378-8741(02)00186-1",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/s0378-8741(02)00186-1 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 8,
+      "doi": "10.1016/0378-8741(95)01321-0",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/0378-8741(95)01321-0 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 9,
+      "doi": "10.1016/j.jtcme.2016.12.014",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.jtcme.2016.12.014 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 10,
+      "ref_num": 4,
+      "doi": "10.3390/ijms18061137",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms18061137 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 14,
+      "doi": "10.1515/znc-2004-5-622",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1515/znc-2004-5-622 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 9,
+      "ref_num": 12,
+      "doi": "10.1001/archpedi.155.7.796",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1001/archpedi.155.7.796 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 1,
+      "doi": "10.1093/ecam/neh072",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1093/ecam/neh072 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 2,
+      "doi": "10.3390/molecules29040802",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/molecules29040802 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 10,
+      "ref_num": 6,
+      "doi": "10.2147/BTAT.S91385",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.2147/BTAT.S91385 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 12,
+      "doi": "10.1007/s40268-016-0157-5",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/s40268-016-0157-5 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 15,
+      "doi": "10.1016/S0091-3057(03)00108-4",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/S0091-3057(03)00108-4 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 10,
+      "doi": "10.4103/2225-4110.130373",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.4103/2225-4110.130373 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 23,
+      "doi": "10.3390/nu13010218",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/nu13010218 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 14,
+      "doi": "10.1177/1934578X19850354",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1177/1934578X19850354 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 17,
+      "doi": "10.1021/jf100082p",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1021/jf100082p failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 12,
+      "ref_num": 3,
+      "doi": "10.3390/ijms25063430",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms25063430 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 21,
+      "doi": "10.1016/S0091-3057(03)00122-9",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/S0091-3057(03)00122-9 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 18,
+      "doi": "10.3390/ijms10093937",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms10093937 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 12,
+      "ref_num": 2,
+      "doi": "10.1016/j.phymed.2007.03.014",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.phymed.2007.03.014 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 11,
+      "ref_num": 22,
+      "doi": "10.1007/BF02860489",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/BF02860489 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 12,
+      "ref_num": 10,
+      "doi": "10.1055/s-2006-960881",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1055/s-2006-960881 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 13,
+      "ref_num": 1,
+      "doi": "10.29228/jrp.607",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.29228/jrp.607 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 12,
+      "ref_num": 5,
+      "doi": "10.1016/j.jep.2003.09.028",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.jep.2003.09.028 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 12,
+      "ref_num": 9,
+      "doi": "10.3390/molecules23071664",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/molecules23071664 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 14,
+      "ref_num": 1,
+      "doi": "10.1002/ptr.5840",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/ptr.5840 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 14,
+      "ref_num": 6,
+      "doi": "10.1016/j.hermed.2015.09.001",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.hermed.2015.09.001 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 12,
+      "ref_num": 8,
+      "doi": "10.1055/s-2000-11117",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1055/s-2000-11117 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 14,
+      "ref_num": 9,
+      "doi": "10.1002/ptr.1897",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/ptr.1897 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 2,
+      "doi": "10.1002/ptr.1103",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/ptr.1103 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 3,
+      "doi": "10.1080/13693780400004810",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1080/13693780400004810 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 5,
+      "doi": "10.1007/bf00973103",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/bf00973103 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 14,
+      "ref_num": 2,
+      "doi": "10.1007/s12231-011-9154-3",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/s12231-011-9154-3 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 6,
+      "doi": "10.5962/bhl.title.62043",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.5962/bhl.title.62043 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 12,
+      "doi": "10.1186/s12906-016-1128-7",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1186/s12906-016-1128-7 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 9,
+      "doi": "10.1016/j.phymed.2009.10.002",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.phymed.2009.10.002 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 15,
+      "doi": "10.1111/j.1365-2184.2004.00307.x",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1111/j.1365-2184.2004.00307.x failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 14,
+      "doi": "10.1016/j.ejphar.2003.11.066",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.ejphar.2003.11.066 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 10,
+      "doi": "10.1002/(sici)1099-1573(199909)13:6",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/(sici)1099-1573(199909)13:6 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 13,
+      "doi": "10.1078/094471102321621322",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1078/094471102321621322 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 16,
+      "ref_num": 2,
+      "doi": "10.1016/j.ijfoodmicro.2004.03.022",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.ijfoodmicro.2004.03.022 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 16,
+      "ref_num": 5,
+      "doi": "10.1074/jbc.273.3.1288",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1074/jbc.273.3.1288 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 16,
+      "ref_num": 9,
+      "doi": "10.1177/1934578X231225842",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1177/1934578X231225842 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 16,
+      "ref_num": 1,
+      "doi": "10.1016/0031-9422(89)80041-X",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/0031-9422(89)80041-X failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 16,
+      "ref_num": 7,
+      "doi": "10.1248/cpb.54.152",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1248/cpb.54.152 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 8,
+      "doi": "10.1155/2013/681304",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1155/2013/681304 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 15,
+      "ref_num": 16,
+      "doi": "10.1023/a:1010904214482",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1023/a:1010904214482 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 2,
+      "doi": "10.1073/pnas.070042397",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1073/pnas.070042397 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 3,
+      "doi": "10.1055/s-0034-1372609",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1055/s-0034-1372609 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 10,
+      "doi": "10.3390/plants11091228",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/plants11091228 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 6,
+      "doi": "10.1007/s11101-020-09671-y",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/s11101-020-09671-y failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 7,
+      "doi": "10.1074/jbc.M112.438515",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1074/jbc.M112.438515 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 16,
+      "ref_num": 8,
+      "doi": "10.1017/jns.2016.41",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1017/jns.2016.41 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 18,
+      "ref_num": 3,
+      "doi": "10.1134/S1068162017070081",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1134/S1068162017070081 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 18,
+      "ref_num": 2,
+      "doi": "10.3390/ijms222011163",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms222011163 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 5,
+      "doi": "10.1128/am.15.4.819-821.1967",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1128/am.15.4.819-821.1967 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 18,
+      "ref_num": 7,
+      "doi": "10.1007/s11240-020-01971-7",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1007/s11240-020-01971-7 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 17,
+      "ref_num": 9,
+      "doi": "10.1177/1934578X221117417",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1177/1934578X221117417 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 18,
+      "ref_num": 4,
+      "doi": "10.3390/nu8030167",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/nu8030167 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 18,
+      "ref_num": 8,
+      "doi": "10.3390/ijms24032362",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms24032362 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 3,
+      "doi": "10.3390/foods10081745",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/foods10081745 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 2,
+      "doi": "10.1016/0889-1575(89)90059-8",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/0889-1575(89)90059-8 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 5,
+      "doi": "10.1021/jf011062r",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1021/jf011062r failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 4,
+      "doi": "10.3390/ijms20102588",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/ijms20102588 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 8,
+      "doi": "10.1016/j.jep.2021.114166",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.jep.2021.114166 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 6,
+      "doi": "10.1207/s15327914nc5401_4",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1207/s15327914nc5401_4 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 3,
+      "doi": "10.1016/j.phytochem.2012.04.006",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.phytochem.2012.04.006 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 5,
+      "doi": "10.1016/j.ejheart.2008.10.004",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.ejheart.2008.10.004 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 1,
+      "doi": "10.1080/10942912.2018.1446146",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1080/10942912.2018.1446146 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 10,
+      "doi": "10.1016/S0031-9422(02)00172-3",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/S0031-9422(02)00172-3 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 12,
+      "doi": "10.1002/jsfa.5671",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1002/jsfa.5671 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 19,
+      "ref_num": 7,
+      "doi": "10.1155/2020/1258707",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1155/2020/1258707 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 9,
+      "doi": "10.1016/j.jfoodeng.2004.08.032",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.1016/j.jfoodeng.2004.08.032 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    },
+    {
+      "type": "BROKEN_DOI",
+      "chapter": 20,
+      "ref_num": 8,
+      "doi": "10.3390/nu7095361",
+      "http_status": 500,
+      "crossref_status": 500,
+      "details": "DOI 10.3390/nu7095361 failed resolution (HTTP status: 500, CrossRef: 500, error: <urlopen error [Errno 11001] getaddrinfo failed>)"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 2,
+      "ref_num": 7,
+      "doi": "10.1111/1541-4337.12500",
+      "title_similarity": 0.29219143576826195,
+      "ref_text": "Johnson, M. H., Lucius, A., Meyer, K. A., & Prior, R. L. (2020). Bioactive components and health ben",
+      "crossref_title": "Recent Advances in Microalgal Bioactives for Food, Feed, and Healthcare Products: Commercial Potential, Market Space, and Sustainability"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 2,
+      "ref_num": 18,
+      "doi": "10.1155/2020/3901636",
+      "title_similarity": 0.44029850746268656,
+      "ref_text": "Zhao, L., Huang, F., Hui, A. L., & Shen, X. (2020). Bioactive components and health benefits of Sask",
+      "crossref_title": "Bioactive Components and Health Benefits of Saskatoon Berry"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 3,
+      "ref_num": 14,
+      "doi": "10.3390/plants9020267",
+      "title_similarity": 0.2589928057553957,
+      "ref_text": "Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., & Husen, A. (2020). Phytochemistry, pharmacol",
+      "crossref_title": "In Vitro Anti-HSV-1 Activity of Polyphenol-Rich Extracts and Pure Polyphenol Compounds Derived from Pistachios Kernels (Pistacia vera L.)"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 3,
+      "ref_num": 12,
+      "doi": "10.1016/0308-8146(81)90019-4",
+      "title_similarity": 0.3404255319148936,
+      "ref_text": "Oakenfull, D. (1981). Saponins in food—A review.\n   \n    Food Chemistry, 6\n   \n   (1), 19–40.\n   htt",
+      "crossref_title": "Saponins in food—A review"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 3,
+      "ref_num": 4,
+      "doi": "10.1079/BJN2002725",
+      "title_similarity": 0.4743083003952569,
+      "ref_text": "Francis, G., Kerem, Z., Makkar, H. P. S., & Becker, K. (2002). The biological action of saponins in ",
+      "crossref_title": "The biological action of saponins in animal systems: a review"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 3,
+      "ref_num": 15,
+      "doi": "10.1016/j.jep.2004.05.016",
+      "title_similarity": 0.4628099173553719,
+      "ref_text": "Sparg, S. G., Light, M. E., & van Staden, J. (2004). Biological activities and distribution of plant",
+      "crossref_title": "Biological activities and distribution of plant saponins"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 3,
+      "ref_num": 16,
+      "doi": "10.1007/978-1-4613-0413-5_9",
+      "title_similarity": 0.48501362397820164,
+      "ref_text": "Tava, A., & Odoardi, M. (1996). Saponins from\n   \n    Medicago\n   \n   : Chemical characterization an",
+      "crossref_title": "Saponins from Medicago SPP.: Chemical Characterization and Biological Activity Against Insects"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 5,
+      "ref_num": 5,
+      "doi": "10.1002/jps.2600680505",
+      "title_similarity": 0.43582089552238806,
+      "ref_text": "5. Hall, I. H., Lee, K. H., Starnes, C. O., Sumida, Y., Wu, R. Y., Waddell, T. G., & Cochran, J. W. ",
+      "crossref_title": "Anti-Inflammatory Activity of Sesquiterpene Lactones and Related Compounds"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 5,
+      "ref_num": 6,
+      "doi": "10.1097/mjt.0000000000000036",
+      "title_similarity": 0.4631578947368421,
+      "ref_text": "6. Iannitti, T., Morales-Medina, J. C., Bellavite, P., Rottigni, V., & Palmieri, B. (2016). Effectiv",
+      "crossref_title": "Effectiveness and Safety of Arnica montana in Post-Surgical Setting, Pain and Inflammation"
+    },
+    {
+      "type": "LOW_TITLE_SIMILARITY",
+      "chapter": 3,
+      "ref_num": 19,
+      "doi": "10.1016/j.phytochem.2006.10.008",
+      "title_similarity": 0.4796747967479675,
+      "ref_text": "Vincken, J. P., Heng, L., de Groot, A., & Gruppen, H. (2007). Saponins, classification and occurrenc",
+      "crossref_title": "Saponins, classification and occurrence in the plant kingdom"
+    }
+  ],
+  "html_issues_by_chapter": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "11": [
+      "Empty or placeholder href attribute: <a href=\"\">\n</a>"
+    ],
+    "12": [],
+    "13": [],
+    "14": [],
+    "15": [],
+    "16": [],
+    "17": [],
+    "18": [],
+    "19": [],
+    "20": []
+  },
+  "refs_without_doi": [
+    {
+      "chapter": 1,
+      "ref_num": 1,
+      "text": "Kuhnlein, H. V., & Turner, N. J. (1991).\n   \n    Traditional plant foods of Canadian indigenous peoples: Nutrition, botany and use\n   \n   . Gordon and Breach."
+    },
+    {
+      "chapter": 1,
+      "ref_num": 2,
+      "text": "Splitrock Environmental. (n.d.).\n   \n    S7ilhen Ul (Real Food) project\n   \n   . https://splitrockenvironmental.ca"
+    },
+    {
+      "chapter": 1,
+      "ref_num": 3,
+      "text": "Turner, N. J. (1997).\n   \n    Food plants of interior First Peoples\n   \n   . UBC Press."
+    },
+    {
+      "chapter": 2,
+      "ref_num": 1,
+      "text": "Agriculture and Bioresources, University of Saskatchewan. (2025).\n   \n    Saskatoons\n   \n   .\n   https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php"
+    },
+    {
+      "chapter": 2,
+      "ref_num": 3,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Personal communication."
+    },
+    {
+      "chapter": 2,
+      "ref_num": 4,
+      "text": "Elsevier. (2025).\n   \n    Amelanchier alnifolia – An overview\n   \n   . ScienceDirect Topics.\n   https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia"
+    },
+    {
+      "chapter": 2,
+      "ref_num": 6,
+      "text": "Health Benefits Times. (2021, February 3).\n   \n    Traditional uses and benefits of Saskatoon\n   \n   .\n   https://www.healthbenefitstimes.com/saskatoon/"
+    },
+    {
+      "chapter": 2,
+      "ref_num": 12,
+      "text": "Province of Manitoba Agriculture. (2025).\n   \n    Saskatoon berries\n   \n   .\n   https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html"
+    },
+    {
+      "chapter": 2,
+      "ref_num": 13,
+      "text": "Splitrock Environmental. (n.d.).\n   \n    Saskatoon (tsáqwem)\n   \n   . Native Plants – Splitrock Environmental.\n   https://splitrockenvironmental.ca/products/saskatoon-tsaqwem?variant=40347094614182\">\n    https://splitrockenvironmental.ca/products/saskatoon-tsaqwem?variant=40347094614182"
+    },
+    {
+      "chapter": 2,
+      "ref_num": 15,
+      "text": "Wikipedia contributors. (2025, August 10). Amelanchier alnifolia. In\n   \n    Wikipedia, The Free Encyclopedia\n   \n   .\n   https://en.wikipedia.org/wiki/Amelanchier_alnifolia"
+    },
+    {
+      "chapter": 3,
+      "ref_num": 3,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw'el'was. (n.d.)."
+    },
+    {
+      "chapter": 3,
+      "ref_num": 7,
+      "text": "Hostettmann, K., & Marston, A. (1995).\n   \n    Saponins\n   \n   . Cambridge University Press."
+    },
+    {
+      "chapter": 3,
+      "ref_num": 9,
+      "text": "Kane, C. W. (2011).\n   \n    Medicinal plants of the American Southwest.\n   \n   Lincoln Town Press."
+    },
+    {
+      "chapter": 3,
+      "ref_num": 11,
+      "text": "Moerman, D. E. (1998).\n   \n    Native American ethnobotany.\n   \n   Timber Press."
+    },
+    {
+      "chapter": 3,
+      "ref_num": 18,
+      "text": "Vestal, P. A., & Schultes, R. E. (1939).\n   \n    The economic botany of the Kiowa Indians.\n   \n   Botanical Museum, Harvard University."
+    },
+    {
+      "chapter": 5,
+      "ref_num": 1,
+      "text": "1. Alonso, J. (2004).\n   \n    Tratado de fitofármacos y nutracéuticos\n   \n   . Corpus Libros."
+    },
+    {
+      "chapter": 5,
+      "ref_num": 2,
+      "text": "2. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n   \n    Traditional Indigenous uses of Arnica\n   \n   [Traditional knowledge]."
+    },
+    {
+      "chapter": 5,
+      "ref_num": 3,
+      "text": "3. Flora of North America Editorial Committee. (2006).\n   \n    Flora of North America North of Mexico\n   \n   (Vol. 21). Oxford University Press."
+    },
+    {
+      "chapter": 5,
+      "ref_num": 11,
+      "text": "11. Moerman, D. E. (1998).\n   \n    Native American ethnobotany\n   \n   . Timber Press."
+    },
+    {
+      "chapter": 5,
+      "ref_num": 12,
+      "text": "12. Olesinska, K. (2020). Antioxidant properties of Chamisso arnica (\n   \n    Arnica chamissonis\n   \n   Less.).\n   \n    Agronomy Science\n   \n   ,\n   \n    25\n   \n   (2).\n   \n    https://czasopisma.up.lublin.pl/as/article/view/1464"
+    },
+    {
+      "chapter": 5,
+      "ref_num": 15,
+      "text": "15. Splitrock Environmental. (n.d.).\n   \n    Arnica Salve\n   \n   . Retrieved November 2, 2024, from\n   https://splitrockenvironmental.ca/products/arnica-salve?variant=33785190383675/products/arnica-salve?variant=33785190383675\">\n    https://splitrockenvironmental.ca/products/arnica-salve?variant=33785190383675/products/arnica-salve?variant=33785190383675"
+    },
+    {
+      "chapter": 5,
+      "ref_num": 16,
+      "text": "16. Sugier, D., Olesinska, K., Sugier, P., & Wojcik, M. (2019). Chemical composition of essential oil from flower heads of\n   \n    Arnica chamissonis\n   \n   Less. under a nitrogen impact.\n   \n    Molecules\n   \n   ,\n   \n    24\n   \n   (24).\n   \n    https://pmc.ncbi.nlm.nih.gov/articles/PMC6943594/"
+    },
+    {
+      "chapter": 5,
+      "ref_num": 17,
+      "text": "17. United Plant Savers. (2025).\n   \n    Arnica (Arnica spp.)\n   \n   . At-risk medicinal plant list.\n   \n    https://unitedplantsavers.org"
+    },
+    {
+      "chapter": 5,
+      "ref_num": 18,
+      "text": "18. Wagner, S., Merfort, I., & Schmidt, T. J. (2004). Helenanolide-type sesquiterpene lactones. Part 6: Reaction of helenalin and related helenanolides with sulfhydryl-containing biomolecules.\n   \n    Pharmazie\n   \n   ,\n   \n    59\n   \n   (3), 236–238."
+    },
+    {
+      "chapter": 5,
+      "ref_num": 20,
+      "text": "20. Willuhn, G. (1998).\n   \n    Arnica montana\n   \n   L.—Portrait of a medicinal plant.\n   \n    Zeitschrift für Phytotherapie\n   \n   ,\n   \n    19\n   \n   (3), 131–143."
+    },
+    {
+      "chapter": 6,
+      "ref_num": 3,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n  \n   Traditional Indigenous knowledge and uses of Black Cottonwood\n  \n  ."
+    },
+    {
+      "chapter": 7,
+      "ref_num": 2,
+      "text": "Compton, B. D. (1993).\n   \n    Upper North Wakashan and Southern Tsimshian ethnobotany: The knowledge and usage of plants and fungi among the Oweekeno, Hanaksiala, Haisla and Kitasoo peoples of the central and north coasts of British Columbia\n   \n   [Doctoral dissertation, University of British Columbia]. University of British Columbia.\n   https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt"
+    },
+    {
+      "chapter": 7,
+      "ref_num": 3,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n   \n    Traditional knowledge\n   \n   ."
+    },
+    {
+      "chapter": 7,
+      "ref_num": 4,
+      "text": "Jones, B. (2024).\n   \n    Medicinal herbs of Western Canada\n   \n   (1st ed.). Nimbus Publishing."
+    },
+    {
+      "chapter": 7,
+      "ref_num": 7,
+      "text": "Moerman, D. E. (1998).\n   \n    Native American ethnobotany\n   \n   . Timber Press."
+    },
+    {
+      "chapter": 7,
+      "ref_num": 10,
+      "text": "Splitrock Environmental. (2025).\n   \n    Interior Douglas fir (srep7ùl)\n   \n   .\n   https://splitrockenvironmental.ca/products/interior-douglas-fir-srep7ul?variant=40347193114790\">\n    https://splitrockenvironmental.ca/products/interior-douglas-fir-srep7ul?variant=40347193114790"
+    },
+    {
+      "chapter": 7,
+      "ref_num": 13,
+      "text": "USDA NRCS. (2002).\n   \n    Douglas-fir (Pseudotsuga menziesii) plant guide\n   \n   . U.S. Department of Agriculture.\n   https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf"
+    },
+    {
+      "chapter": 8,
+      "ref_num": 2,
+      "text": "Cayoose Creek Band of Sekw’el’was Elders and Community members. (n.d.).\n  \n   Traditional knowledge\n  \n  ."
+    },
+    {
+      "chapter": 8,
+      "ref_num": 7,
+      "text": "Jones, B. (2024).\n  \n   Medicinal herbs of Western Canada: A pictorial manual\n  \n  (1st ed.). Nimbus Publishing."
+    },
+    {
+      "chapter": 8,
+      "ref_num": 10,
+      "text": "Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press."
+    },
+    {
+      "chapter": 8,
+      "ref_num": 11,
+      "text": "Pepeljnjak, S., Kosalec, I., Kalodera, Z., & Blažević, N. (2005). Antimicrobial activity of juniper berry essential oil (\n  \n   Juniperus communis\n  \n  L., Cupressaceae).\n  \n   Acta Pharmaceutica\n  \n  ,\n  \n   55\n  \n  (4), 417–422."
+    },
+    {
+      "chapter": 8,
+      "ref_num": 14,
+      "text": "Splitrock Environmental. (n.d.).\n  \n   Common Juniper (tsíktsektaz’)\n  \n  . Retrieved November 7, 2024, from\n  https://splitrockenvironmental.ca/products/common-juniper-tsiktsektaz?variant=40347042218150\nhttps://splitrockenvironmental.ca/products/common-juniper-tsiktsektaz?variant=40347042218150"
+    },
+    {
+      "chapter": 8,
+      "ref_num": 16,
+      "text": "Tilford, G. L. (1997).\n  \n   Edible and medicinal plants of the West\n  \n  . Mountain Press Publishing Company."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 1,
+      "text": "Akdemir, Z. S., Tatli, I. I., Saracoglu, I., & Ismailoglu, U. B. (2001). Polyphenolic compounds from Verbascum lasianthum and Verbascum urticaefolium. Turkish Journal of Chemistry, 25(4), 415–420."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 4,
+      "text": "Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Personal communication."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 6,
+      "text": "Jones, A. (2024). Medicinal herbs of western Canada (1st ed.). Nimbus Publishing."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 9,
+      "text": "Moerman, D. E. (1998). Native American ethnobotany. Timber Press."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 13,
+      "text": "Tatli, I. I., & Akdemir, Z. S. (2004). Traditional uses and biological activities of Verbascum species. FABAD Journal of Pharmaceutical Sciences, 29, 85–96."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 16,
+      "text": "Zahradnik, H. P., & Goldmeier, S. (2020). Phytotherapy for dysmenorrhea, endometriosis, and premenstrual syndrome. In I. E. Orhan (Ed.), Herbal medicine (pp. 323–342). CRC Press."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 17,
+      "text": "Zgorniak-Nowosielska, I., Grzybek, J., Manolova, N., Serkedjieva, J., & Zawilinska, B. (1991). Antiviral activity of Flos Verbasci infusion against Influenza and Herpes simplex viruses. Archivum Immunologiae et Therapiae Experimentalis, 39, 103–108."
+    },
+    {
+      "chapter": 9,
+      "ref_num": 18,
+      "text": "Zheleva-Dimitrova, D., Obreshkova, D., & Nedialkov, P. (2013). Antioxidant activity of iridoid glucosides from Veronica chamaedrys. Pharmacognosy Magazine, 9(35), 268–273."
+    },
+    {
+      "chapter": 10,
+      "ref_num": 1,
+      "text": "Deane, G. (n.d.).\n   \n    Rose hips\n   \n   . Eat The Weeds. https://www.eattheweeds.com/rose-hips/"
+    },
+    {
+      "chapter": 10,
+      "ref_num": 2,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n   \n    Traditional knowledge and uses of plants\n   \n   ."
+    },
+    {
+      "chapter": 10,
+      "ref_num": 3,
+      "text": "Joseph, L. (n.d.).\n   \n    Recipe: Rosehip, nettle and mint tea for boosting immunity\n   \n   . Skwálwen. https://skwalwen.com/blogs/news/recipe-rosehip-nettle-and-mint-tea-for-boosting-immunity"
+    },
+    {
+      "chapter": 10,
+      "ref_num": 5,
+      "text": "Splitrock Environmental. (n.d.).\n   \n    Prairie rose (qel’q)\n   \n   . https://splitrockenvironmental.ca/products/prairie-rose-qel-q?variant=40368083304614"
+    },
+    {
+      "chapter": 11,
+      "ref_num": 3,
+      "text": "Asikinak, B. (n.d.). Smudging. In\n  \n   Indigenous Saskatchewan Encyclopedia\n  \n  . Retrieved April 18, 2025, from\n  \n   https://teaching.usask.ca/indigenoussk/import/smudging.php"
+    },
+    {
+      "chapter": 11,
+      "ref_num": 4,
+      "text": "Baricevic, D., & Bartol, T. (2000). The biological/pharmacological activity of the\n  \n   Salvia\n  \n  genus. In S. E. Kintzios (Ed.),\n  \n   Sage: The genus Salvia\n  \n  (pp. 143–184). Harwood Academic Publishers."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 5,
+      "text": "Barrows, D. P. (1977).\n  \n   Ethno-botany of the Coahuilla Indians of Southern California\n  \n  (Reprint of 1900 ed.). Malki Museum Press."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 6,
+      "text": "Bean, L. J., & Saubel, K. S. (1972).\n  \n   Temalpakh: Cahuilla Indian knowledge and usage of plants\n  \n  . Malki Museum Press."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 7,
+      "text": "California Native Plant Society. (n.d.).\n  \n   Saging the world\n  \n  . Retrieved April 18, 2025, from\n  \n   https://www.cnps.org/conservation/white-sage"
+    },
+    {
+      "chapter": 11,
+      "ref_num": 8,
+      "text": "Elders and community members of the Cayoose Creek Band of Sekw’el’was. (n.d.)."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 11,
+      "text": "Jones, R. (2024).\n  \n   Medicinal herbs of Western Canada\n  \n  (1st ed.). Nimbus Publishing."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 13,
+      "text": "Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 16,
+      "text": "Raman, R. (2023).\n  \n   9 emerging benefits and uses of sage tea\n  \n  . Healthline.\n  \n   https://www.healthline.com/nutrition/sage-tea"
+    },
+    {
+      "chapter": 11,
+      "ref_num": 19,
+      "text": "Schaffer, S., Müller, W. E., & Eckert, G. P. (2013). Tocopherols, tocotrienols, and brain health. In A. M. Schaffer, W. E. Müller, & G. P. Eckert (Eds.),\n  \n   Aging and health – A systems biology perspective\n  \n  (Vol. 40, pp. 121–131). Karger Publishers."
+    },
+    {
+      "chapter": 11,
+      "ref_num": 20,
+      "text": "Splitrock Environmental. (n.d.).\n  \n   Sage (káwkwu)\n  \n  . Retrieved November 19, 2024, from\n  https://splitrockenvironmental.ca/products/big-sagebrush-kawkwu?variant=40347062960294\">\n   https://splitrockenvironmental.ca/products/big-sagebrush-kawkwu?variant=40347062960294"
+    },
+    {
+      "chapter": 12,
+      "ref_num": 1,
+      "text": "Brunning, A. (2015).\n  \n   The chemistry of stinging nettles\n  \n  . Compound Interest.\n  https://www.compoundchem.com/2015/06/04/nettles/"
+    },
+    {
+      "chapter": 12,
+      "ref_num": 4,
+      "text": "Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.)."
+    },
+    {
+      "chapter": 12,
+      "ref_num": 6,
+      "text": "Hamel, P. B., & Chiltoskey, M. U. (1975).\n  \n   Cherokee plants and their uses: A 400 year history\n  \n  . Herald Publishing Co."
+    },
+    {
+      "chapter": 12,
+      "ref_num": 7,
+      "text": "Jones, B. (2024).\n  \n   Medicinal herbs of Western Canada\n  \n  (1st ed.). Nimbus Publishing."
+    },
+    {
+      "chapter": 12,
+      "ref_num": 11,
+      "text": "Splitrock Environmental. (n.d.).\n  \n   Stinging nettle salve\n  \n  .\n  https://splitrockenvironmental.ca/products/stinging-nettle-salve?variant=33785190744123\nhttps://splitrockenvironmental.ca/products/stinging-nettle-salve?variant=33785190744123"
+    },
+    {
+      "chapter": 13,
+      "ref_num": 2,
+      "text": "Lord, A. (2019, July 2).\n   \n    Beware poison sumac (Rhus vernix)\n   \n   . UNH Extension.\n   https://extension.unh.edu/blog/2019/07/beware-poison-sumac-rhus-vernix"
+    },
+    {
+      "chapter": 13,
+      "ref_num": 3,
+      "text": "National Center for Biotechnology Information. (2025).\n   \n    PubChem compound summary for CID 1183, vanillin\n   \n   .\n   https://pubchem.ncbi.nlm.nih.gov/compound/Vanillin"
+    },
+    {
+      "chapter": 13,
+      "ref_num": 4,
+      "text": "Opiyo, S. A., Njoroge, P. W., Ndirangu, E. G., & Kuria, K. M. (2021). A review of biological activities and phytochemistry of Rhus species.\n   \n    American Journal of Chemistry\n   \n   ,\n   \n    11\n   \n   (2)."
+    },
+    {
+      "chapter": 13,
+      "ref_num": 5,
+      "text": "Splitrock Environmental. (2025).\n   \n    Smooth sumac (nekw’tsamúm’l)\n   \n   .\n   https://splitrockenvironmental.ca/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518\nhttps://splitrockenvironmental.ca/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518"
+    },
+    {
+      "chapter": 13,
+      "ref_num": 6,
+      "text": "United States Department of Agriculture Natural Resources Conservation Service. (2004).\n   \n    Plant guide for smooth sumac (Rhus glabra L.)\n   \n   .\n   https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_rhgl.pdf"
+    },
+    {
+      "chapter": 14,
+      "ref_num": 3,
+      "text": "Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.). [Traditional knowledge and personal communications]."
+    },
+    {
+      "chapter": 14,
+      "ref_num": 4,
+      "text": "European Medicines Agency. (2019).\n  \n   European Union herbal monograph on Achillea millefolium, herba\n  \n  (Revision 1) [Draft]. Committee on Herbal Medicinal Products."
+    },
+    {
+      "chapter": 14,
+      "ref_num": 5,
+      "text": "Jones, R. (2024).\n  \n   Medicinal herbs of Western Canada\n  \n  (1st ed.). Nimbus Publishing."
+    },
+    {
+      "chapter": 14,
+      "ref_num": 7,
+      "text": "Moerman, D. E. (1998).\n  \n   Native American ethnobotany\n  \n  . Timber Press."
+    },
+    {
+      "chapter": 14,
+      "ref_num": 8,
+      "text": "Saeidnia, S., Gohari, A. R., Mokhber-Dezfuli, N., & Kiuchi, F. (2011). A review on phytochemistry and medicinal properties of the genus\n  \n   Achillea\n  \n  .\n  \n   DARU Journal of Pharmaceutical Sciences, 19\n  \n  (3), 173–186.\n  https://pmc.ncbi.nlm.nih.gov/articles/PMC3232110/"
+    },
+    {
+      "chapter": 15,
+      "ref_num": 1,
+      "text": "Bean, L. J., & Saubel, K. S. (1972).\n  \n   Temalpakh: Cahuilla Indian knowledge and usage of plants.\n  \n  Malki Museum Press."
+    },
+    {
+      "chapter": 15,
+      "ref_num": 4,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n  \n   Oral teachings and traditional knowledge\n  \n  ."
+    },
+    {
+      "chapter": 15,
+      "ref_num": 7,
+      "text": "Kane, C. W. (2011).\n  \n   Medicinal plants of the American Southwest.\n  \n  Lincoln Town Press."
+    },
+    {
+      "chapter": 15,
+      "ref_num": 11,
+      "text": "Moerman, D. E. (1998).\n  \n   Native American ethnobotany.\n  \n  Timber Press."
+    },
+    {
+      "chapter": 15,
+      "ref_num": 17,
+      "text": "Tisserand, R., & Young, R. (2014).\n  \n   Essential oil safety: A guide for health care professionals\n  \n  (2nd ed.). Churchill Livingstone Elsevier."
+    },
+    {
+      "chapter": 16,
+      "ref_num": 3,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.)."
+    },
+    {
+      "chapter": 16,
+      "ref_num": 4,
+      "text": "Flora of North America Editorial Committee. (2020).\n  \n   Balsamorhiza sagittata\n  \n  . In\n  \n   Flora of North America North of Mexico\n  \n  (Vol. 21). Flora North America.\n  https://floranorthamerica.org/Balsamorhiza_sagittata"
+    },
+    {
+      "chapter": 16,
+      "ref_num": 6,
+      "text": "McWilliams, J. (2002).\n  \n   Balsamorhiza sagittata\n  \n  . In\n  \n   Fire Effects Information System (FEIS)\n  \n  . U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station.\n  https://www.fs.usda.gov/database/feis/plants/forb/balsag/all.html"
+    },
+    {
+      "chapter": 17,
+      "ref_num": 1,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.)."
+    },
+    {
+      "chapter": 17,
+      "ref_num": 4,
+      "text": "Moerman, D. E. (n.d.).\n  \n   Native American Ethnobotany database: Artemisia tridentata (big sagebrush).\n  \n  Botanical Research Institute of Texas.\n  https://naeb.brit.org/uses/5699/"
+    },
+    {
+      "chapter": 17,
+      "ref_num": 8,
+      "text": "Shultz, L. M. (2006).\n  \n   Artemisia tridentata\n  \n  . In\n  \n   Flora of North America North of Mexico\n  \n  (Vol. 19). Flora of North America Association.\n  https://floranorthamerica.org/Artemisia_tridentata"
+    },
+    {
+      "chapter": 18,
+      "ref_num": 1,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.)."
+    },
+    {
+      "chapter": 18,
+      "ref_num": 5,
+      "text": "Lis, R. (2020).\n  \n   Spiraea lucida\n  \n  (syn.\n  \n   Spiraea betulifolia\n  \n  var.\n  \n   lucida\n  \n  )—Flora of North America, Vol. 9. Flora of North America Association.\n  https://floranorthamerica.org/Spiraea_lucida"
+    },
+    {
+      "chapter": 18,
+      "ref_num": 6,
+      "text": "Moerman, D. E. (n.d.).\n  \n   Spiraea betulifolia\n  \n  Pallas—Native American Ethnobotany (BRIT). Retrieved September 16, 2025, from\n  https://naeb.brit.org"
+    },
+    {
+      "chapter": 19,
+      "ref_num": 1,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.)."
+    },
+    {
+      "chapter": 19,
+      "ref_num": 9,
+      "text": "Washington Native Plant Society. (n.d.).\n  \n   Ribes lacustre\n  \n  (Black Gooseberry) – ethnobotany (Skagit & Lummi uses).\n  https://www.wnps.org/native-plant-directory/339%3Aribes-lacustre"
+    },
+    {
+      "chapter": 20,
+      "ref_num": 2,
+      "text": "Dahmer, S., & Scott, E. (2010). Health effects of hawthorn.\n   \n    American Family Physician, 81\n   \n   (4), 465–468. https://www.aafp.org/pubs/afp/issues/2010/0215/p465.html"
+    },
+    {
+      "chapter": 20,
+      "ref_num": 4,
+      "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Oral teachings and traditional knowledge."
+    },
+    {
+      "chapter": 20,
+      "ref_num": 6,
+      "text": "Kuhnlein, H. V., & Turner, N. J. (1991).\n   \n    Traditional plant foods of Canadian Indigenous peoples: Nutrition, botany and use\n   \n   . Gordon and Breach Science Publishers."
+    },
+    {
+      "chapter": 20,
+      "ref_num": 7,
+      "text": "Moerman, D. E. (2009).\n   \n    Native American medicinal plants: An ethnobotanical dictionary\n   \n   . Timber Press."
+    },
+    {
+      "chapter": 20,
+      "ref_num": 11,
+      "text": "Turner, N. J. (1995).\n   \n    Food plants of coastal First Peoples\n   \n   (Royal BC Museum Handbook). UBC Press; Royal British Columbia Museum."
+    }
+  ],
+  "audited_dois_detail": [
+    {
+      "doi": "10.1890/1051-0761(2000)010",
+      "http_status": 404,
+      "final_url": null,
+      "crossref_status": 404,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "HTTP 404: Not Found",
+      "chapter": 1,
+      "ref_num": 4,
+      "ref_text": "Turner, N. J., Ignace, M. B., & Ignace, R. (2000). Traditional ecological knowledge and wisdom of aboriginal peoples in British Columbia.\n   \n    Ecological Applications\n   \n   ,\n   \n    10\n   \n   (5), 1275–1287. https://doi.org/https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2"
+    },
+    {
+      "doi": "10.3390/nu10111753",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Comment on: The Vitamin D–Folate Hypothesis as an Evolutionary Model for Skin Pigmentation: An Update and Integration of Current Ideas, Nutrients 2018, 10, 554",
+      "crossref_journal": "Nutrients",
+      "crossref_year": 2018,
+      "title_similarity": 0.23529411764705882,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 9,
+      "ref_text": "Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J. (2018). Amelanchier alnifolia: A rich source of biologically active compounds with high antioxidant capacity.\n   \n    Nutrients\n   \n   ,\n   \n    10\n   \n   (11), 1753.\n   https://doi.org/10.3390/nu10111753"
+    },
+    {
+      "doi": "10.3390/molecules181012571",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Flavonoid Profile of Saskatoon Berries (Amelanchier alnifolia Nutt.) and Their Health Promoting Effects",
+      "crossref_journal": "Molecules",
+      "crossref_year": 2013,
+      "title_similarity": 0.5602240896358543,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 8,
+      "ref_text": "Juríková, T., Balla, S., Sochor, J., Pohanka, M., Mlcek, J., & Baron, M. (2013). Flavonoid profile of Saskatoon berries (Amelanchier alnifolia Nutt.) and their health promoting effects.\n   \n    Molecules\n   \n   ,\n   \n    18\n   \n   (10), 12571–12586.\n   https://doi.org/10.3390/molecules181012571"
+    },
+    {
+      "doi": "10.1021/acs.jafc.8b01183",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "An Extensive Description of the Peptidomic Repertoire of the Hen Egg Yolk Plasma",
+      "crossref_journal": "Journal of Agricultural and Food Chemistry",
+      "crossref_year": 2018,
+      "title_similarity": 0.1935483870967742,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 11,
+      "ref_text": "Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M. (2018). Flavonoid profile and antioxidant activity of Saskatoon (Amelanchier alnifolia Nutt.) berries.\n   \n    Journal of Agricultural and Food Chemistry\n   \n   ,\n   \n    66\n   \n   (15), 3942–3951.\n   https://doi.org/10.1021/acs.jafc.8b01183"
+    },
+    {
+      "doi": "10.1139/cjb-2019-0191",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Nutritional composition of saskatoon berries: a review",
+      "crossref_journal": "Botany",
+      "crossref_year": 2021,
+      "title_similarity": 0.53,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 5,
+      "ref_text": "Fang, J. (2021). Nutritional composition of saskatoon berries: A review.\n   \n    Botany\n   \n   ,\n   \n    99\n   \n   (4), 175–184.\n   https://doi.org/10.1139/cjb-2019-0191"
+    },
+    {
+      "doi": "10.1016/j.foodchem.2019.03.077",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0308814619305540",
+      "crossref_status": 200,
+      "crossref_title": "Phenolic composition and antioxidant activities of saskatoon berry fruit and pomace",
+      "crossref_journal": "Food Chemistry",
+      "crossref_year": 2019,
+      "title_similarity": 0.5496688741721855,
+      "error": null,
+      "chapter": 2,
+      "ref_num": 2,
+      "ref_text": "de Souza, D. R., Willems, J. L., & Low, N. H. (2019). Phenolic composition and antioxidant activities of saskatoon berry fruit and pomace.\n   \n    Food Chemistry\n   \n   ,\n   \n    290\n   \n   , 168–177.\n   https://doi.org/10.1016/j.foodchem.2019.03.077"
+    },
+    {
+      "doi": "10.1080/10942910903013407",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Effect of Processing and Storage on The Antioxidant Activity of Frozen and Pasteurized Shadblow Serviceberry (<i>Amelanchier canadensis</i>)",
+      "crossref_journal": "International Journal of Food Properties",
+      "crossref_year": 2010,
+      "title_similarity": 0.6346153846153846,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 10,
+      "ref_text": "Michalczyk, M., & Macura, R. (2010). Effect of processing and storage on the antioxidant activity of frozen and pasteurized shadblow serviceberry (Amelanchier canadensis).\n   \n    International Journal of Food Properties\n   \n   ,\n   \n    13\n   \n   (6), 1225–1233.\n   https://doi.org/10.1080/10942910903013407"
+    },
+    {
+      "doi": "10.4141/P04-065",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 429,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "HTTP 429: Too Many Requests",
+      "chapter": 2,
+      "ref_num": 16,
+      "ref_text": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2005). Physicochemical properties of fruit of 16 saskatoon (Amelanchier alnifolia Nutt.) cultivars.\n   \n    Canadian Journal of Plant Science\n   \n   ,\n   \n    85\n   \n   (4), 933–938.\n   https://doi.org/10.4141/P04-065"
+    },
+    {
+      "doi": "10.1111/1541-4337.12500",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Recent Advances in Microalgal Bioactives for Food, Feed, and Healthcare Products: Commercial Potential, Market Space, and Sustainability",
+      "crossref_journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "crossref_year": 2019,
+      "title_similarity": 0.29219143576826195,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 7,
+      "ref_text": "Johnson, M. H., Lucius, A., Meyer, K. A., & Prior, R. L. (2020). Bioactive components and health benefits of Saskatoon berry (Amelanchier alnifolia Nutt.).\n   \n    Comprehensive Reviews in Food Science and Food Safety\n   \n   ,\n   \n    19\n   \n   (3), 2020–2048.\n   https://doi.org/10.1111/1541-4337.12500"
+    },
+    {
+      "doi": "10.1186/s12986-015-0057-7",
+      "http_status": 200,
+      "final_url": "https://link.springer.com/article/10.1186/s12986-015-0057-7",
+      "crossref_status": 200,
+      "crossref_title": "Antidiabetic properties of dietary flavonoids: a cellular mechanism review",
+      "crossref_journal": "Nutrition &amp; Metabolism",
+      "crossref_year": 2015,
+      "title_similarity": 0.5509433962264151,
+      "error": null,
+      "chapter": 2,
+      "ref_num": 14,
+      "ref_text": "Vinayagam, R., & Xu, B. (2015). Antidiabetic properties of dietary flavonoids: A cellular mechanism review.\n   \n    Nutrition & Metabolism\n   \n   ,\n   \n    12\n   \n   (1), 43.\n   https://doi.org/10.1186/s12986-015-0057-7"
+    },
+    {
+      "doi": "10.1155/2020/8817078",
+      "http_status": 404,
+      "final_url": null,
+      "crossref_status": 404,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "HTTP 404: Not Found",
+      "chapter": 3,
+      "ref_num": 2,
+      "ref_text": "Elbandy, M. (2020). Saponins and their potential role in diabetes mellitus.\n   \n    Advances in Pharmacological and Pharmaceutical Sciences, 2020\n   \n   , Article 8817078.\n   https://doi.org/10.1155/2020/8817078"
+    },
+    {
+      "doi": "10.1016/j.foodchem.2017.05.041",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0308814617308191",
+      "crossref_status": 200,
+      "crossref_title": "Polysaccharides from by-products of the Wonderful and Laffan pomegranate varieties: New insight into extraction and characterization",
+      "crossref_journal": "Food Chemistry",
+      "crossref_year": 2017,
+      "title_similarity": 0.15176151761517614,
+      "error": null,
+      "chapter": 2,
+      "ref_num": 17,
+      "ref_text": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2018). Phytochemical composition and antioxidant capacity of Saskatoon berry (Amelanchier alnifolia) genotypes.\n   \n    Food Chemistry\n   \n   ,\n   \n    237\n   \n   , 145–152.\n   https://doi.org/10.1016/j.foodchem.2017.05.041"
+    },
+    {
+      "doi": "10.1155/2020/3901636",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Bioactive Components and Health Benefits of Saskatoon Berry",
+      "crossref_journal": "Journal of Diabetes Research",
+      "crossref_year": 2020,
+      "title_similarity": 0.44029850746268656,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 2,
+      "ref_num": 18,
+      "ref_text": "Zhao, L., Huang, F., Hui, A. L., & Shen, X. (2020). Bioactive components and health benefits of Saskatoon berry.\n   \n    Journal of Diabetes Research\n   \n   ,\n   \n    2020\n   \n   , Article 3901636.\n   https://doi.org/10.1155/2020/3901636"
+    },
+    {
+      "doi": "10.1016/j.bmc.2013.09.011",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0968089613007827",
+      "crossref_status": 200,
+      "crossref_title": "In vitro structure–activity relationships of aplysinopsin analogs and their in vivo evaluation in the chick anxiety–depression model",
+      "crossref_journal": "Bioorganic &amp; Medicinal Chemistry",
+      "crossref_year": 2013,
+      "title_similarity": 0.18241042345276873,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 1,
+      "ref_text": "Böttger, S., & Melzig, M. F. (2013). The influence of saponins on cell membrane cholesterol.\n   \n    Bioorganic & Medicinal Chemistry, 21\n   \n   (22), 7118–7124.\n   https://doi.org/10.1016/j.bmc.2013.09.011"
+    },
+    {
+      "doi": "10.1021/jf0301910",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Molluscicidal Saponins from<i> Sapindus mukorossi</i>, Inhibitory Agents of Golden Apple Snails,<i> Pomacea canaliculata</i>",
+      "crossref_journal": "Journal of Agricultural and Food Chemistry",
+      "crossref_year": 2003,
+      "title_similarity": 0.5369458128078818,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 3,
+      "ref_num": 8,
+      "ref_text": "Huang, H. C., Liao, S. C., Chang, F. R., Kuo, Y. H., & Wu, Y. C. (2003). Molluscicidal saponins from\n   \n    Sapindus mukorossi\n   \n   , inhibitory agents of golden apple snails (\n   \n    Pomacea canaliculata\n   \n   ).\n   \n    Journal of Agricultural and Food Chemistry, 51\n   \n   (17), 4916–4919.\n   https://doi.org/10.1021/jf0301910"
+    },
+    {
+      "doi": "10.4141/cjps2013-087",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Physicochemical composition of buffaloberry (<i>Shepherdia argentea</i>), chokecherry (<i>Prunus virginiana</i>) and sea buckthorn (<i>Hippophae rhamnoides</i>) fruit harvested in Saskatchewan, Canada",
+      "crossref_journal": "Canadian Journal of Plant Science",
+      "crossref_year": 2013,
+      "title_similarity": 0.6602316602316602,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 3,
+      "ref_num": 5,
+      "ref_text": "Green, R. C., & Low, N. H. (2013). Physicochemical composition of buffaloberry (\n   \n    Shepherdia argentea\n   \n   ), chokecherry (\n   \n    Prunus virginiana\n   \n   ) and sea buckthorn (\n   \n    Hippophae rhamnoides\n   \n   ) fruit harvested in Saskatchewan Canada.\n   \n    Canadian Journal of Plant Science, 93\n   \n   (6), 1143–1153.\n   https://doi.org/10.4141/cjps2013-087"
+    },
+    {
+      "doi": "10.1016/j.jff.2017.11.032",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1756464617307041",
+      "crossref_status": 200,
+      "crossref_title": "The gastrointestinal behavior of saponins and its significance for their bioavailability and bioactivities",
+      "crossref_journal": "Journal of Functional Foods",
+      "crossref_year": 2018,
+      "title_similarity": 0.5955056179775281,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 6,
+      "ref_text": "Hierro, J. N., Herrera, T., Fornari, T., Reglero, G., & Martin, D. (2018). The gastrointestinal behavior of saponins and its significance for their bioavailability and bioactivities.\n   \n    Journal of Functional Foods, 40\n   \n   , 484–497.\n   https://doi.org/10.1016/j.jff.2017.11.032"
+    },
+    {
+      "doi": "10.3390/plants9020267",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "In Vitro Anti-HSV-1 Activity of Polyphenol-Rich Extracts and Pure Polyphenol Compounds Derived from Pistachios Kernels (Pistacia vera L.)",
+      "crossref_journal": "Plants",
+      "crossref_year": 2020,
+      "title_similarity": 0.2589928057553957,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 3,
+      "ref_num": 14,
+      "ref_text": "Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., & Husen, A. (2020). Phytochemistry, pharmacological activities, nanoparticle fabrication, commercial products, and waste utilization of\n   \n    Sapindus\n   \n   species: A comprehensive review.\n   \n    Plants, 9\n   \n   (2), 267.\n   https://doi.org/10.3390/plants9020267"
+    },
+    {
+      "doi": "10.1111/1750-3841.12265",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Variation in Lycopene and Lycopenoates, Antioxidant Capacity, and Fruit Quality of Buffaloberry (\n                    <i>Shepherdia argentea</i>\n                    [Pursh]Nutt.)",
+      "crossref_journal": "Journal of Food Science",
+      "crossref_year": 2013,
+      "title_similarity": 0.5829787234042553,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 3,
+      "ref_num": 13,
+      "ref_text": "Riedl, K. M., Choski, K., Wyzgoski, F. J., Scheerens, J. C., Schwartz, S. J., & Reese, R. N. (2013). Variation in lycopene and lycopenoates, antioxidant capacity and fruit quality of buffaloberry (\n   \n    Shepherdia argentea\n   \n   [Pursh]Nutt.).\n   \n    Journal of Food Science, 78\n   \n   (11), C1673–C1679.\n   https://doi.org/10.1111/1750-3841.12265"
+    },
+    {
+      "doi": "10.1016/s0944-7113(96)80081-x",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S094471139680081X",
+      "crossref_status": 200,
+      "crossref_title": "A review of the biological and pharmacological activities of saponins",
+      "crossref_journal": "Phytomedicine",
+      "crossref_year": 1996,
+      "title_similarity": 0.552,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 10,
+      "ref_text": "Lacaille-Dubois, M. A., & Wagner, H. (1996). A review of the biological and pharmacological activities of saponins.\n   \n    Phytomedicine, 2\n   \n   (4), 363–386.\n   https://doi.org/10.1016/s0944-7113(96)80081-x"
+    },
+    {
+      "doi": "10.1016/0308-8146(81)90019-4",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/0308814681900194",
+      "crossref_status": 200,
+      "crossref_title": "Saponins in food—A review",
+      "crossref_journal": "Food Chemistry",
+      "crossref_year": 1981,
+      "title_similarity": 0.3404255319148936,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 12,
+      "ref_text": "Oakenfull, D. (1981). Saponins in food—A review.\n   \n    Food Chemistry, 6\n   \n   (1), 19–40.\n   https://doi.org/10.1016/0308-8146(81)90019-4"
+    },
+    {
+      "doi": "10.1079/BJN2002725",
+      "http_status": 200,
+      "final_url": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/biological-action-of-saponins-in-animal-systems-a-review/9FF0990F2A7AEFE5B990555A0D4A63B8",
+      "crossref_status": 200,
+      "crossref_title": "The biological action of saponins in animal systems: a review",
+      "crossref_journal": "British Journal of Nutrition",
+      "crossref_year": 2002,
+      "title_similarity": 0.4743083003952569,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 4,
+      "ref_text": "Francis, G., Kerem, Z., Makkar, H. P. S., & Becker, K. (2002). The biological action of saponins in animal systems: A review.\n   \n    British Journal of Nutrition, 88\n   \n   (6), 587–605.\n   https://doi.org/10.1079/BJN2002725"
+    },
+    {
+      "doi": "10.1016/j.jep.2004.05.016",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0378874104002557",
+      "crossref_status": 200,
+      "crossref_title": "Biological activities and distribution of plant saponins",
+      "crossref_journal": "Journal of Ethnopharmacology",
+      "crossref_year": 2004,
+      "title_similarity": 0.4628099173553719,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 15,
+      "ref_text": "Sparg, S. G., Light, M. E., & van Staden, J. (2004). Biological activities and distribution of plant saponins.\n   \n    Journal of Ethnopharmacology, 94\n   \n   (2–3), 219–243.\n   https://doi.org/10.1016/j.jep.2004.05.016"
+    },
+    {
+      "doi": "10.1007/978-1-4613-0413-5_9",
+      "http_status": 200,
+      "final_url": "https://link.springer.com/chapter/10.1007/978-1-4613-0413-5_9",
+      "crossref_status": 200,
+      "crossref_title": "Saponins from Medicago SPP.: Chemical Characterization and Biological Activity Against Insects",
+      "crossref_journal": "Advances in Experimental Medicine and Biology",
+      "crossref_year": 1996,
+      "title_similarity": 0.48501362397820164,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 16,
+      "ref_text": "Tava, A., & Odoardi, M. (1996). Saponins from\n   \n    Medicago\n   \n   : Chemical characterization and biological activity against insects. In G. R. Waller & K. Yamasaki (Eds.),\n   \n    Saponins used in traditional and modern medicine\n   \n   (pp. 97–109). Springer.\n   https://doi.org/10.1007/978-1-4613-0413-5_9"
+    },
+    {
+      "doi": "10.1016/j.aca.2008.03.009",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0003267008004832",
+      "crossref_status": 200,
+      "crossref_title": "Studies on the mechanism of the peroxyoxalate chemiluminescence reaction",
+      "crossref_journal": "Analytica Chimica Acta",
+      "crossref_year": 2008,
+      "title_similarity": 0.18888888888888888,
+      "error": null,
+      "chapter": 5,
+      "ref_num": 4,
+      "ref_text": "4. Ganzera, M., Egger, C., Zidorn, C., & Stuppner, H. (2008). Quantitative analysis of flavonoids and phenolic acids in\n   \n    Arnica montana\n   \n   L. by micellar electrokinetic capillary chromatography.\n   \n    Analytica Chimica Acta\n   \n   ,\n   \n    614\n   \n   (2), 196–200.\n   https://doi.org/10.1016/j.aca.2008.03.009"
+    },
+    {
+      "doi": "10.1590/S0036-46652011000500004",
+      "http_status": 200,
+      "final_url": "http://www.scielo.br/j/rimtsp/a/vf4MLWSHJSwQYqycYb3s3zh/?lang=en",
+      "crossref_status": 200,
+      "crossref_title": "Effect of bioactive compounds extracted from euphorbious plants on hematological and biochemical parameters of Channa punctatus",
+      "crossref_journal": "Revista do Instituto de Medicina Tropical de São Paulo",
+      "crossref_year": 2011,
+      "title_similarity": 0.21176470588235294,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 17,
+      "ref_text": "Upadhyay, A., & Singh, D. K. (2011). Pharmacological effects of\n   \n    Sapindus mukorossi\n   \n   .\n   \n    Revista do Instituto de Medicina Tropical de São Paulo, 53\n   \n   (5), 283–288.\n   https://doi.org/10.1590/S0036-46652011000500004"
+    },
+    {
+      "doi": "10.1111/jphp.12735",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Phytochemical and biological studies of <i>Atriplex inflata</i> f. Muell.: isolation of secondary bioactive metabolites",
+      "crossref_journal": "Journal of Pharmacy and Pharmacology",
+      "crossref_year": 2017,
+      "title_similarity": 0.1640378548895899,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 5,
+      "ref_num": 8,
+      "ref_text": "8. Kriplani, P., Guarve, K., & Baghael, U. S. (2017).\n   \n    Arnica montana\n   \n   L.—A plant of healing: Review.\n   \n    Journal of Pharmacy and Pharmacology\n   \n   ,\n   \n    69\n   \n   (8), 925–945.\n   https://doi.org/10.1111/jphp.12735"
+    },
+    {
+      "doi": "10.1002/jps.2600680505",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S002235491542605X",
+      "crossref_status": 200,
+      "crossref_title": "Anti-Inflammatory Activity of Sesquiterpene Lactones and Related Compounds",
+      "crossref_journal": "Journal of Pharmaceutical Sciences",
+      "crossref_year": 1979,
+      "title_similarity": 0.43582089552238806,
+      "error": null,
+      "chapter": 5,
+      "ref_num": 5,
+      "ref_text": "5. Hall, I. H., Lee, K. H., Starnes, C. O., Sumida, Y., Wu, R. Y., Waddell, T. G., & Cochran, J. W. (1979). Anti-inflammatory activity of sesquiterpene lactones and related compounds.\n   \n    Journal of Pharmaceutical Sciences\n   \n   ,\n   \n    68\n   \n   (5), 537–542.\n   https://doi.org/10.1002/jps.2600680505"
+    },
+    {
+      "doi": "10.1097/mjt.0000000000000036",
+      "http_status": 403,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Effectiveness and Safety of Arnica montana in Post-Surgical Setting, Pain and Inflammation",
+      "crossref_journal": "American Journal of Therapeutics",
+      "crossref_year": 2016,
+      "title_similarity": 0.4631578947368421,
+      "error": "HTTP Error 403: Forbidden",
+      "chapter": 5,
+      "ref_num": 6,
+      "ref_text": "6. Iannitti, T., Morales-Medina, J. C., Bellavite, P., Rottigni, V., & Palmieri, B. (2016). Effectiveness and safety of\n   \n    Arnica montana\n   \n   in post-surgical setting, pain and inflammation.\n   \n    American Journal of Therapeutics\n   \n   ,\n   \n    23\n   \n   (1), e184–e197.\n   https://doi.org/10.1097/mjt.0000000000000036"
+    },
+    {
+      "doi": "10.1016/j.phytochem.2006.10.008",
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0031942206006480",
+      "crossref_status": 200,
+      "crossref_title": "Saponins, classification and occurrence in the plant kingdom",
+      "crossref_journal": "Phytochemistry",
+      "crossref_year": 2007,
+      "title_similarity": 0.4796747967479675,
+      "error": null,
+      "chapter": 3,
+      "ref_num": 19,
+      "ref_text": "Vincken, J. P., Heng, L., de Groot, A., & Gruppen, H. (2007). Saponins, classification and occurrence in the plant kingdom.\n   \n    Phytochemistry, 68\n   \n   (3), 275–297.\n   https://doi.org/10.1016/j.phytochem.2006.10.008"
+    },
+    {
+      "doi": "10.1515/bchm.1997.378.9.951",
+      "http_status": 202,
+      "final_url": "https://www.degruyterbrill.com:443/document/doi/10.1515/bchm.1997.378.9.951/html",
+      "crossref_status": 200,
+      "crossref_title": "Helenalin, an Anti-Inflammatory Sesquiterpene Lactone from Arnica, Selectively Inhibits Transcription Factor NF-κB",
+      "crossref_journal": "Biological Chemistry",
+      "crossref_year": 1997,
+      "title_similarity": 0.5994550408719346,
+      "error": null,
+      "chapter": 5,
+      "ref_num": 9,
+      "ref_text": "9. Lyss, G., Schmidt, T. J., Merfort, I., & Pahl, H. L. (1997). Helenalin, an anti-inflammatory sesquiterpene lactone from Arnica, selectively inhibits transcription factor NF-κB.\n   \n    Biological Chemistry\n   \n   ,\n   \n    378\n   \n   (9), 951–961.\n   https://doi.org/10.1515/bchm.1997.378.9.951"
+    },
+    {
+      "doi": "10.1055/s-2002-26747",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Diphyllin Acetylapioside, A 5-Lipoxygenase Inhibitor from Haplophyllum hispanicum",
+      "crossref_journal": "Planta Medica",
+      "crossref_year": 2002,
+      "title_similarity": 0.16071428571428573,
+      "error": "The read operation timed out",
+      "chapter": 5,
+      "ref_num": 7,
+      "ref_text": "7. Klaas, C. A., Wagner, G., Laufer, S., Sosa, S., Della Loggia, R., Bomme, U., & Merfort, I. (2002). Studies on the anti-inflammatory activity of phytopharmaceuticals prepared from Arnica flowers.\n   \n    Planta Medica\n   \n   ,\n   \n    68\n   \n   (5), 385–391.\n   https://doi.org/10.1055/s-2002-26747"
+    },
+    {
+      "doi": "10.1016/s0968-0896(99)00234-5",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Helenanolide type sesquiterpene lactones. Part 5: The role of glutathione addition under physiological conditions",
+      "crossref_journal": "Bioorganic &amp; Medicinal Chemistry",
+      "crossref_year": 1999,
+      "title_similarity": 0.5759162303664922,
+      "error": "<urlopen error _ssl.c:989: The handshake operation timed out>",
+      "chapter": 5,
+      "ref_num": 14,
+      "ref_text": "14. Schmidt, T. J., Lyß, G., Pahl, H. L., & Merfort, I. (1999). Helenanolide-type sesquiterpene lactones. Part 5: The role of glutathione addition under physiological conditions.\n   \n    Bioorganic & Medicinal Chemistry\n   \n   ,\n   \n    7\n   \n   (10), 2849–2855.\n   https://doi.org/10.1016/s0968-0896(99)00234-5"
+    },
+    {
+      "doi": "10.1080/17461391.2013.829126",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise",
+      "crossref_journal": "European Journal of Sport Science",
+      "crossref_year": 2014,
+      "title_similarity": 0.5420054200542005,
+      "error": "<urlopen error _ssl.c:989: The handshake operation timed out>",
+      "chapter": 5,
+      "ref_num": 13,
+      "ref_text": "13. Pumpa, K. L., Fallon, K. E., Bensoussan, A., & Papalia, S. (2014). The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise.\n   \n    European Journal of Sport Science\n   \n   ,\n   \n    14\n   \n   (3), 294–300.\n   https://doi.org/10.1080/17461391.2013.829126"
+    },
+    {
+      "doi": "10.1007/s00296-007-0304-y",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Choosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study",
+      "crossref_journal": "Rheumatology International",
+      "crossref_year": 2007,
+      "title_similarity": 0.6005361930294906,
+      "error": "timed out",
+      "chapter": 5,
+      "ref_num": 19,
+      "ref_text": "19. Widrig, R., Suter, A., Saller, R., & Melzer, J. (2007). Choosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study.\n   \n    Rheumatology International\n   \n   ,\n   \n    27\n   \n   (6), 585–591.\n   https://doi.org/10.1007/s00296-007-0304-y"
+    },
+    {
+      "doi": "10.1159/000071692",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 200,
+      "crossref_title": "Arnika: Neue Erkenntnisse zum Wirkungsmechanismus einer traditionellen Heilpflanze",
+      "crossref_journal": "Complementary Medicine Research",
+      "crossref_year": 2003,
+      "title_similarity": 0.21806853582554517,
+      "error": "The read operation timed out",
+      "chapter": 5,
+      "ref_num": 10,
+      "ref_text": "10. Merfort, I. (2003). Arnica: New insights on the molecular mode of action of a traditional medicinal plant.\n   \n    Forschende Komplementärmedizin und Klassische Naturheilkunde\n   \n   ,\n   \n    10\n   \n   (Suppl 1), 45–48.\n   https://doi.org/10.1159/000071692"
+    },
+    {
+      "doi": "10.1016/s0031-9422(00)84838-4",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "The read operation timed out",
+      "chapter": 6,
+      "ref_num": 5,
+      "ref_text": "Pearl, I. A., & Darling, S. F. (1968). Studies on the barks of the family Salicaceae—XVII. Trichoside, a new glucoside from the bark of\n  \n   Populus trichocarpa\n  \n  .\n  \n   Phytochemistry, 7\n  \n  (5), 825–829.\n  https://doi.org/10.1016/s0031-9422(00)84838-4"
+    },
+    {
+      "doi": "10.1016/j.phytochem.2011.04.017",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "The read operation timed out",
+      "chapter": 6,
+      "ref_num": 2,
+      "ref_text": "Boeckler, G. A., Gershenzon, J., & Unsicker, S. B. (2011). Phenolic glycosides of the Salicaceae and their role as anti-herbivore defenses.\n  \n   Phytochemistry, 72\n  \n  (13), 1497–1509.\n  https://doi.org/10.1016/j.phytochem.2011.04.017"
+    },
+    {
+      "doi": "10.1055/s-2002-33794",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "The read operation timed out",
+      "chapter": 6,
+      "ref_num": 1,
+      "ref_text": "Akao, T., Yoshino, T., Kobashi, K., & Hattori, M. (2002). Evaluation of salicin as an antipyretic prodrug that does not cause gastric injury.\n  \n   Planta Medica, 68\n  \n  (8), 714–718.\n  https://doi.org/10.1055/s-2002-33794"
+    },
+    {
+      "doi": "10.3390/molecules29020437",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "The read operation timed out",
+      "chapter": 6,
+      "ref_num": 4,
+      "ref_text": "Okińczyc, P., Szumny, A., Szperlik, J., Zając, A., Żarowska, B., & Krzyżek, P. (2024). Phytochemical profiles and antimicrobial activity of selected\n  \n   Populus\n  \n  bud extracts (including\n  \n   P. trichocarpa\n  \n  clones).\n  \n   Molecules, 29\n  \n  (2), Article 437.\n  https://doi.org/10.3390/molecules29020437"
+    },
+    {
+      "doi": "10.1016/s0031-9422(00)97369-2",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error _ssl.c:989: The handshake operation timed out>",
+      "chapter": 6,
+      "ref_num": 6,
+      "ref_text": "Pearl, I. A., & Darling, S. F. (1971). The structures of salicortin and tremulacin.\n  \n   Phytochemistry, 10\n  \n  (12), 3161–3166.\n  https://doi.org/10.1016/s0031-9422(00)97369-2"
+    },
+    {
+      "doi": "10.1128/aem.40.2.301-304.1980",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 1,
+      "ref_text": "Andrews, R. E., Parks, L. W., & Spence, K. D. (1980). Some effects of Douglas fir terpenes on certain microorganisms.\n   \n    Applied and Environmental Microbiology\n   \n   ,\n   \n    40\n   \n   (2), 301–304.\n   https://doi.org/10.1128/aem.40.2.301-304.1980"
+    },
+    {
+      "doi": "10.3390/antiox10111723",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 5,
+      "ref_text": "Latos-Brozio, M., Masek, A., Chrzescijanska, E., Podsedek, A., & Kajszcak, D. (2021). Characteristics of the polyphenolic profile and antioxidant activity of cone extracts from conifers determines using electrochemical and spectrophotometric methods.\n   \n    Antioxidants\n   \n   ,\n   \n    10\n   \n   (11), Article 1723.\n   https://doi.org/10.3390/antiox10111723"
+    },
+    {
+      "doi": "10.1002/cbdv.202100424",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 6,
+      "ref_text": "Mitić, Z. S., Stojanović-Radić, Z., Cvetković, V. J., Jovanović, S. Č., Dimitrijević, M., Ickovski, J. D., Jovanović, N., Mihajilov-Krstev, T., & Stojanović, G. S. (2021).\n   \n    Pseudotsuga menziesii\n   \n   (Pinaceae): Volatile profiles, antimicrobial activity and toxicological evaluation of its essential oil.\n   \n    Chemistry & Biodiversity\n   \n   ,\n   \n    18\n   \n   (9), Article e2100424.\n   https://doi.org/10.1002/cbdv.202100424"
+    },
+    {
+      "doi": "10.1016/0031-9422(91)83426-l",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 6,
+      "ref_num": 8,
+      "ref_text": "Scalbert, A. (1991). Antimicrobial properties of tannins.\n  \n   Phytochemistry, 30\n  \n  (12), 3875–3883.\n  https://doi.org/10.1016/0031-9422(91)83426-l"
+    },
+    {
+      "doi": "10.1016/s0049-3848(03)00379-7",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 6,
+      "ref_num": 9,
+      "ref_text": "Vane, J. R., & Botting, R. M. (2003). The mechanism of action of aspirin.\n  \n   Thrombosis Research, 110\n  \n  (5–6), 255–258.\n  https://doi.org/10.1016/s0049-3848(03)00379-7"
+    },
+    {
+      "doi": "10.3390/pharmaceutics16010052",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 8,
+      "ref_text": "Popescu, D. I., Frum, A., Dobrea, C. M., Cristea, R., Gligor, F. G., Vicas, L. G., Ionete, R. E., Sutan, N. A., & Georgescu, C. (2023). Comparative antioxidant and antimicrobial activities of several conifer needles and bark extracts.\n   \n    Pharmaceutics\n   \n   ,\n   \n    16\n   \n   (1), Article 52.\n   https://doi.org/10.3390/pharmaceutics16010052"
+    },
+    {
+      "doi": "10.2298/JSC0910035T",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 12,
+      "ref_text": "Tešević, V., Vajs, V., Todorović, S., Janaćković, P., Milosavljević, S., & Marin, P. D. (2009). Chemical composition and antifungal activity of the essential oil of Douglas fir (\n   \n    Pseudotsuga menziesii\n   \n   (Mirb.) Franco) from Serbia.\n   \n    Journal of the Serbian Chemical Society\n   \n   ,\n   \n    74\n   \n   (10), 1035–1040.\n   https://doi.org/10.2298/JSC0910035T"
+    },
+    {
+      "doi": "10.1177/1934578X1501001117",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 6,
+      "ref_num": 7,
+      "ref_text": "Ristivojević, P., Trifković, J., Andrić, F., & Milojković-Opsenica, D. (2015). Poplar-type propolis: Chemical composition, botanical origin and biological activity.\n  \n   Natural Product Communications, 10\n  \n  (11), 1869–1876.\n  https://doi.org/10.1177/1934578X1501001117"
+    },
+    {
+      "doi": "10.3390/biom9110738",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 9,
+      "ref_text": "Salehi, B., Upadhyay, S., Orhan, I. E., Jugran, A. K., Jayaweera, S. L. D., Dias, D. A., Sharopov, F., Taheri, Y., Martins, N., Baghalpour, N., Cho, W. C., & Sharifi-Rad, J. (2019). Therapeutic potential of α- and β-pinene: A miracle gift of nature.\n   \n    Biomolecules\n   \n   ,\n   \n    9\n   \n   (11), Article 738.\n   https://doi.org/10.3390/biom9110738"
+    },
+    {
+      "doi": "10.3390/ph14111159",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 14,
+      "ref_text": "Vîșan, D.-C., Oprea, E., Rădulescu, V., Voiculescu, I., Biriș, I.-A., Cotar, A. I., Saviuc, C., Chifiriuc, M. C., & Marinăș, I. C. (2021). Original contributions to the chemical composition, microbicidal, virulence-arresting and antibiotic-enhancing activity of essential oils from four coniferous species.\n   \n    Pharmaceuticals\n   \n   ,\n   \n    14\n   \n   (11), Article 1159.\n   https://doi.org/10.3390/ph14111159"
+    },
+    {
+      "doi": "10.1007/BF02858839",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 1,
+      "ref_text": "Bocek, B. R. (1984). Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington.\n  \n   Economic Botany\n  \n  ,\n  \n   38\n  \n  (2), 240–255.\n  https://doi.org/10.1007/BF02858839"
+    },
+    {
+      "doi": "10.1002/ptr.1110",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 3,
+      "ref_text": "Filipowicz, N., Kamiński, M., Kurlenda, J., Asztemborska, M., & Ochocka, J. R. (2003). Antibacterial and antifungal activity of juniper berry oil and its selected components.\n  \n   Phytotherapy Research\n  \n  ,\n  \n   17\n  \n  (3), 227–231.\n  https://doi.org/10.1002/ptr.1110"
+    },
+    {
+      "doi": "10.3390/ijms23063197",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 5,
+      "ref_text": "Gonçalves, A. C., Flores-Félix, J. D., Coutinho, P., Alves, G., & Silva, L. R. (2022). Zimbro (\n  \n   Juniperus communis\n  \n  L.) as a promising source of bioactive compounds and biomedical activities: A review on recent trends.\n  \n   International Journal of Molecular Sciences\n  \n  ,\n  \n   23\n  \n  (6), 3197.\n  https://doi.org/10.3390/ijms23063197"
+    },
+    {
+      "doi": "10.3390/molecules28062477",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 7,
+      "ref_num": 11,
+      "ref_text": "Swor, K., Roberts, C. L., & Clark, R. J. (2023). Gymnosperms of Idaho: Chemical compositions and enantiomeric distributions of essential oils of\n   \n    Abies lasiocarpa\n   \n   ,\n   \n    Picea engelmannii\n   \n   ,\n   \n    Pinus contorta\n   \n   ,\n   \n    Pseudotsuga menziesii\n   \n   , and\n   \n    Thuja plicata\n   \n   .\n   \n    Molecules\n   \n   ,\n   \n    28\n   \n   (6), Article 2477.\n   https://doi.org/10.3390/molecules28062477"
+    },
+    {
+      "doi": "10.1002/ptr.2650010107",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 8,
+      "ref_text": "Mascolo, N., Autore, G., Capasso, F., Menghini, A., & Fasulo, M. P. (1987). Biological screening of Italian medicinal plants for anti-inflammatory activity.\n  \n   Phytotherapy Research\n  \n  ,\n  \n   1\n  \n  (1), 28–31.\n  https://doi.org/10.1002/ptr.2650010107"
+    },
+    {
+      "doi": "10.3390/antiox3010081",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 6,
+      "ref_text": "Höferl, M., Stoilova, I., Schmidt, E., Wanner, J., Jirovetz, L., Trifonova, D., Krastev, L., & Krastanov, A. (2014). Chemical composition and antioxidant properties of juniper berry (\n  \n   Juniperus communis\n  \n  L.) essential oil: Action of the essential oil on the antioxidant protection of\n  \n   Saccharomyces cerevisiae\n  \n  model organism.\n  \n   Antioxidants\n  \n  ,\n  \n   3\n  \n  (1), 81–98.\n  https://doi.org/10.3390/antiox3010081"
+    },
+    {
+      "doi": "10.2298/JSC0704311G",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 4,
+      "ref_text": "Glišić, S. B., Milojević, S. Ž., Dimitrijević, S. I., Orlović, A. M., & Skala, D. U. (2007). Antimicrobial activity of the essential oil and different fractions of\n  \n   Juniperus communis\n  \n  L. and a comparison with some commercial antibiotics.\n  \n   Journal of the Serbian Chemical Society\n  \n  ,\n  \n   72\n  \n  (4), 311–320.\n  https://doi.org/10.2298/JSC0704311G"
+    },
+    {
+      "doi": "10.1055/s-2006-959457",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 13,
+      "ref_text": "Sánchez de Medina, F., Gámez, M. J., Jiménez, I., Jiménez, J., Osuna, J. I., & Zarzuelo, A. (1994). Hypoglycemic activity of juniper “berries.”\n  \n   Planta Medica\n  \n  ,\n  \n   60\n  \n  (3), 197–200.\n  https://doi.org/10.1055/s-2006-959457"
+    },
+    {
+      "doi": "10.1007/BF00405106",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 15,
+      "ref_text": "Swanston-Flatt, S. K., Day, C., Bailey, C. J., & Flatt, P. R. (1990). Traditional plant treatments for diabetes: Studies in normal and streptozotocin diabetic mice.\n  \n   Diabetologia\n  \n  ,\n  \n   33\n  \n  (8), 462–464.\n  https://doi.org/10.1007/BF00405106"
+    },
+    {
+      "doi": "10.1021/jf040019b",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 9,
+      "ref_text": "Miyazawa, M., & Yamafuji, C. (2005). Inhibition of acetylcholinesterase activity by bicyclic monoterpenoids.\n  \n   Journal of Agricultural and Food Chemistry\n  \n  ,\n  \n   53\n  \n  (5), 1765–1768.\n  https://doi.org/10.1021/jf040019b"
+    },
+    {
+      "doi": "10.1016/j.heliyon.2019.e02376",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 8,
+      "ref_num": 12,
+      "ref_text": "Raina, R., Verma, P. K., Peshin, R., & Kour, H. (2019). Potential of\n  \n   Juniperus communis\n  \n  L as a nutraceutical in human and veterinary medicine.\n  \n   Heliyon\n  \n  ,\n  \n   5\n  \n  (8), e02376.\n  https://doi.org/10.1016/j.heliyon.2019.e02376"
+    },
+    {
+      "doi": "10.1016/s0378-8741(00)00180-x",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 5,
+      "ref_text": "Hamill, F. A., Apio, S., Mubiru, N. K., Mosango, M., Bukenya-Ziraba, R., Maganyi, O. W., & Soejarto, D. D. (2000). Traditional herbal drugs of southern Uganda, I. Journal of Ethnopharmacology, 70(3), 281–300. https://doi.org/10.1016/s0378-8741(00)00180-x"
+    },
+    {
+      "doi": "10.3923/pjbs.2004.1559.1562",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 3,
+      "ref_text": "Dulger, B., & Gonuz, A. (2004). Antimicrobial activity of some Turkish medicinal plants. Pakistan Journal of Biological Sciences, 7(9), 1559–1562. https://doi.org/10.3923/pjbs.2004.1559.1562"
+    },
+    {
+      "doi": "10.1016/j.biotechadv.2014.07.001",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 2,
+      "ref_text": "Alipieva, K., Korkina, L., Orhan, I. E., & Georgiev, M. I. (2014). Verbascoside—A review of its occurrence, (bio)synthesis and pharmacological significance. Biotechnology Advances, 32(6), 1065–1076. https://doi.org/10.1016/j.biotechadv.2014.07.001"
+    },
+    {
+      "doi": "10.1016/j.lfs.2003.09.053",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 7,
+      "ref_text": "Kupeli, E., Kosar, M., Yesilada, E., Hüsnu Can Baser, K., & Başer, C. (2005). A comparative study on the anti-inflammatory, antinociceptive and antipyretic effects of isoquinoline alkaloids from the roots of Turkish Berberis species. Life Sciences, 72(6), 645–657. https://doi.org/10.1016/j.lfs.2003.09.053"
+    },
+    {
+      "doi": "10.1016/j.jep.2010.05.061",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 11,
+      "ref_text": "Sarić-Kundalić, B., Dobeš, C., Klatte-Asselmeyer, V., & Saukel, J. (2010). Ethnobotanical study on medicinal use of wild and cultivated plants in middle, south and west Bosnia and Herzegovina. Journal of Ethnopharmacology, 131(1), 33–55. https://doi.org/10.1016/j.jep.2010.05.061"
+    },
+    {
+      "doi": "10.1590/S0102-695X2013000600004",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 10,
+      "ref_text": "Riaz, M., Zia-Ul-Haq, M., & Jaafar, H. Z. E. (2013). Common mullein, pharmacological and chemical aspects. Revista Brasileira de Farmacognosia, 23(6), 948–959. https://doi.org/10.1590/S0102-695X2013000600004"
+    },
+    {
+      "doi": "10.1016/s0378-8741(02)00186-1",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 15,
+      "ref_text": "Turker, A. U., & Camper, N. D. (2002). Biological activity of common mullein, a medicinal plant. Journal of Ethnopharmacology, 82(2–3), 117–125. https://doi.org/10.1016/s0378-8741(02)00186-1"
+    },
+    {
+      "doi": "10.1016/0378-8741(95)01321-0",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 8,
+      "ref_text": "McCutcheon, A. R., Roberts, T E., Gibbons, E., Ellis, S. M., Babiuk, L. A., Hancock, R. E., & Towers, G. H. N. (1995). Antiviral screening of British Columbian medicinal plants. Journal of Ethnopharmacology, 49(2), 101–110. https://doi.org/10.1016/0378-8741(95)01321-0"
+    },
+    {
+      "doi": "10.1016/j.jtcme.2016.12.014",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 9,
+      "ref_text": "Ghorbani, A., & Esmaeilizadeh, M. (2017). Pharmacological properties of\n  \n   Salvia officinalis\n  \n  and its components.\n  \n   Journal of Traditional and Complementary Medicine\n  \n  ,\n  \n   7\n  \n  (4), 433–440.\n  \n   https://doi.org/10.1016/j.jtcme.2016.12.014"
+    },
+    {
+      "doi": "10.3390/ijms18061137",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 10,
+      "ref_num": 4,
+      "ref_text": "Mármol, I., Sánchez-de-Diego, C., Jiménez-Moreno, N., Ancín-Azpilicueta, C., & Rodríguez-Yoldi, M. J. (2017). Therapeutic applications of rose hips from different\n   \n    Rosa\n   \n   species.\n   \n    International Journal of Molecular Sciences\n   \n   ,\n   \n    18\n   \n   (6), 1137. https://doi.org/10.3390/ijms18061137"
+    },
+    {
+      "doi": "10.1515/znc-2004-5-622",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 14,
+      "ref_text": "Tatli, I. I., Akdemir, Z., Yesilada, E., & Küpeli, E. (2004). Anti-inflammatory and antinociceptive potential of major phenolics from Verbascum salviifolium. Zeitschrift für Naturforschung C, 59(5–6), 609–613. https://doi.org/10.1515/znc-2004-5-622"
+    },
+    {
+      "doi": "10.1001/archpedi.155.7.796",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 9,
+      "ref_num": 12,
+      "ref_text": "Sarrell, E. M., Mandelberg, A., & Cohen, H. A. (2001). Efficacy of naturopathic extracts in the management of ear pain associated with acute otitis media. Archives of Pediatrics & Adolescent Medicine, 155(7), 796–799. https://doi.org/10.1001/archpedi.155.7.796"
+    },
+    {
+      "doi": "10.1093/ecam/neh072",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 1,
+      "ref_text": "Adams, J. D., & Garcia, C. (2005). The advantages of traditional Chumash healing.\n  \n   Evidence-Based Complementary and Alternative Medicine\n  \n  ,\n  \n   2\n  \n  (1), 19–23.\n  \n   https://doi.org/10.1093/ecam/neh072"
+    },
+    {
+      "doi": "10.3390/molecules29040802",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 2,
+      "ref_text": "Anibogwu, R., De Jesus, K., Pradhan, S., Van Leuven, S., & Sharma, K. (2024). Sesquiterpene lactones and flavonoid from the leaves of basin big sagebrush (\n  \n   Artemisia tridentata\n  \n  subsp.\n  \n   tridentata\n  \n  ): Isolation, characterization and biological activities.\n  \n   Molecules\n  \n  ,\n  \n   29\n  \n  (4), 802.\n  \n   https://doi.org/10.3390/molecules29040802"
+    },
+    {
+      "doi": "10.2147/BTAT.S91385",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 10,
+      "ref_num": 6,
+      "ref_text": "Winther, K., Vinther Hansen, A. S., & Campbell-Tofte, J. (2015). Bioactive ingredients of rose hips (\n   \n    Rosa canina\n   \n   L) with special reference to antioxidative and anti-inflammatory properties: In vitro studies.\n   \n    Botanics: Targets and Therapy\n   \n   ,\n   \n    5\n   \n   , 11–23. https://doi.org/10.2147/BTAT.S91385"
+    },
+    {
+      "doi": "10.1007/s40268-016-0157-5",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 12,
+      "ref_text": "Lopresti, A. L. (2017).\n  \n   Salvia\n  \n  (sage): A review of its potential cognitive-enhancing and protective effects.\n  \n   Drugs in R&D\n  \n  ,\n  \n   17\n  \n  (1), 53–64.\n  \n   https://doi.org/10.1007/s40268-016-0157-5"
+    },
+    {
+      "doi": "10.1016/S0091-3057(03)00108-4",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 15,
+      "ref_text": "Perry, N. S., Bollen, C., Perry, E. K., & Ballard, C. (2003).\n  \n   Salvia\n  \n  for dementia therapy: Review of pharmacological activity and pilot tolerability clinical trial.\n  \n   Pharmacology Biochemistry and Behavior\n  \n  ,\n  \n   75\n  \n  (3), 651–659.\n  \n   https://doi.org/10.1016/S0091-3057(03)00108-4"
+    },
+    {
+      "doi": "10.4103/2225-4110.130373",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 10,
+      "ref_text": "Hamidpour, M., Hamidpour, R., Hamidpour, S., & Shahlari, M. (2014). Chemistry, pharmacology, and medicinal property of sage (\n  \n   Salvia\n  \n  ) to prevent and cure illnesses such as obesity, diabetes, depression, dementia, lupus, autism, heart disease, and cancer.\n  \n   Journal of Traditional and Complementary Medicine\n  \n  ,\n  \n   4\n  \n  (2), 82–88.\n  \n   https://doi.org/10.4103/2225-4110.130373"
+    },
+    {
+      "doi": "10.3390/nu13010218",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 23,
+      "ref_text": "Wightman, E. L., Jackson, P. A., Spittlehouse, B., Heffernan, T., Guillemet, D., & Kennedy, D. O. (2021). The acute and chronic cognitive effects of a sage extract: A randomized, placebo-controlled study in healthy humans.\n  \n   Nutrients\n  \n  ,\n  \n   13\n  \n  (1), 218.\n  \n   https://doi.org/10.3390/nu13010218"
+    },
+    {
+      "doi": "10.1177/1934578X19850354",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 14,
+      "ref_text": "Nigam, M., Atanassova, M., Mishra, A. P., Pezzani, R., Devkota, H. P., Plygun, S., Salehi, B., Setzer, W. N., & Sharifi-Rad, J. (2019). Bioactive compounds and health benefits of\n  \n   Artemisia\n  \n  species.\n  \n   Natural Product Communications\n  \n  ,\n  \n   14\n  \n  (7).\n  \n   https://doi.org/10.1177/1934578X19850354"
+    },
+    {
+      "doi": "10.1021/jf100082p",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 17,
+      "ref_text": "Ramos, A. A., Azqueta, A., Pereira-Wilson, C., & Collins, A. R. (2010). Polyphenolic compounds from\n  \n   Salvia\n  \n  species protect cellular DNA from oxidation and stimulate DNA repair in cultured human cells.\n  \n   Journal of Agricultural and Food Chemistry\n  \n  ,\n  \n   58\n  \n  (12), 7465–7471.\n  \n   https://doi.org/10.1021/jf100082p"
+    },
+    {
+      "doi": "10.3390/ijms25063430",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 12,
+      "ref_num": 3,
+      "ref_text": "Durovic, S., Kojic, I., Radic, D., Smyatskaya, Y. A., Bazarnova, J. G., Filip, S., & Tosti, T. (2024). Chemical constituent of stinging nettle (\n  \n   Urtica dioica\n  \n  L.): A comprehensive review on phenolic and polyphenolic compounds and their bioactivity.\n  \n   International Journal of Molecular Sciences, 25\n  \n  (6), 3430.\n  https://doi.org/10.3390/ijms25063430"
+    },
+    {
+      "doi": "10.1016/S0091-3057(03)00122-9",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 21,
+      "ref_text": "Tildesley, N. T., Kennedy, D. O., Perry, E. K., Ballard, C. G., Savelev, S., Wesnes, K. A., & Scholey, A. B. (2003).\n  \n   Salvia lavandulaefolia\n  \n  (Spanish sage) enhances memory in healthy young volunteers.\n  \n   Pharmacology Biochemistry and Behavior\n  \n  ,\n  \n   75\n  \n  (3), 669–674.\n  \n   https://doi.org/10.1016/S0091-3057(03)00122-9"
+    },
+    {
+      "doi": "10.3390/ijms10093937",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 18,
+      "ref_text": "Sa, C. M., Ramos, A. A., Azevedo, M. F., Lima, C. F., Fernandes-Ferreira, M., & Pereira-Wilson, C. (2009). Sage tea drinking improves lipid profile and antioxidant defences in humans.\n  \n   International Journal of Molecular Sciences\n  \n  ,\n  \n   10\n  \n  (9), 3937–3950.\n  \n   https://doi.org/10.3390/ijms10093937"
+    },
+    {
+      "doi": "10.1016/j.phymed.2007.03.014",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 12,
+      "ref_num": 2,
+      "ref_text": "Chrubasik, J. E., Roufogalis, B. D., Wagner, H., & Chrubasik, S. (2007). A comprehensive review on the stinging nettle effect and efficacy profiles. Part II:\n  \n   Urticae radix\n  \n  .\n  \n   Phytomedicine, 14\n  \n  (7–8), 568–579.\n  https://doi.org/10.1016/j.phymed.2007.03.014"
+    },
+    {
+      "doi": "10.1007/BF02860489",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 11,
+      "ref_num": 22,
+      "ref_text": "Timbrook, J. (1990). Ethnobotany of Chumash Indians, California, based on collections by John P. Harrington.\n  \n   Economic Botany\n  \n  ,\n  \n   44\n  \n  (2), 236–253.\n  \n   https://doi.org/10.1007/BF02860489"
+    },
+    {
+      "doi": "10.1055/s-2006-960881",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 12,
+      "ref_num": 10,
+      "ref_text": "Mittman, P. (1990). Randomized, double-blind study of freeze-dried\n  \n   Urtica dioica\n  \n  in the treatment of allergic rhinitis.\n  \n   Planta Medica, 56\n  \n  (1), 44–47.\n  https://doi.org/10.1055/s-2006-960881"
+    },
+    {
+      "doi": "10.29228/jrp.607",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 13,
+      "ref_num": 1,
+      "ref_text": "Abdulladjanova, N. G., Mavlonov, G. T., Mamadrahimov, A. A., Rakhimov, R. N., Ning, H., Wali, A., Yili, A., & Abdulla, R. (n.d.).\n   \n    Phenolic compounds of Rhus glabra\n   \n   .\n   https://www.jrespharm.com/uploads/pdf/pdf_MPJ_1485.pdf https://doi.org/10.29228/jrp.607"
+    },
+    {
+      "doi": "10.1016/j.jep.2003.09.028",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 12,
+      "ref_num": 5,
+      "ref_text": "Gülçin, İ., Küfrevioğlu, Ö. İ., Oktay, M., & Büyükokuroğlu, M. E. (2004). Antioxidant, antimicrobial, antiulcer and analgesic activities of nettle (\n  \n   Urtica dioica\n  \n  ).\n  \n   Journal of Ethnopharmacology, 90\n  \n  (2–3), 205–215.\n  https://doi.org/10.1016/j.jep.2003.09.028"
+    },
+    {
+      "doi": "10.3390/molecules23071664",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 12,
+      "ref_num": 9,
+      "ref_text": "Kregiel, D., Pawlikowska, E., & Antolak, H. (2018).\n  \n   Urtica\n  \n  spp.: Ordinary plants with extraordinary properties.\n  \n   Molecules, 23\n  \n  (7), 1664.\n  https://doi.org/10.3390/molecules23071664"
+    },
+    {
+      "doi": "10.1002/ptr.5840",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 14,
+      "ref_num": 1,
+      "ref_text": "Ali, S. I., Gopalakrishnan, B., & Venkatesalu, V. (2017). Pharmacognosy, phytochemistry and pharmacological properties of\n  \n   Achillea millefolium\n  \n  : A review.\n  \n   Phytotherapy Research, 31\n  \n  (8), 1140–1161.\n  https://doi.org/10.1002/ptr.5840"
+    },
+    {
+      "doi": "10.1016/j.hermed.2015.09.001",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 14,
+      "ref_num": 6,
+      "ref_text": "Kazemi, M. (2015). Chemical composition and antimicrobial, antioxidant activities and anti-inflammatory potential of\n  \n   Achillea millefolium\n  \n  ,\n  \n   Anethum graveolens\n  \n  L., and\n  \n   Carum copticum\n  \n  L. essential oils.\n  \n   Journal of Herbal Medicine, 5\n  \n  (4), 217–222.\n  https://doi.org/10.1016/j.hermed.2015.09.001"
+    },
+    {
+      "doi": "10.1055/s-2000-11117",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 12,
+      "ref_num": 8,
+      "ref_text": "Konrad, L., Müller, H. H., Lenz, C., Laubinger, H., Aumüller, G., & Lichius, J. J. (2000). Antiproliferative effect on human prostate cancer cells by a stinging nettle root (\n  \n   Urtica dioica\n  \n  ) extract.\n  \n   Planta Medica, 66\n  \n  (1), 44–47.\n  https://doi.org/10.1055/s-2000-11117"
+    },
+    {
+      "doi": "10.1002/ptr.1897",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 14,
+      "ref_num": 9,
+      "ref_text": "Yaeesh, S., Jamal, Q., Khan, A.-U., & Gilani, A. H. (2006). Studies on hepatoprotective, antispasmodic and calcium antagonist activities of the aqueous–methanol extract of\n  \n   Achillea millefolium\n  \n  .\n  \n   Phytotherapy Research, 20\n  \n  (7), 546–551.\n  https://doi.org/10.1002/ptr.1897"
+    },
+    {
+      "doi": "10.1002/ptr.1103",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 2,
+      "ref_text": "Cavanagh, H. M. A., & Wilkinson, J. M. (2002). Biological activities of lavender essential oil.\n  \n   Phytotherapy Research, 16\n  \n  (4), 301–308.\n  https://doi.org/10.1002/ptr.1103"
+    },
+    {
+      "doi": "10.1080/13693780400004810",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 3,
+      "ref_text": "D’Auria, F. D., Tecca, M., Strippoli, V., Salvatore, G., Battinelli, L., & Mazzanti, G. (2005). Antifungal activity of\n  \n   Lavandula angustifolia\n  \n  essential oil against\n  \n   Candida albicans\n  \n  yeast and mycelial form.\n  \n   Medical Mycology, 43\n  \n  (5), 391–396.\n  https://doi.org/10.1080/13693780400004810"
+    },
+    {
+      "doi": "10.1007/bf00973103",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 5,
+      "ref_text": "Elisabetsky, E., Marschner, J., & Souza, D. O. (1995). Effects of linalool on the glutamatergic system in the rat cerebral cortex.\n  \n   Neurochemical Research, 20\n  \n  (4), 461–465.\n  https://doi.org/10.1007/bf00973103"
+    },
+    {
+      "doi": "10.1007/s12231-011-9154-3",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 14,
+      "ref_num": 2,
+      "ref_text": "Applequist, W. L., & Moerman, D. E. (2011). Yarrow (\n  \n   Achillea millefolium\n  \n  ): A neglected panacea? A review of ethnobotany, bioactivity, and biomedical research.\n  \n   Economic Botany, 65\n  \n  (2), 209–225.\n  https://doi.org/10.1007/s12231-011-9154-3"
+    },
+    {
+      "doi": "10.5962/bhl.title.62043",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 6,
+      "ref_text": "Felter, H. W., & Lloyd, J. U. (1898).\n  \n   King’s American dispensatory\n  \n  (18th ed., 3rd rev.). Ohio Valley Company.\n  https://doi.org/10.5962/bhl.title.62043"
+    },
+    {
+      "doi": "10.1186/s12906-016-1128-7",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 12,
+      "ref_text": "Mori, H. M., Kawanami, H., Kawahata, H., & Aoki, M. (2016). Wound-healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model.\n  \n   BMC Complementary and Alternative Medicine, 16,\n  \n  144.\n  https://doi.org/10.1186/s12906-016-1128-7"
+    },
+    {
+      "doi": "10.1016/j.phymed.2009.10.002",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 9,
+      "ref_text": "Linck, V. D. M., da Silva, A. L., Figueiró, M., Caramão, E. B., Moreno, P. R., & Elisabetsky, E. (2010). Effects of inhaled linalool in anxiety, social interaction, and aggressive behavior in mice.\n  \n   Phytomedicine, 17\n  \n  (8–9), 679–683.\n  https://doi.org/10.1016/j.phymed.2009.10.002"
+    },
+    {
+      "doi": "10.1111/j.1365-2184.2004.00307.x",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 15,
+      "ref_text": "Prashar, A., Locke, I. C., & Evans, C. S. (2004). Cytotoxicity of lavender oil and its major components to human skin cells.\n  \n   Cell Proliferation, 37\n  \n  (3), 221–229.\n  https://doi.org/10.1111/j.1365-2184.2004.00307.x"
+    },
+    {
+      "doi": "10.1016/j.ejphar.2003.11.066",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 14,
+      "ref_text": "Peana, A. T., De Montis, M. G., Nieddu, E., Spano, M. T., D’Aquila, P. S., & Pippia, P. (2004). Profile of spinal and supra-spinal antinociception of (–)-linalool.\n  \n   European Journal of Pharmacology, 485\n  \n  (1–3), 165–174.\n  https://doi.org/10.1016/j.ejphar.2003.11.066"
+    },
+    {
+      "doi": "10.1002/(sici)1099-1573(199909)13:6",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 10,
+      "ref_text": "Lis-Balchin, M., & Hart, S. (1999). Studies on the mode of action of the essential oil of lavender (\n  \n   Lavandula angustifolia\n  \n  Miller).\n  \n   Phytotherapy Research, 13\n  \n  (6), 540–542.\n  https://doi.org/10.1002/(sici)1099-1573(199909)13:6<540::aid-ptr523>3.0.co;2-i"
+    },
+    {
+      "doi": "10.1078/094471102321621322",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 13,
+      "ref_text": "Peana, A. T., D’Aquila, P. S., Panin, F., Serra, G., Pippia, P., & Moretti, M. D. L. (2002). Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils.\n  \n   Phytomedicine, 9\n  \n  (8), 721–726.\n  https://doi.org/10.1078/094471102321621322"
+    },
+    {
+      "doi": "10.1016/j.ijfoodmicro.2004.03.022",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 16,
+      "ref_num": 2,
+      "ref_text": "Burt, S. (2004). Essential oils: Their antibacterial properties and potential applications in foods—A review.\n  \n   International Journal of Food Microbiology, 94\n  \n  (3), 223–253.\n  https://doi.org/10.1016/j.ijfoodmicro.2004.03.022"
+    },
+    {
+      "doi": "10.1074/jbc.273.3.1288",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 16,
+      "ref_num": 5,
+      "ref_text": "Hehner, S. P., Heinrich, M., Bork, P. M., Vogt, M., Ratter, F., Lehmann, V., Schulze-Osthoff, K., & Schmitz, M. L. (1998). Sesquiterpene lactones specifically inhibit activation of NF-κB by preventing the degradation of IκB-α and IκB-β.\n  \n   Journal of Biological Chemistry, 273\n  \n  (3), 1288–1297.\n  https://doi.org/10.1074/jbc.273.3.1288"
+    },
+    {
+      "doi": "10.1177/1934578X231225842",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 16,
+      "ref_num": 9,
+      "ref_text": "Swor, K., Satyal, P., Poudel, A., & Setzer, W. N. (2024). The essential oil of\n  \n   Balsamorhiza sagittata\n  \n  from southwestern Idaho: Chemical composition and enantiomeric distribution.\n  \n   Natural Product Communications, 19\n  \n  (1), 1–7.\n  https://doi.org/10.1177/1934578X231225842"
+    },
+    {
+      "doi": "10.1016/0031-9422(89)80041-X",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 16,
+      "ref_num": 1,
+      "ref_text": "Böhm, B. A., Choy, J. B., & Lee, A. Y.-M. (1989). Flavonoids of\n  \n   Balsamorhiza\n  \n  and\n  \n   Wyethia\n  \n  .\n  \n   Phytochemistry, 28\n  \n  (2), 501–503.\n  https://doi.org/10.1016/0031-9422(89)80041-X"
+    },
+    {
+      "doi": "10.1248/cpb.54.152",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 16,
+      "ref_num": 7,
+      "ref_text": "Mohamed, A. E.-H. H., Ahmed, A. A., Wollenweber, E., Bohm, B., & Asakawa, Y. (2006). Highly oxygenated guaianolides and eudesman-12-oic acids from\n  \n   Balsamorhiza sagittata\n  \n  and\n  \n   Balsamorhiza macrophylla\n  \n  .\n  \n   Chemical and Pharmaceutical Bulletin, 54\n  \n  (2), 152–155.\n  https://doi.org/10.1248/cpb.54.152"
+    },
+    {
+      "doi": "10.1155/2013/681304",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 8,
+      "ref_text": "Koulivand, P. H., Khaleghi Ghadiri, M., & Gorji, A. (2013). Lavender and the nervous system.\n  \n   Evidence-Based Complementary and Alternative Medicine, 2013,\n  \n  681304.\n  https://doi.org/10.1155/2013/681304"
+    },
+    {
+      "doi": "10.1023/a:1010904214482",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 15,
+      "ref_num": 16,
+      "ref_text": "Silva Brum, L. F., Emanuelli, T., Souza, D. O., & Elisabetsky, E. (2001). Effects of linalool on glutamate release and uptake in mouse cortical synaptosomes.\n  \n   Neurochemical Research, 26\n  \n  (3), 191–194.\n  https://doi.org/10.1023/a:1010904214482"
+    },
+    {
+      "doi": "10.1073/pnas.070042397",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 2,
+      "ref_text": "Höld, K. M., Sirisoma, N. S., Ikeda, T., Narahashi, T., & Casida, J. E. (2000). α-Thujone (the active component of absinthe): GABAA receptor modulation and metabolic detoxification.\n  \n   Proceedings of the National Academy of Sciences of the United States of America, 97\n  \n  (8), 3826–3831.\n  https://doi.org/10.1073/pnas.070042397"
+    },
+    {
+      "doi": "10.1055/s-0034-1372609",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 3,
+      "ref_text": "Juergens, U. R. (2014). Anti-inflammatory properties of the monoterpene 1,8-cineole: Current evidence for co-medication in inflammatory airway diseases.\n  \n   Drug Research, 64\n  \n  (12), 638–646.\n  https://doi.org/10.1055/s-0034-1372609"
+    },
+    {
+      "doi": "10.3390/plants11091228",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 10,
+      "ref_text": "Zheljazkov, V. D., Zhao, S., Li, Y., Cantrell, C. L., Khan, S., Astatkie, T., & Pokharel, R. (2022). Essential oil yield, composition, and bioactivity of sagebrush species in the Bighorn Mountains, USA.\n  \n   Plants, 11\n  \n  (9), 1228.\n  https://doi.org/10.3390/plants11091228"
+    },
+    {
+      "doi": "10.1007/s11101-020-09671-y",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 6,
+      "ref_text": "Patočka, J., & Navrátilová, Z. (2020). Thujone, a widely debated volatile compound: What do we know about it?\n  \n   Phytochemistry Reviews, 19\n  \n  (5), 1083–1107.\n  https://doi.org/10.1007/s11101-020-09671-y"
+    },
+    {
+      "doi": "10.1074/jbc.M112.438515",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 7,
+      "ref_text": "Selescu, T., Ciobanu, A. C., Dobre, C., Reid, G., & Babes, A. (2013). Camphor activates and sensitizes transient receptor potential melastatin 8 (TRPM8) to cooling and icilin.\n  \n   Journal of Biological Chemistry, 288\n  \n  (11), 7505–7517.\n  https://doi.org/10.1074/jbc.M112.438515"
+    },
+    {
+      "doi": "10.1017/jns.2016.41",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 16,
+      "ref_num": 8,
+      "ref_text": "Panche, A. N., Diwan, A. D., & Chandra, S. R. (2016). Flavonoids: An overview.\n  \n   Journal of Nutritional Science, 5\n  \n  , e47.\n  https://doi.org/10.1017/jns.2016.41"
+    },
+    {
+      "doi": "10.1134/S1068162017070081",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 18,
+      "ref_num": 3,
+      "ref_text": "Kostikova, V. A., & Shaldaeva, T. M. (2017). The antioxidant activity of the Russian Far East representatives of the genus\n  \n   Spiraea\n  \n  (Rosaceae Juss.).\n  \n   Russian Journal of Bioorganic Chemistry, 43\n  \n  , 790–794.\n  https://doi.org/10.1134/S1068162017070081"
+    },
+    {
+      "doi": "10.3390/ijms222011163",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 18,
+      "ref_num": 2,
+      "ref_text": "Kostikova, V. A., & Petrova, N. V. (2021). Phytoconstituents and bioactivity of plants of the genus\n  \n   Spiraea\n  \n  (Rosaceae): A review.\n  \n   International Journal of Molecular Sciences, 22\n  \n  (20), 11163.\n  https://doi.org/10.3390/ijms222011163"
+    },
+    {
+      "doi": "10.1128/am.15.4.819-821.1967",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 5,
+      "ref_text": "Nagy, J. G., & Tengerdy, R. P. (1967). Antibacterial action of the volatile oils of\n  \n   Artemisia tridentata\n  \n  and\n  \n   Artemisia nova\n  \n  on aerobic bacteria.\n  \n   Applied Microbiology, 15\n  \n  (4), 819–821.\n  https://doi.org/10.1128/am.15.4.819-821.1967"
+    },
+    {
+      "doi": "10.1007/s11240-020-01971-7",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 18,
+      "ref_num": 7,
+      "ref_text": "Muraseva, D. S., & Kostikova, V. A. (2021).\n  \n   In vitro\n  \n  propagation of\n  \n   Spiraea betulifolia\n  \n  var.\n  \n   aemiliana\n  \n  (Rosaceae) and comparative analysis of phenolic compounds of microclones and intact plants.\n  \n   Plant Cell, Tissue and Organ Culture, 144\n  \n  , 493–504.\n  https://doi.org/10.1007/s11240-020-01971-7"
+    },
+    {
+      "doi": "10.1177/1934578X221117417",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 17,
+      "ref_num": 9,
+      "ref_text": "Swor, K., Satyal, P., Timsina, S., & Setzer, W. N. (2022). Chemical composition and terpenoid enantiomeric distribution of the essential oil of\n  \n   Artemisia tridentata tridentata\n  \n  from southwestern Idaho.\n  \n   Natural Product Communications, 17\n  \n  , Article 1934578X221117417.\n  https://doi.org/10.1177/1934578X221117417"
+    },
+    {
+      "doi": "10.3390/nu8030167",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 18,
+      "ref_num": 4,
+      "ref_text": "Li, Y., Yao, J., Han, C., Yang, J., Chaudhry, M. T., Wang, S., Liu, H., & Yin, Y. (2016). Quercetin, inflammation and immunity.\n  \n   Nutrients, 8\n  \n  (3), 167.\n  https://doi.org/10.3390/nu8030167"
+    },
+    {
+      "doi": "10.3390/ijms24032362",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 18,
+      "ref_num": 8,
+      "ref_text": "Zheleznichenko, T. V., Muraseva, D. S., Erst, A. S., Kuznetsov, A. A., Kulikovskiy, M. S., & Kostikova, V. A. (2023). The influence of solid and liquid systems\n  \n   in vitro\n  \n  on the growth and biosynthetic characteristics of microshoot culture of\n  \n   Spiraea betulifolia\n  \n  var.\n  \n   aemiliana\n  \n  .\n  \n   International Journal of Molecular Sciences, 24\n  \n  (3), 2362.\n  https://doi.org/10.3390/ijms24032362"
+    },
+    {
+      "doi": "10.3390/foods10081745",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 3,
+      "ref_text": "Lhotská, I., Kaplan, J., Křenová, A., & Šatínský, D. (2021). Evaluation of anthocyanin profiles in various blackcurrant cultivars over a three-year period using a fast HPLC-DAD method.\n  \n   Foods, 10\n  \n  (8), 1745.\n  https://doi.org/10.3390/foods10081745"
+    },
+    {
+      "doi": "10.1016/0889-1575(89)90059-8",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 2,
+      "ref_text": "Kuhnlein, H. V. (1989). Nutrient values in indigenous wild berries used by the Nuxalk people of Bella Coola, British Columbia.\n  \n   Journal of Food Composition and Analysis, 2\n  \n  (1), 28–36.\n  https://doi.org/10.1016/0889-1575(89)90059-8"
+    },
+    {
+      "doi": "10.1021/jf011062r",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 5,
+      "ref_text": "Moyer, R. A., Hummer, K. E., Finn, C. E., Frei, B., & Wrolstad, R. E. (2002). Anthocyanins, phenolics, and antioxidant capacity in diverse small fruits:\n  \n   Vaccinium, Rubus\n  \n  , and\n  \n   Ribes\n  \n  .\n  \n   Journal of Agricultural and Food Chemistry, 50\n  \n  (3), 519–525.\n  https://doi.org/10.1021/jf011062r"
+    },
+    {
+      "doi": "10.3390/ijms20102588",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 4,
+      "ref_text": "Li, S., Wu, B., Fu, W., & Reddivari, L. (2019). The anti-inflammatory effects of dietary anthocyanins against ulcerative colitis.\n  \n   International Journal of Molecular Sciences, 20\n  \n  (10), 2588.\n  https://doi.org/10.3390/ijms20102588"
+    },
+    {
+      "doi": "10.1016/j.jep.2021.114166",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 8,
+      "ref_text": "Sun, Q., Wang, N., Xu, W., & Zhou, H. (2021). Genus\n  \n   Ribes\n  \n  (Grossulariaceae): A comprehensive review of traditional uses, phytochemistry, pharmacology and clinical applications.\n  \n   Journal of Ethnopharmacology, 276\n  \n  , 114166.\n  https://doi.org/10.1016/j.jep.2021.114166"
+    },
+    {
+      "doi": "10.1207/s15327914nc5401_4",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 6,
+      "ref_text": "Nohynek, L. J., Alakomi, H.-L., Kähkönen, M. P., Heinonen, M., Helander, I. M., Oksman-Caldentey, K.-M., & Puupponen-Pimiä, R. H. (2006). Berry phenolics: Antimicrobial properties and mechanisms of action against severe human pathogens.\n  \n   Nutrition and Cancer, 54\n  \n  (1), 18–32.\n  https://doi.org/10.1207/s15327914nc5401_4"
+    },
+    {
+      "doi": "10.1016/j.phytochem.2012.04.006",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 3,
+      "ref_text": "Edwards, J. E., Brown, P. N., Talent, N., Dickinson, T. A., & Shipley, P. R. (2012). A review of the chemistry of the genus\n   \n    Crataegus\n   \n   .\n   \n    Phytochemistry, 79\n   \n   , 5–26.\n   https://doi.org/10.1016/j.phytochem.2012.04.006"
+    },
+    {
+      "doi": "10.1016/j.ejheart.2008.10.004",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 5,
+      "ref_text": "Holubarsch, C. J. F., Colucci, W. S., Meinertz, T., Gaus, W., & Tendera, M. (2008). The efficacy and safety of\n   \n    Crataegus\n   \n   extract WS 1442 in patients with heart failure: The SPICE trial.\n   \n    European Journal of Heart Failure, 10\n   \n   (12), 1255–1263.\n   https://doi.org/10.1016/j.ejheart.2008.10.004"
+    },
+    {
+      "doi": "10.1080/10942912.2018.1446146",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 1,
+      "ref_text": "Alirezalu, A., Salehi, P., Ahmadi, N., Sonboli, A., Aceto, S., Hatami Maleki, H., & Ayyari, M. (2018). Flavonoids profile and antioxidant activity in flowers and leaves of hawthorn species (\n   \n    Crataegus\n   \n   ) from different regions of Iran.\n   \n    International Journal of Food Properties, 21\n   \n   (1), 452–470.\n   https://doi.org/10.1080/10942912.2018.1446146"
+    },
+    {
+      "doi": "10.1016/S0031-9422(02)00172-3",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 10,
+      "ref_text": "Svedström, U., Vuorela, H., Kostiainen, R., Tuominen, J., Kokkonen, J., Rauha, J.-P., Laakso, I., & Hiltunen, R. (2002). Isolation and identification of oligomeric procyanidins from\n   \n    Crataegus\n   \n   leaves and flowers.\n   \n    Phytochemistry, 60\n   \n   (8), 821–825.\n   https://doi.org/10.1016/S0031-9422(02)00172-3"
+    },
+    {
+      "doi": "10.1002/jsfa.5671",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 12,
+      "ref_text": "Yang, B., & Liu, P. (2012). Composition and health effects of phenolic compounds in hawthorn (\n   \n    Crataegus\n   \n   ) of different origins.\n   \n    Journal of the Science of Food and Agriculture, 92\n   \n   (8), 1578–1590.\n   https://doi.org/10.1002/jsfa.5671"
+    },
+    {
+      "doi": "10.1155/2020/1258707",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 19,
+      "ref_num": 7,
+      "ref_text": "Santos, I. B. D. S., Santos Dos Santos, B., de Oliveira, J. R. S., Costa, W. K., Zagmignan, A., da Silva, L. C. N., Ferreira, M. R. A., Lermen, V. L., Lermen, M. S. B. S., da Silva, A. G., Ximenes, R. M., Soares, L. A. L., Paiva, P. M. G., Lima, V. L. M., Correia, M. T. D. S., & da Silva, M. V. (2020). Antioxidant action and in vivo anti-inflammatory and antinociceptive activities of Myrciaria floribunda fruit peels: Possible involvement of opioidergic system.\n  \n   Advances in Pharmacological and Pharmaceutical Sciences, 2020\n  \n  , 1258707.\n  https://doi.org/10.1155/2020/1258707"
+    },
+    {
+      "doi": "10.1016/j.jfoodeng.2004.08.032",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 9,
+      "ref_text": "Özcan, M., Hacıseferoğulları, H., Marakoğlu, T., & Arslan, D. (2005). Hawthorn (\n   \n    Crataegus\n   \n   spp.) fruit: Some physical and chemical properties.\n   \n    Journal of Food Engineering, 69\n   \n   (4), 409–413.\n   https://doi.org/10.1016/j.jfoodeng.2004.08.032"
+    },
+    {
+      "doi": "10.3390/nu7095361",
+      "http_status": 500,
+      "final_url": null,
+      "crossref_status": 500,
+      "crossref_title": "",
+      "crossref_journal": null,
+      "crossref_year": null,
+      "title_similarity": 0.0,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "chapter": 20,
+      "ref_num": 8,
+      "ref_text": "Nabavi, S. F., Habtemariam, S., Ahmed, T., Sureda, A., Daglia, M., Sobarzo-Sánchez, E., & Nabavi, S. M. (2015). Polyphenolic composition of\n   \n    Crataegus monogyna\n   \n   : From chemistry to medical applications.\n   \n    Nutrients, 7\n   \n   (9), 7708–7728.\n   https://doi.org/10.3390/nu7095361"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+
+==========================================
+FILE: chapter_08.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <strong> | Grandparent: <span>
+  -> Following <ol>: li_count=16, First li='Bocek, B. R. (1984). Ethnobotany of Costanoan Indians, California, based on coll'
+Total <ol> tags in document: 11
+
+==========================================
+FILE: chapter_09.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <strong> | Grandparent: <span>
+  -> NO FOLLOWING <ol> FOUND!
+Total <ol> tags in document: 6
+
+==========================================
+FILE: chapter_10.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <span> | Grandparent: <strong>
+  -> Following <ol>: li_count=6, First li='Deane, G. (n.d.).Rose hips. Eat The Weeds.https://www.eattheweeds.com/rose-hips/'
+Total <ol> tags in document: 1
+
+==========================================
+FILE: chapter_11.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <span> | Grandparent: <strong>
+  -> NO FOLLOWING <ol> FOUND!
+Total <ol> tags in document: 1
+
+==========================================
+FILE: chapter_12.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <strong> | Grandparent: <span>
+  -> Following <ol>: li_count=11, First li='Brunning, A. (2015).The chemistry of stinging nettles. Compound Interest.https:/'
+Total <ol> tags in document: 1
+
+==========================================
+FILE: chapter_13.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <span> | Grandparent: <strong>
+  -> Following <ol>: li_count=6, First li='Abdulladjanova, N. G., Mavlonov, G. T., Mamadrahimov, A. A., Rakhimov, R. N., Ni'
+Total <ol> tags in document: 1
+
+==========================================
+FILE: chapter_14.html
+==========================================
+Found 1 nodes containing 'References':
+  Node: 'References' | Parent tag: <strong> | Grandparent: <span>
+  -> Following <ol>: li_count=9, First li='Ali, S. I., Gopalakrishnan, B., & Venkatesalu, V. (2017). Pharmacognosy, phytoch'
+Total <ol> tags in document: 1

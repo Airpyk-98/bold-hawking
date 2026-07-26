@@ -1,0 +1,174 @@
+Loaded 14 items from investigation report:
+
+=== Ch 15 Ref 03 ===
+Full text: D’Auria, F. D., Tecca, M., Strippoli, V., Salvatore, G., Battinelli, L., & Mazzanti, G. (2005). Antifungal activity of Lavandula angustifolia essential oil against Candida albicans yeast and mycelial form. Medical Mycology, 43 (5), 391–396. https://doi.org/10.1080/13693780400029112
+Existing DOI: 10.1080/13693780400029112
+Existing HREFs: ['https://doi.org/10.1080/13693780400029112']
+Candidates:
+  [1] DOI: 10.1080/13693780400004810 | Author: D'Auria | Journal: Medical Mycology
+      Title: Antifungal activity of<i>Lavandula angustifolia</i>essential oil against<i>Candida albicans</i>yeast and mycelial form
+  [2] DOI: 10.1179/joc.2001.13.4.377 | Author: D'auria | Journal: Journal of Chemotherapy
+      Title: <i>In Vitro</i>Activity of Tea Tree Oil Against<i>Candida albicans</i>Mycelial Conversion and Other Pathogenic Fungi
+  [3] DOI: 10.3390/molecules28031176 | Author: Adaszyńska-Skwirzyńska | Journal: Molecules
+      Title: Lavandula angustifolia Essential Oils as Effective Enhancers of Fluconazole Antifungal Activity against Candida albicans
+----------------------------------------------------------------------
+=== Ch 15 Ref 05 ===
+Full text: Elisabetsky, E., Marschner, J., & Souza, D. O. (1995). Effects of linalool on the glutamatergic system in the rat cerebral cortex. Neurochemical Research, 20 (4), 461–465. https://doi.org/10.1007/BF00973171
+Existing DOI: 10.1007/BF00973171
+Existing HREFs: ['https://doi.org/10.1007/BF00973171']
+Candidates:
+  [1] DOI: 10.1007/bf00973103 | Author: Elisabetsky | Journal: Neurochemical Research
+      Title: Effects of linalool on glutamatergic system in the rat cerebral cortex
+  [2] DOI: 10.1023/a:1021962714034 | Author: Pereira | Journal: Neurochemical Research
+      Title: Effect of γ-Decanolactone on Glutamate Binding in the Rat Cerebral Cortex
+  [3] DOI: 10.1023/a:1010904214482 | Author: Silva Brum | Journal: Neurochemical Research
+      Title: Effects of Linalool on Glutamate Release and Uptake in Mouse Cortical Synaptosomes
+----------------------------------------------------------------------
+=== Ch 15 Ref 06 ===
+Full text: Felter, H. W., & Lloyd, J. U. (1898). King’s American dispensatory (18th ed., 3rd rev.). Ohio Valley Company. https://doi.org/10.5962/bhl.title.62043
+Existing DOI: 10.5962/bhl.title.62043
+Existing HREFs: ['https://doi.org/10.5962/bhl.title.62043']
+Candidates:
+  [1] DOI: 10.1002/jps.3030441219 | Author:  | Journal: Journal of the American Pharmaceutical Association (Scientific ed.)
+      Title: The Dispensatory of the United States of America. 25th ed. Arthur Osol and George E. Farrar, Editors. J. B. Lippincott Company, Philadelphia, 1955. xvii + 2139pp. 17.8 × 26 ×10cm. Price $25
+  [2] DOI: 10.1002/jps.3030370116 | Author:  | Journal: Journal of the American Pharmaceutical Association (Scientific ed.)
+      Title: United states dispensatory. Twenty-fourth Edition By Arthur Osol and George E. Farrar. J. B. Lippincott Company, Philadelphia, Pa., 1947. xxii + 1928pp. 27 × 18cm. Price, $16.50
+  [3] DOI: 10.1038/scientificamerican06301855-331d | Author:  | Journal: Scientific American
+      Title: Coal of the Ohio Valley
+----------------------------------------------------------------------
+=== Ch 15 Ref 09 ===
+Full text: Linck, V. D. M., da Silva, A. L., Figueiró, M., Caramão, E. B., Moreno, P. R., & Elisabetsky, E. (2010). Effects of inhaled linalool in anxiety, social interaction, and aggressive behavior in mice. Phytomedicine, 17 (8–9), 679–683. https://doi.org/10.1016/j.phymed.2010.01.013
+Existing DOI: 10.1016/j.phymed.2010.01.013
+Existing HREFs: ['https://doi.org/10.1016/j.phymed.2010.01.013']
+Candidates:
+  [1] DOI: 10.1016/j.phymed.2009.10.002 | Author: Linck | Journal: Phytomedicine
+      Title: Effects of inhaled Linalool in anxiety, social interaction and aggressive behavior in mice
+  [2] DOI: 10.1016/j.phymed.2008.08.001 | Author: Linck | Journal: Phytomedicine
+      Title: Inhaled linalool-induced sedation in mice
+  [3] DOI: 10.1016/j.phymed.2009.07.001 | Author: Piato | Journal: Phytomedicine
+      Title: Anti-stress effects of the “tonic” Ptychopetalum olacoides (Marapuama) in mice
+----------------------------------------------------------------------
+=== Ch 15 Ref 10 ===
+Full text: Lis-Balchin, M., & Hart, S. (1999). Studies on the mode of action of the essential oil of lavender ( Lavandula angustifolia Miller). Phytotherapy Research, 13 (6), 540–542. https://doi.org/10.1002/(SICI)1099-1573(199909)13:6<540::AID-PTR523>3.0.CO;2-J
+Existing DOI: 10.1002/(sici)1099-1573(199909)13:6
+Existing HREFs: ['https://doi.org/10.1002/(sici)1099-1573(199909)13:6<540::aid-ptr523>3.0.co;2-i', 'https://doi.org/10.1002/(SICI)1099-1573(199909)13:6<540::AID-PTR523>3.0.CO;2-J']
+Candidates:
+  [1] DOI: 10.1002/(sici)1099-1573(199909)13:6<540::aid-ptr523>3.0.co;2-i | Author: Lis-Balchin | Journal: Phytotherapy Research
+      Title: Studies on the mode of action of the essential oil of LavenderLavandula angustifolia P. Miller)
+  [2] DOI: 10.1002/ptr.863 | Author: Lis‐Balchin | Journal: Phytotherapy Research
+      Title: <i>Coleonema album</i>: studies of the pharmacological action on smooth muscle<i> in vitro</i> and antimicrobial action of its essential oil
+  [3] DOI: 10.1002/(sici)1099-1573(199805)12:3<215::aid-ptr211>3.0.co;2-b | Author: Lis-Balchin | Journal: Phytotherapy Research
+      Title: Studies on the mode of action of essential oils of scented-leafPelargonium (Geraniaceae)
+----------------------------------------------------------------------
+=== Ch 15 Ref 12 ===
+Full text: Mori, H. M., Kawanami, H., Kawahata, H., & Aoki, M. (2016). Wound-healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model. BMC Complementary and Alternative Medicine, 16, 144. https://doi.org/10.1186/s12906-016-1131-8
+Existing DOI: 10.1186/s12906-016-1131-8
+Existing HREFs: ['https://doi.org/10.1186/s12906-016-1131-8']
+Candidates:
+  [1] DOI: 10.1186/s12906-016-1128-7 | Author: Mori | Journal: BMC Complementary and Alternative Medicine
+      Title: Wound healing potential of lavender oil by acceleration of granulation and wound contraction through induction of TGF-β in a rat model
+  [2] DOI: 10.1007/s11655-019-3083-x | Author: Kawanami | Journal: Chinese Journal of Integrative Medicine
+      Title: Moxibustion Promotes Formation of Granulation in Wound Healing Process through Induction of Transforming Growth Factor-β in Rats
+  [3] DOI: 10.1007/978-3-642-77882-7_58 | Author: Naylor | Journal: Wound Healing and Skin Physiology
+      Title: The Effect of Allopurinol on Wound Contraction and Granulation Tissue Formation in the Rat
+----------------------------------------------------------------------
+=== Ch 15 Ref 13 ===
+Full text: Peana, A. T., D’Aquila, P. S., Panin, F., Serra, G., Pippia, P., & Moretti, M. D. L. (2002). Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils. Phytomedicine, 9 (8), 721–726. https://doi.org/10.1078/0944-7113-00258
+Existing DOI: 10.1078/0944-7113-00258
+Existing HREFs: ['https://doi.org/10.1078/0944-7113-00258']
+Candidates:
+  [1] DOI: 10.1078/094471102321621322 | Author: Peana | Journal: Phytomedicine
+      Title: Anti-inflammatory activity of linalool and linalyl acetate constituents of essential oils
+  [2] DOI: 10.1007/978-94-009-5137-2_10 | Author: Schmaus | Journal: Essential Oils and Aromatic Plants
+      Title: The Influence of Isolation Conditions on the Composition of Essential Oils Containing Linalool and Linalyl Acetate
+  [3] DOI: 10.1079/9781845934132.0716 | Author: Peana | Journal: Botanical medicine in clinical practice
+      Title: Linalool in essential plant oils: pharmacological effects.
+----------------------------------------------------------------------
+=== Ch 15 Ref 14 ===
+Full text: Peana, A. T., De Montis, M. G., Nieddu, E., Spano, M. T., D’Aquila, P. S., & Pippia, P. (2004). Profile of spinal and supra-spinal antinociception of (–)-linalool. European Journal of Pharmacology, 485 (1–3), 165–174. https://doi.org/10.1016/j.ejphar.2003.11.010
+Existing DOI: 10.1016/j.ejphar.2003.11.010
+Existing HREFs: ['https://doi.org/10.1016/j.ejphar.2003.11.010']
+Candidates:
+  [1] DOI: 10.1016/j.ejphar.2003.11.066 | Author: Peana | Journal: European Journal of Pharmacology
+      Title: Profile of spinal and supra-spinal antinociception of (−)-linalool
+  [2] DOI: 10.1016/j.ejphar.2004.06.006 | Author: Peana | Journal: European Journal of Pharmacology
+      Title: Effects of (−)-linalool in the acute hyperalgesia induced by carrageenan, l-glutamate and prostaglandin E2
+  [3] DOI: 10.1016/j.lfs.2005.10.025 | Author: Peana | Journal: Life Sciences
+      Title: Involvement of adenosine A1 and A2A receptors in (−)-linalool-induced antinociception
+----------------------------------------------------------------------
+=== Ch 17 Ref 05 ===
+Full text: Nagy, J. G., & Tengerdy, R. P. (1967). Antibacterial action of the volatile oils of Artemisia tridentata and Artemisia nova on aerobic bacteria. Applied Microbiology, 15 (4), 819–821. https://doi.org/10.1128/am.15.4.819-821.1967
+Existing DOI: 10.1128/am.15.4.819-821.1967
+Existing HREFs: ['https://doi.org/10.1128/am.15.4.819-821.1967']
+Candidates:
+  [1] DOI: 10.1128/am.15.4.819-821.1967 | Author: Nagy | Journal: Applied Microbiology
+      Title: Antibacterial Action of Essential Oils of
+            <i>Artemisia</i>
+            as an Ecological Factor
+  [2] DOI: 10.1128/am.16.3.441-444.1968 | Author: Nagy | Journal: Applied Microbiology
+      Title: Antibacterial Action of Essential Oils of
+            <i>Artemisia</i>
+            as an Ecological Factor
+  [3] DOI: 10.1139/m69-242 | Author: Ramirez | Journal: Canadian Journal of Microbiology
+      Title: Antibacterial action of non-volatile substances extracted from <i>Artemisia tridentata</i> Nutt. ssp. <i>tridentata</i>
+----------------------------------------------------------------------
+=== Ch 17 Ref 06 ===
+Full text: Patočka, J., & Navrátilová, Z. (2020). Thujone, a widely debated volatile compound: What do we know about it? Phytochemistry Reviews, 19 (5), 1083–1107. https://doi.org/10.1007/s11101-020-09701-z
+Existing DOI: 10.1007/s11101-020-09701-z
+Existing HREFs: ['https://doi.org/10.1007/s11101-020-09701-z']
+Candidates:
+  [1] DOI: 10.1007/s11101-020-09671-y | Author: Zámboriné Németh | Journal: Phytochemistry Reviews
+      Title: Thujone, a widely debated volatile compound: What do we know about it?
+  [2] DOI: 10.4135/9781529712889.n3 | Author:  | Journal: What Do We Know and What Should We Do About Housing?
+      Title: what do we know?
+  [3] DOI: 10.4135/9781529738841.n3 | Author:  | Journal: What Do We Know and What Should We Do About…: Social Mobility?
+      Title: What do We Know?
+----------------------------------------------------------------------
+=== Ch 17 Ref 07 ===
+Full text: Selescu, T., Ciobanu, A. C., Dobre, C., Reid, G., & Babes, A. (2013). Camphor activates and sensitizes transient receptor potential melastatin 8 (TRPM8) to cooling and icilin. Journal of Biological Chemistry, 288 (11), 7505–7517. https://doi.org/10.1074/jbc.M112.438515
+Existing DOI: 10.1074/jbc.M112.438515
+Existing HREFs: ['https://doi.org/10.1074/jbc.M112.438515']
+Candidates:
+  [1] DOI: 10.1093/chemse/bjt027 | Author: Selescu | Journal: Chemical Senses
+      Title: Camphor Activates and Sensitizes Transient Receptor Potential Melastatin 8 (TRPM8) to Cooling and Icilin
+  [2] DOI: 10.1002/jnr.23700 | Author: Ciobanu | Journal: Journal of Neuroscience Research
+      Title: Glycolytic metabolite methylglyoxal inhibits cold and menthol activation of the transient receptor potential melastatin type 8 channel
+  [3] DOI: 10.1021/acs.orglett.6b01222.s001 | Author:  | Journal: 
+      Title: Natural-Product-Derived Transient Receptor Potential Melastatin 8 (TRPM8) Channel Modulators
+----------------------------------------------------------------------
+=== Ch 18 Ref 07 ===
+Full text: Muraseva, D. S., & Kostikova, V. A. (2021). In vitro propagation of Spiraea betulifolia var. aemiliana (Rosaceae) and comparative analysis of phenolic compounds of microclones and intact plants. Plant Cell, Tissue and Organ Culture, 144 , 493–504. https://doi.org/10.1007/s11240-020-01971-7
+Existing DOI: 10.1007/s11240-020-01971-7
+Existing HREFs: ['https://doi.org/10.1007/s11240-020-01971-7']
+Candidates:
+  [1] DOI: 10.1007/s11240-020-01971-7 | Author: Muraseva | Journal: Plant Cell, Tissue and Organ Culture (PCTOC)
+      Title: In vitro propagation of Spiraea betulifolia subsp. aemiliana (Rosaceae) and comparative analysis of phenolic compounds of microclones and intact plants
+  [2] DOI: 10.52101/9785870191003_2021_283 | Author: Kostikova | Journal: 90 лет - от растения до лекарственного препарата: достижения и перспективы. Сборник материалов юбилейной международной научной конференции
+      Title: COMPARATIVE ANALYSIS OF PHENOLIC COMPOUNDS OF MICROCLONES AND INTACT PLANTS OF SPIRAEA BETULIFOLIA SUBSP. AEMILIANA (ROSACEAE)
+  [3] DOI: 10.1051/bioconf/20202400058 | Author: Muraseva | Journal: BIO Web of Conferences
+      Title: <i>In vitro</i> and <i>ex vitro</i> rooting of <i>Spiraea betulifolia</i> subsp. <i>aemiliana</i> (Rosaceae), an ornamental shrub
+----------------------------------------------------------------------
+=== Ch 19 Ref 07 ===
+Full text: Santos, I. B. D. S., Santos Dos Santos, B., de Oliveira, J. R. S., Costa, W. K., Zagmignan, A., da Silva, L. C. N., Ferreira, M. R. A., Lermen, V. L., Lermen, M. S. B. S., da Silva, A. G., Ximenes, R. M., Soares, L. A. L., Paiva, P. M. G., Lima, V. L. M., Correia, M. T. D. S., & da Silva, M. V. (2020). Antioxidant action and in vivo anti-inflammatory and antinociceptive activities of Myrciaria floribunda fruit peels: Possible involvement of opioidergic system. Advances in Pharmacological and Pharmaceutical Sciences, 2020 , 1258707. https://doi.org/10.1155/2020/1258707
+Existing DOI: 10.1155/2020/1258707
+Existing HREFs: ['https://doi.org/10.1155/2020/1258707']
+Candidates:
+  [1] DOI: 10.1155/2020/1258707 | Author: Santos | Journal: Advances in Pharmacological and Pharmaceutical Sciences
+      Title: Antioxidant Action and<i>In Vivo</i>Anti-Inflammatory and Antinociceptive Activities of<i>Myrciaria floribunda</i>Fruit Peels: Possible Involvement of Opioidergic System
+  [2] DOI: 10.29327/scientexunivasf.459224 | Author: Ferreira Coelho Oliveira | Journal: SCIENTEX/UNIVASF - Semana de Ensino, Pesquisa e Extensão da Universidade Federal do Vale do São Francisco
+      Title: Utilização das Tecnologias Digitais da Informação e Comunicação nas Atividades de Regência do Programa Residência Pedagógica
+  [3] DOI: 10.24824/978652519013.6 | Author: da Silva e Silva | Journal: 
+      Title: Educação Ambiental
+----------------------------------------------------------------------
+=== Ch 20 Ref 09 ===
+Full text: 9. Özcan, M., Hacıseferoğulları, H., Marakoğlu, T., & Arslan, D. (2005). Hawthorn ( Crataegus spp.) fruit: Some physical and chemical properties. Journal of Food Engineering, 69 (4), 409–413. https://doi.org/10.1016/j.jfoodeng.2004.08.024
+Existing DOI: 10.1016/j.jfoodeng.2004.08.024
+Existing HREFs: ['https://doi.org/10.1016/j.jfoodeng.2004.08.024']
+Candidates:
+  [1] DOI: 10.1016/j.jfoodeng.2004.08.032 | Author: Özcan | Journal: Journal of Food Engineering
+      Title: Hawthorn (Crataegus spp.) fruit: some physical and chemical properties
+  [2] DOI: 10.1016/j.jfoodeng.2004.05.023 | Author: Çalışır | Journal: Journal of Food Engineering
+      Title: A study on some physico-chemical properties of Turkey okra (Hibiscus esculenta L.) seeds
+  [3] DOI: 10.1016/j.jfoodeng.2004.03.013 | Author: Çalışır | Journal: Journal of Food Engineering
+      Title: Some nutritional and technological properties of wild plum (Prunus spp.) fruits in Turkey
+----------------------------------------------------------------------

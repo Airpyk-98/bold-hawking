@@ -1,0 +1,1910 @@
+[
+  {
+    "file": "chapter_01.html",
+    "h1_title": "1\n   \n   The importance of Soapberry and Saskatoon berry to the Cayoose Creek Band",
+    "ref_headings": [
+      {
+        "tag": "h2",
+        "text": "References",
+        "class": null
+      }
+    ],
+    "ol_summary": [
+      {
+        "ol_index": 1,
+        "li_count": 4,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      }
+    ],
+    "ref_count": 4,
+    "references": [
+      {
+        "ref_num": 1,
+        "text": "Kuhnlein, H. V., & Turner, N. J. (1991). Traditional plant foods of Canadian indigenous peoples: Nutrition, botany and use . Gordon and Breach.",
+        "raw_html": "<li>\n   Kuhnlein, H. V., &amp; Turner, N. J. (1991).\n   <i>\n    Traditional plant foods of Canadian indigenous peoples: Nutrition, botany and use\n   </i>\n   . Gordon and Breach.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Kuhnlein, H. V., & Turner, N. J.",
+        "year_part": "1991",
+        "title_rest": "Traditional plant foods of Canadian indigenous peoples: Nutrition, botany and use . Gordon and Breach."
+      },
+      {
+        "ref_num": 2,
+        "text": "Splitrock Environmental. (n.d.). S7ilhen Ul (Real Food) project . https://splitrockenvironmental.ca",
+        "raw_html": "<li>\n   Splitrock Environmental. (n.d.).\n   <i>\n    S7ilhen Ul (Real Food) project\n   </i>\n   . <a href=\"https://splitrockenvironmental.ca\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 3,
+        "text": "Turner, N. J. (1997). Food plants of interior First Peoples . UBC Press.",
+        "raw_html": "<li>\n   Turner, N. J. (1997).\n   <i>\n    Food plants of interior First Peoples\n   </i>\n   . UBC Press.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Turner, N. J.",
+        "year_part": "1997",
+        "title_rest": "Food plants of interior First Peoples . UBC Press."
+      },
+      {
+        "ref_num": 4,
+        "text": "Turner, N. J., Ignace, M. B., & Ignace, R. (2000). Traditional ecological knowledge and wisdom of aboriginal peoples in British Columbia. Ecological Applications , 10 (5), 1275–1287. https://doi.org/ https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2",
+        "raw_html": "<li>\n   Turner, N. J., Ignace, M. B., &amp; Ignace, R. (2000). Traditional ecological knowledge and wisdom of aboriginal peoples in British Columbia.\n   <i>\n    Ecological Applications\n   </i>\n   ,\n   <i>\n    10\n   </i>\n   (5), 1275–1287. <a href=\"https://doi.org/\">https://doi.org/</a><a href=\"https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2\"><a href=\"https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2\">https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2</a></a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/",
+            "text": "https://doi.org/",
+            "raw_a": "<a href=\"https://doi.org/\">https://doi.org/</a>"
+          },
+          {
+            "href": "https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2",
+            "text": "https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2",
+            "raw_a": "<a href=\"https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2\"><a href=\"https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2\">https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2</a></a>"
+          },
+          {
+            "href": "https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2",
+            "text": "https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2",
+            "raw_a": "<a href=\"https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2\">https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2</a>"
+          }
+        ],
+        "a_count": 3,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1890/1051-0761(2000)010"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Turner, N. J., Ignace, M. B., & Ignace, R.",
+        "year_part": "2000",
+        "title_rest": "Traditional ecological knowledge and wisdom of aboriginal peoples in British Columbia. Ecological Applications , 10 (5), 1275–1287. https://doi.org/ https://doi.org/10.1890/1051-0761(2000)010[1275:tekawo]2.0.co;2"
+      }
+    ]
+  },
+  {
+    "file": "chapter_02.html",
+    "h1_title": "2\n   \n   Saskatoon Berry",
+    "ref_headings": [
+      {
+        "tag": "p",
+        "text": "References",
+        "class": null
+      },
+      {
+        "tag": "strong",
+        "text": "References",
+        "class": null
+      }
+    ],
+    "ol_summary": [
+      {
+        "ol_index": 1,
+        "li_count": 1,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 2,
+        "li_count": 1,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 3,
+        "li_count": 1,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 4,
+        "li_count": 8,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 5,
+        "li_count": 8,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 6,
+        "li_count": 8,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 7,
+        "li_count": 18,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      }
+    ],
+    "ref_count": 18,
+    "references": [
+      {
+        "ref_num": 1,
+        "text": "Agriculture and Bioresources, University of Saskatchewan. (2025). Saskatoons . https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php",
+        "raw_html": "<li>\n   Agriculture and Bioresources, University of Saskatchewan. (2025).\n   <em>\n    Saskatoons\n   </em>\n   .\n   <a href=\"https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php\">\n<a href=\"https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php\">https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php",
+            "text": "https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php",
+            "raw_a": "<a href=\"https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php\">\n<a href=\"https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php\">https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php</a>\n</a>"
+          },
+          {
+            "href": "https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php",
+            "text": "https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php",
+            "raw_a": "<a href=\"https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php\">https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Agriculture and Bioresources, University of Saskatchewan.",
+        "year_part": "2025",
+        "title_rest": "Saskatoons . https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/saskatoon.php"
+      },
+      {
+        "ref_num": 2,
+        "text": "de Souza, D. R., Willems, J. L., & Low, N. H. (2019). Phenolic composition and antioxidant activities of saskatoon berry fruit and pomace. Food Chemistry , 290 , 168–177. https://doi.org/10.1016/j.foodchem.2019.03.077",
+        "raw_html": "<li>\n   de Souza, D. R., Willems, J. L., &amp; Low, N. H. (2019). Phenolic composition and antioxidant activities of saskatoon berry fruit and pomace.\n   <em>\n    Food Chemistry\n   </em>\n   ,\n   <em>\n    290\n   </em>\n   , 168–177.\n   <a href=\"https://doi.org/10.1016/j.foodchem.2019.03.077\">\n<a href=\"https://doi.org/10.1016/j.foodchem.2019.03.077\">https://doi.org/10.1016/j.foodchem.2019.03.077</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.foodchem.2019.03.077",
+            "text": "https://doi.org/10.1016/j.foodchem.2019.03.077",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.foodchem.2019.03.077\">\n<a href=\"https://doi.org/10.1016/j.foodchem.2019.03.077\">https://doi.org/10.1016/j.foodchem.2019.03.077</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.foodchem.2019.03.077",
+            "text": "https://doi.org/10.1016/j.foodchem.2019.03.077",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.foodchem.2019.03.077\">https://doi.org/10.1016/j.foodchem.2019.03.077</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.foodchem.2019.03.077"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "de Souza, D. R., Willems, J. L., & Low, N. H.",
+        "year_part": "2019",
+        "title_rest": "Phenolic composition and antioxidant activities of saskatoon berry fruit and pomace. Food Chemistry , 290 , 168–177. https://doi.org/10.1016/j.foodchem.2019.03.077"
+      },
+      {
+        "ref_num": 3,
+        "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Personal communication.",
+        "raw_html": "<li>\n   Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Personal communication.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 4,
+        "text": "Elsevier. (2025). Amelanchier alnifolia – An overview . ScienceDirect Topics. https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia",
+        "raw_html": "<li>\n   Elsevier. (2025).\n   <em>\n    Amelanchier alnifolia – An overview\n   </em>\n   . ScienceDirect Topics.\n   <a href=\"https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia\">\n<a href=\"https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia\">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia",
+            "text": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia",
+            "raw_a": "<a href=\"https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia\">\n<a href=\"https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia\">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia</a>\n</a>"
+          },
+          {
+            "href": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia",
+            "text": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia",
+            "raw_a": "<a href=\"https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia\">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Elsevier.",
+        "year_part": "2025",
+        "title_rest": "Amelanchier alnifolia – An overview . ScienceDirect Topics. https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/amelanchier-alnifolia"
+      },
+      {
+        "ref_num": 5,
+        "text": "Fang, J. (2021). Nutritional composition of saskatoon berries: A review. Botany , 99 (4), 175–184. https://doi.org/10.1139/cjb-2019-0191",
+        "raw_html": "<li>\n   Fang, J. (2021). Nutritional composition of saskatoon berries: A review.\n   <em>\n    Botany\n   </em>\n   ,\n   <em>\n    99\n   </em>\n   (4), 175–184.\n   <a href=\"https://doi.org/10.1139/cjb-2019-0191\">\n<a href=\"https://doi.org/10.1139/cjb-2019-0191\">https://doi.org/10.1139/cjb-2019-0191</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1139/cjb-2019-0191",
+            "text": "https://doi.org/10.1139/cjb-2019-0191",
+            "raw_a": "<a href=\"https://doi.org/10.1139/cjb-2019-0191\">\n<a href=\"https://doi.org/10.1139/cjb-2019-0191\">https://doi.org/10.1139/cjb-2019-0191</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1139/cjb-2019-0191",
+            "text": "https://doi.org/10.1139/cjb-2019-0191",
+            "raw_a": "<a href=\"https://doi.org/10.1139/cjb-2019-0191\">https://doi.org/10.1139/cjb-2019-0191</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1139/cjb-2019-0191"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Fang, J.",
+        "year_part": "2021",
+        "title_rest": "Nutritional composition of saskatoon berries: A review. Botany , 99 (4), 175–184. https://doi.org/10.1139/cjb-2019-0191"
+      },
+      {
+        "ref_num": 6,
+        "text": "Health Benefits Times. (2021, February 3). Traditional uses and benefits of Saskatoon . https://www.healthbenefitstimes.com/saskatoon/",
+        "raw_html": "<li>\n   Health Benefits Times. (2021, February 3).\n   <em>\n    Traditional uses and benefits of Saskatoon\n   </em>\n   .\n   <a href=\"https://www.healthbenefitstimes.com/saskatoon/\">\n<a href=\"https://www.healthbenefitstimes.com/saskatoon/\">https://www.healthbenefitstimes.com/saskatoon/</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://www.healthbenefitstimes.com/saskatoon/",
+            "text": "https://www.healthbenefitstimes.com/saskatoon/",
+            "raw_a": "<a href=\"https://www.healthbenefitstimes.com/saskatoon/\">\n<a href=\"https://www.healthbenefitstimes.com/saskatoon/\">https://www.healthbenefitstimes.com/saskatoon/</a>\n</a>"
+          },
+          {
+            "href": "https://www.healthbenefitstimes.com/saskatoon/",
+            "text": "https://www.healthbenefitstimes.com/saskatoon/",
+            "raw_a": "<a href=\"https://www.healthbenefitstimes.com/saskatoon/\">https://www.healthbenefitstimes.com/saskatoon/</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 7,
+        "text": "Johnson, M. H., Lucius, A., Meyer, K. A., & Prior, R. L. (2020). Bioactive components and health benefits of Saskatoon berry (Amelanchier alnifolia Nutt.). Comprehensive Reviews in Food Science and Food Safety , 19 (3), 2020–2048. https://doi.org/10.1111/1541-4337.12500",
+        "raw_html": "<li>\n   Johnson, M. H., Lucius, A., Meyer, K. A., &amp; Prior, R. L. (2020). Bioactive components and health benefits of Saskatoon berry (Amelanchier alnifolia Nutt.).\n   <em>\n    Comprehensive Reviews in Food Science and Food Safety\n   </em>\n   ,\n   <em>\n    19\n   </em>\n   (3), 2020–2048.\n   <a href=\"https://doi.org/10.1111/1541-4337.12500\">\n<a href=\"https://doi.org/10.1111/1541-4337.12500\">https://doi.org/10.1111/1541-4337.12500</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1111/1541-4337.12500",
+            "text": "https://doi.org/10.1111/1541-4337.12500",
+            "raw_a": "<a href=\"https://doi.org/10.1111/1541-4337.12500\">\n<a href=\"https://doi.org/10.1111/1541-4337.12500\">https://doi.org/10.1111/1541-4337.12500</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1111/1541-4337.12500",
+            "text": "https://doi.org/10.1111/1541-4337.12500",
+            "raw_a": "<a href=\"https://doi.org/10.1111/1541-4337.12500\">https://doi.org/10.1111/1541-4337.12500</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1111/1541-4337.12500"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Johnson, M. H., Lucius, A., Meyer, K. A., & Prior, R. L.",
+        "year_part": "2020",
+        "title_rest": "Bioactive components and health benefits of Saskatoon berry (Amelanchier alnifolia Nutt.). Comprehensive Reviews in Food Science and Food Safety , 19 (3), 2020–2048. https://doi.org/10.1111/1541-4337.12500"
+      },
+      {
+        "ref_num": 8,
+        "text": "Juríková, T., Balla, S., Sochor, J., Pohanka, M., Mlcek, J., & Baron, M. (2013). Flavonoid profile of Saskatoon berries (Amelanchier alnifolia Nutt.) and their health promoting effects. Molecules , 18 (10), 12571–12586. https://doi.org/10.3390/molecules181012571",
+        "raw_html": "<li>\n   Juríková, T., Balla, S., Sochor, J., Pohanka, M., Mlcek, J., &amp; Baron, M. (2013). Flavonoid profile of Saskatoon berries (Amelanchier alnifolia Nutt.) and their health promoting effects.\n   <em>\n    Molecules\n   </em>\n   ,\n   <em>\n    18\n   </em>\n   (10), 12571–12586.\n   <a href=\"https://doi.org/10.3390/molecules181012571\">\n<a href=\"https://doi.org/10.3390/molecules181012571\">https://doi.org/10.3390/molecules181012571</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/molecules181012571",
+            "text": "https://doi.org/10.3390/molecules181012571",
+            "raw_a": "<a href=\"https://doi.org/10.3390/molecules181012571\">\n<a href=\"https://doi.org/10.3390/molecules181012571\">https://doi.org/10.3390/molecules181012571</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/molecules181012571",
+            "text": "https://doi.org/10.3390/molecules181012571",
+            "raw_a": "<a href=\"https://doi.org/10.3390/molecules181012571\">https://doi.org/10.3390/molecules181012571</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/molecules181012571"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Juríková, T., Balla, S., Sochor, J., Pohanka, M., Mlcek, J., & Baron, M.",
+        "year_part": "2013",
+        "title_rest": "Flavonoid profile of Saskatoon berries (Amelanchier alnifolia Nutt.) and their health promoting effects. Molecules , 18 (10), 12571–12586. https://doi.org/10.3390/molecules181012571"
+      },
+      {
+        "ref_num": 9,
+        "text": "Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J. (2018). Amelanchier alnifolia: A rich source of biologically active compounds with high antioxidant capacity. Nutrients , 10 (11), 1753. https://doi.org/10.3390/nu10111753",
+        "raw_html": "<li>\n   Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., &amp; Sochor, J. (2018). Amelanchier alnifolia: A rich source of biologically active compounds with high antioxidant capacity.\n   <em>\n    Nutrients\n   </em>\n   ,\n   <em>\n    10\n   </em>\n   (11), 1753.\n   <a href=\"https://doi.org/10.3390/nu10111753\">\n<a href=\"https://doi.org/10.3390/nu10111753\">https://doi.org/10.3390/nu10111753</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/nu10111753",
+            "text": "https://doi.org/10.3390/nu10111753",
+            "raw_a": "<a href=\"https://doi.org/10.3390/nu10111753\">\n<a href=\"https://doi.org/10.3390/nu10111753\">https://doi.org/10.3390/nu10111753</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/nu10111753",
+            "text": "https://doi.org/10.3390/nu10111753",
+            "raw_a": "<a href=\"https://doi.org/10.3390/nu10111753\">https://doi.org/10.3390/nu10111753</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/nu10111753"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J.",
+        "year_part": "2018",
+        "title_rest": "Amelanchier alnifolia: A rich source of biologically active compounds with high antioxidant capacity. Nutrients , 10 (11), 1753. https://doi.org/10.3390/nu10111753"
+      },
+      {
+        "ref_num": 10,
+        "text": "Michalczyk, M., & Macura, R. (2010). Effect of processing and storage on the antioxidant activity of frozen and pasteurized shadblow serviceberry (Amelanchier canadensis). International Journal of Food Properties , 13 (6), 1225–1233. https://doi.org/10.1080/10942910903013407",
+        "raw_html": "<li>\n   Michalczyk, M., &amp; Macura, R. (2010). Effect of processing and storage on the antioxidant activity of frozen and pasteurized shadblow serviceberry (Amelanchier canadensis).\n   <em>\n    International Journal of Food Properties\n   </em>\n   ,\n   <em>\n    13\n   </em>\n   (6), 1225–1233.\n   <a href=\"https://doi.org/10.1080/10942910903013407\">\n<a href=\"https://doi.org/10.1080/10942910903013407\">https://doi.org/10.1080/10942910903013407</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1080/10942910903013407",
+            "text": "https://doi.org/10.1080/10942910903013407",
+            "raw_a": "<a href=\"https://doi.org/10.1080/10942910903013407\">\n<a href=\"https://doi.org/10.1080/10942910903013407\">https://doi.org/10.1080/10942910903013407</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1080/10942910903013407",
+            "text": "https://doi.org/10.1080/10942910903013407",
+            "raw_a": "<a href=\"https://doi.org/10.1080/10942910903013407\">https://doi.org/10.1080/10942910903013407</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1080/10942910903013407"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Michalczyk, M., & Macura, R.",
+        "year_part": "2010",
+        "title_rest": "Effect of processing and storage on the antioxidant activity of frozen and pasteurized shadblow serviceberry (Amelanchier canadensis). International Journal of Food Properties , 13 (6), 1225–1233. https://doi.org/10.1080/10942910903013407"
+      },
+      {
+        "ref_num": 11,
+        "text": "Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M. (2018). Flavonoid profile and antioxidant activity of Saskatoon (Amelanchier alnifolia Nutt.) berries. Journal of Agricultural and Food Chemistry , 66 (15), 3942–3951. https://doi.org/10.1021/acs.jafc.8b01183",
+        "raw_html": "<li>\n   Ozga, J. A., Saeed, A., Wismer, W. V., &amp; Reinecke, D. M. (2018). Flavonoid profile and antioxidant activity of Saskatoon (Amelanchier alnifolia Nutt.) berries.\n   <em>\n    Journal of Agricultural and Food Chemistry\n   </em>\n   ,\n   <em>\n    66\n   </em>\n   (15), 3942–3951.\n   <a href=\"https://doi.org/10.1021/acs.jafc.8b01183\">\n<a href=\"https://doi.org/10.1021/acs.jafc.8b01183\">https://doi.org/10.1021/acs.jafc.8b01183</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1021/acs.jafc.8b01183",
+            "text": "https://doi.org/10.1021/acs.jafc.8b01183",
+            "raw_a": "<a href=\"https://doi.org/10.1021/acs.jafc.8b01183\">\n<a href=\"https://doi.org/10.1021/acs.jafc.8b01183\">https://doi.org/10.1021/acs.jafc.8b01183</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1021/acs.jafc.8b01183",
+            "text": "https://doi.org/10.1021/acs.jafc.8b01183",
+            "raw_a": "<a href=\"https://doi.org/10.1021/acs.jafc.8b01183\">https://doi.org/10.1021/acs.jafc.8b01183</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1021/acs.jafc.8b01183"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M.",
+        "year_part": "2018",
+        "title_rest": "Flavonoid profile and antioxidant activity of Saskatoon (Amelanchier alnifolia Nutt.) berries. Journal of Agricultural and Food Chemistry , 66 (15), 3942–3951. https://doi.org/10.1021/acs.jafc.8b01183"
+      },
+      {
+        "ref_num": 12,
+        "text": "Province of Manitoba Agriculture. (2025). Saskatoon berries . https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html",
+        "raw_html": "<li>\n   Province of Manitoba Agriculture. (2025).\n   <em>\n    Saskatoon berries\n   </em>\n   .\n   <a href=\"https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html\">\n<a href=\"https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html\">https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html",
+            "text": "https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html",
+            "raw_a": "<a href=\"https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html\">\n<a href=\"https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html\">https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html</a>\n</a>"
+          },
+          {
+            "href": "https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html",
+            "text": "https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html",
+            "raw_a": "<a href=\"https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html\">https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Province of Manitoba Agriculture.",
+        "year_part": "2025",
+        "title_rest": "Saskatoon berries . https://www.gov.mb.ca/agriculture/crops/crop-management/fruit-crops/saskatoon-berries.html"
+      },
+      {
+        "ref_num": 13,
+        "text": "Splitrock Environmental. (n.d.). Saskatoon (tsáqwem) . Native Plants – Splitrock Environmental. https://splitrockenvironmental.ca /products/saskatoon-tsaqwem?variant=40347094614182\"> https://splitrockenvironmental.ca /products/saskatoon-tsaqwem?variant=40347094614182",
+        "raw_html": "<li>\n   Splitrock Environmental. (n.d.).\n   <em>\n    Saskatoon (tsáqwem)\n   </em>\n   . Native Plants – Splitrock Environmental.\n   <a href=\"&lt;a href=\" https:=\"\" splitrockenvironmental.ca\"=\"\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>/products/saskatoon-tsaqwem?variant=40347094614182\"&gt;\n    <a href=\"https://splitrockenvironmental.ca\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>/products/saskatoon-tsaqwem?variant=40347094614182\n   \n</li>",
+        "a_tags": [
+          {
+            "href": "<a href=",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"&lt;a href=\" https:=\"\" splitrockenvironmental.ca\"=\"\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a>"
+          }
+        ],
+        "a_count": 4,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 14,
+        "text": "Vinayagam, R., & Xu, B. (2015). Antidiabetic properties of dietary flavonoids: A cellular mechanism review. Nutrition & Metabolism , 12 (1), 43. https://doi.org/10.1186/s12986-015-0057-7",
+        "raw_html": "<li>\n   Vinayagam, R., &amp; Xu, B. (2015). Antidiabetic properties of dietary flavonoids: A cellular mechanism review.\n   <em>\n    Nutrition &amp; Metabolism\n   </em>\n   ,\n   <em>\n    12\n   </em>\n   (1), 43.\n   <a href=\"https://doi.org/10.1186/s12986-015-0057-7\">\n<a href=\"https://doi.org/10.1186/s12986-015-0057-7\">https://doi.org/10.1186/s12986-015-0057-7</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1186/s12986-015-0057-7",
+            "text": "https://doi.org/10.1186/s12986-015-0057-7",
+            "raw_a": "<a href=\"https://doi.org/10.1186/s12986-015-0057-7\">\n<a href=\"https://doi.org/10.1186/s12986-015-0057-7\">https://doi.org/10.1186/s12986-015-0057-7</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1186/s12986-015-0057-7",
+            "text": "https://doi.org/10.1186/s12986-015-0057-7",
+            "raw_a": "<a href=\"https://doi.org/10.1186/s12986-015-0057-7\">https://doi.org/10.1186/s12986-015-0057-7</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1186/s12986-015-0057-7"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Vinayagam, R., & Xu, B.",
+        "year_part": "2015",
+        "title_rest": "Antidiabetic properties of dietary flavonoids: A cellular mechanism review. Nutrition & Metabolism , 12 (1), 43. https://doi.org/10.1186/s12986-015-0057-7"
+      },
+      {
+        "ref_num": 15,
+        "text": "Wikipedia contributors. (2025, August 10). Amelanchier alnifolia. In Wikipedia, The Free Encyclopedia . https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+        "raw_html": "<li>\n   Wikipedia contributors. (2025, August 10). Amelanchier alnifolia. In\n   <em>\n    Wikipedia, The Free Encyclopedia\n   </em>\n   .\n   <a href=\"https://en.wikipedia.org/wiki/Amelanchier_alnifolia\">\n<a href=\"https://en.wikipedia.org/wiki/Amelanchier_alnifolia\">https://en.wikipedia.org/wiki/Amelanchier_alnifolia</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+            "text": "https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+            "raw_a": "<a href=\"https://en.wikipedia.org/wiki/Amelanchier_alnifolia\">\n<a href=\"https://en.wikipedia.org/wiki/Amelanchier_alnifolia\">https://en.wikipedia.org/wiki/Amelanchier_alnifolia</a>\n</a>"
+          },
+          {
+            "href": "https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+            "text": "https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+            "raw_a": "<a href=\"https://en.wikipedia.org/wiki/Amelanchier_alnifolia\">https://en.wikipedia.org/wiki/Amelanchier_alnifolia</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 16,
+        "text": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2005). Physicochemical properties of fruit of 16 saskatoon (Amelanchier alnifolia Nutt.) cultivars. Canadian Journal of Plant Science , 85 (4), 933–938. https://doi.org/10.4141/P04-065",
+        "raw_html": "<li>\n   Zatylny, A. M., Ziehl, W. D., &amp; St-Pierre, R. G. (2005). Physicochemical properties of fruit of 16 saskatoon (Amelanchier alnifolia Nutt.) cultivars.\n   <em>\n    Canadian Journal of Plant Science\n   </em>\n   ,\n   <em>\n    85\n   </em>\n   (4), 933–938.\n   <a href=\"https://doi.org/10.4141/P04-065\">\n<a href=\"https://doi.org/10.4141/P04-065\">https://doi.org/10.4141/P04-065</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.4141/P04-065",
+            "text": "https://doi.org/10.4141/P04-065",
+            "raw_a": "<a href=\"https://doi.org/10.4141/P04-065\">\n<a href=\"https://doi.org/10.4141/P04-065\">https://doi.org/10.4141/P04-065</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.4141/P04-065",
+            "text": "https://doi.org/10.4141/P04-065",
+            "raw_a": "<a href=\"https://doi.org/10.4141/P04-065\">https://doi.org/10.4141/P04-065</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.4141/P04-065"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G.",
+        "year_part": "2005",
+        "title_rest": "Physicochemical properties of fruit of 16 saskatoon (Amelanchier alnifolia Nutt.) cultivars. Canadian Journal of Plant Science , 85 (4), 933–938. https://doi.org/10.4141/P04-065"
+      },
+      {
+        "ref_num": 17,
+        "text": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2018). Phytochemical composition and antioxidant capacity of Saskatoon berry (Amelanchier alnifolia) genotypes. Food Chemistry , 237 , 145–152. https://doi.org/10.1016/j.foodchem.2017.05.041",
+        "raw_html": "<li>\n   Zatylny, A. M., Ziehl, W. D., &amp; St-Pierre, R. G. (2018). Phytochemical composition and antioxidant capacity of Saskatoon berry (Amelanchier alnifolia) genotypes.\n   <em>\n    Food Chemistry\n   </em>\n   ,\n   <em>\n    237\n   </em>\n   , 145–152.\n   <a href=\"https://doi.org/10.1016/j.foodchem.2017.05.041\">\n<a href=\"https://doi.org/10.1016/j.foodchem.2017.05.041\">https://doi.org/10.1016/j.foodchem.2017.05.041</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.foodchem.2017.05.041",
+            "text": "https://doi.org/10.1016/j.foodchem.2017.05.041",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.foodchem.2017.05.041\">\n<a href=\"https://doi.org/10.1016/j.foodchem.2017.05.041\">https://doi.org/10.1016/j.foodchem.2017.05.041</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.foodchem.2017.05.041",
+            "text": "https://doi.org/10.1016/j.foodchem.2017.05.041",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.foodchem.2017.05.041\">https://doi.org/10.1016/j.foodchem.2017.05.041</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.foodchem.2017.05.041"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G.",
+        "year_part": "2018",
+        "title_rest": "Phytochemical composition and antioxidant capacity of Saskatoon berry (Amelanchier alnifolia) genotypes. Food Chemistry , 237 , 145–152. https://doi.org/10.1016/j.foodchem.2017.05.041"
+      },
+      {
+        "ref_num": 18,
+        "text": "Zhao, L., Huang, F., Hui, A. L., & Shen, X. (2020). Bioactive components and health benefits of Saskatoon berry. Journal of Diabetes Research , 2020 , Article 3901636. https://doi.org/10.1155/2020/3901636",
+        "raw_html": "<li>\n   Zhao, L., Huang, F., Hui, A. L., &amp; Shen, X. (2020). Bioactive components and health benefits of Saskatoon berry.\n   <em>\n    Journal of Diabetes Research\n   </em>\n   ,\n   <em>\n    2020\n   </em>\n   , Article 3901636.\n   <a href=\"https://doi.org/10.1155/2020/3901636\">\n<a href=\"https://doi.org/10.1155/2020/3901636\">https://doi.org/10.1155/2020/3901636</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1155/2020/3901636",
+            "text": "https://doi.org/10.1155/2020/3901636",
+            "raw_a": "<a href=\"https://doi.org/10.1155/2020/3901636\">\n<a href=\"https://doi.org/10.1155/2020/3901636\">https://doi.org/10.1155/2020/3901636</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1155/2020/3901636",
+            "text": "https://doi.org/10.1155/2020/3901636",
+            "raw_a": "<a href=\"https://doi.org/10.1155/2020/3901636\">https://doi.org/10.1155/2020/3901636</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1155/2020/3901636"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Zhao, L., Huang, F., Hui, A. L., & Shen, X.",
+        "year_part": "2020",
+        "title_rest": "Bioactive components and health benefits of Saskatoon berry. Journal of Diabetes Research , 2020 , Article 3901636. https://doi.org/10.1155/2020/3901636"
+      }
+    ]
+  },
+  {
+    "file": "chapter_03.html",
+    "h1_title": "3\n   \n   Soapberry",
+    "ref_headings": [],
+    "ol_summary": [
+      {
+        "ol_index": 1,
+        "li_count": 19,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      }
+    ],
+    "ref_count": 19,
+    "references": [
+      {
+        "ref_num": 1,
+        "text": "Böttger, S., & Melzig, M. F. (2013). The influence of saponins on cell membrane cholesterol. Bioorganic & Medicinal Chemistry, 21 (22), 7118–7124. https://doi.org/10.1016/j.bmc.2013.09.011",
+        "raw_html": "<li>\n   Böttger, S., &amp; Melzig, M. F. (2013). The influence of saponins on cell membrane cholesterol.\n   <em>\n    Bioorganic &amp; Medicinal Chemistry, 21\n   </em>\n   (22), 7118–7124.\n   <a href=\"https://doi.org/10.1016/j.bmc.2013.09.011\">\n<a href=\"https://doi.org/10.1016/j.bmc.2013.09.011\">https://doi.org/10.1016/j.bmc.2013.09.011</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.bmc.2013.09.011",
+            "text": "https://doi.org/10.1016/j.bmc.2013.09.011",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.bmc.2013.09.011\">\n<a href=\"https://doi.org/10.1016/j.bmc.2013.09.011\">https://doi.org/10.1016/j.bmc.2013.09.011</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.bmc.2013.09.011",
+            "text": "https://doi.org/10.1016/j.bmc.2013.09.011",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.bmc.2013.09.011\">https://doi.org/10.1016/j.bmc.2013.09.011</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.bmc.2013.09.011"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Böttger, S., & Melzig, M. F.",
+        "year_part": "2013",
+        "title_rest": "The influence of saponins on cell membrane cholesterol. Bioorganic & Medicinal Chemistry, 21 (22), 7118–7124. https://doi.org/10.1016/j.bmc.2013.09.011"
+      },
+      {
+        "ref_num": 2,
+        "text": "Elbandy, M. (2020). Saponins and their potential role in diabetes mellitus. Advances in Pharmacological and Pharmaceutical Sciences, 2020 , Article 8817078. https://doi.org/10.1155/2020/8817078",
+        "raw_html": "<li>\n   Elbandy, M. (2020). Saponins and their potential role in diabetes mellitus.\n   <em>\n    Advances in Pharmacological and Pharmaceutical Sciences, 2020\n   </em>\n   , Article 8817078.\n   <a href=\"https://doi.org/10.1155/2020/8817078\">\n<a href=\"https://doi.org/10.1155/2020/8817078\">https://doi.org/10.1155/2020/8817078</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1155/2020/8817078",
+            "text": "https://doi.org/10.1155/2020/8817078",
+            "raw_a": "<a href=\"https://doi.org/10.1155/2020/8817078\">\n<a href=\"https://doi.org/10.1155/2020/8817078\">https://doi.org/10.1155/2020/8817078</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1155/2020/8817078",
+            "text": "https://doi.org/10.1155/2020/8817078",
+            "raw_a": "<a href=\"https://doi.org/10.1155/2020/8817078\">https://doi.org/10.1155/2020/8817078</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1155/2020/8817078"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Elbandy, M.",
+        "year_part": "2020",
+        "title_rest": "Saponins and their potential role in diabetes mellitus. Advances in Pharmacological and Pharmaceutical Sciences, 2020 , Article 8817078. https://doi.org/10.1155/2020/8817078"
+      },
+      {
+        "ref_num": 3,
+        "text": "Elders and Community members of the Cayoose Creek Band of Sekw'el'was. (n.d.).",
+        "raw_html": "<li>\n   Elders and Community members of the Cayoose Creek Band of Sekw'el'was. (n.d.).\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 4,
+        "text": "Francis, G., Kerem, Z., Makkar, H. P. S., & Becker, K. (2002). The biological action of saponins in animal systems: A review. British Journal of Nutrition, 88 (6), 587–605. https://doi.org/10.1079/BJN2002725",
+        "raw_html": "<li>\n   Francis, G., Kerem, Z., Makkar, H. P. S., &amp; Becker, K. (2002). The biological action of saponins in animal systems: A review.\n   <em>\n    British Journal of Nutrition, 88\n   </em>\n   (6), 587–605.\n   <a href=\"https://doi.org/10.1079/BJN2002725\">\n<a href=\"https://doi.org/10.1079/BJN2002725\">https://doi.org/10.1079/BJN2002725</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1079/BJN2002725",
+            "text": "https://doi.org/10.1079/BJN2002725",
+            "raw_a": "<a href=\"https://doi.org/10.1079/BJN2002725\">\n<a href=\"https://doi.org/10.1079/BJN2002725\">https://doi.org/10.1079/BJN2002725</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1079/BJN2002725",
+            "text": "https://doi.org/10.1079/BJN2002725",
+            "raw_a": "<a href=\"https://doi.org/10.1079/BJN2002725\">https://doi.org/10.1079/BJN2002725</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1079/BJN2002725"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Francis, G., Kerem, Z., Makkar, H. P. S., & Becker, K.",
+        "year_part": "2002",
+        "title_rest": "The biological action of saponins in animal systems: A review. British Journal of Nutrition, 88 (6), 587–605. https://doi.org/10.1079/BJN2002725"
+      },
+      {
+        "ref_num": 5,
+        "text": "Green, R. C., & Low, N. H. (2013). Physicochemical composition of buffaloberry ( Shepherdia argentea ), chokecherry ( Prunus virginiana ) and sea buckthorn ( Hippophae rhamnoides ) fruit harvested in Saskatchewan Canada. Canadian Journal of Plant Science, 93 (6), 1143–1153. https://doi.org/10.4141/cjps2013-087",
+        "raw_html": "<li>\n   Green, R. C., &amp; Low, N. H. (2013). Physicochemical composition of buffaloberry (\n   <em>\n    Shepherdia argentea\n   </em>\n   ), chokecherry (\n   <em>\n    Prunus virginiana\n   </em>\n   ) and sea buckthorn (\n   <em>\n    Hippophae rhamnoides\n   </em>\n   ) fruit harvested in Saskatchewan Canada.\n   <em>\n    Canadian Journal of Plant Science, 93\n   </em>\n   (6), 1143–1153.\n   <a href=\"https://doi.org/10.4141/cjps2013-087\">\n<a href=\"https://doi.org/10.4141/cjps2013-087\">https://doi.org/10.4141/cjps2013-087</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.4141/cjps2013-087",
+            "text": "https://doi.org/10.4141/cjps2013-087",
+            "raw_a": "<a href=\"https://doi.org/10.4141/cjps2013-087\">\n<a href=\"https://doi.org/10.4141/cjps2013-087\">https://doi.org/10.4141/cjps2013-087</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.4141/cjps2013-087",
+            "text": "https://doi.org/10.4141/cjps2013-087",
+            "raw_a": "<a href=\"https://doi.org/10.4141/cjps2013-087\">https://doi.org/10.4141/cjps2013-087</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.4141/cjps2013-087"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Green, R. C., & Low, N. H.",
+        "year_part": "2013",
+        "title_rest": "Physicochemical composition of buffaloberry ( Shepherdia argentea ), chokecherry ( Prunus virginiana ) and sea buckthorn ( Hippophae rhamnoides ) fruit harvested in Saskatchewan Canada. Canadian Journal of Plant Science, 93 (6), 1143–1153. https://doi.org/10.4141/cjps2013-087"
+      },
+      {
+        "ref_num": 6,
+        "text": "Hierro, J. N., Herrera, T., Fornari, T., Reglero, G., & Martin, D. (2018). The gastrointestinal behavior of saponins and its significance for their bioavailability and bioactivities. Journal of Functional Foods, 40 , 484–497. https://doi.org/10.1016/j.jff.2017.11.032",
+        "raw_html": "<li>\n   Hierro, J. N., Herrera, T., Fornari, T., Reglero, G., &amp; Martin, D. (2018). The gastrointestinal behavior of saponins and its significance for their bioavailability and bioactivities.\n   <em>\n    Journal of Functional Foods, 40\n   </em>\n   , 484–497.\n   <a href=\"https://doi.org/10.1016/j.jff.2017.11.032\">\n<a href=\"https://doi.org/10.1016/j.jff.2017.11.032\">https://doi.org/10.1016/j.jff.2017.11.032</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.jff.2017.11.032",
+            "text": "https://doi.org/10.1016/j.jff.2017.11.032",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.jff.2017.11.032\">\n<a href=\"https://doi.org/10.1016/j.jff.2017.11.032\">https://doi.org/10.1016/j.jff.2017.11.032</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.jff.2017.11.032",
+            "text": "https://doi.org/10.1016/j.jff.2017.11.032",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.jff.2017.11.032\">https://doi.org/10.1016/j.jff.2017.11.032</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.jff.2017.11.032"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Hierro, J. N., Herrera, T., Fornari, T., Reglero, G., & Martin, D.",
+        "year_part": "2018",
+        "title_rest": "The gastrointestinal behavior of saponins and its significance for their bioavailability and bioactivities. Journal of Functional Foods, 40 , 484–497. https://doi.org/10.1016/j.jff.2017.11.032"
+      },
+      {
+        "ref_num": 7,
+        "text": "Hostettmann, K., & Marston, A. (1995). Saponins . Cambridge University Press.",
+        "raw_html": "<li>\n   Hostettmann, K., &amp; Marston, A. (1995).\n   <em>\n    Saponins\n   </em>\n   . Cambridge University Press.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Hostettmann, K., & Marston, A.",
+        "year_part": "1995",
+        "title_rest": "Saponins . Cambridge University Press."
+      },
+      {
+        "ref_num": 8,
+        "text": "Huang, H. C., Liao, S. C., Chang, F. R., Kuo, Y. H., & Wu, Y. C. (2003). Molluscicidal saponins from Sapindus mukorossi , inhibitory agents of golden apple snails ( Pomacea canaliculata ). Journal of Agricultural and Food Chemistry, 51 (17), 4916–4919. https://doi.org/10.1021/jf0301506",
+        "raw_html": "<li>\n   Huang, H. C., Liao, S. C., Chang, F. R., Kuo, Y. H., &amp; Wu, Y. C. (2003). Molluscicidal saponins from\n   <em>\n    Sapindus mukorossi\n   </em>\n   , inhibitory agents of golden apple snails (\n   <em>\n    Pomacea canaliculata\n   </em>\n   ).\n   <em>\n    Journal of Agricultural and Food Chemistry, 51\n   </em>\n   (17), 4916–4919.\n   <a href=\"https://doi.org/10.1021/jf0301506\">\n<a href=\"https://doi.org/10.1021/jf0301506\">https://doi.org/10.1021/jf0301506</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1021/jf0301506",
+            "text": "https://doi.org/10.1021/jf0301506",
+            "raw_a": "<a href=\"https://doi.org/10.1021/jf0301506\">\n<a href=\"https://doi.org/10.1021/jf0301506\">https://doi.org/10.1021/jf0301506</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1021/jf0301506",
+            "text": "https://doi.org/10.1021/jf0301506",
+            "raw_a": "<a href=\"https://doi.org/10.1021/jf0301506\">https://doi.org/10.1021/jf0301506</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1021/jf0301506"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Huang, H. C., Liao, S. C., Chang, F. R., Kuo, Y. H., & Wu, Y. C.",
+        "year_part": "2003",
+        "title_rest": "Molluscicidal saponins from Sapindus mukorossi , inhibitory agents of golden apple snails ( Pomacea canaliculata ). Journal of Agricultural and Food Chemistry, 51 (17), 4916–4919. https://doi.org/10.1021/jf0301506"
+      },
+      {
+        "ref_num": 9,
+        "text": "Kane, C. W. (2011). Medicinal plants of the American Southwest. Lincoln Town Press.",
+        "raw_html": "<li>\n   Kane, C. W. (2011).\n   <em>\n    Medicinal plants of the American Southwest.\n   </em>\n   Lincoln Town Press.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Kane, C. W.",
+        "year_part": "2011",
+        "title_rest": "Medicinal plants of the American Southwest. Lincoln Town Press."
+      },
+      {
+        "ref_num": 10,
+        "text": "Lacaille-Dubois, M. A., & Wagner, H. (1996). A review of the biological and pharmacological activities of saponins. Phytomedicine, 2 (4), 363–386. https://doi.org/10.1016/S0944-7113(96)80081-X",
+        "raw_html": "<li>\n   Lacaille-Dubois, M. A., &amp; Wagner, H. (1996). A review of the biological and pharmacological activities of saponins.\n   <em>\n    Phytomedicine, 2\n   </em>\n   (4), 363–386.\n   <a href=\"https://doi.org/10.1016/S0944-7113(96)80081-X\">\n<a href=\"https://doi.org/10.1016/S0944-7113(96)80081-X\">https://doi.org/10.1016/S0944-7113(96)80081-X</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/S0944-7113(96)80081-X",
+            "text": "https://doi.org/10.1016/S0944-7113(96)80081-X",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0944-7113(96)80081-X\">\n<a href=\"https://doi.org/10.1016/S0944-7113(96)80081-X\">https://doi.org/10.1016/S0944-7113(96)80081-X</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/S0944-7113(96)80081-X",
+            "text": "https://doi.org/10.1016/S0944-7113(96)80081-X",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0944-7113(96)80081-X\">https://doi.org/10.1016/S0944-7113(96)80081-X</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/S0944-7113(96)80081-X"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Lacaille-Dubois, M. A., & Wagner, H.",
+        "year_part": "1996",
+        "title_rest": "A review of the biological and pharmacological activities of saponins. Phytomedicine, 2 (4), 363–386. https://doi.org/10.1016/S0944-7113(96)80081-X"
+      },
+      {
+        "ref_num": 11,
+        "text": "Moerman, D. E. (1998). Native American ethnobotany. Timber Press.",
+        "raw_html": "<li>\n   Moerman, D. E. (1998).\n   <em>\n    Native American ethnobotany.\n   </em>\n   Timber Press.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Moerman, D. E.",
+        "year_part": "1998",
+        "title_rest": "Native American ethnobotany. Timber Press."
+      },
+      {
+        "ref_num": 12,
+        "text": "Oakenfull, D. (1981). Saponins in food—A review. Food Chemistry, 6 (1), 19–40. https://doi.org/10.1016/0308-8146(81)90068-5",
+        "raw_html": "<li>\n   Oakenfull, D. (1981). Saponins in food—A review.\n   <em>\n    Food Chemistry, 6\n   </em>\n   (1), 19–40.\n   <a href=\"https://doi.org/10.1016/0308-8146(81)90068-5\">\n<a href=\"https://doi.org/10.1016/0308-8146(81)90068-5\">https://doi.org/10.1016/0308-8146(81)90068-5</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/0308-8146(81)90068-5",
+            "text": "https://doi.org/10.1016/0308-8146(81)90068-5",
+            "raw_a": "<a href=\"https://doi.org/10.1016/0308-8146(81)90068-5\">\n<a href=\"https://doi.org/10.1016/0308-8146(81)90068-5\">https://doi.org/10.1016/0308-8146(81)90068-5</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/0308-8146(81)90068-5",
+            "text": "https://doi.org/10.1016/0308-8146(81)90068-5",
+            "raw_a": "<a href=\"https://doi.org/10.1016/0308-8146(81)90068-5\">https://doi.org/10.1016/0308-8146(81)90068-5</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/0308-8146(81)90068-5"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Oakenfull, D.",
+        "year_part": "1981",
+        "title_rest": "Saponins in food—A review. Food Chemistry, 6 (1), 19–40. https://doi.org/10.1016/0308-8146(81)90068-5"
+      },
+      {
+        "ref_num": 13,
+        "text": "Riedl, K. M., Choski, K., Wyzgoski, F. J., Scheerens, J. C., Schwartz, S. J., & Reese, R. N. (2013). Variation in lycopene and lycopenoates, antioxidant capacity and fruit quality of buffaloberry ( Shepherdia argentea [Pursh]Nutt.). Journal of Food Science, 78 (11), C1673–C1679. https://doi.org/10.1111/1750-3841.12265",
+        "raw_html": "<li>\n   Riedl, K. M., Choski, K., Wyzgoski, F. J., Scheerens, J. C., Schwartz, S. J., &amp; Reese, R. N. (2013). Variation in lycopene and lycopenoates, antioxidant capacity and fruit quality of buffaloberry (\n   <em>\n    Shepherdia argentea\n   </em>\n   [Pursh]Nutt.).\n   <em>\n    Journal of Food Science, 78\n   </em>\n   (11), C1673–C1679.\n   <a href=\"https://doi.org/10.1111/1750-3841.12265\">\n<a href=\"https://doi.org/10.1111/1750-3841.12265\">https://doi.org/10.1111/1750-3841.12265</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1111/1750-3841.12265",
+            "text": "https://doi.org/10.1111/1750-3841.12265",
+            "raw_a": "<a href=\"https://doi.org/10.1111/1750-3841.12265\">\n<a href=\"https://doi.org/10.1111/1750-3841.12265\">https://doi.org/10.1111/1750-3841.12265</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1111/1750-3841.12265",
+            "text": "https://doi.org/10.1111/1750-3841.12265",
+            "raw_a": "<a href=\"https://doi.org/10.1111/1750-3841.12265\">https://doi.org/10.1111/1750-3841.12265</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1111/1750-3841.12265"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Riedl, K. M., Choski, K., Wyzgoski, F. J., Scheerens, J. C., Schwartz, S. J., & Reese, R. N.",
+        "year_part": "2013",
+        "title_rest": "Variation in lycopene and lycopenoates, antioxidant capacity and fruit quality of buffaloberry ( Shepherdia argentea [Pursh]Nutt.). Journal of Food Science, 78 (11), C1673–C1679. https://doi.org/10.1111/1750-3841.12265"
+      },
+      {
+        "ref_num": 14,
+        "text": "Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., & Husen, A. (2020). Phytochemistry, pharmacological activities, nanoparticle fabrication, commercial products, and waste utilization of Sapindus species: A comprehensive review. Plants, 9 (2), 267. https://doi.org/10.3390/plants9020267",
+        "raw_html": "<li>\n   Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., &amp; Husen, A. (2020). Phytochemistry, pharmacological activities, nanoparticle fabrication, commercial products, and waste utilization of\n   <em>\n    Sapindus\n   </em>\n   species: A comprehensive review.\n   <em>\n    Plants, 9\n   </em>\n   (2), 267.\n   <a href=\"https://doi.org/10.3390/plants9020267\">\n<a href=\"https://doi.org/10.3390/plants9020267\">https://doi.org/10.3390/plants9020267</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/plants9020267",
+            "text": "https://doi.org/10.3390/plants9020267",
+            "raw_a": "<a href=\"https://doi.org/10.3390/plants9020267\">\n<a href=\"https://doi.org/10.3390/plants9020267\">https://doi.org/10.3390/plants9020267</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/plants9020267",
+            "text": "https://doi.org/10.3390/plants9020267",
+            "raw_a": "<a href=\"https://doi.org/10.3390/plants9020267\">https://doi.org/10.3390/plants9020267</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/plants9020267"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., & Husen, A.",
+        "year_part": "2020",
+        "title_rest": "Phytochemistry, pharmacological activities, nanoparticle fabrication, commercial products, and waste utilization of Sapindus species: A comprehensive review. Plants, 9 (2), 267. https://doi.org/10.3390/plants9020267"
+      },
+      {
+        "ref_num": 15,
+        "text": "Sparg, S. G., Light, M. E., & van Staden, J. (2004). Biological activities and distribution of plant saponins. Journal of Ethnopharmacology, 94 (2–3), 219–243. https://doi.org/10.1016/j.jep.2004.05.016",
+        "raw_html": "<li>\n   Sparg, S. G., Light, M. E., &amp; van Staden, J. (2004). Biological activities and distribution of plant saponins.\n   <em>\n    Journal of Ethnopharmacology, 94\n   </em>\n   (2–3), 219–243.\n   <a href=\"https://doi.org/10.1016/j.jep.2004.05.016\">\n<a href=\"https://doi.org/10.1016/j.jep.2004.05.016\">https://doi.org/10.1016/j.jep.2004.05.016</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.jep.2004.05.016",
+            "text": "https://doi.org/10.1016/j.jep.2004.05.016",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.jep.2004.05.016\">\n<a href=\"https://doi.org/10.1016/j.jep.2004.05.016\">https://doi.org/10.1016/j.jep.2004.05.016</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.jep.2004.05.016",
+            "text": "https://doi.org/10.1016/j.jep.2004.05.016",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.jep.2004.05.016\">https://doi.org/10.1016/j.jep.2004.05.016</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.jep.2004.05.016"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Sparg, S. G., Light, M. E., & van Staden, J.",
+        "year_part": "2004",
+        "title_rest": "Biological activities and distribution of plant saponins. Journal of Ethnopharmacology, 94 (2–3), 219–243. https://doi.org/10.1016/j.jep.2004.05.016"
+      },
+      {
+        "ref_num": 16,
+        "text": "Tava, A., & Odoardi, M. (1996). Saponins from Medicago : Chemical characterization and biological activity against insects. In G. R. Waller & K. Yamasaki (Eds.), Saponins used in traditional and modern medicine (pp. 97–109). Springer. https://doi.org/10.1007/978-1-4899-1382-9_9",
+        "raw_html": "<li>\n   Tava, A., &amp; Odoardi, M. (1996). Saponins from\n   <em>\n    Medicago\n   </em>\n   : Chemical characterization and biological activity against insects. In G. R. Waller &amp; K. Yamasaki (Eds.),\n   <em>\n    Saponins used in traditional and modern medicine\n   </em>\n   (pp. 97–109). Springer.\n   <a href=\"https://doi.org/10.1007/978-1-4899-1382-9_9\">\n<a href=\"https://doi.org/10.1007/978-1-4899-1382-9_9\">https://doi.org/10.1007/978-1-4899-1382-9_9</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1007/978-1-4899-1382-9_9",
+            "text": "https://doi.org/10.1007/978-1-4899-1382-9_9",
+            "raw_a": "<a href=\"https://doi.org/10.1007/978-1-4899-1382-9_9\">\n<a href=\"https://doi.org/10.1007/978-1-4899-1382-9_9\">https://doi.org/10.1007/978-1-4899-1382-9_9</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1007/978-1-4899-1382-9_9",
+            "text": "https://doi.org/10.1007/978-1-4899-1382-9_9",
+            "raw_a": "<a href=\"https://doi.org/10.1007/978-1-4899-1382-9_9\">https://doi.org/10.1007/978-1-4899-1382-9_9</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1007/978-1-4899-1382-9_9"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Tava, A., & Odoardi, M.",
+        "year_part": "1996",
+        "title_rest": "Saponins from Medicago : Chemical characterization and biological activity against insects. In G. R. Waller & K. Yamasaki (Eds.), Saponins used in traditional and modern medicine (pp. 97–109). Springer. https://doi.org/10.1007/978-1-4899-1382-9_9"
+      },
+      {
+        "ref_num": 17,
+        "text": "Upadhyay, A., & Singh, D. K. (2011). Pharmacological effects of Sapindus mukorossi . Revista do Instituto de Medicina Tropical de São Paulo, 53 (5), 283–288. https://doi.org/10.1590/S0036-46652011000500004",
+        "raw_html": "<li>\n   Upadhyay, A., &amp; Singh, D. K. (2011). Pharmacological effects of\n   <em>\n    Sapindus mukorossi\n   </em>\n   .\n   <em>\n    Revista do Instituto de Medicina Tropical de São Paulo, 53\n   </em>\n   (5), 283–288.\n   <a href=\"https://doi.org/10.1590/S0036-46652011000500004\">\n<a href=\"https://doi.org/10.1590/S0036-46652011000500004\">https://doi.org/10.1590/S0036-46652011000500004</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1590/S0036-46652011000500004",
+            "text": "https://doi.org/10.1590/S0036-46652011000500004",
+            "raw_a": "<a href=\"https://doi.org/10.1590/S0036-46652011000500004\">\n<a href=\"https://doi.org/10.1590/S0036-46652011000500004\">https://doi.org/10.1590/S0036-46652011000500004</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1590/S0036-46652011000500004",
+            "text": "https://doi.org/10.1590/S0036-46652011000500004",
+            "raw_a": "<a href=\"https://doi.org/10.1590/S0036-46652011000500004\">https://doi.org/10.1590/S0036-46652011000500004</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1590/S0036-46652011000500004"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Upadhyay, A., & Singh, D. K.",
+        "year_part": "2011",
+        "title_rest": "Pharmacological effects of Sapindus mukorossi . Revista do Instituto de Medicina Tropical de São Paulo, 53 (5), 283–288. https://doi.org/10.1590/S0036-46652011000500004"
+      },
+      {
+        "ref_num": 18,
+        "text": "Vestal, P. A., & Schultes, R. E. (1939). The economic botany of the Kiowa Indians. Botanical Museum, Harvard University.",
+        "raw_html": "<li>\n   Vestal, P. A., &amp; Schultes, R. E. (1939).\n   <em>\n    The economic botany of the Kiowa Indians.\n   </em>\n   Botanical Museum, Harvard University.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Vestal, P. A., & Schultes, R. E.",
+        "year_part": "1939",
+        "title_rest": "The economic botany of the Kiowa Indians. Botanical Museum, Harvard University."
+      },
+      {
+        "ref_num": 19,
+        "text": "Vincken, J. P., Heng, L., de Groot, A., & Gruppen, H. (2007). Saponins, classification and occurrence in the plant kingdom. Phytochemistry, 68 (3), 275–297. https://doi.org/10.1016/j.phytochem.2006.10.008",
+        "raw_html": "<li>\n   Vincken, J. P., Heng, L., de Groot, A., &amp; Gruppen, H. (2007). Saponins, classification and occurrence in the plant kingdom.\n   <em>\n    Phytochemistry, 68\n   </em>\n   (3), 275–297.\n   <a href=\"https://doi.org/10.1016/j.phytochem.2006.10.008\">\n<a href=\"https://doi.org/10.1016/j.phytochem.2006.10.008\">https://doi.org/10.1016/j.phytochem.2006.10.008</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.phytochem.2006.10.008",
+            "text": "https://doi.org/10.1016/j.phytochem.2006.10.008",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.phytochem.2006.10.008\">\n<a href=\"https://doi.org/10.1016/j.phytochem.2006.10.008\">https://doi.org/10.1016/j.phytochem.2006.10.008</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.phytochem.2006.10.008",
+            "text": "https://doi.org/10.1016/j.phytochem.2006.10.008",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.phytochem.2006.10.008\">https://doi.org/10.1016/j.phytochem.2006.10.008</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.phytochem.2006.10.008"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Vincken, J. P., Heng, L., de Groot, A., & Gruppen, H.",
+        "year_part": "2007",
+        "title_rest": "Saponins, classification and occurrence in the plant kingdom. Phytochemistry, 68 (3), 275–297. https://doi.org/10.1016/j.phytochem.2006.10.008"
+      }
+    ]
+  },
+  {
+    "file": "chapter_04.html",
+    "h1_title": "4\n   \n   Introduction",
+    "ref_headings": [],
+    "ol_summary": [],
+    "ref_count": 0,
+    "references": []
+  },
+  {
+    "file": "chapter_05.html",
+    "h1_title": "5\n   \n   Arnica Salve/Rub",
+    "ref_headings": [
+      {
+        "tag": "div",
+        "text": "Image Source:\n   \n    https://pmc.ncbi.nlm.nih.gov/articles/PMC6943594/\n   \n\n\n   It has also been found that the composition of soil in which\n   \n    Arnica chamissonis\n   \n   is grown can affect the bioactive constituents present in the plant and flowers. Plants grown in soil with a higher water content had a higher flavonoid content and exhibited greater antioxidant activity than samples taken from plants grown in dry soil.\n   \n    [12]\n   \n\n\n   Much of the research that has been done on bioactive component in the\n   \n    Arnica\n   \n   genus has been done on the species\n   \n    Arnica Montana\n   \n   which is primarily found in Europe. There is very limited research available on North American plants in this genus.\n   \n    [16]\n   \n\n\n\n\n     Structure-Activity Relationships\n    \n\n\n\n\n    Why Helenalin’s Structure Makes It So Active:\n    \n     [5], [9], [10], [14], [18]\n    \n\n\n\n\n\n\n\n    Fig 5.4: Chemical structure of helenalin highlighting its reactive functional groups.\n   \n\n\n\n    α-Methylene-γ-Lactone: Creates highly electrophilic carbon (Michael acceptor) for covalent protein modification\n   \n\n    α,β-Unsaturated Ketone: Secondary electrophilic site; some helenalin derivatives have two alkylating centers\n   \n\n    Lipophilicity: Enables skin penetration and cellular membrane crossing\n   \n\n    Rigid Bicyclic Structure: Positions reactive groups for optimal protein binding\n   \n\n    Small Size: Molecular weight ~260; can access protein crevices\n   \n\n\n\n    Why Flavonoids Support Activity\n    \n     [4]\n    \n\n\n\n\n    Multiple Hydroxyl Groups: Antioxidant and anti-inflammatory synergy\n   \n\n    Catechol Groups: Metal chelation and free radical scavenging\n   \n\n    Vascular Strengthening\n    \n     :\n    \n    Complement helenalin’s anti-inflammatory effects\n   \n\n\n\n\n     Preparation and Safety Considerations\n    \n\n\n\n\n    Traditional Salve Preparation\n    \n     [15]\n    \n\n\n\n\n    Infuse dried arnica flowers in carrier oil (olive, coconut) for 4-6 weeks\n   \n\n    Strain and mix with beeswax to create salve consistency\n   \n\n    Apply to intact skin only\n   \n\n\n\n    Modern Preparations\n    \n     [1], [7], [19]\n    \n\n\n\n\n    Ointments: 15-25% tincture or up to 25% oil\n   \n\n    Gels: Various concentrations\n   \n\n    Creams: Standardized to sesquiterpene lactone content\n   \n\n\n\n\n     Critical Safety Warnings\n     \n      [8]\n     \n\n\n\n\n\n    NEVER take internally – Causes severe toxicity including:\n    \n\n      Vomiting, diarrhea, gastroenteritis\n     \n\n      Cardiac arrhythmias\n     \n\n      Liver damage\n     \n\n      Muscle weakness, collapse\n     \n\n      Death in severe cases\n     \n\n\n\n    NEVER apply to:\n    \n\n      Open wounds\n     \n\n      Broken skin\n     \n\n      Mucous membranes\n     \n\n      Eyes\n     \n\n\n\n    Discontinue if:\n    \n\n      Skin irritation develops\n     \n\n      Rash or eczema appears\n     \n\n      Blistering occurs\n     \n\n\n\n    Contraindications:\n    \n\n      Allergy to Asteraceae family (ragweed, chrysanthemums, marigolds)\n     \n\n      Pregnancy and breastfeeding (insufficient safety data)\n     \n\n\n\n    Duration: Do not use for more than 2 weeks continuously\n   \n\n\n\n\n     References\n    \n\n\n\n   1. Alonso, J. (2004).\n   \n    Tratado de fitofármacos y nutracéuticos\n   \n   . Corpus Libros.\n  \n\n   2. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n   \n    Traditional Indigenous uses of Arnica\n   \n   [Traditional knowledge].\n  \n\n   3. Flora of North America Editorial Committee. (2006).\n   \n    Flora of North America North of Mexico\n   \n   (Vol. 21). Oxford University Press.\n  \n\n   4. Ganzera, M., Egger, C., Zidorn, C., & Stuppner, H. (2008). Quantitative analysis of flavonoids and phenolic acids in\n   \n    Arnica montana\n   \n   L. by micellar electrokinetic capillary chromatography.\n   \n    Analytica Chimica Acta\n   \n   ,\n   \n    614\n   \n   (2), 196–200.\n   \n    https://doi.org/10.1016/j.aca.2008.03.009\n   \n\n\n   5. Hall, I. H., Lee, K. H., Starnes, C. O., Sumida, Y., Wu, R. Y., Waddell, T. G., & Cochran, J. W. (1979). Anti-inflammatory activity of sesquiterpene lactones and related compounds.\n   \n    Journal of Pharmaceutical Sciences\n   \n   ,\n   \n    68\n   \n   (5), 537–542.\n   \n    https://doi.org/10.1002/jps.2600680505\n   \n\n\n   6. Iannitti, T., Morales-Medina, J. C., Bellavite, P., Rottigni, V., & Palmieri, B. (2016). Effectiveness and safety of\n   \n    Arnica montana\n   \n   in post-surgical setting, pain and inflammation.\n   \n    American Journal of Therapeutics\n   \n   ,\n   \n    23\n   \n   (1), e184–e197.\n   \n    https://doi.org/10.1097/mjt.0000000000000036\n   \n\n\n   7. Klaas, C. A., Wagner, G., Laufer, S., Sosa, S., Della Loggia, R., Bomme, U., & Merfort, I. (2002). Studies on the anti-inflammatory activity of phytopharmaceuticals prepared from Arnica flowers.\n   \n    Planta Medica\n   \n   ,\n   \n    68\n   \n   (5), 385–391.\n   \n    https://doi.org/10.1055/s-2002-26747\n   \n\n\n   8. Kriplani, P., Guarve, K., & Baghael, U. S. (2017).\n   \n    Arnica montana\n   \n   L.—A plant of healing: Review.\n   \n    Journal of Pharmacy and Pharmacology\n   \n   ,\n   \n    69\n   \n   (8), 925–945.\n   \n    https://doi.org/10.1111/jphp.12735\n   \n\n\n   9. Lyss, G., Schmidt, T. J., Merfort, I., & Pahl, H. L. (1997). Helenalin, an anti-inflammatory sesquiterpene lactone from Arnica, selectively inhibits transcription factor NF-κB.\n   \n    Biological Chemistry\n   \n   ,\n   \n    378\n   \n   (9), 951–961.\n   \n    https://doi.org/10.1515/bchm.1997.378.9.951\n   \n\n\n   10. Merfort, I. (2003). Arnica: New insights on the molecular mode of action of a traditional medicinal plant.\n   \n    Forschende Komplementärmedizin und Klassische Naturheilkunde\n   \n   ,\n   \n    10\n   \n   (Suppl 1), 45–48.\n   \n    https://doi.org/10.1159/000071692\n   \n\n\n   11. Moerman, D. E. (1998).\n   \n    Native American ethnobotany\n   \n   . Timber Press.\n  \n\n   12. Olesinska, K. (2020). Antioxidant properties of Chamisso arnica (\n   \n    Arnica chamissonis\n   \n   Less.).\n   \n    Agronomy Science\n   \n   ,\n   \n    25\n   \n   (2).\n   \n    https://czasopisma.up.lublin.pl/as/article/view/1464\n   \n\n\n   13. Pumpa, K. L., Fallon, K. E., Bensoussan, A., & Papalia, S. (2014). The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise.\n   \n    European Journal of Sport Science\n   \n   ,\n   \n    14\n   \n   (3), 294–300.\n   \n    https://doi.org/10.1080/17461391.2013.829126\n   \n\n\n   14. Schmidt, T. J., Lyß, G., Pahl, H. L., & Merfort, I. (1999). Helenanolide-type sesquiterpene lactones. Part 5: The role of glutathione addition under physiological conditions.\n   \n    Bioorganic & Medicinal Chemistry\n   \n   ,\n   \n    7\n   \n   (10), 2849–2855.\n   \n    https://doi.org/10.1016/s0968-0896(99)00234-5\n   \n\n\n   15. Splitrock Environmental. (n.d.).\n   \n    Arnica Salve\n   \n   . Retrieved November 2, 2024, from\n   https://splitrockenvironmental.ca/products/arnica-salve?variant=33785190383675\">\n    https://splitrockenvironmental.ca/products/arnica-salve?variant=33785190383675\n   \n\n\n   16. Sugier, D., Olesinska, K., Sugier, P., & Wojcik, M. (2019). Chemical composition of essential oil from flower heads of\n   \n    Arnica chamissonis\n   \n   Less. under a nitrogen impact.\n   \n    Molecules\n   \n   ,\n   \n    24\n   \n   (24).\n   \n    https://pmc.ncbi.nlm.nih.gov/articles/PMC6943594/\n   \n\n\n   17. United Plant Savers. (2025).\n   \n    Arnica (Arnica spp.)\n   \n   . At-risk medicinal plant list.\n   \n    https://unitedplantsavers.org\n   \n\n\n   18. Wagner, S., Merfort, I., & Schmidt, T. J. (2004). Helenanolide-type sesquiterpene lactones. Part 6: Reaction of helenalin and related helenanolides with sulfhydryl-containing biomolecules.\n   \n    Pharmazie\n   \n   ,\n   \n    59\n   \n   (3), 236–238.\n  \n\n   19. Widrig, R., Suter, A., Saller, R., & Melzer, J. (2007). Choosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study.\n   \n    Rheumatology International\n   \n   ,\n   \n    27\n   \n   (6), 585–591.\n   \n    https://doi.org/10.1007/s00296-007-0304-y\n   \n\n\n   20. Willuhn, G. (1998).\n   \n    Arnica montana\n   \n   L.—Portrait of a medicinal plant.\n   \n    Zeitschrift für Phytotherapie\n   \n   ,\n   \n    19\n   \n   (3), 131–143.",
+        "class": null
+      },
+      {
+        "tag": "p",
+        "text": "References",
+        "class": null
+      },
+      {
+        "tag": "strong",
+        "text": "References",
+        "class": null
+      }
+    ],
+    "ol_summary": [
+      {
+        "ol_index": 1,
+        "li_count": 5,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 2,
+        "li_count": 3,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 3,
+        "li_count": 19,
+        "parent_tag": "div",
+        "prev_sibling": ""
+      }
+    ],
+    "ref_count": 5,
+    "references": [
+      {
+        "ref_num": 1,
+        "text": "NEVER take internally – Causes severe toxicity including: Vomiting, diarrhea, gastroenteritis Cardiac arrhythmias Liver damage Muscle weakness, collapse Death in severe cases",
+        "raw_html": "<li>\n    NEVER take internally – Causes severe toxicity including:\n    <ul>\n<li>\n      Vomiting, diarrhea, gastroenteritis\n     </li>\n<li>\n      Cardiac arrhythmias\n     </li>\n<li>\n      Liver damage\n     </li>\n<li>\n      Muscle weakness, collapse\n     </li>\n<li>\n      Death in severe cases\n     </li>\n</ul>\n</li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 2,
+        "text": "NEVER apply to: Open wounds Broken skin Mucous membranes Eyes",
+        "raw_html": "<li>\n    NEVER apply to:\n    <ul>\n<li>\n      Open wounds\n     </li>\n<li>\n      Broken skin\n     </li>\n<li>\n      Mucous membranes\n     </li>\n<li>\n      Eyes\n     </li>\n</ul>\n</li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 3,
+        "text": "Discontinue if: Skin irritation develops Rash or eczema appears Blistering occurs",
+        "raw_html": "<li>\n    Discontinue if:\n    <ul>\n<li>\n      Skin irritation develops\n     </li>\n<li>\n      Rash or eczema appears\n     </li>\n<li>\n      Blistering occurs\n     </li>\n</ul>\n</li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 4,
+        "text": "Contraindications: Allergy to Asteraceae family (ragweed, chrysanthemums, marigolds) Pregnancy and breastfeeding (insufficient safety data)",
+        "raw_html": "<li>\n    Contraindications:\n    <ul>\n<li>\n      Allergy to Asteraceae family (ragweed, chrysanthemums, marigolds)\n     </li>\n<li>\n      Pregnancy and breastfeeding (insufficient safety data)\n     </li>\n</ul>\n</li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 5,
+        "text": "Duration: Do not use for more than 2 weeks continuously",
+        "raw_html": "<li>\n    Duration: Do not use for more than 2 weeks continuously\n   </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      }
+    ]
+  },
+  {
+    "file": "chapter_06.html",
+    "h1_title": "6\n   \n   Cottonwood Salve",
+    "ref_headings": [
+      {
+        "tag": "p",
+        "text": "References",
+        "class": null
+      },
+      {
+        "tag": "strong",
+        "text": "References",
+        "class": null
+      }
+    ],
+    "ol_summary": [
+      {
+        "ol_index": 1,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 2,
+        "li_count": 2,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 3,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 4,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 5,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 6,
+        "li_count": 3,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 7,
+        "li_count": 9,
+        "parent_tag": "section",
+        "prev_sibling": "<p>\n<span style=\"color: #339966\">\n<strong>\n    References\n   </strong>\n</span>\n</p>"
+      }
+    ],
+    "ref_count": 9,
+    "references": [
+      {
+        "ref_num": 1,
+        "text": "Akao, T., Yoshino, T., Kobashi, K., & Hattori, M. (2002). Evaluation of salicin as an antipyretic prodrug that does not cause gastric injury. Planta Medica, 68 (8), 714–718. https://doi.org/10.1055/s-2002-33794",
+        "raw_html": "<li>Akao, T., Yoshino, T., Kobashi, K., &amp; Hattori, M. (2002). Evaluation of salicin as an antipyretic prodrug that does not cause gastric injury.\n  <em>\n   Planta Medica, 68\n  </em>\n  (8), 714–718.\n  <a href=\"https://doi.org/10.1055/s-2002-33794\">\n<a href=\"https://doi.org/10.1055/s-2002-33794\">https://doi.org/10.1055/s-2002-33794</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1055/s-2002-33794",
+            "text": "https://doi.org/10.1055/s-2002-33794",
+            "raw_a": "<a href=\"https://doi.org/10.1055/s-2002-33794\">\n<a href=\"https://doi.org/10.1055/s-2002-33794\">https://doi.org/10.1055/s-2002-33794</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1055/s-2002-33794",
+            "text": "https://doi.org/10.1055/s-2002-33794",
+            "raw_a": "<a href=\"https://doi.org/10.1055/s-2002-33794\">https://doi.org/10.1055/s-2002-33794</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1055/s-2002-33794"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Akao, T., Yoshino, T., Kobashi, K., & Hattori, M.",
+        "year_part": "2002",
+        "title_rest": "Evaluation of salicin as an antipyretic prodrug that does not cause gastric injury. Planta Medica, 68 (8), 714–718. https://doi.org/10.1055/s-2002-33794"
+      },
+      {
+        "ref_num": 2,
+        "text": "Boeckler, G. A., Gershenzon, J., & Unsicker, S. B. (2011). Phenolic glycosides of the Salicaceae and their role as anti-herbivore defenses. Phytochemistry, 72 (13), 1497–1509. https://doi.org/10.1016/j.phytochem.2011.04.017",
+        "raw_html": "<li>Boeckler, G. A., Gershenzon, J., &amp; Unsicker, S. B. (2011). Phenolic glycosides of the Salicaceae and their role as anti-herbivore defenses.\n  <em>\n   Phytochemistry, 72\n  </em>\n  (13), 1497–1509.\n  <a href=\"https://doi.org/10.1016/j.phytochem.2011.04.017\">\n<a href=\"https://doi.org/10.1016/j.phytochem.2011.04.017\">https://doi.org/10.1016/j.phytochem.2011.04.017</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/j.phytochem.2011.04.017",
+            "text": "https://doi.org/10.1016/j.phytochem.2011.04.017",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.phytochem.2011.04.017\">\n<a href=\"https://doi.org/10.1016/j.phytochem.2011.04.017\">https://doi.org/10.1016/j.phytochem.2011.04.017</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/j.phytochem.2011.04.017",
+            "text": "https://doi.org/10.1016/j.phytochem.2011.04.017",
+            "raw_a": "<a href=\"https://doi.org/10.1016/j.phytochem.2011.04.017\">https://doi.org/10.1016/j.phytochem.2011.04.017</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/j.phytochem.2011.04.017"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Boeckler, G. A., Gershenzon, J., & Unsicker, S. B.",
+        "year_part": "2011",
+        "title_rest": "Phenolic glycosides of the Salicaceae and their role as anti-herbivore defenses. Phytochemistry, 72 (13), 1497–1509. https://doi.org/10.1016/j.phytochem.2011.04.017"
+      },
+      {
+        "ref_num": 3,
+        "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Traditional Indigenous knowledge and uses of Black Cottonwood .",
+        "raw_html": "<li>Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n  <em>\n   Traditional Indigenous knowledge and uses of Black Cottonwood\n  </em>\n  .\n </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 4,
+        "text": "Okińczyc, P., Szumny, A., Szperlik, J., Zając, A., Żarowska, B., & Krzyżek, P. (2024). Phytochemical profiles and antimicrobial activity of selected Populus bud extracts (including P. trichocarpa clones). Molecules, 29 (2), Article 437. https://doi.org/10.3390/molecules29020437",
+        "raw_html": "<li>Okińczyc, P., Szumny, A., Szperlik, J., Zając, A., Żarowska, B., &amp; Krzyżek, P. (2024). Phytochemical profiles and antimicrobial activity of selected\n  <em>\n   Populus\n  </em>\n  bud extracts (including\n  <em>\n   P. trichocarpa\n  </em>\n  clones).\n  <em>\n   Molecules, 29\n  </em>\n  (2), Article 437.\n  <a href=\"https://doi.org/10.3390/molecules29020437\">\n<a href=\"https://doi.org/10.3390/molecules29020437\">https://doi.org/10.3390/molecules29020437</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/molecules29020437",
+            "text": "https://doi.org/10.3390/molecules29020437",
+            "raw_a": "<a href=\"https://doi.org/10.3390/molecules29020437\">\n<a href=\"https://doi.org/10.3390/molecules29020437\">https://doi.org/10.3390/molecules29020437</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/molecules29020437",
+            "text": "https://doi.org/10.3390/molecules29020437",
+            "raw_a": "<a href=\"https://doi.org/10.3390/molecules29020437\">https://doi.org/10.3390/molecules29020437</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/molecules29020437"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Okińczyc, P., Szumny, A., Szperlik, J., Zając, A., Żarowska, B., & Krzyżek, P.",
+        "year_part": "2024",
+        "title_rest": "Phytochemical profiles and antimicrobial activity of selected Populus bud extracts (including P. trichocarpa clones). Molecules, 29 (2), Article 437. https://doi.org/10.3390/molecules29020437"
+      },
+      {
+        "ref_num": 5,
+        "text": "Pearl, I. A., & Darling, S. F. (1968). Studies on the barks of the family Salicaceae—XVII. Trichoside, a new glucoside from the bark of Populus trichocarpa . Phytochemistry, 7 (5), 825–829. https://doi.org/10.1016/S0031-9422(00)84838-4",
+        "raw_html": "<li>Pearl, I. A., &amp; Darling, S. F. (1968). Studies on the barks of the family Salicaceae—XVII. Trichoside, a new glucoside from the bark of\n  <em>\n   Populus trichocarpa\n  </em>\n  .\n  <em>\n   Phytochemistry, 7\n  </em>\n  (5), 825–829.\n  <a href=\"https://doi.org/10.1016/S0031-9422(00)84838-4\">\n<a href=\"https://doi.org/10.1016/S0031-9422(00)84838-4\">https://doi.org/10.1016/S0031-9422(00)84838-4</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/S0031-9422(00)84838-4",
+            "text": "https://doi.org/10.1016/S0031-9422(00)84838-4",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0031-9422(00)84838-4\">\n<a href=\"https://doi.org/10.1016/S0031-9422(00)84838-4\">https://doi.org/10.1016/S0031-9422(00)84838-4</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/S0031-9422(00)84838-4",
+            "text": "https://doi.org/10.1016/S0031-9422(00)84838-4",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0031-9422(00)84838-4\">https://doi.org/10.1016/S0031-9422(00)84838-4</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/S0031-9422(00)84838-4"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Pearl, I. A., & Darling, S. F.",
+        "year_part": "1968",
+        "title_rest": "Studies on the barks of the family Salicaceae—XVII. Trichoside, a new glucoside from the bark of Populus trichocarpa . Phytochemistry, 7 (5), 825–829. https://doi.org/10.1016/S0031-9422(00)84838-4"
+      },
+      {
+        "ref_num": 6,
+        "text": "Pearl, I. A., & Darling, S. F. (1971). The structures of salicortin and tremulacin. Phytochemistry, 10 (12), 3161–3166. https://doi.org/10.1016/S0031-9422(00)97369-2",
+        "raw_html": "<li>Pearl, I. A., &amp; Darling, S. F. (1971). The structures of salicortin and tremulacin.\n  <em>\n   Phytochemistry, 10\n  </em>\n  (12), 3161–3166.\n  <a href=\"https://doi.org/10.1016/S0031-9422(00)97369-2\">\n<a href=\"https://doi.org/10.1016/S0031-9422(00)97369-2\">https://doi.org/10.1016/S0031-9422(00)97369-2</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/S0031-9422(00)97369-2",
+            "text": "https://doi.org/10.1016/S0031-9422(00)97369-2",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0031-9422(00)97369-2\">\n<a href=\"https://doi.org/10.1016/S0031-9422(00)97369-2\">https://doi.org/10.1016/S0031-9422(00)97369-2</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/S0031-9422(00)97369-2",
+            "text": "https://doi.org/10.1016/S0031-9422(00)97369-2",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0031-9422(00)97369-2\">https://doi.org/10.1016/S0031-9422(00)97369-2</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/S0031-9422(00)97369-2"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Pearl, I. A., & Darling, S. F.",
+        "year_part": "1971",
+        "title_rest": "The structures of salicortin and tremulacin. Phytochemistry, 10 (12), 3161–3166. https://doi.org/10.1016/S0031-9422(00)97369-2"
+      },
+      {
+        "ref_num": 7,
+        "text": "Ristivojević, P., Trifković, J., Andrić, F., & Milojković-Opsenica, D. (2015). Poplar-type propolis: Chemical composition, botanical origin and biological activity. Natural Product Communications, 10 (11), 1869–1876. https://doi.org/10.1177/1934578X1501001117",
+        "raw_html": "<li>Ristivojević, P., Trifković, J., Andrić, F., &amp; Milojković-Opsenica, D. (2015). Poplar-type propolis: Chemical composition, botanical origin and biological activity.\n  <em>\n   Natural Product Communications, 10\n  </em>\n  (11), 1869–1876.\n  <a href=\"https://doi.org/10.1177/1934578X1501001117\">\n<a href=\"https://doi.org/10.1177/1934578X1501001117\">https://doi.org/10.1177/1934578X1501001117</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1177/1934578X1501001117",
+            "text": "https://doi.org/10.1177/1934578X1501001117",
+            "raw_a": "<a href=\"https://doi.org/10.1177/1934578X1501001117\">\n<a href=\"https://doi.org/10.1177/1934578X1501001117\">https://doi.org/10.1177/1934578X1501001117</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1177/1934578X1501001117",
+            "text": "https://doi.org/10.1177/1934578X1501001117",
+            "raw_a": "<a href=\"https://doi.org/10.1177/1934578X1501001117\">https://doi.org/10.1177/1934578X1501001117</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1177/1934578X1501001117"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Ristivojević, P., Trifković, J., Andrić, F., & Milojković-Opsenica, D.",
+        "year_part": "2015",
+        "title_rest": "Poplar-type propolis: Chemical composition, botanical origin and biological activity. Natural Product Communications, 10 (11), 1869–1876. https://doi.org/10.1177/1934578X1501001117"
+      },
+      {
+        "ref_num": 8,
+        "text": "Scalbert, A. (1991). Antimicrobial properties of tannins. Phytochemistry, 30 (12), 3875–3883. https://doi.org/10.1016/0031-9422(91)83426-L",
+        "raw_html": "<li>Scalbert, A. (1991). Antimicrobial properties of tannins.\n  <em>\n   Phytochemistry, 30\n  </em>\n  (12), 3875–3883.\n  <a href=\"https://doi.org/10.1016/0031-9422(91)83426-L\">\n<a href=\"https://doi.org/10.1016/0031-9422(91)83426-L\">https://doi.org/10.1016/0031-9422(91)83426-L</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/0031-9422(91)83426-L",
+            "text": "https://doi.org/10.1016/0031-9422(91)83426-L",
+            "raw_a": "<a href=\"https://doi.org/10.1016/0031-9422(91)83426-L\">\n<a href=\"https://doi.org/10.1016/0031-9422(91)83426-L\">https://doi.org/10.1016/0031-9422(91)83426-L</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/0031-9422(91)83426-L",
+            "text": "https://doi.org/10.1016/0031-9422(91)83426-L",
+            "raw_a": "<a href=\"https://doi.org/10.1016/0031-9422(91)83426-L\">https://doi.org/10.1016/0031-9422(91)83426-L</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/0031-9422(91)83426-L"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Scalbert, A.",
+        "year_part": "1991",
+        "title_rest": "Antimicrobial properties of tannins. Phytochemistry, 30 (12), 3875–3883. https://doi.org/10.1016/0031-9422(91)83426-L"
+      },
+      {
+        "ref_num": 9,
+        "text": "Vane, J. R., & Botting, R. M. (2003). The mechanism of action of aspirin. Thrombosis Research, 110 (5–6), 255–258. https://doi.org/10.1016/S0049-3848(03)00379-7",
+        "raw_html": "<li>Vane, J. R., &amp; Botting, R. M. (2003). The mechanism of action of aspirin.\n  <em>\n   Thrombosis Research, 110\n  </em>\n  (5–6), 255–258.\n  <a href=\"https://doi.org/10.1016/S0049-3848(03)00379-7\">\n<a href=\"https://doi.org/10.1016/S0049-3848(03)00379-7\">https://doi.org/10.1016/S0049-3848(03)00379-7</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1016/S0049-3848(03)00379-7",
+            "text": "https://doi.org/10.1016/S0049-3848(03)00379-7",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0049-3848(03)00379-7\">\n<a href=\"https://doi.org/10.1016/S0049-3848(03)00379-7\">https://doi.org/10.1016/S0049-3848(03)00379-7</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1016/S0049-3848(03)00379-7",
+            "text": "https://doi.org/10.1016/S0049-3848(03)00379-7",
+            "raw_a": "<a href=\"https://doi.org/10.1016/S0049-3848(03)00379-7\">https://doi.org/10.1016/S0049-3848(03)00379-7</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1016/S0049-3848(03)00379-7"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Vane, J. R., & Botting, R. M.",
+        "year_part": "2003",
+        "title_rest": "The mechanism of action of aspirin. Thrombosis Research, 110 (5–6), 255–258. https://doi.org/10.1016/S0049-3848(03)00379-7"
+      }
+    ]
+  },
+  {
+    "file": "chapter_07.html",
+    "h1_title": "7\n   \n   Fir Tip Tea",
+    "ref_headings": [
+      {
+        "tag": "p",
+        "text": "References",
+        "class": null
+      },
+      {
+        "tag": "strong",
+        "text": "References",
+        "class": null
+      }
+    ],
+    "ol_summary": [
+      {
+        "ol_index": 1,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 2,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 3,
+        "li_count": 1,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      },
+      {
+        "ol_index": 4,
+        "li_count": 14,
+        "parent_tag": "section",
+        "prev_sibling": ""
+      }
+    ],
+    "ref_count": 14,
+    "references": [
+      {
+        "ref_num": 1,
+        "text": "Andrews, R. E., Parks, L. W., & Spence, K. D. (1980). Some effects of Douglas fir terpenes on certain microorganisms. Applied and Environmental Microbiology , 40 (2), 301–304. https://doi.org/10.1128/aem.40.2.301-304.1980",
+        "raw_html": "<li>\n   Andrews, R. E., Parks, L. W., &amp; Spence, K. D. (1980). Some effects of Douglas fir terpenes on certain microorganisms.\n   <em>\n    Applied and Environmental Microbiology\n   </em>\n   ,\n   <em>\n    40\n   </em>\n   (2), 301–304.\n   <a href=\"https://doi.org/10.1128/aem.40.2.301-304.1980\">\n<a href=\"https://doi.org/10.1128/aem.40.2.301-304.1980\">https://doi.org/10.1128/aem.40.2.301-304.1980</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1128/aem.40.2.301-304.1980",
+            "text": "https://doi.org/10.1128/aem.40.2.301-304.1980",
+            "raw_a": "<a href=\"https://doi.org/10.1128/aem.40.2.301-304.1980\">\n<a href=\"https://doi.org/10.1128/aem.40.2.301-304.1980\">https://doi.org/10.1128/aem.40.2.301-304.1980</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1128/aem.40.2.301-304.1980",
+            "text": "https://doi.org/10.1128/aem.40.2.301-304.1980",
+            "raw_a": "<a href=\"https://doi.org/10.1128/aem.40.2.301-304.1980\">https://doi.org/10.1128/aem.40.2.301-304.1980</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1128/aem.40.2.301-304.1980"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Andrews, R. E., Parks, L. W., & Spence, K. D.",
+        "year_part": "1980",
+        "title_rest": "Some effects of Douglas fir terpenes on certain microorganisms. Applied and Environmental Microbiology , 40 (2), 301–304. https://doi.org/10.1128/aem.40.2.301-304.1980"
+      },
+      {
+        "ref_num": 2,
+        "text": "Compton, B. D. (1993). Upper North Wakashan and Southern Tsimshian ethnobotany: The knowledge and usage of plants and fungi among the Oweekeno, Hanaksiala, Haisla and Kitasoo peoples of the central and north coasts of British Columbia [Doctoral dissertation, University of British Columbia]. University of British Columbia. https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt",
+        "raw_html": "<li>\n   Compton, B. D. (1993).\n   <em>\n    Upper North Wakashan and Southern Tsimshian ethnobotany: The knowledge and usage of plants and fungi among the Oweekeno, Hanaksiala, Haisla and Kitasoo peoples of the central and north coasts of British Columbia\n   </em>\n   [Doctoral dissertation, University of British Columbia]. University of British Columbia.\n   <a href=\"https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt\">\n<a href=\"https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt\">https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt",
+            "text": "https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt",
+            "raw_a": "<a href=\"https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt\">\n<a href=\"https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt\">https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt</a>\n</a>"
+          },
+          {
+            "href": "https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt",
+            "text": "https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt",
+            "raw_a": "<a href=\"https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt\">https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Compton, B. D.",
+        "year_part": "1993",
+        "title_rest": "Upper North Wakashan and Southern Tsimshian ethnobotany: The knowledge and usage of plants and fungi among the Oweekeno, Hanaksiala, Haisla and Kitasoo peoples of the central and north coasts of British Columbia [Doctoral dissertation, University of British Columbia]. University of British Columbia. https://open.library.ubc.ca/media/download/full-text/831/1.0098829/0.txt"
+      },
+      {
+        "ref_num": 3,
+        "text": "Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Traditional knowledge .",
+        "raw_html": "<li>\n   Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n   <em>\n    Traditional knowledge\n   </em>\n   .\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": false,
+        "author_part": null,
+        "year_part": null,
+        "title_rest": null
+      },
+      {
+        "ref_num": 4,
+        "text": "Jones, B. (2024). Medicinal herbs of Western Canada (1st ed.). Nimbus Publishing.",
+        "raw_html": "<li>\n   Jones, B. (2024).\n   <em>\n    Medicinal herbs of Western Canada\n   </em>\n   (1st ed.). Nimbus Publishing.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Jones, B.",
+        "year_part": "2024",
+        "title_rest": "Medicinal herbs of Western Canada (1st ed.). Nimbus Publishing."
+      },
+      {
+        "ref_num": 5,
+        "text": "Latos-Brozio, M., Masek, A., Chrzescijanska, E., Podsedek, A., & Kajszcak, D. (2021). Characteristics of the polyphenolic profile and antioxidant activity of cone extracts from conifers determines using electrochemical and spectrophotometric methods. Antioxidants , 10 (11), Article 1723. https://doi.org/10.3390/antiox10111723",
+        "raw_html": "<li>\n   Latos-Brozio, M., Masek, A., Chrzescijanska, E., Podsedek, A., &amp; Kajszcak, D. (2021). Characteristics of the polyphenolic profile and antioxidant activity of cone extracts from conifers determines using electrochemical and spectrophotometric methods.\n   <em>\n    Antioxidants\n   </em>\n   ,\n   <em>\n    10\n   </em>\n   (11), Article 1723.\n   <a href=\"https://doi.org/10.3390/antiox10111723\">\n<a href=\"https://doi.org/10.3390/antiox10111723\">https://doi.org/10.3390/antiox10111723</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/antiox10111723",
+            "text": "https://doi.org/10.3390/antiox10111723",
+            "raw_a": "<a href=\"https://doi.org/10.3390/antiox10111723\">\n<a href=\"https://doi.org/10.3390/antiox10111723\">https://doi.org/10.3390/antiox10111723</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/antiox10111723",
+            "text": "https://doi.org/10.3390/antiox10111723",
+            "raw_a": "<a href=\"https://doi.org/10.3390/antiox10111723\">https://doi.org/10.3390/antiox10111723</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/antiox10111723"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Latos-Brozio, M., Masek, A., Chrzescijanska, E., Podsedek, A., & Kajszcak, D.",
+        "year_part": "2021",
+        "title_rest": "Characteristics of the polyphenolic profile and antioxidant activity of cone extracts from conifers determines using electrochemical and spectrophotometric methods. Antioxidants , 10 (11), Article 1723. https://doi.org/10.3390/antiox10111723"
+      },
+      {
+        "ref_num": 6,
+        "text": "Mitić, Z. S., Stojanović-Radić, Z., Cvetković, V. J., Jovanović, S. Č., Dimitrijević, M., Ickovski, J. D., Jovanović, N., Mihajilov-Krstev, T., & Stojanović, G. S. (2021). Pseudotsuga menziesii (Pinaceae): Volatile profiles, antimicrobial activity and toxicological evaluation of its essential oil. Chemistry & Biodiversity , 18 (9), Article e2100424. https://doi.org/10.1002/cbdv.202100424",
+        "raw_html": "<li>\n   Mitić, Z. S., Stojanović-Radić, Z., Cvetković, V. J., Jovanović, S. Č., Dimitrijević, M., Ickovski, J. D., Jovanović, N., Mihajilov-Krstev, T., &amp; Stojanović, G. S. (2021).\n   <em>\n    Pseudotsuga menziesii\n   </em>\n   (Pinaceae): Volatile profiles, antimicrobial activity and toxicological evaluation of its essential oil.\n   <em>\n    Chemistry &amp; Biodiversity\n   </em>\n   ,\n   <em>\n    18\n   </em>\n   (9), Article e2100424.\n   <a href=\"https://doi.org/10.1002/cbdv.202100424\">\n<a href=\"https://doi.org/10.1002/cbdv.202100424\">https://doi.org/10.1002/cbdv.202100424</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.1002/cbdv.202100424",
+            "text": "https://doi.org/10.1002/cbdv.202100424",
+            "raw_a": "<a href=\"https://doi.org/10.1002/cbdv.202100424\">\n<a href=\"https://doi.org/10.1002/cbdv.202100424\">https://doi.org/10.1002/cbdv.202100424</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.1002/cbdv.202100424",
+            "text": "https://doi.org/10.1002/cbdv.202100424",
+            "raw_a": "<a href=\"https://doi.org/10.1002/cbdv.202100424\">https://doi.org/10.1002/cbdv.202100424</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.1002/cbdv.202100424"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Mitić, Z. S., Stojanović-Radić, Z., Cvetković, V. J., Jovanović, S. Č., Dimitrijević, M., Ickovski, J. D., Jovanović, N., Mihajilov-Krstev, T., & Stojanović, G. S.",
+        "year_part": "2021",
+        "title_rest": "Pseudotsuga menziesii (Pinaceae): Volatile profiles, antimicrobial activity and toxicological evaluation of its essential oil. Chemistry & Biodiversity , 18 (9), Article e2100424. https://doi.org/10.1002/cbdv.202100424"
+      },
+      {
+        "ref_num": 7,
+        "text": "Moerman, D. E. (1998). Native American ethnobotany . Timber Press.",
+        "raw_html": "<li>\n   Moerman, D. E. (1998).\n   <em>\n    Native American ethnobotany\n   </em>\n   . Timber Press.\n  </li>",
+        "a_tags": [],
+        "a_count": 0,
+        "has_nested_a": false,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Moerman, D. E.",
+        "year_part": "1998",
+        "title_rest": "Native American ethnobotany . Timber Press."
+      },
+      {
+        "ref_num": 8,
+        "text": "Popescu, D. I., Frum, A., Dobrea, C. M., Cristea, R., Gligor, F. G., Vicas, L. G., Ionete, R. E., Sutan, N. A., & Georgescu, C. (2023). Comparative antioxidant and antimicrobial activities of several conifer needles and bark extracts. Pharmaceutics , 16 (1), Article 52. https://doi.org/10.3390/pharmaceutics16010052",
+        "raw_html": "<li>\n   Popescu, D. I., Frum, A., Dobrea, C. M., Cristea, R., Gligor, F. G., Vicas, L. G., Ionete, R. E., Sutan, N. A., &amp; Georgescu, C. (2023). Comparative antioxidant and antimicrobial activities of several conifer needles and bark extracts.\n   <em>\n    Pharmaceutics\n   </em>\n   ,\n   <em>\n    16\n   </em>\n   (1), Article 52.\n   <a href=\"https://doi.org/10.3390/pharmaceutics16010052\">\n<a href=\"https://doi.org/10.3390/pharmaceutics16010052\">https://doi.org/10.3390/pharmaceutics16010052</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/pharmaceutics16010052",
+            "text": "https://doi.org/10.3390/pharmaceutics16010052",
+            "raw_a": "<a href=\"https://doi.org/10.3390/pharmaceutics16010052\">\n<a href=\"https://doi.org/10.3390/pharmaceutics16010052\">https://doi.org/10.3390/pharmaceutics16010052</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/pharmaceutics16010052",
+            "text": "https://doi.org/10.3390/pharmaceutics16010052",
+            "raw_a": "<a href=\"https://doi.org/10.3390/pharmaceutics16010052\">https://doi.org/10.3390/pharmaceutics16010052</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/pharmaceutics16010052"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Popescu, D. I., Frum, A., Dobrea, C. M., Cristea, R., Gligor, F. G., Vicas, L. G., Ionete, R. E., Sutan, N. A., & Georgescu, C.",
+        "year_part": "2023",
+        "title_rest": "Comparative antioxidant and antimicrobial activities of several conifer needles and bark extracts. Pharmaceutics , 16 (1), Article 52. https://doi.org/10.3390/pharmaceutics16010052"
+      },
+      {
+        "ref_num": 9,
+        "text": "Salehi, B., Upadhyay, S., Orhan, I. E., Jugran, A. K., Jayaweera, S. L. D., Dias, D. A., Sharopov, F., Taheri, Y., Martins, N., Baghalpour, N., Cho, W. C., & Sharifi-Rad, J. (2019). Therapeutic potential of α- and β-pinene: A miracle gift of nature. Biomolecules , 9 (11), Article 738. https://doi.org/10.3390/biom9110738",
+        "raw_html": "<li>\n   Salehi, B., Upadhyay, S., Orhan, I. E., Jugran, A. K., Jayaweera, S. L. D., Dias, D. A., Sharopov, F., Taheri, Y., Martins, N., Baghalpour, N., Cho, W. C., &amp; Sharifi-Rad, J. (2019). Therapeutic potential of α- and β-pinene: A miracle gift of nature.\n   <em>\n    Biomolecules\n   </em>\n   ,\n   <em>\n    9\n   </em>\n   (11), Article 738.\n   <a href=\"https://doi.org/10.3390/biom9110738\">\n<a href=\"https://doi.org/10.3390/biom9110738\">https://doi.org/10.3390/biom9110738</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/biom9110738",
+            "text": "https://doi.org/10.3390/biom9110738",
+            "raw_a": "<a href=\"https://doi.org/10.3390/biom9110738\">\n<a href=\"https://doi.org/10.3390/biom9110738\">https://doi.org/10.3390/biom9110738</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/biom9110738",
+            "text": "https://doi.org/10.3390/biom9110738",
+            "raw_a": "<a href=\"https://doi.org/10.3390/biom9110738\">https://doi.org/10.3390/biom9110738</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/biom9110738"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Salehi, B., Upadhyay, S., Orhan, I. E., Jugran, A. K., Jayaweera, S. L. D., Dias, D. A., Sharopov, F., Taheri, Y., Martins, N., Baghalpour, N., Cho, W. C., & Sharifi-Rad, J.",
+        "year_part": "2019",
+        "title_rest": "Therapeutic potential of α- and β-pinene: A miracle gift of nature. Biomolecules , 9 (11), Article 738. https://doi.org/10.3390/biom9110738"
+      },
+      {
+        "ref_num": 10,
+        "text": "Splitrock Environmental. (2025). Interior Douglas fir (srep7ùl) . https://splitrockenvironmental.ca /products/interior-douglas-fir-srep7ul?variant=40347193114790\"> https://splitrockenvironmental.ca /products/interior-douglas-fir-srep7ul?variant=40347193114790",
+        "raw_html": "<li>\n   Splitrock Environmental. (2025).\n   <em>\n    Interior Douglas fir (srep7ùl)\n   </em>\n   .\n   <a href=\"&lt;a href=\" https:=\"\" splitrockenvironmental.ca\"=\"\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>/products/interior-douglas-fir-srep7ul?variant=40347193114790\"&gt;\n    <a href=\"https://splitrockenvironmental.ca\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>/products/interior-douglas-fir-srep7ul?variant=40347193114790\n   \n</li>",
+        "a_tags": [
+          {
+            "href": "<a href=",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"&lt;a href=\" https:=\"\" splitrockenvironmental.ca\"=\"\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\"><a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a></a>"
+          },
+          {
+            "href": "https://splitrockenvironmental.ca",
+            "text": "https://splitrockenvironmental.ca",
+            "raw_a": "<a href=\"https://splitrockenvironmental.ca\">https://splitrockenvironmental.ca</a>"
+          }
+        ],
+        "a_count": 4,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Splitrock Environmental.",
+        "year_part": "2025",
+        "title_rest": "Interior Douglas fir (srep7ùl) . https://splitrockenvironmental.ca /products/interior-douglas-fir-srep7ul?variant=40347193114790\"> https://splitrockenvironmental.ca /products/interior-douglas-fir-srep7ul?variant=40347193114790"
+      },
+      {
+        "ref_num": 11,
+        "text": "Swor, K., Roberts, C. L., & Clark, R. J. (2023). Gymnosperms of Idaho: Chemical compositions and enantiomeric distributions of essential oils of Abies lasiocarpa , Picea engelmannii , Pinus contorta , Pseudotsuga menziesii , and Thuja plicata . Molecules , 28 (6), Article 2477. https://doi.org/10.3390/molecules28062477",
+        "raw_html": "<li>\n   Swor, K., Roberts, C. L., &amp; Clark, R. J. (2023). Gymnosperms of Idaho: Chemical compositions and enantiomeric distributions of essential oils of\n   <em>\n    Abies lasiocarpa\n   </em>\n   ,\n   <em>\n    Picea engelmannii\n   </em>\n   ,\n   <em>\n    Pinus contorta\n   </em>\n   ,\n   <em>\n    Pseudotsuga menziesii\n   </em>\n   , and\n   <em>\n    Thuja plicata\n   </em>\n   .\n   <em>\n    Molecules\n   </em>\n   ,\n   <em>\n    28\n   </em>\n   (6), Article 2477.\n   <a href=\"https://doi.org/10.3390/molecules28062477\">\n<a href=\"https://doi.org/10.3390/molecules28062477\">https://doi.org/10.3390/molecules28062477</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/molecules28062477",
+            "text": "https://doi.org/10.3390/molecules28062477",
+            "raw_a": "<a href=\"https://doi.org/10.3390/molecules28062477\">\n<a href=\"https://doi.org/10.3390/molecules28062477\">https://doi.org/10.3390/molecules28062477</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/molecules28062477",
+            "text": "https://doi.org/10.3390/molecules28062477",
+            "raw_a": "<a href=\"https://doi.org/10.3390/molecules28062477\">https://doi.org/10.3390/molecules28062477</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/molecules28062477"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Swor, K., Roberts, C. L., & Clark, R. J.",
+        "year_part": "2023",
+        "title_rest": "Gymnosperms of Idaho: Chemical compositions and enantiomeric distributions of essential oils of Abies lasiocarpa , Picea engelmannii , Pinus contorta , Pseudotsuga menziesii , and Thuja plicata . Molecules , 28 (6), Article 2477. https://doi.org/10.3390/molecules28062477"
+      },
+      {
+        "ref_num": 12,
+        "text": "Tešević, V., Vajs, V., Todorović, S., Janaćković, P., Milosavljević, S., & Marin, P. D. (2009). Chemical composition and antifungal activity of the essential oil of Douglas fir ( Pseudotsuga menziesii (Mirb.) Franco) from Serbia. Journal of the Serbian Chemical Society , 74 (10), 1035–1040. https://doi.org/10.2298/JSC0910035T",
+        "raw_html": "<li>\n   Tešević, V., Vajs, V., Todorović, S., Janaćković, P., Milosavljević, S., &amp; Marin, P. D. (2009). Chemical composition and antifungal activity of the essential oil of Douglas fir (\n   <em>\n    Pseudotsuga menziesii\n   </em>\n   (Mirb.) Franco) from Serbia.\n   <em>\n    Journal of the Serbian Chemical Society\n   </em>\n   ,\n   <em>\n    74\n   </em>\n   (10), 1035–1040.\n   <a href=\"https://doi.org/10.2298/JSC0910035T\">\n<a href=\"https://doi.org/10.2298/JSC0910035T\">https://doi.org/10.2298/JSC0910035T</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.2298/JSC0910035T",
+            "text": "https://doi.org/10.2298/JSC0910035T",
+            "raw_a": "<a href=\"https://doi.org/10.2298/JSC0910035T\">\n<a href=\"https://doi.org/10.2298/JSC0910035T\">https://doi.org/10.2298/JSC0910035T</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.2298/JSC0910035T",
+            "text": "https://doi.org/10.2298/JSC0910035T",
+            "raw_a": "<a href=\"https://doi.org/10.2298/JSC0910035T\">https://doi.org/10.2298/JSC0910035T</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.2298/JSC0910035T"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Tešević, V., Vajs, V., Todorović, S., Janaćković, P., Milosavljević, S., & Marin, P. D.",
+        "year_part": "2009",
+        "title_rest": "Chemical composition and antifungal activity of the essential oil of Douglas fir ( Pseudotsuga menziesii (Mirb.) Franco) from Serbia. Journal of the Serbian Chemical Society , 74 (10), 1035–1040. https://doi.org/10.2298/JSC0910035T"
+      },
+      {
+        "ref_num": 13,
+        "text": "USDA NRCS. (2002). Douglas-fir (Pseudotsuga menziesii) plant guide . U.S. Department of Agriculture. https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf",
+        "raw_html": "<li>\n   USDA NRCS. (2002).\n   <em>\n    Douglas-fir (Pseudotsuga menziesii) plant guide\n   </em>\n   . U.S. Department of Agriculture.\n   <a href=\"https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf\">\n<a href=\"https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf\">https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf",
+            "text": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf",
+            "raw_a": "<a href=\"https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf\">\n<a href=\"https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf\">https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf</a>\n</a>"
+          },
+          {
+            "href": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf",
+            "text": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf",
+            "raw_a": "<a href=\"https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf\">https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "USDA NRCS.",
+        "year_part": "2002",
+        "title_rest": "Douglas-fir (Pseudotsuga menziesii) plant guide . U.S. Department of Agriculture. https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_psme.pdf"
+      },
+      {
+        "ref_num": 14,
+        "text": "Vîșan, D.-C., Oprea, E., Rădulescu, V., Voiculescu, I., Biriș, I.-A., Cotar, A. I., Saviuc, C., Chifiriuc, M. C., & Marinăș, I. C. (2021). Original contributions to the chemical composition, microbicidal, virulence-arresting and antibiotic-enhancing activity of essential oils from four coniferous species. Pharmaceuticals , 14 (11), Article 1159. https://doi.org/10.3390/ph14111159",
+        "raw_html": "<li>\n   Vîșan, D.-C., Oprea, E., Rădulescu, V., Voiculescu, I., Biriș, I.-A., Cotar, A. I., Saviuc, C., Chifiriuc, M. C., &amp; Marinăș, I. C. (2021). Original contributions to the chemical composition, microbicidal, virulence-arresting and antibiotic-enhancing activity of essential oils from four coniferous species.\n   <em>\n    Pharmaceuticals\n   </em>\n   ,\n   <em>\n    14\n   </em>\n   (11), Article 1159.\n   <a href=\"https://doi.org/10.3390/ph14111159\">\n<a href=\"https://doi.org/10.3390/ph14111159\">https://doi.org/10.3390/ph14111159</a>\n</a>\n</li>",
+        "a_tags": [
+          {
+            "href": "https://doi.org/10.3390/ph14111159",
+            "text": "https://doi.org/10.3390/ph14111159",
+            "raw_a": "<a href=\"https://doi.org/10.3390/ph14111159\">\n<a href=\"https://doi.org/10.3390/ph14111159\">https://doi.org/10.3390/ph14111159</a>\n</a>"
+          },
+          {
+            "href": "https://doi.org/10.3390/ph14111159",
+            "text": "https://doi.org/10.3390/ph14111159",
+            "raw_a": "<a href=\"https://doi.org/10.3390/ph14111159\">https://doi.org/10.3390/ph14111159</a>"
+          }
+        ],
+        "a_count": 2,
+        "has_nested_a": true,
+        "all_dois": [
+          "10.3390/ph14111159"
+        ],
+        "plain_dois": [],
+        "apa_structured": true,
+        "author_part": "Vîșan, D.-C., Oprea, E., Rădulescu, V., Voiculescu, I., Biriș, I.-A., Cotar, A. I., Saviuc, C., Chifiriuc, M. C., & Marinăș, I. C.",
+        "year_part": "2021",
+        "title_rest": "Original contributions to the chemical composition, microbicidal, virulence-arresting and antibiotic-enhancing activity of essential oils from four coniferous species. Pharmaceuticals , 14 (11), Article 1159. https://doi.org/10.3390/ph14111159"
+      }
+    ]
+  }
+]

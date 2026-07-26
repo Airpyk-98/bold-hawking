@@ -1,0 +1,286 @@
+SUMMARY OF CHAPTERS 1 - 7:
+============================================================
+Chapter File: chapter_01.html
+  Title: 1
+   
+   The importance of Soapberry and Saskatoon berry to the Cayoose Creek Band
+  Reference Headings: [{'tag': 'h2', 'text': 'References', 'class': None}]
+  Total OLs in doc: [{'ol_index': 1, 'li_count': 4, 'parent_tag': 'section', 'prev_sibling': ''}]
+  Total References Count: 4
+  - References with Nested <a> tags: 2
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 3
+    Ref #1: Kuhnlein, H. V., & Turner, N. J. (1991). Traditional plant foods of Canadian indigenous pe...
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #2: Splitrock Environmental. (n.d.). S7ilhen Ul (Real Food) project . https://splitrockenviron...
+      [ISSUES]: NESTED_A_TAGS, NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #3: Turner, N. J. (1997). Food plants of interior First Peoples . UBC Press....
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #4: Turner, N. J., Ignace, M. B., & Ignace, R. (2000). Traditional ecological knowledge and wi...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 3, [DOIs Found]: ['10.1890/1051-0761(2000)010']
+------------------------------------------------------------
+Chapter File: chapter_02.html
+  Title: 2
+   
+   Saskatoon Berry
+  Reference Headings: [{'tag': 'p', 'text': 'References', 'class': None}, {'tag': 'strong', 'text': 'References', 'class': None}]
+  Total OLs in doc: [{'ol_index': 1, 'li_count': 1, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 2, 'li_count': 1, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 3, 'li_count': 1, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 4, 'li_count': 8, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 5, 'li_count': 8, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 6, 'li_count': 8, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 7, 'li_count': 18, 'parent_tag': 'section', 'prev_sibling': ''}]
+  Total References Count: 18
+  - References with Nested <a> tags: 17
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 7
+    Ref #1: Agriculture and Bioresources, University of Saskatchewan. (2025). Saskatoons . https://gar...
+      [ISSUES]: NESTED_A_TAGS, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #2: de Souza, D. R., Willems, J. L., & Low, N. H. (2019). Phenolic composition and antioxidant...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.foodchem.2019.03.077']
+    Ref #3: Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Personal co...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #4: Elsevier. (2025). Amelanchier alnifolia – An overview . ScienceDirect Topics. https://www....
+      [ISSUES]: NESTED_A_TAGS, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #5: Fang, J. (2021). Nutritional composition of saskatoon berries: A review. Botany , 99 (4), ...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1139/cjb-2019-0191']
+    Ref #6: Health Benefits Times. (2021, February 3). Traditional uses and benefits of Saskatoon . ht...
+      [ISSUES]: NESTED_A_TAGS, NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #7: Johnson, M. H., Lucius, A., Meyer, K. A., & Prior, R. L. (2020). Bioactive components and ...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1111/1541-4337.12500']
+    Ref #8: Juríková, T., Balla, S., Sochor, J., Pohanka, M., Mlcek, J., & Baron, M. (2013). Flavonoid...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/molecules181012571']
+    Ref #9: Juríková, T., Mlcek, J., Skrovankova, S., Balla, S., & Sochor, J. (2018). Amelanchier alni...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/nu10111753']
+    Ref #10: Michalczyk, M., & Macura, R. (2010). Effect of processing and storage on the antioxidant a...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1080/10942910903013407']
+    Ref #11: Ozga, J. A., Saeed, A., Wismer, W. V., & Reinecke, D. M. (2018). Flavonoid profile and ant...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1021/acs.jafc.8b01183']
+    Ref #12: Province of Manitoba Agriculture. (2025). Saskatoon berries . https://www.gov.mb.ca/agricu...
+      [ISSUES]: NESTED_A_TAGS, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #13: Splitrock Environmental. (n.d.). Saskatoon (tsáqwem) . Native Plants – Splitrock Environme...
+      [ISSUES]: NESTED_A_TAGS, NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 4, [DOIs Found]: []
+    Ref #14: Vinayagam, R., & Xu, B. (2015). Antidiabetic properties of dietary flavonoids: A cellular ...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1186/s12986-015-0057-7']
+    Ref #15: Wikipedia contributors. (2025, August 10). Amelanchier alnifolia. In Wikipedia, The Free E...
+      [ISSUES]: NESTED_A_TAGS, NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #16: Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2005). Physicochemical properties of fru...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.4141/P04-065']
+    Ref #17: Zatylny, A. M., Ziehl, W. D., & St-Pierre, R. G. (2018). Phytochemical composition and ant...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.foodchem.2017.05.041']
+    Ref #18: Zhao, L., Huang, F., Hui, A. L., & Shen, X. (2020). Bioactive components and health benefi...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1155/2020/3901636']
+------------------------------------------------------------
+Chapter File: chapter_03.html
+  Title: 3
+   
+   Soapberry
+  Reference Headings: []
+  Total OLs in doc: [{'ol_index': 1, 'li_count': 19, 'parent_tag': 'section', 'prev_sibling': ''}]
+  Total References Count: 19
+  - References with Nested <a> tags: 14
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 5
+    Ref #1: Böttger, S., & Melzig, M. F. (2013). The influence of saponins on cell membrane cholestero...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.bmc.2013.09.011']
+    Ref #2: Elbandy, M. (2020). Saponins and their potential role in diabetes mellitus. Advances in Ph...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1155/2020/8817078']
+    Ref #3: Elders and Community members of the Cayoose Creek Band of Sekw'el'was. (n.d.)....
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #4: Francis, G., Kerem, Z., Makkar, H. P. S., & Becker, K. (2002). The biological action of sa...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1079/BJN2002725']
+    Ref #5: Green, R. C., & Low, N. H. (2013). Physicochemical composition of buffaloberry ( Shepherdi...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.4141/cjps2013-087']
+    Ref #6: Hierro, J. N., Herrera, T., Fornari, T., Reglero, G., & Martin, D. (2018). The gastrointes...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.jff.2017.11.032']
+    Ref #7: Hostettmann, K., & Marston, A. (1995). Saponins . Cambridge University Press....
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #8: Huang, H. C., Liao, S. C., Chang, F. R., Kuo, Y. H., & Wu, Y. C. (2003). Molluscicidal sap...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1021/jf0301506']
+    Ref #9: Kane, C. W. (2011). Medicinal plants of the American Southwest. Lincoln Town Press....
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #10: Lacaille-Dubois, M. A., & Wagner, H. (1996). A review of the biological and pharmacologica...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/S0944-7113(96)80081-X']
+    Ref #11: Moerman, D. E. (1998). Native American ethnobotany. Timber Press....
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #12: Oakenfull, D. (1981). Saponins in food—A review. Food Chemistry, 6 (1), 19–40. https://doi...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/0308-8146(81)90068-5']
+    Ref #13: Riedl, K. M., Choski, K., Wyzgoski, F. J., Scheerens, J. C., Schwartz, S. J., & Reese, R. ...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1111/1750-3841.12265']
+    Ref #14: Sharma, A., Bachheti, A., Sharma, P., Bachheti, R. K., & Husen, A. (2020). Phytochemistry,...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/plants9020267']
+    Ref #15: Sparg, S. G., Light, M. E., & van Staden, J. (2004). Biological activities and distributio...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.jep.2004.05.016']
+    Ref #16: Tava, A., & Odoardi, M. (1996). Saponins from Medicago : Chemical characterization and bio...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1007/978-1-4899-1382-9_9']
+    Ref #17: Upadhyay, A., & Singh, D. K. (2011). Pharmacological effects of Sapindus mukorossi . Revis...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1590/S0036-46652011000500004']
+    Ref #18: Vestal, P. A., & Schultes, R. E. (1939). The economic botany of the Kiowa Indians. Botanic...
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #19: Vincken, J. P., Heng, L., de Groot, A., & Gruppen, H. (2007). Saponins, classification and...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.phytochem.2006.10.008']
+------------------------------------------------------------
+Chapter File: chapter_04.html
+  Title: 4
+   
+   Introduction
+  Reference Headings: []
+  Total OLs in doc: []
+  Total References Count: 0
+  - References with Nested <a> tags: 0
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 0
+------------------------------------------------------------
+Chapter File: chapter_05.html
+  Title: 5
+   
+   Arnica Salve/Rub
+  Reference Headings: [{'tag': 'div', 'text': 'Image Source:\n   \n    https://pmc.ncbi.nlm.nih.gov/articles/PMC6943594/\n   \n\n\n   It has also been found that the composition of soil in which\n   \n    Arnica chamissonis\n   \n   is grown can affect the bioactive constituents present in the plant and flowers. Plants grown in soil with a higher water content had a higher flavonoid content and exhibited greater antioxidant activity than samples taken from plants grown in dry soil.\n   \n    [12]\n   \n\n\n   Much of the research that has been done on bioactive component in the\n   \n    Arnica\n   \n   genus has been done on the species\n   \n    Arnica Montana\n   \n   which is primarily found in Europe. There is very limited research available on North American plants in this genus.\n   \n    [16]\n   \n\n\n\n\n     Structure-Activity Relationships\n    \n\n\n\n\n    Why Helenalin’s Structure Makes It So Active:\n    \n     [5], [9], [10], [14], [18]\n    \n\n\n\n\n\n\n\n    Fig 5.4: Chemical structure of helenalin highlighting its reactive functional groups.\n   \n\n\n\n    α-Methylene-γ-Lactone:\xa0Creates highly electrophilic carbon (Michael acceptor) for covalent protein modification\n   \n\n    α,β-Unsaturated Ketone:\xa0Secondary electrophilic site; some helenalin derivatives have two alkylating centers\n   \n\n    Lipophilicity:\xa0Enables skin penetration and cellular membrane crossing\n   \n\n    Rigid Bicyclic Structure:\xa0Positions reactive groups for optimal protein binding\n   \n\n    Small Size:\xa0Molecular weight ~260; can access protein crevices\n   \n\n\n\n    Why Flavonoids Support Activity\n    \n     [4]\n    \n\n\n\n\n    Multiple Hydroxyl Groups:\xa0Antioxidant and anti-inflammatory synergy\n   \n\n    Catechol Groups:\xa0Metal chelation and free radical scavenging\n   \n\n    Vascular Strengthening\n    \n     :\n    \n    Complement helenalin’s anti-inflammatory effects\n   \n\n\n\n\n     Preparation and Safety Considerations\n    \n\n\n\n\n    Traditional Salve Preparation\n    \n     [15]\n    \n\n\n\n\n    Infuse dried arnica flowers in carrier oil (olive, coconut) for 4-6 weeks\n   \n\n    Strain and mix with beeswax to create salve consistency\n   \n\n    Apply to intact skin only\n   \n\n\n\n    Modern Preparations\n    \n     [1], [7], [19]\n    \n\n\n\n\n    Ointments: 15-25% tincture or up to 25% oil\n   \n\n    Gels: Various concentrations\n   \n\n    Creams: Standardized to sesquiterpene lactone content\n   \n\n\n\n\n     Critical Safety Warnings\n     \n      [8]\n     \n\n\n\n\n\n    NEVER take internally\xa0– Causes severe toxicity including:\n    \n\n      Vomiting, diarrhea, gastroenteritis\n     \n\n      Cardiac arrhythmias\n     \n\n      Liver damage\n     \n\n      Muscle weakness, collapse\n     \n\n      Death in severe cases\n     \n\n\n\n    NEVER apply to:\n    \n\n      Open wounds\n     \n\n      Broken skin\n     \n\n      Mucous membranes\n     \n\n      Eyes\n     \n\n\n\n    Discontinue if:\n    \n\n      Skin irritation develops\n     \n\n      Rash or eczema appears\n     \n\n      Blistering occurs\n     \n\n\n\n    Contraindications:\n    \n\n      Allergy to Asteraceae family (ragweed, chrysanthemums, marigolds)\n     \n\n      Pregnancy and breastfeeding (insufficient safety data)\n     \n\n\n\n    Duration:\xa0Do not use for more than 2 weeks continuously\n   \n\n\n\n\n     References\n    \n\n\n\n   1. Alonso, J. (2004).\n   \n    Tratado de fitofármacos y nutracéuticos\n   \n   . Corpus Libros.\n  \n\n   2. Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).\n   \n    Traditional Indigenous uses of Arnica\n   \n   [Traditional knowledge].\n  \n\n   3. Flora of North America Editorial Committee. (2006).\n   \n    Flora of North America North of Mexico\n   \n   (Vol. 21). Oxford University Press.\n  \n\n   4. Ganzera, M., Egger, C., Zidorn, C., & Stuppner, H. (2008). Quantitative analysis of flavonoids and phenolic acids in\n   \n    Arnica montana\n   \n   L. by micellar electrokinetic capillary chromatography.\n   \n    Analytica Chimica Acta\n   \n   ,\n   \n    614\n   \n   (2), 196–200.\n   \n    https://doi.org/10.1016/j.aca.2008.03.009\n   \n\n\n   5. Hall, I. H., Lee, K. H., Starnes, C. O., Sumida, Y., Wu, R. Y., Waddell, T. G., & Cochran, J. W. (1979). Anti-inflammatory activity of sesquiterpene lactones and related compounds.\n   \n    Journal of Pharmaceutical Sciences\n   \n   ,\n   \n    68\n   \n   (5), 537–542.\n   \n    https://doi.org/10.1002/jps.2600680505\n   \n\n\n   6. Iannitti, T., Morales-Medina, J. C., Bellavite, P., Rottigni, V., & Palmieri, B. (2016). Effectiveness and safety of\n   \n    Arnica montana\n   \n   in post-surgical setting, pain and inflammation.\n   \n    American Journal of Therapeutics\n   \n   ,\n   \n    23\n   \n   (1), e184–e197.\n   \n    https://doi.org/10.1097/mjt.0000000000000036\n   \n\n\n   7. Klaas, C. A., Wagner, G., Laufer, S., Sosa, S., Della Loggia, R., Bomme, U., & Merfort, I. (2002). Studies on the anti-inflammatory activity of phytopharmaceuticals prepared from Arnica flowers.\n   \n    Planta Medica\n   \n   ,\n   \n    68\n   \n   (5), 385–391.\n   \n    https://doi.org/10.1055/s-2002-26747\n   \n\n\n   8. Kriplani, P., Guarve, K., & Baghael, U. S. (2017).\n   \n    Arnica montana\n   \n   L.—A plant of healing: Review.\n   \n    Journal of Pharmacy and Pharmacology\n   \n   ,\n   \n    69\n   \n   (8), 925–945.\n   \n    https://doi.org/10.1111/jphp.12735\n   \n\n\n   9. Lyss, G., Schmidt, T. J., Merfort, I., & Pahl, H. L. (1997). Helenalin, an anti-inflammatory sesquiterpene lactone from Arnica, selectively inhibits transcription factor NF-κB.\n   \n    Biological Chemistry\n   \n   ,\n   \n    378\n   \n   (9), 951–961.\n   \n    https://doi.org/10.1515/bchm.1997.378.9.951\n   \n\n\n   10. Merfort, I. (2003). Arnica: New insights on the molecular mode of action of a traditional medicinal plant.\n   \n    Forschende Komplementärmedizin und Klassische Naturheilkunde\n   \n   ,\n   \n    10\n   \n   (Suppl 1), 45–48.\n   \n    https://doi.org/10.1159/000071692\n   \n\n\n   11. Moerman, D. E. (1998).\n   \n    Native American ethnobotany\n   \n   . Timber Press.\n  \n\n   12. Olesinska, K. (2020). Antioxidant properties of Chamisso arnica (\n   \n    Arnica chamissonis\n   \n   Less.).\n   \n    Agronomy Science\n   \n   ,\n   \n    25\n   \n   (2).\n   \n    https://czasopisma.up.lublin.pl/as/article/view/1464\n   \n\n\n   13. Pumpa, K. L., Fallon, K. E., Bensoussan, A., & Papalia, S. (2014). The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise.\n   \n    European Journal of Sport Science\n   \n   ,\n   \n    14\n   \n   (3), 294–300.\n   \n    https://doi.org/10.1080/17461391.2013.829126\n   \n\n\n   14. Schmidt, T. J., Lyß, G., Pahl, H. L., & Merfort, I. (1999). Helenanolide-type sesquiterpene lactones. Part 5: The role of glutathione addition under physiological conditions.\n   \n    Bioorganic & Medicinal Chemistry\n   \n   ,\n   \n    7\n   \n   (10), 2849–2855.\n   \n    https://doi.org/10.1016/s0968-0896(99)00234-5\n   \n\n\n   15. Splitrock Environmental. (n.d.).\n   \n    Arnica Salve\n   \n   . Retrieved November 2, 2024, from\n   https://splitrockenvironmental.ca/products/arnica-salve?variant=33785190383675">\n    https://splitrockenvironmental.ca/products/arnica-salve?variant=33785190383675\n   \n\n\n   16. Sugier, D., Olesinska, K., Sugier, P., & Wojcik, M. (2019). Chemical composition of essential oil from flower heads of\n   \n    Arnica chamissonis\n   \n   Less. under a nitrogen impact.\n   \n    Molecules\n   \n   ,\n   \n    24\n   \n   (24).\n   \n    https://pmc.ncbi.nlm.nih.gov/articles/PMC6943594/\n   \n\n\n   17. United Plant Savers. (2025).\n   \n    Arnica (Arnica spp.)\n   \n   . At-risk medicinal plant list.\n   \n    https://unitedplantsavers.org\n   \n\n\n   18. Wagner, S., Merfort, I., & Schmidt, T. J. (2004). Helenanolide-type sesquiterpene lactones. Part 6: Reaction of helenalin and related helenanolides with sulfhydryl-containing biomolecules.\n   \n    Pharmazie\n   \n   ,\n   \n    59\n   \n   (3), 236–238.\n  \n\n   19. Widrig, R., Suter, A., Saller, R., & Melzer, J. (2007). Choosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study.\n   \n    Rheumatology International\n   \n   ,\n   \n    27\n   \n   (6), 585–591.\n   \n    https://doi.org/10.1007/s00296-007-0304-y\n   \n\n\n   20. Willuhn, G. (1998).\n   \n    Arnica montana\n   \n   L.—Portrait of a medicinal plant.\n   \n    Zeitschrift für Phytotherapie\n   \n   ,\n   \n    19\n   \n   (3), 131–143.', 'class': None}, {'tag': 'p', 'text': 'References', 'class': None}, {'tag': 'strong', 'text': 'References', 'class': None}]
+  Total OLs in doc: [{'ol_index': 1, 'li_count': 5, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 2, 'li_count': 3, 'parent_tag': 'div', 'prev_sibling': ''}, {'ol_index': 3, 'li_count': 19, 'parent_tag': 'div', 'prev_sibling': ''}]
+  Total References Count: 5
+  - References with Nested <a> tags: 0
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 5
+    Ref #1: NEVER take internally – Causes severe toxicity including: Vomiting, diarrhea, gastroenteri...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #2: NEVER apply to: Open wounds Broken skin Mucous membranes Eyes...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #3: Discontinue if: Skin irritation develops Rash or eczema appears Blistering occurs...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #4: Contraindications: Allergy to Asteraceae family (ragweed, chrysanthemums, marigolds) Pregn...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #5: Duration: Do not use for more than 2 weeks continuously...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+------------------------------------------------------------
+Chapter File: chapter_06.html
+  Title: 6
+   
+   Cottonwood Salve
+  Reference Headings: [{'tag': 'p', 'text': 'References', 'class': None}, {'tag': 'strong', 'text': 'References', 'class': None}]
+  Total OLs in doc: [{'ol_index': 1, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 2, 'li_count': 2, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 3, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 4, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 5, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 6, 'li_count': 3, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 7, 'li_count': 9, 'parent_tag': 'section', 'prev_sibling': '<p>\n<span style="color: #339966">\n<strong>\n    References\n   </strong>\n</span>\n</p>'}]
+  Total References Count: 9
+  - References with Nested <a> tags: 8
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 1
+    Ref #1: Akao, T., Yoshino, T., Kobashi, K., & Hattori, M. (2002). Evaluation of salicin as an anti...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1055/s-2002-33794']
+    Ref #2: Boeckler, G. A., Gershenzon, J., & Unsicker, S. B. (2011). Phenolic glycosides of the Sali...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/j.phytochem.2011.04.017']
+    Ref #3: Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Traditional...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #4: Okińczyc, P., Szumny, A., Szperlik, J., Zając, A., Żarowska, B., & Krzyżek, P. (2024). Phy...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/molecules29020437']
+    Ref #5: Pearl, I. A., & Darling, S. F. (1968). Studies on the barks of the family Salicaceae—XVII....
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/S0031-9422(00)84838-4']
+    Ref #6: Pearl, I. A., & Darling, S. F. (1971). The structures of salicortin and tremulacin. Phytoc...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/S0031-9422(00)97369-2']
+    Ref #7: Ristivojević, P., Trifković, J., Andrić, F., & Milojković-Opsenica, D. (2015). Poplar-type...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1177/1934578X1501001117']
+    Ref #8: Scalbert, A. (1991). Antimicrobial properties of tannins. Phytochemistry, 30 (12), 3875–38...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/0031-9422(91)83426-L']
+    Ref #9: Vane, J. R., & Botting, R. M. (2003). The mechanism of action of aspirin. Thrombosis Resea...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1016/S0049-3848(03)00379-7']
+------------------------------------------------------------
+Chapter File: chapter_07.html
+  Title: 7
+   
+   Fir Tip Tea
+  Reference Headings: [{'tag': 'p', 'text': 'References', 'class': None}, {'tag': 'strong', 'text': 'References', 'class': None}]
+  Total OLs in doc: [{'ol_index': 1, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 2, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 3, 'li_count': 1, 'parent_tag': 'section', 'prev_sibling': ''}, {'ol_index': 4, 'li_count': 14, 'parent_tag': 'section', 'prev_sibling': ''}]
+  Total References Count: 14
+  - References with Nested <a> tags: 11
+  - References with Plain Text DOIs (unlinked): 0
+  - References with NO DOIs: 6
+    Ref #1: Andrews, R. E., Parks, L. W., & Spence, K. D. (1980). Some effects of Douglas fir terpenes...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1128/aem.40.2.301-304.1980']
+    Ref #2: Compton, B. D. (1993). Upper North Wakashan and Southern Tsimshian ethnobotany: The knowle...
+      [ISSUES]: NESTED_A_TAGS, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #3: Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.). Traditional...
+      [ISSUES]: NON_STANDARD_APA_FORMAT, MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #4: Jones, B. (2024). Medicinal herbs of Western Canada (1st ed.). Nimbus Publishing....
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #5: Latos-Brozio, M., Masek, A., Chrzescijanska, E., Podsedek, A., & Kajszcak, D. (2021). Char...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/antiox10111723']
+    Ref #6: Mitić, Z. S., Stojanović-Radić, Z., Cvetković, V. J., Jovanović, S. Č., Dimitrijević, M., ...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.1002/cbdv.202100424']
+    Ref #7: Moerman, D. E. (1998). Native American ethnobotany . Timber Press....
+      [ISSUES]: MISSING_DOI
+      [Anchors Count]: 0, [DOIs Found]: []
+    Ref #8: Popescu, D. I., Frum, A., Dobrea, C. M., Cristea, R., Gligor, F. G., Vicas, L. G., Ionete,...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/pharmaceutics16010052']
+    Ref #9: Salehi, B., Upadhyay, S., Orhan, I. E., Jugran, A. K., Jayaweera, S. L. D., Dias, D. A., S...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/biom9110738']
+    Ref #10: Splitrock Environmental. (2025). Interior Douglas fir (srep7ùl) . https://splitrockenviron...
+      [ISSUES]: NESTED_A_TAGS, MISSING_DOI
+      [Anchors Count]: 4, [DOIs Found]: []
+    Ref #11: Swor, K., Roberts, C. L., & Clark, R. J. (2023). Gymnosperms of Idaho: Chemical compositio...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/molecules28062477']
+    Ref #12: Tešević, V., Vajs, V., Todorović, S., Janaćković, P., Milosavljević, S., & Marin, P. D. (2...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.2298/JSC0910035T']
+    Ref #13: USDA NRCS. (2002). Douglas-fir (Pseudotsuga menziesii) plant guide . U.S. Department of Ag...
+      [ISSUES]: NESTED_A_TAGS, MISSING_DOI
+      [Anchors Count]: 2, [DOIs Found]: []
+    Ref #14: Vîșan, D.-C., Oprea, E., Rădulescu, V., Voiculescu, I., Biriș, I.-A., Cotar, A. I., Saviuc...
+      [ISSUES]: NESTED_A_TAGS
+      [Anchors Count]: 2, [DOIs Found]: ['10.3390/ph14111159']
+------------------------------------------------------------

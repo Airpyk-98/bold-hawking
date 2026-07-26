@@ -1,0 +1,1092 @@
+=== SUMMARY OF CHAPTERS 8 - 14 ===
+
+==================================================
+File: chapter_08.html
+Header: None
+Total References Found in HTML: 16
+==================================================
+
+--- Ref #1 ---
+Text: Bocek, B. R. (1984). Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington.Economic Botany,38(2), 240–255.https://doi.org/10.1007/BF02858839
+Raw HTML: <li>Bocek, B. R. (1984). Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington.
+  <em>
+   Economic Botany
+  </em>
+  ,
+  <em>
+   38
+  </em>
+  (2), 240–255.
+  <a href="https://doi.org/10.1007/BF02858839">
+<a href="https://doi.org/10.1007/BF02858839">https://doi.org/10.1007/BF02858839</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1007/BF02858839
+  CrossRef Title for Existing DOI: Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington
+  CrossRef Authors: Barbara R. Bocek
+  CrossRef Year: 1984
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1007/bf02858839
+  Suggested Paper Title: Ethnobotany of Costanoan Indians, California, based on collections by John P. Harrington
+  Suggested Paper Year: 1984
+
+--- Ref #2 ---
+Text: Cayoose Creek Band of Sekw’el’was Elders and Community members. (n.d.).Traditional knowledge.
+Raw HTML: <li>Cayoose Creek Band of Sekw’el’was Elders and Community members. (n.d.).
+  <em>
+   Traditional knowledge
+  </em>
+  .
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #3 ---
+Text: Filipowicz, N., Kamiński, M., Kurlenda, J., Asztemborska, M., & Ochocka, J. R. (2003). Antibacterial and antifungal activity of juniper berry oil and its selected components.Phytotherapy Research,17(3), 227–231.https://doi.org/10.1002/ptr.1110
+Raw HTML: <li>Filipowicz, N., Kamiński, M., Kurlenda, J., Asztemborska, M., &amp; Ochocka, J. R. (2003). Antibacterial and antifungal activity of juniper berry oil and its selected components.
+  <em>
+   Phytotherapy Research
+  </em>
+  ,
+  <em>
+   17
+  </em>
+  (3), 227–231.
+  <a href="https://doi.org/10.1002/ptr.1110">
+<a href="https://doi.org/10.1002/ptr.1110">https://doi.org/10.1002/ptr.1110</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1002/ptr.1110
+  CrossRef Title for Existing DOI: Antibacterial and antifungal activity of juniper berry oil and its selected components
+  CrossRef Authors: Natalia Filipowicz, Marcin Kamiński, Julianna Kurlenda, Monika Asztemborska, J. Renata Ochocka
+  CrossRef Year: 2003
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1002/ptr.1110
+  Suggested Paper Title: Antibacterial and antifungal activity of juniper berry oil and its selected components
+  Suggested Paper Year: 2003
+
+--- Ref #4 ---
+Text: Glišić, S. B., Milojević, S. Ž., Dimitrijević, S. I., Orlović, A. M., & Skala, D. U. (2007). Antimicrobial activity of the essential oil and different fractions ofJuniperus communisL. and a comparison with some commercial antibiotics.Journal of the Serbian Chemical Society,72(4), 311–320.https://doi.org/10.2298/JSC0704311G
+Raw HTML: <li>Glišić, S. B., Milojević, S. Ž., Dimitrijević, S. I., Orlović, A. M., &amp; Skala, D. U. (2007). Antimicrobial activity of the essential oil and different fractions of
+  <em>
+   Juniperus communis
+  </em>
+  L. and a comparison with some commercial antibiotics.
+  <em>
+   Journal of the Serbian Chemical Society
+  </em>
+  ,
+  <em>
+   72
+  </em>
+  (4), 311–320.
+  <a href="https://doi.org/10.2298/JSC0704311G">
+<a href="https://doi.org/10.2298/JSC0704311G">https://doi.org/10.2298/JSC0704311G</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.2298/JSC0704311G
+  CrossRef Title for Existing DOI: Antimicrobial activity of the essential oil and different fractions of Juniperus communis L. and a comparison with some commercial antibiotics
+  CrossRef Authors: Sandra Glisic, Svetomir Milojevic, Suzana Dimitrijevic, Aleksandar Orlovic, Dejan Skala
+  CrossRef Year: 2007
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.2298/jsc0704311g
+  Suggested Paper Title: Antimicrobial activity of the essential oil and different fractions of Juniperus communis L. and a comparison with some commercial antibiotics
+  Suggested Paper Year: 2007
+
+--- Ref #5 ---
+Text: Gonçalves, A. C., Flores-Félix, J. D., Coutinho, P., Alves, G., & Silva, L. R. (2022). Zimbro (Juniperus communisL.) as a promising source of bioactive compounds and biomedical activities: A review on recent trends.International Journal of Molecular Sciences,23(6), 3197.https://doi.org/10.3390/ijms23063197
+Raw HTML: <li>Gonçalves, A. C., Flores-Félix, J. D., Coutinho, P., Alves, G., &amp; Silva, L. R. (2022). Zimbro (
+  <em>
+   Juniperus communis
+  </em>
+  L.) as a promising source of bioactive compounds and biomedical activities: A review on recent trends.
+  <em>
+   International Journal of Molecular Sciences
+  </em>
+  ,
+  <em>
+   23
+  </em>
+  (6), 3197.
+  <a href="https://doi.org/10.3390/ijms23063197">
+<a href="https://doi.org/10.3390/ijms23063197">https://doi.org/10.3390/ijms23063197</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.3390/ijms23063197
+  CrossRef Title for Existing DOI: Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Compounds and Biomedical Activities: A Review on Recent Trends
+  CrossRef Authors: Ana Gonçalves, José Flores-Félix, Paula Coutinho, Gilberto Alves, Luís Silva
+  CrossRef Year: 2022
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.3390/ijms23063197
+  Suggested Paper Title: Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Compounds and Biomedical Activities: A Review on Recent Trends
+  Suggested Paper Year: 2022
+
+--- Ref #6 ---
+Text: Höferl, M., Stoilova, I., Schmidt, E., Wanner, J., Jirovetz, L., Trifonova, D., Krastev, L., & Krastanov, A. (2014). Chemical composition and antioxidant properties of juniper berry (Juniperus communisL.) essential oil: Action of the essential oil on the antioxidant protection ofSaccharomyces cerevisiaemodel organism.Antioxidants,3(1), 81–98.https://doi.org/10.3390/antiox3010081
+Raw HTML: <li>Höferl, M., Stoilova, I., Schmidt, E., Wanner, J., Jirovetz, L., Trifonova, D., Krastev, L., &amp; Krastanov, A. (2014). Chemical composition and antioxidant properties of juniper berry (
+  <em>
+   Juniperus communis
+  </em>
+  L.) essential oil: Action of the essential oil on the antioxidant protection of
+  <em>
+   Saccharomyces cerevisiae
+  </em>
+  model organism.
+  <em>
+   Antioxidants
+  </em>
+  ,
+  <em>
+   3
+  </em>
+  (1), 81–98.
+  <a href="https://doi.org/10.3390/antiox3010081">
+<a href="https://doi.org/10.3390/antiox3010081">https://doi.org/10.3390/antiox3010081</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.3390/antiox3010081
+  CrossRef Title for Existing DOI: Chemical Composition and Antioxidant Properties of  Juniper Berry (Juniperus communis L.) Essential Oil.  Action of the Essential Oil on the Antioxidant Protection of Saccharomyces cerevisiae Model Organism
+  CrossRef Authors: Martina Höferl, Ivanka Stoilova, Erich Schmidt, Jürgen Wanner, Leopold Jirovetz, Dora Trifonova, Lutsian Krastev, Albert Krastanov
+  CrossRef Year: 2014
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.3390/antiox3010081
+  Suggested Paper Title: Chemical Composition and Antioxidant Properties of  Juniper Berry (Juniperus communis L.) Essential Oil.  Action of the Essential Oil on the Antioxidant Protection of Saccharomyces cerevisiae Model Organism
+  Suggested Paper Year: 2014
+
+--- Ref #7 ---
+Text: Jones, B. (2024).Medicinal herbs of Western Canada: A pictorial manual(1st ed.). Nimbus Publishing.
+Raw HTML: <li>Jones, B. (2024).
+  <em>
+   Medicinal herbs of Western Canada: A pictorial manual
+  </em>
+  (1st ed.). Nimbus Publishing.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.21825/af.v10i3-4.17689
+  Suggested Paper Title: Konczacki, Janina M. (ed.), “Victorian Explorer. The African Diaries of Captain William G. Stairs, 1887-1892” Nimbus Publishing, Halifax, Canada, 1994, 319 pp, $19.95
+  Suggested Paper Year: 1994
+
+--- Ref #8 ---
+Text: Mascolo, N., Autore, G., Capasso, F., Menghini, A., & Fasulo, M. P. (1987). Biological screening of Italian medicinal plants for anti-inflammatory activity.Phytotherapy Research,1(1), 28–31.https://doi.org/10.1002/ptr.2650010107
+Raw HTML: <li>Mascolo, N., Autore, G., Capasso, F., Menghini, A., &amp; Fasulo, M. P. (1987). Biological screening of Italian medicinal plants for anti-inflammatory activity.
+  <em>
+   Phytotherapy Research
+  </em>
+  ,
+  <em>
+   1
+  </em>
+  (1), 28–31.
+  <a href="https://doi.org/10.1002/ptr.2650010107">
+<a href="https://doi.org/10.1002/ptr.2650010107">https://doi.org/10.1002/ptr.2650010107</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1002/ptr.2650010107
+  CrossRef Title for Existing DOI: Biological screening of Italian medicinal plants for anti‐inflammatory activity
+  CrossRef Authors: Nicolo Mascolo, Giuseppina Autore, Francesco Capasso, Alessandro Menghini, Maria Palmira Fasulo
+  CrossRef Year: 1987
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1002/ptr.2650010107
+  Suggested Paper Title: Biological screening of Italian medicinal plants for anti‐inflammatory activity
+  Suggested Paper Year: 1987
+
+--- Ref #9 ---
+Text: Miyazawa, M., & Yamafuji, C. (2005). Inhibition of acetylcholinesterase activity by bicyclic monoterpenoids.Journal of Agricultural and Food Chemistry,53(5), 1765–1768.https://doi.org/10.1021/jf040019b
+Raw HTML: <li>Miyazawa, M., &amp; Yamafuji, C. (2005). Inhibition of acetylcholinesterase activity by bicyclic monoterpenoids.
+  <em>
+   Journal of Agricultural and Food Chemistry
+  </em>
+  ,
+  <em>
+   53
+  </em>
+  (5), 1765–1768.
+  <a href="https://doi.org/10.1021/jf040019b">
+<a href="https://doi.org/10.1021/jf040019b">https://doi.org/10.1021/jf040019b</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1021/jf040019b
+  CrossRef Title for Existing DOI: Inhibition of Acetylcholinesterase Activity by Bicyclic Monoterpenoids
+  CrossRef Authors: Mitsuo Miyazawa, Chikako Yamafuji
+  CrossRef Year: 2005
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1021/jf040019b
+  Suggested Paper Title: Inhibition of Acetylcholinesterase Activity by Bicyclic Monoterpenoids
+  Suggested Paper Year: 2005
+
+--- Ref #10 ---
+Text: Moerman, D. E. (1998).Native American ethnobotany. Timber Press.
+Raw HTML: <li>Moerman, D. E. (1998).
+  <em>
+   Native American ethnobotany
+  </em>
+  . Timber Press.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.2307/1224232
+  Suggested Paper Title: Native American Ethnobotany
+  Suggested Paper Year: 1998
+
+--- Ref #11 ---
+Text: Pepeljnjak, S., Kosalec, I., Kalodera, Z., & Blažević, N. (2005). Antimicrobial activity of juniper berry essential oil (Juniperus communisL., Cupressaceae).Acta Pharmaceutica,55(4), 417–422.
+Raw HTML: <li>Pepeljnjak, S., Kosalec, I., Kalodera, Z., &amp; Blažević, N. (2005). Antimicrobial activity of juniper berry essential oil (
+  <em>
+   Juniperus communis
+  </em>
+  L., Cupressaceae).
+  <em>
+   Acta Pharmaceutica
+  </em>
+  ,
+  <em>
+   55
+  </em>
+  (4), 417–422.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.3403/30180606
+  Suggested Paper Title: Oil of juniper berry (Juniperus communis L.)
+  Suggested Paper Year: None
+
+--- Ref #12 ---
+Text: Raina, R., Verma, P. K., Peshin, R., & Kour, H. (2019). Potential ofJuniperus communisL as a nutraceutical in human and veterinary medicine.Heliyon,5(8), e02376.https://doi.org/10.1016/j.heliyon.2019.e02376
+Raw HTML: <li>Raina, R., Verma, P. K., Peshin, R., &amp; Kour, H. (2019). Potential of
+  <em>
+   Juniperus communis
+  </em>
+  L as a nutraceutical in human and veterinary medicine.
+  <em>
+   Heliyon
+  </em>
+  ,
+  <em>
+   5
+  </em>
+  (8), e02376.
+  <a href="https://doi.org/10.1016/j.heliyon.2019.e02376">
+<a href="https://doi.org/10.1016/j.heliyon.2019.e02376">https://doi.org/10.1016/j.heliyon.2019.e02376</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1016/j.heliyon.2019.e02376
+  CrossRef Title for Existing DOI: Potential of Juniperus communis L as a nutraceutical in human and veterinary medicine
+  CrossRef Authors: Rajinder Raina, Pawan K. Verma, Rajinder Peshin, Harpreet Kour
+  CrossRef Year: 2019
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1016/j.heliyon.2019.e02376
+  Suggested Paper Title: Potential of Juniperus communis L as a nutraceutical in human and veterinary medicine
+  Suggested Paper Year: 2019
+
+--- Ref #13 ---
+Text: Sánchez de Medina, F., Gámez, M. J., Jiménez, I., Jiménez, J., Osuna, J. I., & Zarzuelo, A. (1994). Hypoglycemic activity of juniper “berries.”Planta Medica,60(3), 197–200.https://doi.org/10.1055/s-2006-959457
+Raw HTML: <li>Sánchez de Medina, F., Gámez, M. J., Jiménez, I., Jiménez, J., Osuna, J. I., &amp; Zarzuelo, A. (1994). Hypoglycemic activity of juniper “berries.”
+  <em>
+   Planta Medica
+  </em>
+  ,
+  <em>
+   60
+  </em>
+  (3), 197–200.
+  <a href="https://doi.org/10.1055/s-2006-959457">
+<a href="https://doi.org/10.1055/s-2006-959457">https://doi.org/10.1055/s-2006-959457</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1055/s-2006-959457
+  CrossRef Title for Existing DOI: Hypoglycemic Activity of Juniper “Berries”
+  CrossRef Authors: F. de Medina, M. Gámez, I. Jiménez, J. Jiménez, J. Osuna, A. Zarzuelo
+  CrossRef Year: 1994
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1055/s-2006-959457
+  Suggested Paper Title: Hypoglycemic Activity of Juniper “Berries”
+  Suggested Paper Year: 1994
+
+--- Ref #14 ---
+Text: Splitrock Environmental. (n.d.).Common Juniper (tsíktsektaz’). Retrieved November 7, 2024, fromhttps://splitrockenvironmental.ca/products/common-juniper-tsiktsektaz?variant=40347042218150">https://splitrockenvironmental.ca/products/common-juniper-tsiktsektaz?variant=40347042218150
+Raw HTML: <li>Splitrock Environmental. (n.d.).
+  <em>
+   Common Juniper (tsíktsektaz’)
+  </em>
+  . Retrieved November 7, 2024, from
+  <a href="&lt;a href=" https:="" splitrockenvironmental.ca"=""><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/products/common-juniper-tsiktsektaz?variant=40347042218150"&gt;
+   <a href="https://splitrockenvironmental.ca"><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/products/common-juniper-tsiktsektaz?variant=40347042218150
+  
+</li>
+DOI Status: MISSING
+Formatting Issues:
+  - Non-standard href scheme: <a href=
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1079/cabicompendium.29085
+  Suggested Paper Title: Juniperus communis (common juniper)
+  Suggested Paper Year: 2024
+
+--- Ref #15 ---
+Text: Swanston-Flatt, S. K., Day, C., Bailey, C. J., & Flatt, P. R. (1990). Traditional plant treatments for diabetes: Studies in normal and streptozotocin diabetic mice.Diabetologia,33(8), 462–464.https://doi.org/10.1007/BF00405106
+Raw HTML: <li>Swanston-Flatt, S. K., Day, C., Bailey, C. J., &amp; Flatt, P. R. (1990). Traditional plant treatments for diabetes: Studies in normal and streptozotocin diabetic mice.
+  <em>
+   Diabetologia
+  </em>
+  ,
+  <em>
+   33
+  </em>
+  (8), 462–464.
+  <a href="https://doi.org/10.1007/BF00405106">
+<a href="https://doi.org/10.1007/BF00405106">https://doi.org/10.1007/BF00405106</a>
+</a>
+</li>
+DOI Status: OK
+Existing DOI: 10.1007/BF00405106
+  CrossRef Title for Existing DOI: Traditional plant treatments for diabetes. Studies in normal and streptozotocin diabetic mice
+  CrossRef Authors: S. K. Swanston-Flatt, C. Day, C. J. Bailey, P. R. Flatt
+  CrossRef Year: 1990
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1007/bf00405106
+  Suggested Paper Title: Traditional plant treatments for diabetes. Studies in normal and streptozotocin diabetic mice
+  Suggested Paper Year: 1990
+
+--- Ref #16 ---
+Text: Tilford, G. L. (1997).Edible and medicinal plants of the West. Mountain Press Publishing Company.
+Raw HTML: <li>Tilford, G. L. (1997).
+  <em>
+   Edible and medicinal plants of the West
+  </em>
+  . Mountain Press Publishing Company.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.2307/1222475
+  Suggested Paper Title: A Heap of Fine Books from Mountain Press Publishing Company
+  Suggested Paper Year: 1995
+
+==================================================
+File: chapter_09.html
+Header: None
+Total References Found in HTML: 6
+==================================================
+
+--- Ref #1 ---
+Text: Extensive Hydroxyl Groups (Mucilage): Create viscous gel through hydrogen bonding with water; physical protective barrier
+Raw HTML: <li>
+    Extensive Hydroxyl Groups (Mucilage): Create viscous gel through hydrogen bonding with water; physical protective barrier
+   </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1016/b978-0-08-009140-2.50061-0
+  Suggested Paper Title: HYDROGEN BONDS BETWEEN ADSORBED MOLECULES AND THE STRUCTURAL HYDROXYL GROUPS AT THE SURFACE OF SOLIDS
+  Suggested Paper Year: 1959
+
+--- Ref #2 ---
+Text: Cyclopentane-Pyran System (Iridoids): Rigid structure for specific receptor binding; antimicrobial and anti-inflammatory activities
+Raw HTML: <li>
+    Cyclopentane-Pyran System (Iridoids): Rigid structure for specific receptor binding; antimicrobial and anti-inflammatory activities
+   </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.2139/ssrn.5861726
+  Suggested Paper Title: 1 H NMR guided isolation of iridoids from  Triplostegia glandulifera  Wall. and their anti-inflammatory activities
+  Suggested Paper Year: 2025
+
+--- Ref #3 ---
+Text: Catechol Groups (Verbascoside): Powerful electron donors for antioxidant activity; enzyme inhibition
+Raw HTML: <li>
+    Catechol Groups (Verbascoside): Powerful electron donors for antioxidant activity; enzyme inhibition
+   </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.7717/peerj.18546/fig-2
+  Suggested Paper Title: Figure 2: Antioxidant enzyme activity of licorice in different treatment groups.
+  Suggested Paper Year: None
+
+--- Ref #4 ---
+Text: Amphipathic Saponins: Enable membrane disruption for antimicrobial effects; reduce surface tension for expectorant action
+Raw HTML: <li>
+    Amphipathic Saponins: Enable membrane disruption for antimicrobial effects; reduce surface tension for expectorant action
+   </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1021/ci049686v.s002
+  Suggested Paper Title: Prediction of Membrane Protein Types by Incorporating Amphipathic Effects
+  Suggested Paper Year: None
+
+--- Ref #5 ---
+Text: Glycosylation: Enhances water solubility and bioavailability; modulates biological activity
+Raw HTML: <li>
+    Glycosylation: Enhances water solubility and bioavailability; modulates biological activity
+   </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1021/acs.molpharmaceut.4c01508.s001
+  Suggested Paper Title: Sweetening the Deal: Sweetener-Based Ionic Liquid of Albendazole Significantly Enhances Its Solubility and Oral Bioavailability
+  Suggested Paper Year: None
+
+--- Ref #6 ---
+Text: Ester Linkages (Verbascoside): Provides metabolic lability; releases active components after hydrolysis
+Raw HTML: <li>
+    Ester Linkages (Verbascoside): Provides metabolic lability; releases active components after hydrolysis
+   </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1016/b978-0-12-257602-7.50015-9
+  Suggested Paper Title: THE METABOLIC HYDROLYSIS OF HEXOSAMINIDE LINKAGES
+  Suggested Paper Year: 1970
+
+==================================================
+File: chapter_10.html
+Header: None
+Total References Found in HTML: 6
+==================================================
+
+--- Ref #1 ---
+Text: Deane, G. (n.d.).Rose hips. Eat The Weeds.https://www.eattheweeds.com/rose-hips/
+Raw HTML: <li>Deane, G. (n.d.).
+   <em>
+    Rose hips
+   </em>
+   . Eat The Weeds. <a href="https://www.eattheweeds.com/rose-hips/"><a href="https://www.eattheweeds.com/rose-hips/">https://www.eattheweeds.com/rose-hips/</a></a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.1016/s0140-6736(45)91770-3
+  Suggested Paper Title: ROSE HIPS
+  Suggested Paper Year: 1945
+
+--- Ref #2 ---
+Text: Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).Traditional knowledge and uses of plants.
+Raw HTML: <li>Elders and Community members of the Cayoose Creek Band of Sekw’el’was. (n.d.).
+   <em>
+    Traditional knowledge and uses of plants
+   </em>
+   .
+  </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.56042/ijtk.v25i4.22880
+  Suggested Paper Title: Indigenous knowledge of Mangar Community on medicinal uses of ethnomedicinal plants in South Sikkim, Eastern Himalaya
+  Suggested Paper Year: 2026
+
+--- Ref #3 ---
+Text: Joseph, L. (n.d.).Recipe: Rosehip, nettle and mint tea for boosting immunity. Skwálwen.https://skwalwen.com/blogs/news/recipe-rosehip-nettle-and-mint-tea-for-boosting-immunity
+Raw HTML: <li>Joseph, L. (n.d.).
+   <em>
+    Recipe: Rosehip, nettle and mint tea for boosting immunity
+   </em>
+   . Skwálwen. <a href="https://skwalwen.com/blogs/news/recipe-rosehip-nettle-and-mint-tea-for-boosting-immunity"><a href="https://skwalwen.com/blogs/news/recipe-rosehip-nettle-and-mint-tea-for-boosting-immunity">https://skwalwen.com/blogs/news/recipe-rosehip-nettle-and-mint-tea-for-boosting-immunity</a></a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+Suggested Correct DOI (from CrossRef Search): https://doi.org/10.2307/j.ctv2057qq4.22
+  Suggested Paper Title: YOUR OWN MINT JULEP RECIPE
+  Suggested Paper Year: 2021
+
+--- Ref #4 ---
+Text: Mármol, I., Sánchez-de-Diego, C., Jiménez-Moreno, N., Ancín-Azpilicueta, C., & Rodríguez-Yoldi, M. J. (2017). Therapeutic applications of rose hips from differentRosaspecies.International Journal of Molecular Sciences,18(6), 1137.https://doi.org/10.3390/ijms18061137
+Raw HTML: <li>Mármol, I., Sánchez-de-Diego, C., Jiménez-Moreno, N., Ancín-Azpilicueta, C., &amp; Rodríguez-Yoldi, M. J. (2017). Therapeutic applications of rose hips from different
+   <em>
+    Rosa
+   </em>
+   species.
+   <em>
+    International Journal of Molecular Sciences
+   </em>
+   ,
+   <em>
+    18
+   </em>
+   (6), 1137. <a href="https://doi.org/10.3390/ijms18061137"><a href="https://doi.org/10.3390/ijms18061137">https://doi.org/10.3390/ijms18061137</a></a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.3390/ijms18061137
+  CrossRef Validation Failed: <urlopen error timed out>
+DOI Issues:
+  - DOI 10.3390/ijms18061137 returned HTTP <urlopen error timed out> from CrossRef API
+
+--- Ref #5 ---
+Text: Splitrock Environmental. (n.d.).Prairie rose (qel’q).https://splitrockenvironmental.ca/products/prairie-rose-qel-q?variant=40368083304614
+Raw HTML: <li>Splitrock Environmental. (n.d.).
+   <em>
+    Prairie rose (qel’q)
+   </em>
+   . <a href="https://splitrockenvironmental.ca"><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/products/prairie-rose-qel-q?variant=40368083304614
+  </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #6 ---
+Text: Winther, K., Vinther Hansen, A. S., & Campbell-Tofte, J. (2015). Bioactive ingredients of rose hips (Rosa caninaL) with special reference to antioxidative and anti-inflammatory properties: In vitro studies.Botanics: Targets and Therapy,5, 11–23.https://doi.org/10.2147/BTAT.S91385
+Raw HTML: <li>Winther, K., Vinther Hansen, A. S., &amp; Campbell-Tofte, J. (2015). Bioactive ingredients of rose hips (
+   <em>
+    Rosa canina
+   </em>
+   L) with special reference to antioxidative and anti-inflammatory properties: In vitro studies.
+   <em>
+    Botanics: Targets and Therapy
+   </em>
+   ,
+   <em>
+    5
+   </em>
+   , 11–23. <a href="https://doi.org/10.2147/BTAT.S91385"><a href="https://doi.org/10.2147/BTAT.S91385">https://doi.org/10.2147/BTAT.S91385</a></a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.2147/BTAT.S91385
+  CrossRef Validation Failed: <urlopen error timed out>
+DOI Issues:
+  - DOI 10.2147/BTAT.S91385 returned HTTP <urlopen error timed out> from CrossRef API
+
+==================================================
+File: chapter_11.html
+Header: None
+Total References Found in HTML: 6
+==================================================
+
+--- Ref #1 ---
+Text: Bicyclic Monoterpene Structure: Enables membrane penetration, volatility for inhalation delivery, receptor binding for neurological effects[12]
+Raw HTML: <li>
+   Bicyclic Monoterpene Structure: Enables membrane penetration, volatility for inhalation delivery, receptor binding for neurological effects
+   <sup>
+    [12]
+   </sup>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #2 ---
+Text: Catechol Groups (Carnosic Acid, Rosmarinic Acid): Powerful electron donors for antioxidant activity, metal chelation capability[9, 17]
+Raw HTML: <li>
+   Catechol Groups (Carnosic Acid, Rosmarinic Acid): Powerful electron donors for antioxidant activity, metal chelation capability
+   <sup>
+    [9, 17]
+   </sup>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #3 ---
+Text: Multiple Phenolic Hydroxyl Groups: Free radical scavenging, enzyme inhibition, antimicrobial protein precipitation[17, 18]
+Raw HTML: <li>
+   Multiple Phenolic Hydroxyl Groups: Free radical scavenging, enzyme inhibition, antimicrobial protein precipitation
+   <sup>
+    [17, 18]
+   </sup>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #4 ---
+Text: Lipophilic Diterpene Backbone: Cell membrane permeability, accumulation in lipid-rich tissues (brain, cell membranes)[19]
+Raw HTML: <li>
+   Lipophilic Diterpene Backbone: Cell membrane permeability, accumulation in lipid-rich tissues (brain, cell membranes)
+   <sup>
+    [19]
+   </sup>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #5 ---
+Text: Carboxylic Acid Groups: Water solubility, ion channel modulation, enzyme active site interactions[10]
+Raw HTML: <li>
+   Carboxylic Acid Groups: Water solubility, ion channel modulation, enzyme active site interactions
+   <sup>
+    [10]
+   </sup>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #6 ---
+Text: Volatile Nature of Monoterpenes: Enables respiratory delivery through smoke or steam, rapid absorption through mucous membranes[21, 23]
+Raw HTML: <li>
+   Volatile Nature of Monoterpenes: Enables respiratory delivery through smoke or steam, rapid absorption through mucous membranes
+   <sup>
+    [21, 23]
+   </sup>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+==================================================
+File: chapter_12.html
+Header: None
+Total References Found in HTML: 11
+==================================================
+
+--- Ref #1 ---
+Text: Brunning, A. (2015).The chemistry of stinging nettles. Compound Interest.https://www.compoundchem.com/2015/06/04/nettles/
+Raw HTML: <li>Brunning, A. (2015).
+  <em>
+   The chemistry of stinging nettles
+  </em>
+  . Compound Interest.
+  <a href="https://www.compoundchem.com/2015/06/04/nettles/">
+<a href="https://www.compoundchem.com/2015/06/04/nettles/">https://www.compoundchem.com/2015/06/04/nettles/</a>
+</a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #2 ---
+Text: Chrubasik, J. E., Roufogalis, B. D., Wagner, H., & Chrubasik, S. (2007). A comprehensive review on the stinging nettle effect and efficacy profiles. Part II:Urticae radix.Phytomedicine, 14(7–8), 568–579.https://doi.org/10.1016/j.phymed.2007.03.014
+Raw HTML: <li>Chrubasik, J. E., Roufogalis, B. D., Wagner, H., &amp; Chrubasik, S. (2007). A comprehensive review on the stinging nettle effect and efficacy profiles. Part II:
+  <em>
+   Urticae radix
+  </em>
+  .
+  <em>
+   Phytomedicine, 14
+  </em>
+  (7–8), 568–579.
+  <a href="https://doi.org/10.1016/j.phymed.2007.03.014">
+<a href="https://doi.org/10.1016/j.phymed.2007.03.014">https://doi.org/10.1016/j.phymed.2007.03.014</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1016/j.phymed.2007.03.014
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1016/j.phymed.2007.03.014 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #3 ---
+Text: Durovic, S., Kojic, I., Radic, D., Smyatskaya, Y. A., Bazarnova, J. G., Filip, S., & Tosti, T. (2024). Chemical constituent of stinging nettle (Urtica dioicaL.): A comprehensive review on phenolic and polyphenolic compounds and their bioactivity.International Journal of Molecular Sciences, 25(6), 3430.https://doi.org/10.3390/ijms25063430
+Raw HTML: <li>Durovic, S., Kojic, I., Radic, D., Smyatskaya, Y. A., Bazarnova, J. G., Filip, S., &amp; Tosti, T. (2024). Chemical constituent of stinging nettle (
+  <em>
+   Urtica dioica
+  </em>
+  L.): A comprehensive review on phenolic and polyphenolic compounds and their bioactivity.
+  <em>
+   International Journal of Molecular Sciences, 25
+  </em>
+  (6), 3430.
+  <a href="https://doi.org/10.3390/ijms25063430">
+<a href="https://doi.org/10.3390/ijms25063430">https://doi.org/10.3390/ijms25063430</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.3390/ijms25063430
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.3390/ijms25063430 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #4 ---
+Text: Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.).
+Raw HTML: <li>Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.).
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #5 ---
+Text: Gülçin, İ., Küfrevioğlu, Ö. İ., Oktay, M., & Büyükokuroğlu, M. E. (2004). Antioxidant, antimicrobial, antiulcer and analgesic activities of nettle (Urtica dioica).Journal of Ethnopharmacology, 90(2–3), 205–215.https://doi.org/10.1016/j.jep.2003.09.028
+Raw HTML: <li>Gülçin, İ., Küfrevioğlu, Ö. İ., Oktay, M., &amp; Büyükokuroğlu, M. E. (2004). Antioxidant, antimicrobial, antiulcer and analgesic activities of nettle (
+  <em>
+   Urtica dioica
+  </em>
+  ).
+  <em>
+   Journal of Ethnopharmacology, 90
+  </em>
+  (2–3), 205–215.
+  <a href="https://doi.org/10.1016/j.jep.2003.09.028">
+<a href="https://doi.org/10.1016/j.jep.2003.09.028">https://doi.org/10.1016/j.jep.2003.09.028</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1016/j.jep.2003.09.028
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1016/j.jep.2003.09.028 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #6 ---
+Text: Hamel, P. B., & Chiltoskey, M. U. (1975).Cherokee plants and their uses: A 400 year history. Herald Publishing Co.
+Raw HTML: <li>Hamel, P. B., &amp; Chiltoskey, M. U. (1975).
+  <em>
+   Cherokee plants and their uses: A 400 year history
+  </em>
+  . Herald Publishing Co.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #7 ---
+Text: Jones, B. (2024).Medicinal herbs of Western Canada(1st ed.). Nimbus Publishing.
+Raw HTML: <li>Jones, B. (2024).
+  <em>
+   Medicinal herbs of Western Canada
+  </em>
+  (1st ed.). Nimbus Publishing.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #8 ---
+Text: Konrad, L., Müller, H. H., Lenz, C., Laubinger, H., Aumüller, G., & Lichius, J. J. (2000). Antiproliferative effect on human prostate cancer cells by a stinging nettle root (Urtica dioica) extract.Planta Medica, 66(1), 44–47.https://doi.org/10.1055/s-2000-11120
+Raw HTML: <li>Konrad, L., Müller, H. H., Lenz, C., Laubinger, H., Aumüller, G., &amp; Lichius, J. J. (2000). Antiproliferative effect on human prostate cancer cells by a stinging nettle root (
+  <em>
+   Urtica dioica
+  </em>
+  ) extract.
+  <em>
+   Planta Medica, 66
+  </em>
+  (1), 44–47.
+  <a href="https://doi.org/10.1055/s-2000-11120">
+<a href="https://doi.org/10.1055/s-2000-11120">https://doi.org/10.1055/s-2000-11120</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1055/s-2000-11120
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1055/s-2000-11120 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #9 ---
+Text: Kregiel, D., Pawlikowska, E., & Antolak, H. (2018).Urticaspp.: Ordinary plants with extraordinary properties.Molecules, 23(7), 1664.https://doi.org/10.3390/molecules23071664
+Raw HTML: <li>Kregiel, D., Pawlikowska, E., &amp; Antolak, H. (2018).
+  <em>
+   Urtica
+  </em>
+  spp.: Ordinary plants with extraordinary properties.
+  <em>
+   Molecules, 23
+  </em>
+  (7), 1664.
+  <a href="https://doi.org/10.3390/molecules23071664">
+<a href="https://doi.org/10.3390/molecules23071664">https://doi.org/10.3390/molecules23071664</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.3390/molecules23071664
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.3390/molecules23071664 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #10 ---
+Text: Mittman, P. (1990). Randomized, double-blind study of freeze-driedUrtica dioicain the treatment of allergic rhinitis.Planta Medica, 56(1), 44–47.https://doi.org/10.1055/s-2006-960881
+Raw HTML: <li>Mittman, P. (1990). Randomized, double-blind study of freeze-dried
+  <em>
+   Urtica dioica
+  </em>
+  in the treatment of allergic rhinitis.
+  <em>
+   Planta Medica, 56
+  </em>
+  (1), 44–47.
+  <a href="https://doi.org/10.1055/s-2006-960881">
+<a href="https://doi.org/10.1055/s-2006-960881">https://doi.org/10.1055/s-2006-960881</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1055/s-2006-960881
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1055/s-2006-960881 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #11 ---
+Text: Splitrock Environmental. (n.d.).Stinging nettle salve.https://splitrockenvironmental.ca/products/stinging-nettle-salve?variant=33785190744123">https://splitrockenvironmental.ca/products/stinging-nettle-salve?variant=33785190744123
+Raw HTML: <li>Splitrock Environmental. (n.d.).
+  <em>
+   Stinging nettle salve
+  </em>
+  .
+  <a href="&lt;a href=" https:="" splitrockenvironmental.ca"=""><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/products/stinging-nettle-salve?variant=33785190744123"&gt;
+   <a href="https://splitrockenvironmental.ca"><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/products/stinging-nettle-salve?variant=33785190744123
+  
+</li>
+DOI Status: MISSING
+Formatting Issues:
+  - Non-standard href scheme: <a href=
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+==================================================
+File: chapter_13.html
+Header: None
+Total References Found in HTML: 6
+==================================================
+
+--- Ref #1 ---
+Text: Abdulladjanova, N. G., Mavlonov, G. T., Mamadrahimov, A. A., Rakhimov, R. N., Ning, H., Wali, A., Yili, A., & Abdulla, R. (n.d.).Phenolic compounds of Rhus glabra.https://www.jrespharm.com/uploads/pdf/pdf_MPJ_1485.pdf
+Raw HTML: <li>Abdulladjanova, N. G., Mavlonov, G. T., Mamadrahimov, A. A., Rakhimov, R. N., Ning, H., Wali, A., Yili, A., &amp; Abdulla, R. (n.d.).
+   <em>
+    Phenolic compounds of Rhus glabra
+   </em>
+   .
+   <a href="https://www.jrespharm.com/uploads/pdf/pdf_MPJ_1485.pdf">
+<a href="https://www.jrespharm.com/uploads/pdf/pdf_MPJ_1485.pdf">https://www.jrespharm.com/uploads/pdf/pdf_MPJ_1485.pdf</a>
+</a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #2 ---
+Text: Lord, A. (2019, July 2).Beware poison sumac (Rhus vernix). UNH Extension.https://extension.unh.edu/blog/2019/07/beware-poison-sumac-rhus-vernix
+Raw HTML: <li>Lord, A. (2019, July 2).
+   <em>
+    Beware poison sumac (Rhus vernix)
+   </em>
+   . UNH Extension.
+   <a href="https://extension.unh.edu/blog/2019/07/beware-poison-sumac-rhus-vernix">
+<a href="https://extension.unh.edu/blog/2019/07/beware-poison-sumac-rhus-vernix">https://extension.unh.edu/blog/2019/07/beware-poison-sumac-rhus-vernix</a>
+</a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #3 ---
+Text: National Center for Biotechnology Information. (2025).PubChem compound summary for CID 1183, vanillin.https://pubchem.ncbi.nlm.nih.gov/compound/Vanillin
+Raw HTML: <li>National Center for Biotechnology Information. (2025).
+   <em>
+    PubChem compound summary for CID 1183, vanillin
+   </em>
+   .
+   <a href="https://pubchem.ncbi.nlm.nih.gov/compound/Vanillin">
+<a href="https://pubchem.ncbi.nlm.nih.gov/compound/Vanillin">https://pubchem.ncbi.nlm.nih.gov/compound/Vanillin</a>
+</a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #4 ---
+Text: Opiyo, S. A., Njoroge, P. W., Ndirangu, E. G., & Kuria, K. M. (2021). A review of biological activities and phytochemistry of Rhus species.American Journal of Chemistry,11(2).https://doi.org/10.5923/j.chemistry.20211102.02
+Raw HTML: <li>Opiyo, S. A., Njoroge, P. W., Ndirangu, E. G., &amp; Kuria, K. M. (2021). A review of biological activities and phytochemistry of Rhus species.
+   <em>
+    American Journal of Chemistry
+   </em>
+   ,
+   <em>
+    11
+   </em>
+   (2).
+   <a href="https://doi.org/10.5923/j.chemistry.20211102.02">
+<a href="https://doi.org/10.5923/j.chemistry.20211102.02">https://doi.org/10.5923/j.chemistry.20211102.02</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.5923/j.chemistry.20211102.02
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.5923/j.chemistry.20211102.02 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #5 ---
+Text: Splitrock Environmental. (2025).Smooth sumac (nekw’tsamúm’l).https://splitrockenvironmental.ca/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518">https://splitrockenvironmental.ca/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518
+Raw HTML: <li>Splitrock Environmental. (2025).
+   <em>
+    Smooth sumac (nekw’tsamúm’l)
+   </em>
+   .
+   <a href="&lt;a href=" https:="" splitrockenvironmental.ca"=""><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518"&gt;
+    <a href="https://splitrockenvironmental.ca"><a href="https://splitrockenvironmental.ca">https://splitrockenvironmental.ca</a></a>/collections/plants/products/smooth-sumac-nekw-tsamum-l?variant=40347085668518
+   
+</li>
+DOI Status: MISSING
+Formatting Issues:
+  - Non-standard href scheme: <a href=
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #6 ---
+Text: United States Department of Agriculture Natural Resources Conservation Service. (2004).Plant guide for smooth sumac (Rhus glabra L.).https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_rhgl.pdf
+Raw HTML: <li>United States Department of Agriculture Natural Resources Conservation Service. (2004).
+   <em>
+    Plant guide for smooth sumac (Rhus glabra L.)
+   </em>
+   .
+   <a href="https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_rhgl.pdf">
+<a href="https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_rhgl.pdf">https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_rhgl.pdf</a>
+</a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+==================================================
+File: chapter_14.html
+Header: None
+Total References Found in HTML: 9
+==================================================
+
+--- Ref #1 ---
+Text: Ali, S. I., Gopalakrishnan, B., & Venkatesalu, V. (2017). Pharmacognosy, phytochemistry and pharmacological properties ofAchillea millefolium: A review.Phytotherapy Research, 31(8), 1140–1161.https://doi.org/10.1002/ptr.5840
+Raw HTML: <li>Ali, S. I., Gopalakrishnan, B., &amp; Venkatesalu, V. (2017). Pharmacognosy, phytochemistry and pharmacological properties of
+  <em>
+   Achillea millefolium
+  </em>
+  : A review.
+  <em>
+   Phytotherapy Research, 31
+  </em>
+  (8), 1140–1161.
+  <a href="https://doi.org/10.1002/ptr.5840">
+<a href="https://doi.org/10.1002/ptr.5840">https://doi.org/10.1002/ptr.5840</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1002/ptr.5840
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1002/ptr.5840 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #2 ---
+Text: Applequist, W. L., & Moerman, D. E. (2011). Yarrow (Achillea millefolium): A neglected panacea? A review of ethnobotany, bioactivity, and biomedical research.Economic Botany, 65(2), 209–225.https://doi.org/10.1007/s12231-011-9154-3
+Raw HTML: <li>Applequist, W. L., &amp; Moerman, D. E. (2011). Yarrow (
+  <em>
+   Achillea millefolium
+  </em>
+  ): A neglected panacea? A review of ethnobotany, bioactivity, and biomedical research.
+  <em>
+   Economic Botany, 65
+  </em>
+  (2), 209–225.
+  <a href="https://doi.org/10.1007/s12231-011-9154-3">
+<a href="https://doi.org/10.1007/s12231-011-9154-3">https://doi.org/10.1007/s12231-011-9154-3</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1007/s12231-011-9154-3
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1007/s12231-011-9154-3 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #3 ---
+Text: Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.). [Traditional knowledge and personal communications].
+Raw HTML: <li>Elders and Community Members of the Cayoose Creek Band of Sekw’el’was. (n.d.). [Traditional knowledge and personal communications].
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #4 ---
+Text: European Medicines Agency. (2019).European Union herbal monograph on Achillea millefolium, herba(Revision 1) [Draft]. Committee on Herbal Medicinal Products.
+Raw HTML: <li>European Medicines Agency. (2019).
+  <em>
+   European Union herbal monograph on Achillea millefolium, herba
+  </em>
+  (Revision 1) [Draft]. Committee on Herbal Medicinal Products.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #5 ---
+Text: Jones, R. (2024).Medicinal herbs of Western Canada(1st ed.). Nimbus Publishing.
+Raw HTML: <li>Jones, R. (2024).
+  <em>
+   Medicinal herbs of Western Canada
+  </em>
+  (1st ed.). Nimbus Publishing.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #6 ---
+Text: Kazemi, M. (2015). Chemical composition and antimicrobial, antioxidant activities and anti-inflammatory potential ofAchillea millefolium,Anethum graveolensL., andCarum copticumL. essential oils.Journal of Herbal Medicine, 5(4), 217–222.https://doi.org/10.1016/j.hermed.2015.09.001
+Raw HTML: <li>Kazemi, M. (2015). Chemical composition and antimicrobial, antioxidant activities and anti-inflammatory potential of
+  <em>
+   Achillea millefolium
+  </em>
+  ,
+  <em>
+   Anethum graveolens
+  </em>
+  L., and
+  <em>
+   Carum copticum
+  </em>
+  L. essential oils.
+  <em>
+   Journal of Herbal Medicine, 5
+  </em>
+  (4), 217–222.
+  <a href="https://doi.org/10.1016/j.hermed.2015.09.001">
+<a href="https://doi.org/10.1016/j.hermed.2015.09.001">https://doi.org/10.1016/j.hermed.2015.09.001</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1016/j.hermed.2015.09.001
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1016/j.hermed.2015.09.001 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
+--- Ref #7 ---
+Text: Moerman, D. E. (1998).Native American ethnobotany. Timber Press.
+Raw HTML: <li>Moerman, D. E. (1998).
+  <em>
+   Native American ethnobotany
+  </em>
+  . Timber Press.
+ </li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #8 ---
+Text: Saeidnia, S., Gohari, A. R., Mokhber-Dezfuli, N., & Kiuchi, F. (2011). A review on phytochemistry and medicinal properties of the genusAchillea.DARU Journal of Pharmaceutical Sciences, 19(3), 173–186.https://pmc.ncbi.nlm.nih.gov/articles/PMC3232110/
+Raw HTML: <li>Saeidnia, S., Gohari, A. R., Mokhber-Dezfuli, N., &amp; Kiuchi, F. (2011). A review on phytochemistry and medicinal properties of the genus
+  <em>
+   Achillea
+  </em>
+  .
+  <em>
+   DARU Journal of Pharmaceutical Sciences, 19
+  </em>
+  (3), 173–186.
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3232110/">
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3232110/">https://pmc.ncbi.nlm.nih.gov/articles/PMC3232110/</a>
+</a>
+</li>
+DOI Status: MISSING
+DOI Issues:
+  - No DOI found in anchor tags or text.
+
+--- Ref #9 ---
+Text: Yaeesh, S., Jamal, Q., Khan, A.-U., & Gilani, A. H. (2006). Studies on hepatoprotective, antispasmodic and calcium antagonist activities of the aqueous–methanol extract ofAchillea millefolium.Phytotherapy Research, 20(7), 546–551.https://doi.org/10.1002/ptr.1897
+Raw HTML: <li>Yaeesh, S., Jamal, Q., Khan, A.-U., &amp; Gilani, A. H. (2006). Studies on hepatoprotective, antispasmodic and calcium antagonist activities of the aqueous–methanol extract of
+  <em>
+   Achillea millefolium
+  </em>
+  .
+  <em>
+   Phytotherapy Research, 20
+  </em>
+  (7), 546–551.
+  <a href="https://doi.org/10.1002/ptr.1897">
+<a href="https://doi.org/10.1002/ptr.1897">https://doi.org/10.1002/ptr.1897</a>
+</a>
+</li>
+DOI Status: BROKEN_HTTP
+Existing DOI: 10.1002/ptr.1897
+  CrossRef Validation Failed: <urlopen error [Errno 11001] getaddrinfo failed>
+DOI Issues:
+  - DOI 10.1002/ptr.1897 returned HTTP <urlopen error [Errno 11001] getaddrinfo failed> from CrossRef API
+
